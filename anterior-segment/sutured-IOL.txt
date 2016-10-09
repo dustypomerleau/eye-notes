@@ -30,9 +30,10 @@ frownie incision @ 12
       external 6 mm
       internal 7.5 mm
   stay intracorneal for now
-0300 & 0900 suture holes
-  4 total
-  2 mm back
+create suture holes
+  2 x 0300
+  2 x 0900
+  2 mm from the limbus
   enter parallel to iris plane
   use 15˚ blade
     internal os is much smaller than an MVR incision
