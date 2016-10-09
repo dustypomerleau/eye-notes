@@ -1,0 +1,65 @@
+optic nerve and RNFL imaging
+  HRT
+    SLO
+    surface map
+    estimates NFL thickness based on chosen floor
+    tracks progression
+  GDX
+    SLP
+    measures phase shift of light by NFL
+    good relative measurements
+    poor at absolute measurement
+    good progression tracking
+    picks up small NFL defects
+    susceptible to artifact
+  OCT
+    most accurate absolute NFL measurement
+    best normative database
+      for whites
+    better progression now because of SDOCT tracking via SLO
+
+perimetry
+  SWAP
+    BoY
+    tests dedicated ganglion cells for short wavelengths
+    their receptive fields are large and don't overlap
+    short wavelength VF defects can appear after losing a small number of axons
+    makes SWAP sensitive for early glaucoma
+    ALWAYS: mention SWAP in questions about glaucoma risk with a normal HVF
+  FDT
+    preferentially activates M cells
+    good at catching early glaucoma
+    terrible for following progression
+  HVF
+    check reliability
+      FL
+      FP
+      FN
+    mean difference map measures average sensitivity loss
+    PSD highlights localised loss
+      very complex formula but the concept is not complex
+        BROADLY: involves the SD of the set of numbers resulting from
+        (threshold at each point - value in age-matched controls)
+    hemifield analysis points out discrepancies above and below the midline
+      common in glaucoma
+    total deviation map
+      compares the threshold at each point to age-matched normals
+    pattern deviation probability map
+      (threshold at each point - average threshold for all points) -
+        (same calc at that point for age-matched controls)
+      helps compensate for generalised depression
+        e.g. cataract
+    GHT
+      good for initial diagnosis of glaucoma
+      primarily compares points above and below the midline
+      tuned for glaucomatous patterns
+    GCP
+      probability of progression for a given point
+      based on a comparison of pattern deviation probability maps
+    signs of glaucoma on a HVF
+      pattern deviation probability plot
+        cluster of 3+ depressed points
+        at least one of the depressed points has a P 1-%
+      abnormal GHT
+      PSD with P 5-%
+        *repeatable* on consecutive tests

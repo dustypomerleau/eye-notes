@@ -1,0 +1,92 @@
+4 IVN 2 DC GETN
+
+  Infectious
+    viral
+    bacterial
+    fungal
+    protozoa
+    helminths
+    larvae
+    prions
+
+  Inflammatory
+    inflammatory
+    autoimmune
+    vasculitis
+    allergic
+
+  Idiopathic
+
+  Iatrogenic
+    iatrogenic
+    surgical
+
+  Vascular
+    vascular
+    vasoocclusive
+    aneurysmal
+    haemorrhagic
+    hypercoagulable
+
+  Neoplastic
+    benign & malignant
+      solid tumours
+      vascular tumours
+      lymphoproliferative
+      haematologic
+      metastatic
+      paraneoplastic
+
+  DAMS
+    Drugs
+    Alcohol
+    Medications
+    Supplements & diet
+
+  Degeneration
+    degeneration
+    dysfunction
+    (degenerative dystrophy)
+
+  Congenital
+    congenital
+    developmental
+
+  Genetic
+    genetic
+    inherited
+    (genetic dystrophy)
+    (genetic storage & deposition)
+
+  Endocrine
+    endocrine
+    metabolic
+    nutritional
+    (non-genetic storage & deposition)
+
+  Trauma
+
+  Neurologic (not otherwise mentioned above)
+
+
+//
+
+
+keywords: COMMON, ALSO, RARELY, BROADLY, ALWAYS, NEVER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

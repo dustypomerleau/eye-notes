@@ -1,0 +1,127 @@
+phakomatoses AKA neurooculocutaneous syndromes
+
+  NF1
+    1/2 AD
+    1/2 sporadic
+    melanocytic lesions:
+      melanocytic lesions
+        skin
+          cafe au lait spots
+        uveal tract
+          Lisch nodules
+            commonly visible at 5+ YO
+            a few patients don't get them until their teens
+          choroidal nodules
+      glial cell lesions
+        skin
+          nodular neurofibromas
+          plexiform neurofibromas
+            can cause amblyopia
+            difficult to remove
+            can be debulked
+              ± frontalis sling
+            increases risk of glaucoma on the affected side
+        CNS
+          optic nerve gliomas
+          chiasmal gliomas
+            try to watch them
+              if significant proptosis ||
+              elevated ICP
+                debulking
+                ± chemo and radiation
+    glaucoma
+      especially in eyes with plexiform neurofibromas
+    increased risk of secondary tumours
+      JXG
+      retinal capillary haemangioma
+      rhabdomyosarcoma
+      pheochromocytoma
+      Wilms tumour
+      leukemia
+    NF1 diagnostic criteria
+      2+ features
+        1st degree FH
+        6+ cafe au lait spots
+        2+ axillary || inguinal freckles
+        2+ cutaneous neurofibromas
+        1+ plexiform neurofibroma
+        2+ lisch nodules
+        optic pathway glioma
+        osseous dysplasia
+          COMMON: sphenoid dysplasia
+    // MRI is not necessary at baseline with good VA and a normal nerve
+
+  NF2
+    RARE
+    1/2 AD
+    1/2 sporadic
+    neurofibromas
+    acoustic neuromas
+    meningioma
+    schwannoma
+    PSC cataracts
+
+  sporadic tuberous sclerosis
+    cognitive impairment
+    seizures
+    facial angiofibromas
+    retinal hamartomas
+      COMMON: inner-retinal glial tumours AKA astrocytic hamartoma
+
+  AD VHL
+    retinal and CNS capillary haemangioblastomas
+      ALWAYS: MRI
+    renal carcinoma
+    pheochromocytoma
+    treatment for retinal capillary haemangioblastomas
+      observation
+      laser
+        for small lesions
+      cryo
+      ± antiVEGF
+
+  sporadic Sturge-Weber syndrome AKA encephalotrigeminal angiomatosis
+    CNS calcification
+      ALWAYS: MRI
+    seizures
+    focal neurologic deficits
+    facial port-wine stain
+    glaucoma
+      same side as the PWS
+      bimodal presentation
+        congenital
+        later in life
+      hard to control with medication
+      frequently requires trab
+    diffuse choroidal haemangioma
+
+  AR ataxia telangiectasia AKA Louis-Barr syndrome
+    CNS motor dysfunction
+    poor saccades with head thrusting
+    conjunctival telangiectasias
+
+  XLD incontinentia pigmenti
+    only in girls (boys die)
+    bullous skin lesions
+    hydrocephalus
+    seizures
+    ischaemic peripheral retina
+      VH
+      TRD
+      NVG
+    ROP-style laser management
+
+  sporadic Wyburn-Mason syndrome
+    CNS AV malformations
+      ALWAYS: MRI
+    retinal AV malformations
+      watch them unless they bleed or cause glaucoma
+
+
+//
+
+
+pheochromocytoma
+  NF1
+  VHL
+  MEN2B

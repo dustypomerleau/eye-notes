@@ -1,0 +1,88 @@
+AMD
+  high IR iron levels may generate more free radicals
+    some doctors recommend avoiding supplements with iron in AMD patients
+    AREDS2 vitamins increase iron absorption
+      avoid in iron storage diseases
+        haemochromatosis
+
+  histopathology
+    Bruch
+    BLinD
+    RPE basement membrane
+    BLamD
+    RPE plasma membrane
+    'Brooke blind! Basement BLAM!' - Brooke is shot in the eyes in the basement
+//...
+
+  treatment
+    //...
+    antiVEGF
+      Avastin
+        inhibits
+          VEGFA
+            all isoforms
+      Lucentis
+        inhibits
+          VEGFA
+            all isoforms
+      Eylea
+        inhibits
+          VEGFA
+          VEGFB
+          PlGF
+    antiAng2
+      Roche RG7716
+        bispecific Ab
+        Ang2 + VEGFA
+        phase 2 studies
+          AVENUE
+            AMD
+          BOULEVARD
+            DME
+    antiPDGF
+      Fovista 
+
+PCV
+  visible polyps on exam
+  layered blood in a PED
+  OCT
+    DLS
+      RPED over flat Bruch
+      COMMON:
+        concurrent SRF
+        undulating RPE + DLS
+          often adjacent to the PED
+          corresponds to BVN on ICG
+          HR material between the layers represents the BVN/CNV
+      personally I question this
+        DLS is present in many cases of typical AMD if you look for it
+    TLP
+      notched peak at the edge of the PED
+      may show a polypoidal lumen or HR material
+    PED
+      PED alone doesn't help distinguish from typical AMD
+      2+ OCT signs
+        PED + DLS
+        PED + TLP
+        DLS + TLP
+        picks up 90% of PCV
+        15% of typical AMD will have 2+ signs
+          not foolproof but probably as good as ICG
+            when combined with
+              exam
+              demographics
+  ICG
+    BVN
+
+
+//
+
+
+non-AMD drusenoid phenotypes
+
+dominant drusen
+  look for PP drusen
+    COMMON: nasal
+malattia Leventinese
+  radiating pattern of drusen
+  // people will distinguish these even though you know they are both EFEMP1

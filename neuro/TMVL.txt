@@ -1,0 +1,219 @@
+TMVL
+
+remember your anatomy
+  ICA
+    ophthalmic artery
+      collateral branches
+        posterior ON
+      central retinal artery
+        collateral branches
+          anterior ON
+          ON head
+        inner retina
+      posterior ciliary arteries
+        collateral branches
+          ON head
+        short & long PCAs
+          choroid
+          outer retina
+      anterior ciliary arteries
+        run forward in the recti to supply the anterior segment
+  ECA
+    complex system of collaterals anastomose with ophthalmic artery branches
+    not all patients with ICA stenosis experience TMVL
+
+many different symptom patterns
+  COMMON: concentric dimming from hypoperfusion
+  ALSO:
+    curtain
+    blotches or spots
+    sectors
+    positive phenomena
+      white
+      grey
+  HA are COMMON in TMVL
+    nearly 1/2 of cases if you ask
+    does not automatically mean migraine
+  if hypoperfusion is haemodynamic rather than embolic
+    TMVL may be brought on by bright light
+      trickle of retinal perfusion can't handle increased metabolic demand
+      ASK about this in the history
+      GCA can do this also
+  if the patient has neurologic symptoms beyond HA
+    hemisensory loss
+    hemiparesis
+    aphasia
+      then they do not have true TMVL
+        ADMIT and treat as TIA/CVA
+
+TMVL DDx // do not shotgun these tests for the RACE - be appropriate
+  embolic
+    visible embolus in CRAO || BRAO
+      true RAO is not usually transient but there is a continuum
+      cholesterol Hollenhorst plaque
+        yellow
+        refractile
+        COMMON: carotid
+        RARELY:
+          aorta
+          heart valve
+      fibrin-platelet white plaque
+        long
+        smooth
+        dull white || grey
+        caused by thrombosis
+        can be a partner process to atherosclerosis
+        COMMON:
+          carotid
+          cardiac
+      calcific white plaque
+        chalky white
+        oval || rectangular
+        COMMON: heart valve
+        ALSO: aorta
+      rare emboli
+        tumour cells
+          atrial myxoma
+          metastatic cancer
+        septic emboli
+          septicaemia
+          endocarditis
+        fat emboli
+          long bone fractures
+        drug emboli
+          drug users
+            talc
+          iatrogenic
+            triamcinolone
+            facial fillers
+    atherosclerosis
+      COMMON: carotid
+        carotid ultrasound
+      risk factors
+        age
+          carotids are unlikely to be the source under 50 YO
+            do the carotid US anyway
+          in young people
+            be more aggressive about looking for
+              cardiac source
+              hypercoagulable state
+              vasculitis
+        FH
+          CAD
+          CVA
+        smoking
+        HTN
+        DM
+        obesity
+        high LDL
+        low HDL
+        sedentary lifestyle
+        diet
+          high sugar
+          high saturated fat
+          high trans fats
+        TMVL may be postprandial in severe vasculopaths
+          mesenteric steal
+    cardiac thromboemboli
+      echo
+    dissection
+      MRI + MRA
+    hypercoagulable states
+      hypercoagulable workup // see CRVO-BRVO.txt
+    true amaurosis fugax from embolic causes above
+      usually 5- minutes
+        RARELY: under a minute
+          AOT TVOs
+        1/5 will have longer attacks
+          15+ minutes
+          over an hour is possible but should make you question true amaurosis
+  haemodynamic
+    postural hypotension
+      orthostatic BP
+      1˚
+        autonomic dysfunction
+          autonomic testing
+            tilt table
+            sweat test
+            ...
+      2˚
+        medications
+    hyperviscosity syndromes and hypercoagulable states
+      polycythaemia
+      MM
+      Waldenstrom
+      MGUS
+      1˚ amyloidosis
+      type 2 mixed cryoglobulinaemia
+        COMMON: 2˚ hep C
+      lupus
+        ANA
+        ENA
+      antiphospholipid Ab
+      bloods for hyperviscosity with haematology assist
+    pregnancy
+      can be a combination of above haemodynamic mechanisms
+    malignant hypertension
+    reduced ophthalmic artery || CRA perfusion pressure
+      press on the eye at the slitlamp
+      CRA will occlude with minimal pressure
+        this is true with *any* cause of reduced perfusion pressure
+        does not mean the pathology is in the CRA or ophthalmic artery
+        also true with very high IOP
+    gaze-evoked
+      FB
+      orbital tumour
+        COMMON: ON sheath meningioma
+  vascular
+    occlusive vasculitis
+      GCA
+        ESR
+        CRP
+        TAB
+    AV fistula || AVM
+      ophthalmic steal
+    vasospasm
+      not the same as migraine
+      based on current understanding
+        migraine mechanism is not vasospasm-related
+      1˚
+      2˚
+        long list of conditions // see Petzold 2013
+      episode starts with arteriolar attenuation
+        but this can be subtle
+      progresses to venous and then arteriolar boxcarring
+      calcium channel blockers will often break the attack
+        nifedipine 20-80 mg
+        may be needed as a daily dose in patients with recurrent vasospasm
+  congenital disc anomalies
+    PP staphyloma
+    morning glory disc anomaly
+      mechanism not clear
+      can be positional
+        may be a form of orthostatic TMVL
+  neurologic
+    neurologic exam
+      if TIA symptoms
+        ALWAYS: MRI
+    migraine
+      jagged edge
+      coloured lights
+      ± HA
+      technically you should never make this diagnosis on a first episode
+    epilepsy
+      EEG
+    ON oedema
+      TVOs
+        occur with change in body position
+          *very* brief
+            COMMON: under a minute
+          elevated ICP
+          often visible papilloedema
+          MRI
+          LP
+          HVF
+    ON drusen
+      BSUS
+    cortical ischaemia
+    glaucoma
+      full glaucoma workup if suspected

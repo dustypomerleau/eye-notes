@@ -1,0 +1,39 @@
+NTG
+
+associations
+  all OAG
+    nocturnal hypotension
+    large diurnal IOP fluctuation
+  ischaemic vascular disease
+  vasospasm
+    migraine
+    Raynaud
+  OSA
+  Japanese
+
+DDx
+  nonglaucomatous disease
+    // see optic-neuropathy-DDx.txt
+    full scope of optic neuropathies could be listed here
+      infectious
+      ischaemic
+      compressive
+      toxic
+      metabolic
+      infiltrative
+      traumatic
+      inflammatory
+    full scope of anomalous discs
+      large physiologic discs
+      tilted
+      myopic
+      morning glory
+      optic pit
+      coloboma
+  IOP measurement error
+    not really 'normal' tension
+    due to CCT or human/testing error
+  prior glaucoma with normalised IOP
+    steroid response
+    intermittent ACG
+

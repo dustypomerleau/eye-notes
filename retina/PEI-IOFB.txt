@@ -1,0 +1,116 @@
+IOFB
+
+  essential history
+    mechanism
+      high velocity
+        machinery
+        metal-on-metal
+        more likely to have small IOFB that are hard to detect
+    composition
+      most inflammatory
+        pure aluminium
+        copper
+        iron
+        zinc
+      chronic inflammation
+        copper alloys 85-% elemental copper
+          brass
+          bronze
+          chronic chalcosis
+            Wilson-like peripheral Descemet deposition
+            sunflower cataract
+            metallic ILM flecks
+        iron
+          chronic siderosis
+            oxidative damage
+              iris
+                heterochromia
+              lens
+                cataract
+              retina
+                RAPD
+                ON pallor
+                pigmentary retinopathy
+                reduced ERG b-wave
+              RPE
+    how recent?
+    risk factors for endophthalmities after PEI
+      rural location
+      disruption of the lens
+        effectively a unicameral eye
+        lens protein may nourish bacteria
+      tissue prolapse
+      organic IOFB
+      delayed primary closure
+        24+ hours
+          4x greater risk of infection
+
+  ocular trauma scoring
+    include all of these in your documentation
+      can't score unless you've documented all factors
+    lose points for
+      rupture
+      RAPD
+      endophthalmitis
+      RRD
+      perforation
+    gain points for
+      VA
+        up to 100 for 6/12+
+    convert total of points into an OTS category
+      1 is the worst prognosis
+        3/4 NPL
+      5 is the best prognosis
+        nearly all 6/12+
+
+  essential decision points
+    lens and capsule status
+    retinal status
+    infection versus sterile inflammation
+
+  IOFB is a subset of PEI
+    observe TICS
+      tetanus
+      IV antibiotics
+        IV vancomycin + ceftazidime 1 g each q 12/24 ||
+        a 4th generation quinolone such as IV moxifloxacin ||
+        po cipro 500-750 mg bd x 7-10/7 (RVEEH protocol)
+        ± voriconazole 200 mg IV || po q 12/24
+      CT scan
+        IOFB
+        bony fractures
+        orbital compartment syndrome
+      shield
+
+  indications for early PPV
+    poor VA in fellow eye
+    corneal decompensation
+    torn lens capsule
+      cataract with intact capsule may benefit from delay
+        to get proper biometry
+    endophthalmitis
+      sterile ||
+      infectious
+        Bacillus spp.
+        GPC
+        fungal
+    VH precluding adequate assessment of the retina
+    ambiguous BSUS findings
+    mac-on RRD ||
+    progressive VR traction
+
+    removed via PP ||
+    tunneled CS incision
+      rare-earth magnet
+      FB forceps
+    prophylactic antibiotics
+      always consider
+      mandatory for organic matter
+        vancomycin
+        ceftazidime
+        ± amphotericin B
+
+  monitor the fellow eye for SO
+  leave corneal sutures in ~ 3/12
+
+  serial ERG if any question of retained iron

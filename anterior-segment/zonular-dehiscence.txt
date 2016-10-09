@@ -1,0 +1,202 @@
+zonular dehiscence
+
+  preoperative
+    history of trauma
+      NOTE: if the lens is displaced forward into the AC
+        trauma is nearly always the cause
+    medical conditions
+      COMMON:
+        AD || sporadic Marfan
+          myopia
+          KCN
+          cataract
+          lens subluxation
+          RRD
+          aortic
+            dissection
+            aneurysm
+          mitral valve prolapse
+        AR homocystinuria
+          myopia
+          lens subluxation
+          hypercoagulability
+          brittle bones
+          developmental delay
+      ALSO:
+        sulfite-oxidase deficiency
+          can't degrade
+            cysteine
+            methionine
+          brain atrophy
+          seizures
+          early death
+        hyperlysinemia
+        Ehlers-Danlos
+          really a group of genetic disorders
+          stretchy and fragile skin
+          hyperextensible joints
+          kyphoscoliosis
+          uterine and intestinal rupture
+      RARELY:
+        //... look these up
+        Conradi syndrome
+        Crouzon syndrome
+        mandibulofacial dysostosis AKA Treacher Collins syndrome
+        Pfaundler syndrome
+        Pierre Robin syndrome
+        Sprengel deformity
+        Sturge-Weber syndrome
+        Weill-Marchesani syndrome
+        Wildervanck syndrome
+    ocular conditions
+      COMMON:
+        PCG
+        aniridia
+      ALSO:
+        congenital zonular absence AKA lens coloboma
+        AD simple ectopia lentis
+        AR ectopia lentis et pupillae
+      RARELY:
+        PXF
+          common intraoperatively but rarely spontaneous
+        syphilis
+        Axenfeld-Rieger syndrome
+        RP
+    MRx
+      high astigmatism from subluxation
+        high cyl despite normal Ks
+    phacodonesis
+    AC depth
+      deeper supine
+    congenital iris coloboma
+    gonio
+      angle recession
+    PXF
+      pupillary margin
+
+    // dilate
+
+    zonular loss
+      location
+      extent
+    congenital zonular absence
+      sectoral lens flattening
+    PXF
+      anterior capsule
+    ON coloboma
+    CR coloboma
+    scleral depression // particularly in Marfan syndrome
+      retinal tears
+      RRD
+      commotio
+
+
+    ancillary testing
+      biometry
+        in-the-bag
+        sulcus
+        ACIOL
+
+
+    investigations
+      Marfan
+        fibrillin gene mutations
+        TTE
+          dilated aortic root
+          MVP
+      homocystinuria
+        elevated
+          serum homocystine
+          serum methionine
+
+    medical management
+      spectacles
+      CTL
+      dilating drops
+
+
+  //
+
+
+    OT prep
+      VisionBlue
+      Cionni CTR
+      standard CTR
+        ± CTS
+      dispersive OVD
+        tamponade vitreous face
+        protect endothelium
+      cohesive OVD
+        flatten capsule
+          soft shell technique
+            ± BSS @ capsule interface for VB staining
+      superviscous OVD
+        pupil expansion to complete eccentric rhexis
+
+    counsel patient in advance about potential complications
+
+
+  //
+
+
+  intraop
+    wound placement
+      away from zonular absence
+        more important than possible ECCE conversion
+        takes precedence when choosing location
+    tamponade vitreous face
+      dispersive OVD
+    soft shell
+      dispersive OVD
+      cohesive OVD
+      BSS
+      ± superviscous OVD to expand pupil for rhexis
+    VisionBlue
+    centre rhexis relative to lens
+      even if lens is decentred
+    capsular hooks ||
+    repurposed iris hooks
+      placed where zonules are absent
+    complete hydrodissection
+      slow
+    complete hydrodelineation
+    minimal rotation
+    in-the-bag chopping
+      avoid sculpting
+    Osher-style slow-motion phaco
+      stabilise chamber
+      avoid capsular aspiration
+      lower
+        infusion pressure
+        aspiration rate
+        vacuum
+        ultrasound
+    IA cortex @ zonular dehiscence last
+    OVD to maintain chamber before exchanging main wound instruments
+    zonular status
+      4- CH missing
+        CTR ± CTS
+        Cionni CTR
+          flap
+          Hoffmann pocket
+          knot rotation
+        IOL
+          1-piece in the bag
+            OK sometimes
+            CTR must provide all capsular tension
+          3-piece in the bag
+            better support for bag
+            haptics in the direction of missing zonules
+          sulcus
+            long haptic span
+              13+ mm
+      4+ CH missing
+        ACIOL
+        iris claw
+        iris fixated
+        scleral fixated
+          Bausch and Lomb Akreos AO60
+            may replace the Alcon CZ70BD in your arsenal
+            see paper
+    stain for vitreous with triamcinolone
+      anterior vitrectomy if needed

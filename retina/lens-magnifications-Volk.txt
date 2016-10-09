@@ -1,0 +1,107 @@
+for most Volk lenses
+  laser spot size = 1/(image magnification)
+
+for testing purposes
+  90 D about 0.75 x
+  Area Centralis is ~ 1 x
+  Transequator 0.7 x with laser spot ~ 1.5 x
+
+noncontact exam lenses
+
+  Volk Digital Wide Field
+    image 0.72
+    laser spot 1.39
+
+  Volk 90 D
+    image 0.76
+    laser spot 1.32
+
+  Volk Superfield NC
+    image 0.76
+    laser spot 1.32
+
+  Volk 78 D
+    image 0.93
+    laser spot 1.08
+
+  Volk Super 66
+    image 1
+    laser spot 1
+
+  Volk Digital 1.0
+    image 1
+    laser spot 1
+
+  Volk 60 D
+    image 1.15 x
+    laser spot 0.87 x machine spot size
+
+  Volk Digital High Mag
+    image 1.3
+    laser spot 0.7
+
+  Volk Digital Clear Field
+    image 2.79
+    laser spot 0.36
+
+  Volk Digital Clear Mag
+    image 3.89
+    laser spot 0.26
+
+
+//
+
+
+contact laser lenses
+
+  Volk Equator Plus
+    image 0.44
+    laser spot 2.27
+
+  Volk SuperQuad 160
+    image 0.5
+    laser spot 2
+
+  Volk High Res Wide Field
+    image 0.5
+    laser spot 2
+
+  Volk QuadrAspheric
+    image 0.51
+    laser spot 1.97
+
+  Volk Quad Paediatric
+    image 0.55
+    laser spot 1.82
+
+  Volk TransEquator
+    image 0.7
+    laser spot 1.44
+
+  OI Mainster High Mag
+    image 0.75
+    laser spot 1.34
+
+  OI Mainster Standard
+    image 0.97
+    laser spot 1.03
+
+  Volk Area Centralis
+    image 1.06
+    laser spot 0.94
+
+  Volk HR Centralis
+    image 1.08
+    laser spot 0.94
+
+  OI Mainster Wide Field
+    image 1.37
+    laser spot 0.73
+
+  Volk Super Macula 2.2
+    image 1.49
+    laser spot 0.67
+
+  OI Mainster Ultra Field PRP
+    image 1.75
+    laser spot 0.57

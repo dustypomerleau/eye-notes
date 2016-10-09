@@ -1,0 +1,77 @@
+vision loss in pregnancy
+  infectious
+    //... you need to finish this! toxop etc.
+  gestational DM ||
+  worsening of preexisting DM
+    DME
+    VH
+    PSC
+    // conditions also caused by HTN/eclampsia not duplicated here
+  eclampsia
+    serous RD
+    NAION
+    cortical blindness
+      true CVA ||
+      transient cortical blindness
+        caused by cerebral oedema
+    RAO
+      also possible with amniotic fluid emboli
+        ask about premature rupture of membranes
+    RVO
+    hypertensive retinopathy
+      retinal haemorrhages
+      CWS
+      CME
+    RARELY: DIC with choroidal infarcts
+  CSC
+  IIH
+  pituitary apoplexy
+    ALWAYS: include this in the DDx
+    HA
+    chiasmal VF
+    urgent MRI
+    high-dose IV steroids
+    ± surgery
+      neurosurgical consult
+    in general
+      pregnancy exacerbates and enlarges pituitary adenoma
+  hypercoagulable states
+    pregnancy itself
+    antiphospholipid Ab syndrome
+  thiamine deficiency // see optic-neuropathy.txt
+  TTP
+    serous RD
+    retinal haemorrhages
+    exudates
+  Purtscher-like retinopathy
+    usually during labour
+  MS
+    pregnancy makes preexisting MS worse
+    pregnancy can unmask undiagnosed MS
+    patients with known MS may stop their drugs to protect the fetus
+    // see MS.txt for possible ophthalmic manifestations
+  functional || psychogenic
+
+pregnancy exacerbates preexisting
+  DM
+  TED
+  pituitary adenoma
+  MS
+
+medications in pregnancy
+  // see glaucoma-medications.txt
+  // see DR.txt
+  antiVEGF
+    Lucentis and Eylea are both category C
+      animal studies have shown skeletal abnormalities
+        only in very high doses
+        never at doses we give to humans
+      no data on fertility
+        no specific evidence that fertility is impacted
+        summary
+          give it only if the person really needs it
+      no data on breastmilk excretion
+  FFA
+    no evidence of any harm to the fetus
+    despite this
+      usually avoid FFA in 1st trimester of pregnancy

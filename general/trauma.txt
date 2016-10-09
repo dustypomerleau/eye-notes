@@ -1,0 +1,208 @@
+// see also orbital-fractures.txt
+
+hyphaema
+  in blacks
+    ALWAYS:
+      screen for sickle cell
+        molecular genetic methods now standard
+        black
+        mediterranean
+        Saudi Arabia
+        India
+        Central and South America
+      ask about FH sickle cell or other haemoglobinopathy
+      no Diamox or topical CAI if you can avoid it
+        CAI will increase sickling if pt has sickle cell
+      cycloplegia may reduce rebleed in sickle cell
+  AC washout in hyphaema
+    in sickle cell
+      IOP 25+ x 1/7 despite MMT
+    in non-sickle cell
+      IOP 25+ + total hyphaema x 5/7
+        to prevent corneal blood staining
+      IOP 50+ x 2/7
+        to prevent optic atrophy
+      clinical signs of blood staining
+        regardless of IOP || duration
+        mechanism
+          haemoglobin from the AC is forced into the corneal stroma
+          keratocytes phagocytose haemoglobin and store hemosiderin
+          keratocytes die and release hemosiderin
+          hemosiderin diffuses easily
+            can stain all the way to the epithelium
+    technique
+      GA
+      avoid
+        hypotony ||
+        flat AC
+          to prevent rebleeding intraoperatively
+      if they do bleed
+        OVD tamponade
+        some surgeons use air
+      2 paracenteses
+        BSS irrigation through 1
+        depress lip so blood exits through 2
+      for thick blood
+        Simcoe cannula
+        bimanual I/A
+        25 g PPV handpiece
+        adjunctive tPA for fibrinous hyphaemas
+      no need to clear *all* blood
+        being aggressive risks a rebleed or damage to the iris
+      suture all wounds
+    first 5/7 are the most critical period for a rebleed
+
+elevated IOP in the wake of trauma
+  angle recession
+  lens-associated uveitis
+  secondary angle closure
+    subluxed lens
+      zonular dialysis
+      phacodonesis
+      lens tilt
+      IOP improves when supine
+      UBM helpful to show lens malposition
+      dilation may help temporise
+      urgent CEIOL
+        may require
+          PPV
+          sutured IOL
+          ACIOL
+    PS with pupillary block
+  aqueous misdirection
+  PACG
+    may have a phacomorphic component
+    more common in
+      short eye
+      FH
+
+NAI
+  subdural haemorrhages
+    bridging veins tear during shaking
+  diffuse retinal haemorrhages
+    too many to count
+      extent of haemorrhages is important
+      document that they are extensive if so
+      less extensive haemorrhages are nonspecific
+    multilayered
+      preretinal
+      intraretinal
+      subretinal
+    extending to the ora
+    haemorrhagic macular retinoschisis
+      highly specific for NAI
+    haemorrhages can be unilateral
+    etiology of retinal haemorrhages
+      probably VR traction
+  perimacular folds
+  disc swelling
+    PP NFL haemorrhages
+  encephalopathy
+  skeletal survey
+    occult fractures
+    multiple stages of healing
+  mild cases
+    vomiting
+    lethargy
+  document
+    caregivers
+    social history
+    prior admissions
+    siblings
+    complete eye and physical exam
+    report to authorities
+    Retcam photos if available
+
+if there is blunt trauma to the eye
+  pursue the workup for orbital fractures and intracranial injury
+  // see orbital-fractures.txt
+
+diplopia after trauma
+  orbital fractures
+    CT and exam will rule this out
+  CN[346]P // see appropriate strabismus notes
+    face turn
+    head tilt
+    chin down
+      bilateral CN4P
+    for CN3P
+      ptosis
+      pupil changes
+  breakdown of preexisting phoria || previously weak fusion
+    COMMON: after head trauma
+    usually improves
+  monocular diplopia due to eye injury
+
+thermal burns
+  eyelid skin is thin
+    burns will be relatively deeper than classified elsewhere on the body
+  severity
+    epidermal AKA 1st˚
+    partial-thickness AKA 2nd˚
+      includes some dermis
+      usually heals without scarring
+    full-thickness AKA 3rd˚
+      all of the dermis
+      heals with scarring
+    deep burns AKA 4th˚
+      underlying soft tissue is destroyed
+  exam
+    ALWAYS: check burn victims for a CTL or other FB
+    periorbital oedema
+    lids
+      depth of burns to eyelid skin // see severity above
+      lash burn or loss
+      lid lag
+      loss of eyelid tissue
+        particularly WRT corneal exposure
+      canalicular involvement
+      cicatrical ectropion
+        assess during healing
+    protective reflexes
+      corneal sensation
+      Bell phenomenon
+    conjunctiva
+      limbal ischaemia
+        a white eye should worry you
+      chemosis
+      necrosis
+      symblepharon
+        assess during healing
+    cornea
+      PEE
+      exposure keratopathy
+      epi defect
+      limbitis
+      limbal ischaemia // as above
+      LSCD
+        assess during healing
+      corneal opacification
+      stromal melting
+      perforation
+    lens
+      cataract in severe burns
+  treatment
+    IV fluid resuscitation and oral pain meds
+      would usually be handled by the 1˚ team
+    remove or trim scorched eyelashes
+      they tend to fall into the eye along with char from the skin
+    leave blisters intact
+      but debride dead tissue and eschar
+    paraffin emollients to burns on the skin
+    nonadherent dressings
+    major issue is exposure OSD as eyelid burns heal and contract
+      patient may look fine on admission and gradually get worse
+    BROADLY: PF medications when possible
+    aggressive lubrication
+      Cellufresh 1-4 hourly
+    Chlorsig prophylaxis qid
+      the risk of 2˚ infection is high
+    topical steroids should be used with caution
+      sometimes very helpful with severe oedema
+    reduce melting
+      doxycycline 100 mg po daily
+      ascorbic acid 1 g po bd
+    full-thickness skin grafts
+    amniotic membrane grafts
+    tarsorrhaphy
+      temporary || permanent

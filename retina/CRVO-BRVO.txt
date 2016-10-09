@@ -1,0 +1,174 @@
+RVO
+
+  CRVO risk factors
+    age
+    metabolic syndrome
+      obesity
+      HTN
+      DM
+      hyperlipidaemia
+    atherosclerosis
+    CVA
+    hyperviscosity syndromes
+    thrombophilias
+    smoking
+    uveitis
+    vasculitis
+    OHTN
+    glaucoma
+    ocular compression
+      orbital mass
+
+    BRVO risk factors
+      much less established
+      likely include
+        metabolic syndrome
+        atherosclerosis
+      may not include
+        CRVO ocular risk factors
+
+
+//
+
+  DDx for a young patient with CRVO
+
+    infectious
+      viral
+        HIV
+      bacterial
+        TB
+        syphilis
+
+    inflammatory
+      inflammatory
+        sarcoid
+      autoimmune
+        lupus
+
+    idiopathic
+
+    vascular
+      vascular
+        HT
+      hypercoagulable
+        pregnancy
+        hormonal contraceptives
+        hyperhomocysteinemia
+        protein C or S deficiency
+        lupus anticoagulant
+        anticardiolipin Ab
+        antiphospholipid Ab
+        factor 5 Leiden
+        antithrombin 3 deficiency
+        dysfibrinogenaemias
+
+    neoplastic
+      haematologic
+        polycythaemia
+        multiple myeloma
+        dysproteinaemias
+          COMMON: Waldenstrom
+            may also have asymptomatic peripheral haemorhages and occlusions
+
+    DAMS
+      drugs
+        smoking
+      medications
+        hormonal contraceptives
+      supplements & diet
+        excess vitamin K intake
+
+    endocrine
+      endocrine
+        DM
+      metabolic
+        hyperlipidaemia
+        obesity
+
+    trauma
+
+
+//
+
+
+  workup for a young patient with RVO
+
+    rule out by history
+      smoking
+      hormonal contraceptives
+      vitamin K intake
+      trauma
+
+    rule out by vital signs
+      HT
+      obesity
+
+    possible testing
+      HIV
+        HIV testing
+      sarcoid
+        ACE
+        lysozyme
+        CXR
+      TB
+        Qgold
+      syphilis
+        RPR
+        FTA-ABS
+      lupus
+        ANA
+        ESR
+        UEC
+        urinalysis
+      haematologic
+        FBC
+        haematology consultation
+          hypercoagulable workup
+            prothrombin time
+            activated thromboplastin time
+            platelets
+            fibrinogen
+            + all of the above from hypercoagulable DDx
+        SPEP
+      DM
+        fasting glucose
+      hyperlipidaemia
+        lipid profile
+
+
+//
+
+
+  treatment
+    antiVEGF
+      most do treat and extend
+      choice of agent
+        NEWTON study
+          1 year results at ASRS 2016 (Khurana)
+          20 patients previously treated with Lucentis or Avastin
+          unable to extend beyond monthly
+          switched to Eylea
+          mean interval between injections increased from 6-10 weeks
+          90+% went longer on Eylea
+    steroids
+      //...
+      Triesence
+      Ozurdex
+      Zuprata
+        suprachoroidal triamcinolone
+        Zuprata + Eylea has finished phase 2
+          reduced Eylea injection burden
+        thought to have lower risk of IOP spikes
+          wait for phase 3
+    laser
+      //...
+      BRAVO + CRUISE
+        scatter to NP does not reduce injections for CME
+          similar data for DME in other studies
+          BROADLY: scatter only for NV ± VH
+
+//
+
+
+when you are shown a posterior segment with PDR || RVO
+  mention the risk of NVG

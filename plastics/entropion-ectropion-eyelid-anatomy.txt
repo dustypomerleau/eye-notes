@@ -1,0 +1,494 @@
+eyelid anatomy
+
+// see fig. 9-4 AAO BCSC
+
+  skin
+  SC fat
+  OOM
+  tarsus
+    10 mm upper
+    4 mm lower
+  septum
+    fuses with the levator aponeurosis upper
+    LLR/CPF @ tarsal border lower
+  orbital fat (once you get beyond tarsus)
+    central fat pad is yellow
+    nasal fat pad is white
+  muscle1
+    levator upper
+      starting at Whitnall
+    LLR/CPF lower
+      starting at Lockwood
+    fusing with LCT @ lateral orbital tubercle
+    fusing with MCT @ posterior lacrimal crest
+      MCT splits to anterior lacrimal crest as well
+  muscle2
+    Muller muscle upper
+    ITM lower
+  conjunctiva
+
+
+//
+
+
+entropion
+  involutional
+  cicatricial
+  spastic
+
+  involutional
+    poor snapback
+    distraction 6+ mm
+    disinserted LLR visible
+      white line below the inferior tarsus
+    LL doesn't move with downgaze
+    orbicularis overrides with forced eyelid closure
+
+    treatment must address
+      horizontal laxity
+      LLR disinsertion
+      orbicularis override
+      ± ocular surface damage from trichiasis if present
+
+    treatment ladder
+      lubrication
+      BCTL
+      Quickert sutures
+      LTS
+        ± reinsertion of LLR
+        ± resection of preseptal OOM
+        best outcomes use a transdermal approach
+          Jones subciliary incision
+      Quickert procedure
+
+      LTS
+        anaesthetic to lateral canthus and LL
+          go deep to the bone
+        open lateral canthus
+          down to orbital rim
+          knife || scissors
+        expose the orbital rim
+        create the strip
+          cut the bottom edge of the tarsus
+          make a pocket between OOM and tarsus
+          cut each edge of the strip
+          trim off the top edge and conjunctiva
+          trim the end off the tarsal strip
+        anchor it to the LOT
+          double-armed 5-0 prolene
+            pass it AP in the strip
+            then inner to outer orbital rim
+        trim the excess skin and OOM
+        deep tissue 6-0 vicryl
+          // to cover the prolene knot
+        reform the canthal angle
+          vicryl suture through the grey line
+        more deep vicryls as needed
+          bring the skin edges into apposition
+        close the skin
+          running 6-0 vicryl
+        remove sutures at a week
+
+      LLR plication
+        local anaesthetic
+        subciliary incision
+          ~ 2 mm from lashes
+        dissect to tarsus
+          expose the inferior border of the tarsal plate
+        expose orbital septum
+          visible orbital fat through septum confirms disinserted LLR
+        enter septum
+          good haemostasis
+          dissect inferiorly to find LLR
+        isolate the LLR
+          ensure that the IR is not affected by your sutures
+        appose the LLR to the tarsus with 6-0 vicryl
+        close OOM and skin with 6-0 vicryl
+        remove sutures at a week
+
+      Quickert procedure
+        mark a horizontal incision along the bottom of the tarsus
+        mark a vertical incision at the center of the LL
+        mark a lateral point indicating how much LL you want to resect
+        infiltrate with lidocaine
+        cut the lid full-thickness along the subtarsal incision
+        cut the middle of the lid with scissors
+          cut away the intended amount of LL using your lateral mark
+        use a double-armed 6-0 vicryl to hook the LLR in 2 places
+          careful not to go through the conj
+        repeat with a 2nd suture laterally
+        re-appose the lid margin with 6-0 vicryl
+          through the tarsal plate in at least 2 locations
+        6-0 vicryl through the lash line
+          then close the remainder of the skin over the tarsus
+        run your double-armed LLR sutures up through the OOM and out
+          check that the LL now moves in downgaze
+        close the skin with a running stitch
+        chloramphenicol on eye and over stitches
+        patch overnight
+        vicryl can be left to dissolve
+          probably best to remove at 2 weeks
+
+  cicatricial
+    LL resists digital eversion
+    COMMON:
+      history of ocular surgery
+      trauma
+      cicatrising conjunctivitis
+        // see cicatrising-conjunctivitis-DDx.txt
+
+    treatment ladder
+      lubrication
+      BCTL
+      treat the underlying disease
+        don't operate on the lids if there is active cicatrising conjunctivitis
+      tarsal fracture with everting sutures
+      tarsoconjunctival or mucosal grafts
+        ear cartilage
+        sclera
+        hard palate
+      amniotic membrane grafts
+      forniceal reconstruction with a silicone rod
+
+  spastic
+      ocular-irritation leads to spasm
+        vicious circle
+        often breaking the cycle is all that's needed
+      lubrication
+      BCTL
+      lid taping
+      Quickert sutures
+      BOTOX
+      surgery based on features
+        LTS
+          ± reinsertion of LLR
+          ± resection of preseptal OOM
+        Quickert procedure
+
+  special case
+    congenital entropion
+      most kids have epiblepharon
+      but if the lashes are abrading the cornea it's probably entropion
+      they may have dysgenesis of the LLR or short posterior lamellae
+      surgery
+        remove skin and OOM from the subciliary region
+        advance the LLR onto the tarsus
+
+
+//
+
+
+ectropion:
+
+  involutional
+  cicatricial
+  paralytic
+  mechanical
+
+  involutional
+    lubrication
+    surgery according to features
+      scarred punctum
+        3-snip punctoplasty
+      punctal malposition
+        thermal cautery to the conjunctiva
+          not favoured due to high recurrence rate
+        medial spindle procedure with inverting sutures
+      generalised horizontal laxity
+        LTS
+          ± LLR reinsertion
+            not commonly needed in ectropion
+      MCT laxity
+        distract LL laterally
+        normal MCT will not allow the medial canthus to reach the limbus
+        if lax
+          MCT plication
+
+    medial spindle procedure for punctal malposition
+      lidocaine 2% to orbital rim, skin side, and conjunctiva
+      tiny skin and OOM snip horizontally at the orbital rim
+      excise conjunctival diamond below the punctum so you can access LLR
+      hook the LLR with double-armed 6-0 vicryl
+        aim the needle down toward the fornix
+        lift the conjunctiva closest to the globe to elevate the LLR
+        go posteriorly with the needle through your conj incision
+        drag the LLR forward with the needle tip and then pass through
+          don't pierce the conj
+        repeat with the 2nd arm of the double-armed suture
+        ask the patient to look up and down to ensure you have the LLR
+      spiral the suture out
+        catch the inferior edge of the tarsal plate and a bit of conj
+          at the top of your diamond opening
+          once with each arm of the suture
+        pass through the conjunctiva just inferior to the diamond
+          all the way out through the skin snip you made
+          once with each arm of the suture
+        watch the lid invert to titrate how tight you should tie the suture
+      skin stitch if needed
+      can be combined with other procedures like LTS
+
+  cicatricial
+    sun exposure
+    eyelid neoplasm
+    autoimmune disease
+    radiation
+    lesion excision
+    Z-plasty
+    full thickness skin graft
+
+    Z-plasty
+      mark your Z with the centre line along ridge of greatest tension
+      local anaesthetic
+      cut the flaps with a blade
+      undermine with spring scissors to remove all tension
+      place 6-0 vicryl cardinal sutures at the apices
+      running vicryl to complete the skin closure
+
+    cicatricial ectropion repair with spacer graft
+      local anaesthetic
+      4-0 prolene traction suture through tarsal plate
+      open the area of traction with a blade
+        along the Langer lines
+        through skin and OOM
+      scissor dissection beneath OOM
+        until skin moves freely
+      release the traction sutures
+      measure the size of the defect with mouth open and face stretched
+      cut a template from plastic sheeting to match the wound
+      use your template to outline the donor site
+        preauricular often good
+      local anaesthetic to the donor site
+      cut just through the skin with a blade
+        avoid deep cuts near the facial nerve
+      dissect graft with scissors
+        take only skin
+      close the donor site
+        running 6-0 nylon
+        a locking centre bite helps with tension
+      place 6-0 vicryl cardinal sutures at the graft corners
+        graft-to-host
+      run the 6-0 vicryl around the whole graft
+      tape the lid traction sutures to the forehead
+      chloramphenicol ointment
+      pressure dressing over the graft
+      sutures out (including vicryl) in about a week
+
+    in AU you may hear 'tarsal' or 'marginal' ectropion
+      eversion is limited to the tarsus
+      can have involutional and cicatricial components
+      usually a problem with LLR disinsertion
+
+  paralytic
+    Bell CN7P
+      Ramsay Hunt syndrome
+        zoster CN7P
+        vesicles around or in the ear
+        hearing loss
+        tinnitus
+        vertigo
+        ear pain
+        ask about immunosuppression
+        multidisciplinary treatment
+          ENT consult
+        eye exam
+          ptosis
+          lid lag
+          Bell reflex
+          residual CN7 function // applies to all Bell CN7P not just RH
+            if forehead spared
+              UMN
+              must rule out CVA
+              ALWAYS: mention ruling out UMN CVA in Bell CN7P
+            UMN may also involve
+              taste from the front of the tongue
+              DES from decreased lacrimal innervation
+              hyperacusis
+                loss of CN7 innervation to the stapedius
+                  impairs the stapedal reflex to loud noises
+            Bell CN7P should be LMN
+          corneal sensation
+          HZO
+            conjunctivitis
+            corneal involvement
+              stain
+          exposure
+          OHTN
+          uveitis
+          ON involvement
+          ARN
+          motility
+            confirm no other CNP
+          treatment
+            systemic ACV
+              zoster dose 800 mg po 5x/day x 10/7 ||
+              valacyclovir 1 g tds ||
+              famciclovir 500 mg tds
+                bioavailability is better with valacyclovir and famciclovir
+                best if started within 3/7 of onset
+                makes vesicles and pain resolve faster
+                no impact on postherpetic neuralgia
+            prednisolone 1 mg/kg/d for 1/52
+            pain management
+              oxycodone 5 mg tablets
+              postherpetic neuralgia
+                gabapentin 100-300 mg tds
+                nortriptyline
+                capsaicin
+          60+ year-old patients should have the zoster vaccine
+            can be given even if they've had chicken pox in the past
+    surgical CN7P
+    CVA
+    invasive tumour
+      parotid
+      skin CA
+    exam
+      parotid mass
+      residual CN7 function for UMN as above
+      Bell reflex
+      corneal sensation
+      ocular surface
+      check other CN
+        CN[578]P
+          CPA tumours // see strabismus.txt for CPA tumour DDx
+            COMMON: CN8 schwannoma ± NF2
+        CN(6+7)P
+          Moebius syndrome
+        pontine CVA
+      // complete eye exam as per RH above
+    treat the underlying cause
+    treat exposure
+      lubrication
+      lid taping
+      moisture goggles
+      tarsorrhaphy
+        temporary
+          suture
+          BOTOX
+        permanent
+          suture
+          gold weights
+    aberrent regeneration of CN7
+      usually after Bell palsy
+        tears with cheek puffing AKA crocodile tears
+          BOTOX
+        ptosis with cheek puffing
+          excess OOM tone
+    wait 6/12 before any surgery
+      may recover spontaneously
+      for ectropion component
+        LTS
+          ± medial canthoplasty if significant MCT laxity
+            not usually needed
+
+
+  mechanical
+    eyelid mass
+    herniated orbital fat
+    poor fitting glasses
+    excise the mass or herniated fat
+
+
+//
+
+
+lagophthalmos
+  FB sensation
+  blurring
+  worse in the morning
+    dries out at night
+  short DDx
+    COMMON:
+      Bell CN7P
+      VZV CN7P AKA Ramsay-Hunt
+      TED
+      CVA
+      CPA tumour
+      trauma
+        blunt
+        surgical
+    RARELY:
+      BROADLY: viral
+      Lyme
+      Guillain-Barre
+      OSA
+      Mobius syndrome
+  document
+    lid lag
+      mm in downgaze
+    paralytic ectropion
+      punctal malposition
+    CN7 function
+      forced eyelid closure
+        OOM
+      Bell reflex
+      brow ptosis
+    tear film
+      quality
+      TBUT
+      lacrimal pump
+        poor with paralytic LL ectropion
+      blink rate
+      blink completeness
+    OSD
+      PEE
+      ulceration
+    corneal sensation
+    proptosis
+      can inhibit closure and look like lid lag
+  treatment
+    lubricants
+    moisture goggles
+    gold weight
+      0.6-1.6 g
+      test by taping above the tarsus
+      ideally just allows full closing but still permits opening
+    tarsorrhaphy
+      temporary
+      permanent
+    levator recession
+      useful in TED
+    LL LTS
+      useful in CN7P
+        reapposes lid
+        corrects punctal malposition
+    LLR recession
+      ± cartilage or palate spacer
+      to raise LL if exposure is refractory
+
+
+//
+
+
+floppy eyelid syndrome
+  spontaneous eversion with traction
+    distraction test
+  ± eyelid imbrication
+  horizontal laxity
+    punctum can be pulled past the limbus
+  papillary reaction
+    usually upper tarsus
+  ocular surface disease
+  OSA
+  DM
+  keratoconus
+  treatment
+    lubricate
+    ALWAYS: sleep study
+    weight loss if obese
+    wedge resection better than LTS
+      usually resect at inner 1/3 junction
+        avoid the canaliculus
+      avoid lateral lid
+        risks lacrimal gland injury
+    MCT laxity may need plication
+
+giant fornix syndrome
+  elderly females
+  chronic purulent conjunctivitis
+  progressive toxic keratopathy
+    late NVK
+  large and deep upper fornix
+  Staph. aureus colonising a yellow protein coagulum
+  intensive topical antibiotics + steroids
+    ± systemic antibiotics
+  may need long-term maintenance steroids and antibiotics

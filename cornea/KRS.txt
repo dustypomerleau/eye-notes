@@ -1,0 +1,120 @@
+refractive surgery options
+
+  KRS
+    LASIK - cut a flap that includes the epithelium and some stroma
+    LASEK - loosen only the epithelium with alcohol and fold it back
+    epi-LASIK - cut a flap that includes only epithelium
+    PRK - scrape only epithelium and allow it to regrow
+
+    general guidelines for KRS
+      age 20-60
+      MRx SE +4 to -9
+        max cyl 4- D
+      CCT 505 for LASIK
+          475 for PRK
+      posterior float under 45 µm high
+      steepest central K under 47 D
+        // coincidentally 47+ D is one of the diagnostic criteria for KCN
+      healthy cornea, ocular surface, and tear film
+      easygoing personality
+
+    calculating maximum possible ablation in diopters
+      plan to leave minimum 300 µm base
+      flap thickness ~ 110 µm
+        less in LASEK and epi-LASIK
+      ablation ~ 15 µm/D
+      so maximum ablation in D = (CCT - 110 - 300)/15
+
+
+  phakic ICL
+    candidates
+      intolerant of CTL
+      inadequate corneal thickness for safe laser
+    MRx SE +8 to -20 D
+    early models
+      endothelial cell loss
+      glaucoma
+        pupil block
+          ALWAYS: perform LPI x 2 (usually 1100 & 0100) 1/52 before surgery
+        pigmentary
+      cataract
+    but these aspects are improving with better lens design
+    may need to be repositioned or replaced for high vaulting (iris contact)
+
+  RLE
+    useful in high myopia or high hyperopia
+
+
+  astigmatism
+    KRS
+      up to 4 D if patient meets other criteria for KRS
+    toric phakic ICL
+      ± bioptic KRS
+    RLE with toric IOL
+      ± bioptic KRS
+    RARELY: LRI
+
+
+//
+
+
+KRS complications
+  flap
+    buttonholing
+    free cap
+  ablation errors
+    data input
+    MRx different from wavefront
+    poor laser alignment
+      surgeon error
+      patient movement
+  postop
+    flap
+      dislocation
+      striae
+      epi ingrowth
+      DLK
+        sands of the sahara
+        greatest in periphery
+        quiet AC
+        COMMON: POD 1 onset
+        aggressive topical steroids
+          ± lift flap and irrigate
+    PRK
+      stromal haze // use MMC
+      sterile infiltrates
+      epi defects
+      LSC deficiency
+    refractive error
+    ectasia
+    infectious keratitis
+      COMMON: POD 3 onset
+        2/3 of cases in the first week
+        1/3 of cases 7+ days out
+      risk factors
+        blepharitis
+        intraoperative complications
+          buttonhole
+          free cap
+        health care worker
+      bugs
+        gram positives
+        MRSA
+        atypical mycobacteria
+          chelonae
+        fungi
+      if you suspect infectious keratitis
+        culture stromal component in OT after carefully lifting flap
+        empiric therapy == fortified vanc + tobra
+          ± lift flap and irrigate with vanc + tobra
+        late onset cases
+          vanc + amikacin
+            for M. chelonae
+    PISK
+      check IOP
+      usually steroid response
+      COMMON: POD 10-14 onset
+    dry eye
+    unhappy patient
+      glare
+      halos

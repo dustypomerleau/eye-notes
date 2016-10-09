@@ -1,0 +1,276 @@
+aetiology of congenital cataract
+  from 2005 David Mackey Gregg lecture
+    1/5 familial
+      simple AD more than half the time
+      aniridia 10%
+      XLR 10%
+        including Nance-Horan syndrome
+          XLR congenital cataracts
+          dental anomalies
+            supernumary incisors
+            crown-shaped permanent teeth
+          long face
+          prominent nose
+      heriditary hyperferritinaemia-cataract syndrome 6%
+      simple AR 6%
+    4/5 sporadic
+      1/2 unilateral
+      16% with a systemic disease
+        cerebral palsy || developmental delay 6%
+          low birth weight is a risk factor
+        PFV 6%
+        Down syndrome 5%
+        Rubella 3%
+        aniridia 1%
+        JIA 1% // see anterior-and-intermediate-uveitis.txt
+        DM 1%
+        galactosaemia 1%
+        ...other metabolic syndromes collectively 4%
+
+Mackey protocol for approaching congenital cataracts
+  Does the child have a known syndrome or systemic illness?
+    Are they dysmorphic or unwell?
+  Does the anterior segment give you the diagnosis?
+    anterior segment dysgenesis
+  check that the posterior segment is normal
+    if no view
+      BSUS
+        Rb
+        RD
+  examine parents and siblings for signs of hereditary cataract
+  investigations
+    Rubella serology
+      the most important of the TORCHES WRT cataract
+      mother is usually from a country without routine immunisation
+    urine reducing substances
+      galactosaemia
+    urine amino acids
+      Lowe syndrome
+    urine RBCs
+      Lowe syndrome
+      Alport syndrome
+    serum ferritin
+      hyperferritinaemia-cataract syndrome
+  expand as needed to cover rare causes below
+
+
+//
+
+
+DDx for paediatric cataracts
+
+  infectious
+    viral
+      rubella
+        congenital rubella
+          1st trimester maternal infection
+          nystagmus
+          strabismus
+          microphthalmia
+          keratoconus
+          pearly nuclear cataract
+            starfish-like
+          glaucoma
+          pigmentary retinopathy
+          deafness
+          cardiac defects
+          developmental delay
+      CMV
+      HSV
+      VZV
+      HIV
+    bacterial
+      syphilis
+    protozoa
+      Toxoplasma
+
+  inflammatory
+    inflammatory
+      BROADLY: uveitis
+
+  idiopathic
+
+  iatrogenic
+    iatrogenic
+      radiation
+    surgical
+      surgical trauma
+
+  neoplastic
+    solid tumours
+      RARELY: retinoblastoma
+
+  DAMS
+    medications
+      corticosteroids
+
+  degenerative
+    dysfunction
+      sporadic Coats disease
+        usually unilateral
+
+  congenital
+    congenital
+      idiopathic congenital cataract
+    developmental
+      craniofacial syndromes
+        Hallermann-Streif
+        Rubinstein-Taybi
+      PFV
+        usually unilateral
+      posterior lenticonus
+        oil droplet cataract
+        usually unilateral
+      ROP
+
+  genetic
+    genetic
+      trisomy 21
+        Down syndrome
+      trisomy 13
+        Patau syndrome
+      trisomy 18
+        Edward syndrome
+    inherited
+      familial cataract
+        COMMON: AD
+      AD || sporadic PAX6 aniridia ± WAGR
+      AD FEVR
+      XLD incontinentia pigmenti
+        girls only
+        lethal in males
+      AD || sporadic Marfan syndrome
+      AD || sporadic NF2
+        PSC
+    genetic dystrophy
+      AD myotonic dystrophy
+        polychromatic AKA Christmas tree
+      sporadic polyostotic fibrous dysplasia AKA Albright syndrome
+      XLR oculocerebrorenal dystrophy AKA Lowe syndrome
+        RRR
+          mental Retardation
+          Rickets
+          Renal acidosis
+      XLR Alport syndrome
+        renal failure
+        hearing loss
+
+  endocrine
+    endocrine
+      DM
+        including maternal || gestational DM
+        vacuolar
+      hypocalcaemia
+        COMMON: hypoparathyroidism
+    metabolic
+      AR galactosaemia
+      XLR alpha-galactosidase deficiency AKA Fabry disease
+        spokelike
+      AR Wilson disease
+        sunflower
+        corneal Kayser-Fleischer ring
+      AR alpha-mannosidosis
+        spokelike
+      AD hyperferritinaemia-cataract syndrome
+
+  trauma
+    including child abuse
+    usually unilateral
+
+
+//
+
+
+evaluation
+
+  FH
+    all genetic diseases
+  birth history
+  developmental milestones
+  consult paediatrician
+    physical exam
+    systemic diseases
+    genetics
+    syndromes
+    rule out child abuse
+  examine parents and siblings
+
+  assume diameter 3+ mm is visually significant
+    anterior polar less visually concerning
+      ALWAYS: check and manage refractive error
+    lamellar AKA zonular cataract
+      may be AD and bilateral
+      can be amblyogenic or progressive
+    congenital nuclear cataract
+      may be AD
+      highly amblyogenic
+
+  measure VA
+    // with glare testing if they are old enough
+    interest, bright objects
+    CSM, 20 ∆ BD, base-to-base ∆ test: do they alternate?
+    PL/grating
+    Kay/Allen/Lea
+    HOTV/SG
+    Snellen/ETDRS
+
+  ALWAYS: refract
+
+  eye exam
+    including DFE
+
+  labs
+    // not needed with a clear FH or syndrome
+    TORCH titers
+    genetic testing for any suspected syndrome
+    endocrine testing for any suspected syndrome
+    baseline tests in a mystery case
+      DM
+        fasting glucose
+      renal syndromes
+        UEC
+        urine amino acids
+      galactosaemia
+        blood GCT
+          galactosaemia reflex test
+          gives GALT/Hb
+        serum galactose
+        urine reducing substances
+        RBC Gal-1-P levels
+        serum galactokinase
+      hypoparathyroidism
+        low calcium
+        elevated phosphorous
+      hyperferritinaemia-cataract syndrome
+        serum ferritin
+
+
+//
+
+
+treatment
+
+  give best refraction
+
+  remove the cataract if it is visually significant
+    unilateral or asymmetric
+      remove before 6 w of age
+    bilateral and symmetric
+      remove before 10 w of age
+    consider a modified capsulorrhexis
+      2-incision push-pull technique
+        helps control the highly elastic capsule
+    primary posterior capsulotomy
+    primary anterior vitrectomy
+    older than 1 y
+      implant an acrylic IOL
+      aim +1-2 D
+      make sure eyes are matched with postop MRx
+    younger than 1 y
+      sequential surgery
+      aphakic spectacles at first
+      subsequent IOL implantation
+        after 1 y of age
+
+  treat any amblyopia
+    starting immediately after surgery

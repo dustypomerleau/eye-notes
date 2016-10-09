@@ -1,0 +1,446 @@
+ET
+
+// see strabismus.txt
+
+ET DDx
+
+  infantile ET
+    risk factors
+      FH strabismus
+      maternal smoking
+      premature birth
+      low birth weight
+      developmental delay
+    VA measurement
+      infants
+        CSM
+        objection to occlusion
+        Teller PL cards
+    amblyopia
+      RARE: preoperatively
+        check for alternating fixation
+      COMMON: postoperatively
+    latent nystagmus
+      horizontal jerks
+      away from the occluded eye
+    large angle
+      usually 30+ ∆
+    DVD
+    IOOA
+    refractive error
+      usually mild
+      big refractive error
+        broaden DDx
+        correct refraction before surgery
+          may have an accomodative component
+    surgery
+      stable angle for 2 months
+      4+ months of age
+      younger is better
+        improves binocularity
+        outcomes worse beyond age 2
+        downside
+          early surgery triples amblyopia risk
+      under 50 ∆
+        BL MR recessions
+      secondary surgeries are COMMON
+        consecutive XT
+          high amblyopia risk
+          operate quickly
+        IOOA
+          IO myotomy
+          IO recession
+          IO anterior transposition
+            also helps DVD
+        DVD
+          usually observe
+          if spontaneous and frequent
+            SR recession
+              ± Faden posterior fixation suture ||
+                IR resection
+          if concurrent IOOA
+            IO anterior transposition
+      goals
+        motor fusion
+        cosmesis
+        monofixation with good alignment is OK
+        true stereopsis is variable
+      PEDIG RE: surgical timing
+        long wait for stable angle did not improve final alignment
+        early surgery improved binocularity
+        early surgery should be favoured
+          assuming good amblyopia monitoring
+
+  accomodative ET
+    usually older
+      0.5-7 years
+    classic presentation
+      1-2 year-old
+      high hyperopia ~ 4 D
+      starts intermittently
+      progresses to constant ET
+    risk factors
+      FH strabismus
+    calculate AC/A
+      gradient
+        test at 1/3 m
+        ∆ deviation as accomodation increased with lenses
+      heterophoria
+        ∆ deviation going from 6 m to 1/3 m
+      high AC/A
+        more than 10 ∆ greater at near
+        if you must do the math:
+          AC/A = IPD (cm) + (∆n - ∆d)/D
+            D usually = 3 going from 6 m to 1/3 m
+    treatment
+      pure refractive accomodative ET
+        give full cycloplegic Rx
+          try to give it all
+          1 D less may be necessary to foster tolerance
+        if they don't correct fully
+          repeat the cycloplegic refraction
+          adjust the glasses
+        glasses must be worn full-time
+        ET may get worse at first
+          counsel parents
+      high AC/A accomodative ET
+        bifocals
+          flat-top
+          bisect the pupil
+          up to +3 D add if needed
+        goal
+          fusion at all distances
+          angle 10- ∆ at near
+        update glasses periodically
+          hyperopia increases for 5-7 years
+      miotics
+        poorly tolerated
+        rarely used
+      surgery
+        always repeat the cyclorefraction first
+        appropriate only in patients with partially accomodative ET
+          i.e. residual ET at distance when fully corrected
+        if they do need surgery
+          don't delay it
+          allow 1-2 weeks for glasses to work
+          if no better => OT
+          operate on largest near angle with full correction
+          BL MR recessions
+          overshoot 10 ∆
+            increases risk of consecutive XT
+            also increases their chances of binocularity
+          monofixation outcome is common and OK
+          stereopsis will be impaired even if they are straight
+      red flags
+        ET looks accomodative but
+          sudden onset
+          child over 7
+          no hyperopia
+          CN palsies
+          papilloedema
+          ALWAYS: MRI
+
+  acquired ET
+    usually older than 6 m
+    no accomodative component
+      distance and near deviations are the same
+    low threshold for MRI
+      trauma
+      headache
+      no media opacity to explain the ET
+      rule out
+        pontine tumours
+        intracranial bleed
+    types
+      basic acquired ET
+      sensory acquired ET
+        cataract
+        media opacity
+      divergence insufficiency
+        worse at distance
+    treatment
+      rule out neurologic causes as above
+      address amblyopia
+        especially in sensory acquired ET
+      prism adaptation first
+      then surgery
+        ± BOTOX
+
+  Duane1 syndrome
+    8/10 Duane syndrome are Duane1
+      Duane1
+        usually ET in 1˚
+        head turn to the affected side
+        usually has near-normal adduction
+      Duane2
+        usually XT in 1˚
+        head turn to the normal side
+        usually has near-normal adduction
+      Duane3
+        can be straight, ET, XT in 1˚
+        head turn to the affected side
+        poor adduction
+    all Duane is some form of CN3 innervation of the LR
+    ET in Duane1 is smaller than CN6P
+      ~ 10 ∆
+      good binocularity and stereopsis
+    exam
+      key finding is limited abduction
+      on adduction
+        globe retraction
+        fissure narrowing
+        upshoots & downshoots
+    Duane syndrome systemic associations
+      AD || AR Wildervanck syndrome
+        hearing loss
+        fused cervical vertebrae
+      sporadic Goldenhar syndrome
+        hemifacial microsomia
+        preauricular skin tags ||
+        hypoplastic ear
+        eyelid colobomas
+        ocular dermoids
+      AD Duane-radial ray syndrome
+        weird thumbs
+          missing
+          extra
+          fingerlike
+        missing forearm bones
+          fused radius + ulna
+    treatment
+      usually observe
+        indications for surgery
+          large ET
+          large abduction deficit
+            one or both MR recessions
+              ± vertical recti transpositions
+          marked AHP
+          loss of binocularity
+            loss of prior AHP
+          severe upshoots/downshoots
+            Y-splitting of LR
+            recession of both MR & LR
+
+  residual ET
+    adults
+    complex cases
+      prior surgical scarring
+      unpredictable surgical outcomes
+    ALWAYS:
+      postop diplopia test
+      adjustable sutures
+
+  CN6P
+    adults
+      should have diplopia
+        if no diplopia consider
+          Duane1
+          congenital CN6P
+      exam
+        worse at distance
+        duction > version
+        worse in abduction
+        slowed abducting saccades
+      isolated CN6P DDx
+        microvascular ischaemia
+          50+ YO
+          + vascular risk factors
+            referral to GP
+          recovery within 12/52
+          ALWAYS: screen for GCA if they are old
+        trauma
+        tumour
+        meningitis
+        demyelinating disease
+        elevated ICP
+        cavernous sinus aneurysm
+        // see the 6 syndromes below
+      if not typical for microvascular CN6P
+        MRI
+        ESR
+        CRP
+        ANCA
+        LP
+        MG testing
+          clinical exam
+          antiAchR Ab
+      treatment
+        surgery
+          wait 6 months before doing any surgery
+            need stable angle
+            may recover spontaneously
+          partial CN6P
+            R & R with an adjustable suture
+          complete CN6P
+            SR + IR transposition to the LR insertion
+              ± fellow eye MR BOTOX ||
+                fellow eye MR recession
+          complications
+            COMMON: induced vertical strabismus
+              watch for AHP postop
+        BOTOX useful as an adjunct
+          acute symptomatic relief
+          to boost the effect of transposition surgery
+    children
+      isolated CN6P in children is RARE
+        DDx CN6P in a child
+          trauma
+          febrile illness
+          brainstem tumour
+        history
+          HA
+          nausea
+        exam
+          papilloedema
+          hemispheric signs
+            aphasia
+            hemianopia
+          posterior fossa signs
+            ataxia
+            nystagmus
+            facial palsy
+        ALWAYS: MRI kids with CN6P
+          if MRI normal
+            LP to exclude
+              elevated ICP
+              meningitis
+      example
+        sudden onset ET in a 2 YO
+          hyperopic?
+          acute face turn?
+            indicates incomitance
+          if hyperopic with no face turn
+            try glasses
+            if glasses correct the ET
+              no scan
+          if there is a face turn
+            ALWAYS: scan
+            regardless of hyperopia
+          if there is no hyperopia and no face turn
+            ALWAYS: scan
+            consult neurology to evaluate the 6 syndromes of CN6P
+              6 syndromes of CN6P
+                brainstem syndrome
+                  posterior fossa
+                    compressive
+                    ischaemic
+                    inflammatory
+                      MS is a common cause of the brainstem CN6P syndrome
+                  in this location you can see concurrent
+                    contralateral hemiparesis
+                      pyramidal tracts
+                    CN[578]P
+                      CPA tumours are a subset of posterior fossa tumours
+                      // see strabismus.txt for CPA DDx
+                    INO (1.5 syndrome)
+                      MLF
+                    ipsilateral Horner syndrome
+                      central sympathetics
+                      CN6P + Horner can also happen in the cavernous sinus
+                increased ICP syndrome
+                  stretches CN6 where it passes over the petrous temporal bone
+                  COMMON: in IIH
+                    look for CN6P in patients with papilloedema
+                  ALSO:
+                    any pathology in the subarachnoid space
+                      bleed
+                      meningitis
+                      sarcoid
+                      infiltration
+                        leukaemia
+                        lymphoma
+                        mets
+                petrous apex syndrome
+                  direct pressure on CN6 against the petrous temporal bone
+                    complicated otitis media
+                      extradural abscess
+                    petrous apex syndrome can present like a CPA lesion
+                      review of CPA lesions
+                        // see strabismus.txt for CPA DDx
+                        meningioma
+                        acoustic neuroma
+                        look for CN[578]P
+                          CN5P
+                            loss of facial sensation
+                          CN7P
+                            facial paralysis
+                          CN8P
+                            hearing
+                            vestibular symptoms
+                          CN6P is RARE with CPA lesions
+                            check motility in any CN[578]P
+                            if CN6P is present consider petrous apex syndrome
+                cavernous sinus syndrome
+                  CN[345(1|2)6PS]P
+                    nasopharyngeal carcinoma
+                      COMMON: CN6P + 5(2) pain or sensory loss
+                    ICA aneurysm
+                    CC fistula
+                      3/4 have a history of head trauma
+                    meningioma
+                    craniopharyngioma
+                    mets
+                    Tolosa-Hunt
+                      // see CN3P DDx in HT-vertical-strabismus.txt
+                    ...
+                    immunocompromised
+                      Aspergillus
+                      Mucor
+                  CN3P is usually incomplete
+                  CN4 is almost never involved in isolation
+                  CN6 is involved in isolation with CC aneurysms
+                    but usually with tumours CN6 would not be involved alone
+                  the pupil is not reliable in cavernous sinus lesions
+                    both sympathetic and parasympathetic fibres run in the CS
+                    the pupil can favour the CN3P aspect or the Horner aspect
+                    COMMON: pupil sparing
+                      apparent pupil sparing sometimes due to P + S damage
+                orbital syndrome
+                  proptosis
+                  chemosis
+                  poorly reactive pupil
+                    CN3P style
+                    Horner style
+                      proptosis can mask ptosis
+                  disc swelling
+                  CN5(1|2)P with anaesthesia
+                  // see orbital-mass.txt
+                isolated CN6P
+                  covered above
+              if there is evidence of one of the first 5 syndromes of CN6P
+                scan today
+                isolated CN6P is really the same as the face turn example above
+              if there is no evidence of the first 5 syndromes of CN6P
+                i.e. 6th syndrome AKA isolated CN6P
+                scan within 1-2/12
+                  in an adult with ischaemic demographics
+                    you can wait a bit longer
+                    still expect improvement of ischaemic CN6P in 12/52
+
+  convergence spasm AKA spasm of the near reflex
+    usually functional
+    RARELY:
+      brainstem pathology
+      demyelinating disease
+    MRI brain and orbits
+      rule out above
+      rule out CN6P
+    pseudomyopia that resolves with cyclorefraction
+    ask about social factors
+      kid needs attention
+      secondary gain
+    treatment
+      cycloplegics
+      placebo drops
+
+  age-related distance ET
+    elderly patients
+    small ET
+      due to LR-SR muscle band involution
+    worse at distance
+    usually they already wear glasses
+      will gladly accept a little prism to fix this
+
+  MG
+
+  GCA

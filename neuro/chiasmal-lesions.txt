@@ -1,0 +1,76 @@
+chiasmal lesions
+
+  DDx
+    COMMON:
+      pituitary adenoma
+        if the onset of a bitemporal hemianopia is acute
+          assume pituitary apoplexy || suprasellar aneurysm
+            haemorrhage into a preexisting pituitary adenoma
+              severe HA
+              mental status changes
+              CN deficits
+          ALWAYS: MRI
+          labs
+            prolactin
+            GH
+            ACTH
+            TSH
+          pituitary apoplexy is life threatening
+            deficiency of all pituitary hormones
+            cortisol deficiency is the most dangerous
+            ADMIT for imaging and hormone replacement
+            multidisciplinary
+              endocrine
+              neurosurgery
+                may need decompression
+          for isolated prolactinoma
+            endocrine + neurosurgery to follow
+              will usually start with bromocriptine
+              may need transsphenoidal decompression
+                progressive vision loss || VF loss despite medical therapy
+    ALSO:
+      meningioma
+      craniopharyngioma
+      suprasellar ICA aneurysm
+    RARELY:
+      TB
+      lyme
+      sarcoid
+      MS
+
+  hemifield slide phenomenon
+    loss of overlapping ganglion cell receptive fields
+      from corresponding areas of nasal and fellow temporal retina
+    loss of fusion
+    inability to suppress a natural phoria
+    then becomes a tropia
+    causes diplopia
+
+  post-fixational blindness
+    temporal visual field gives stereo context to objects beyond fixation
+    bitemporal hemianopia causes post-fixational blindness
+      images beyond fixation fall on the temporal visual field
+    exacerbated by hemifield slide
+
+  band atrophy
+    fibres responsible for the nasal macula
+      enter straight into the nerve via the PMB
+    fibres from the nasal peripheral retina
+      enter straight into the nasal aspect of the disc
+    fibres from the temporal macula and temporal retina
+      sweep into the superior and inferior poles of the disc
+    compression the decussating nasal fibres in the chiasm
+      causes atrophy at 0300 & 0900
+      results in a bowtie or band atrophy pattern
+
+  VF patterns
+    COMMON: bitemporal hemianopia
+    ALSO:
+      bitemporal superior quadrantanopia
+      bitemporal inferior quadrantanopias
+      unilateral temporal hemianopia
+      junctional scotoma
+        compression at the junction of the nerve and chiasm
+        central field loss on the affected side
+          small scotoma up to complete VF defect
+        ST defect in the fellow eye

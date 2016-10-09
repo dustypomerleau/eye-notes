@@ -1,0 +1,555 @@
+DR pathogenesis
+  microangiopathy
+  capillary occlusion
+    may be reversible
+      leukostatic plugging
+      VEGF plays a role
+  breakdown of the blood-retinal barrier
+    retinal hemorrhages
+    exudates
+    edema
+  eventually
+    AV shunts
+    neovascularisation
+
+DR grading (ETDRS)
+  no apparent retinopathy
+  mild NPDR
+    MA only
+  moderate NPDR // determined by standard photo but for clinical purposes
+    multiple IRH
+  severe NPDR
+    4/4 IRH
+    2+/4 VB
+    1+/4 IRMA
+  very severe NPDR
+    2+ severe features
+  PDR
+    new vessels
+  high-risk PDR
+    1/4+ disc of NVD ||
+    VH/PRH 2˚ NV
+
+antiVEGF in PDR
+  DRCR-S (2015)
+    305 patients with PDR
+      nearly 1/3 participated with both eyes
+        1 eye got PRP
+        fellow eye got Lucentis
+          Does this make PRP look better than it should?
+          consider fellow eye effect
+    2 groups
+      PRP over 1-3 visits
+      Lucentis q 4/52 x 3 or until NV resolved, then prn
+        treated for visible NV on exam or photos
+        rescue PRP allowed at the investigator's discretion
+          treatment 'failure' or 'futility'
+      both groups were allowed prn Lucentis for DME
+        VA 6/9- && CST 2 SDs thicker than gender and age-matched controls
+        1/2 of the PRP group got Lucentis for DME over 2 years (!)
+      macular laser was allowed at the investigator's discretion
+    VA outcomes were similar
+      remember this study is not primarily a DME study, but a PDR study
+    RD
+      PRP 10%
+      Lucentis 6%
+    PPV
+      PRP 15%
+      Lucentis 4%
+    numbers for NVI, NVG, VH were low and similar between groups
+    1/2 of the Lucentis group improved 2+ steps on the DRSS (!)
+
+DME
+  first described
+    Arnall Patz (1973)
+  WESDR
+    untreated
+      30% of DM get CSDME over 20 years
+    very compliant population
+      real numbers are probably worse
+  BDES (Wisconsin) and BMES (Aussies 49+)
+    no longitudinal data on DR
+    rates of DME are low at presentation
+      ~ 5%
+  DCCT
+    intensive glucose control
+      DR gets worse before it gets better
+      long-term outcomes much better
+        including DME
+  ETDRS (1987+)
+    laser reduces rate of 3-line losers @ 3 years
+        CSDME 33% => 13%
+        all DME 24% => 12%
+      vision gain was RARE in ETDRS
+        under 3% in the laser group
+        backed up by RESTORE
+          Lucentis versus Lucentis + laser
+          vision gains were equal @ 1 year
+  intravitreal triamcinolone
+    Martidis (2002)
+  DRCR-B (2008)
+    693 patients with centre-involving DME
+    laser versus 2 doses of PF triamcinolone
+      actually Allergan's product (Trivaris)
+      we assume Alcon's Triesence to be equivalent or better
+    prior treatment OK
+      excluded
+        laser in the last 4/12
+        steroid in the last 6/12
+    treated every 4/12 prn over 3 years
+      observed if
+        6/7.5+
+        OCT dry (225- µm)
+        'apparently futile'
+        laser group: no untreated areas present on FFA
+    tortoise and the hare
+      laser had better VA and anatomy at 12+/12
+  BOLT (2010)
+    Avastin versus laser
+    80 patients
+      lost 15
+    3 centres
+      London
+      Sydney
+    prior treatment OK
+      excluded
+        any treatment in the last 3/12
+    2 groups
+      Avastin
+        q 6/52 x 3 then
+        q 6/52 prn until CST stable x 3
+          in year 2
+            mean 4 injections
+      laser
+        mETDRS q 4/12 prn
+    3-line gainers
+      Avastin 32%
+      laser 4%
+    3-line losers
+      Avastin none (!)
+      laser 14%
+  DRCR-I (2010)
+    361 patients with centre-involving DME
+    excluded
+      any treatment in the last 4/12
+    protocol was COMPLICATED
+      immediate focal laser +
+        sham
+        Lucentis
+        Trivaris
+      Lucentis + prn laser @ 24+/52
+    sham and Triesence groups did poorly
+    focus was on the 2 Lucentis groups
+      all got Lucentis q 4/52 x 4 then
+      q 4/52 until
+        6/6
+        CST 250-
+        plateau
+          5- letter change
+          10-% anatomic change
+      laser q 13/52 prn if not improving
+        investigator discretion
+    mean 12 injections in year 1
+      for both Lucentis groups
+    VA and anatomic outcomes were similar
+      deferred laser did slightly better
+      3/4 needed no laser at all (!)
+  RESTORE (2011 P3)
+    345 patients with centre-involving DME
+      Australia
+      Canada
+      Europe
+    excluded
+      laser or antiVEGF in the last 3/12
+    3 groups
+      laser at baseline and q 3+/12 prn ETDRS CSDME
+      Lucentis q 4/52 x 3 and until plateau, then prn
+      Lucentis + laser
+    all patients thought they got both treatments
+      sham injections and laser were used on the same schedule
+    3-line gainers
+      laser 8%
+      Lucentis 23%
+      Lucentis + laser 23%
+    3-line losers
+      laser 8%
+      Lucentis 1%
+      Lucentis + laser 3%
+    average of 7 injections over 1 year in both groups (!)
+    summary: laser doesn't help
+  RISE + RIDE (2012 P3)
+    RISE
+      USA
+    RIDE
+      South America
+    750 patients with centre-involving DME
+    q 4/52
+      sham
+      0.3 mg Lucentis
+      0.5 mg Lucentis
+    3-line gainers (RISE/RIDE)
+      sham 18%/12% (!)
+      0.3 mg 45%/34%
+      0.5 mg 39%/46%
+    3-line losers
+      sham 10%/9%
+      0.3 mg 2%/2%
+      0.5 mg 2%/4%
+    6/12+
+      sham 38%/35%
+      0.3 mg 60%/54%
+      0.5 mg 63%/62%
+    rescue laser allowed
+      q 3/12 @ 3+/12
+      OCT criteria
+        CST 250+ µm
+        ∆ CST 49- µm
+      any laser
+        sham 75%
+          mean treatments 1.8
+        Lucentis 40%
+          mean treatments 0.8
+    support use of antiVEGF for DME even in MNP
+      VA gains were seen even in MNP
+      apparent MNP may improve with antiVEGF
+        VEGF promotes leukostatic plugging of capillaries
+    3/4 showed 2 step DRSS improvement (!)
+    adding laser or steroids did not improve outcomes over antiVEGF alone
+  DA VINCI (2012 P2)
+    221 patients with centre-involving DME
+    Eylea versus laser
+      rescue laser allowed
+        CSDME by ETDRS criteria
+        24+/52 in Eylea groups
+        16+/52 in the group receiving laser at baseline
+    groups
+      Eylea 0.5 mg q 4/52
+      Eylea 2 mg q 4/52
+      Eylea 2 mg q 4/52 x 3 then q 8/52
+      Eylea 2 mg q 4/52 x 3 then prn
+      baseline laser
+    laser outcomes were dramatically inferior
+      1/3 of laser patients lost vision
+        when they lost vision they lost a lot
+      only a handful of Eylea patients lost vision
+        when they lost vision they lost only a little
+    Eylea groups were similar
+      slight advantage to Eylea 2 mg q 4/52
+      prn group got 7 injections in the first year
+        similar to the Eylea 2 mg q 8/52 group
+  MEAD (2014 P3)
+    1048 patients with centre-involving DME
+      2 trials over 3 years
+    most previously treated
+    excluded
+      antiVEGF or laser in the last 3/12
+      steroid in the last 6/12
+    3 groups treated @ 6+/12 intervals prn for 3 years
+      sham
+      Ozurdex 0.35 mg
+      Ozurdes 0.7 mg // 0.7 went on to become the standard dose of Ozurdex
+    no rescue laser
+    3-line gainers
+      sham 12% (!)
+      Ozurdex 0.35 mg 18%
+      Ozurdex 0.7 mg 22%
+    3-line losers were RARE
+    timing of CEIOL makes VA analysis very difficult in Ozurdex groups
+    number of treatments
+      Ozurdex groups
+        half the patients got 4- treatments
+        half the patients got 5+ treatments
+    IOP
+      1/3 of both Ozurdex groups needed drops
+      2 Ozurdex patients (1 in each group) needed a trab
+    cataract surgery
+      nearly 2/3 of Ozurdex groups
+      7% in the sham group
+    comments from ASRS 2016
+      Ozurdex
+        fewer IOP spikes
+        can migrate
+          if Ozurdex gets into the AC
+            it must come out
+            cornea will decompensate
+      Rosenfeld and others: steroids are the only drug shown safe in pregnancy
+        although Triesence is listed as category D
+          systemic steroids in the 1st trimester
+            low birth weight
+            cleft lip and palate
+  VIVID + VISTA (2014 P3)
+    872 patients with centre-involving DME
+      VIVID (Europe, Japan, Australia)
+      VISTA (USA)
+    3 groups
+      laser
+      Eylea 2 mg q 4/52
+      Eylea 2 mg q 4/52 x 5 then q 8/52
+    at 24+ weeks
+      Eylea groups could get rescue laser
+      laser group could get rescue Eylea
+        once switched, they stayed switched
+        Eylea 2 mg q 4/52 x 5 then q 8/52
+      rescue criteria
+        10+ letter loss x 2 visits
+        15+ letter loss from BCVA && worse than baseline
+    at 100+ weeks
+      laser group was switched to Eylea
+      same protocol as rescue
+    3-line gainers @ 1 year (VIVID/VISTA)
+      laser 9%/8%
+      Eylea q 4/52 32%/42%
+      Eylea q 4/52 x 5 then q 8/52 33%/31%
+    3-line losers @ 1 year (VIVID/VISTA)
+      laser 11%/9%
+      Eylea q 4/52 1%/1%
+      Eylea q 4/52 x 5 then q 8/52 0%/1%
+      2-year results were similar
+  DRCR-T
+    660 patients with centre-involving DME
+    3 groups
+      Avastin 1.25 mg
+      Eylea 2 mg
+      Lucentis 0.3 mg
+    rescue laser was allowed @ 24+/52 and was COMMON
+      Avastin 64%
+      Eylea 41%
+      Lucentis 52%
+    outcomes were SIMILAR and generally not statistically significant @ 2 years
+      3-line gainers
+        6/12+
+          Avastin 17%
+          Eylea 20%
+          Lucentis 19%
+        6/15-
+          Avastin 52%
+          Eylea 58%
+          Lucentis 55%
+      3-line losers
+        6/12+
+          Avastin 2%
+          Eylea 3%
+          Lucentis 1%
+        6/15-
+          Avastin 4%
+          Eylea 2%
+          Lucentis 2%
+      2-line gainers
+        6/12+
+          Avastin 41%
+          Eylea 50%
+          Lucentis 46%
+        6/15-
+          Avastin 66%
+          Eylea 76%
+          Lucentis 71%
+      2-line losers
+        6/12+
+          Avastin 4%
+          Eylea 4%
+          Lucentis 1%
+        6/15-
+          Avastin 9%
+          Eylea 5%
+          Lucentis 2%
+    only 1 primary outcome measure had a P < 0.05
+      total letters gained @ 2 years for Eylea versus Avastin in the 6/15- group
+        Avastin +13
+        Eylea +18
+        Lucentis +16
+      make of this what you will but it's not overwhelming
+  TREX-DME
+    presented by John Payne at ASRS 2016
+    treat and extend with 0.3 mg Lucentis ± laser
+    laser added nothing
+      acuity outcomes were the same
+      injection burden was the same
+  BOULEVARD (2017 P2) // pipeline
+    bispecific Ab (Roche RG7716)
+      Ang2 + VEGFA
+    3 groups
+      Lucentis q 4/52 x 6
+      RG7716 1.5 mg q 4/52 x 5 then sham x 1
+      RG7716 6 mg q 4/52 x 5 then sham x 1
+    AMD study is AVENUE
+    Angipoietin 2
+      inflammatory growth factor
+      binds to a receptor tyrosine kinase named Tie2
+      proinflammatory
+        monocyte infiltration
+      proangiogenesis
+      causes apoptosis in pericytes
+  DRIL
+    loss of boundaries
+      GCL-OPL
+    predicts angiographic MNP
+    not specific to DR
+  Cost
+    Triesence 124 USD (Alcon)
+    Ozurdex 1300 USD (Allergan)
+    Avastin //... finish these
+    Eylea (Regeneron/Bayer)
+    Lucentis (Genentech/Novartis)
+
+medical therapy
+  FIELD (2007)
+    fenofibrate reduces need for laser in DR
+      macular laser + PRP grouped
+      40% reduction in laser events
+    eye outcomes were a secondary measure
+    no statistically significant change in progression of DR
+  ACCORD (2010)
+    intensive glycemic control reduces the rate of DR progression
+      progression defined as
+        3 steps on ETDRS scale
+        need for any laser
+        need for PPV
+    progression rates
+      standard therapy 10%
+      intensive glycemic control 7%
+      dyslipidemic group
+        includes members of standard and intensive
+        all got simvastatin
+        randomised to fenofibrate or placebo
+        fenofibrate 7%
+        placebo 10%
+      BP group
+        those not included in the dyslipidemic group
+        randomised to intensive BP control or standard
+        no benefit was seen to intensive BP control WRT retinopathy
+  FIELD and ACCORD don't seem to agree on fenofibrate value for DR progression
+    FIELD treated laser separately
+    ACCORD lumped laser in with progression
+    fenofibrate may not add much to intensive control
+    but intensive control comes at a cost
+      if intensive control is too risky
+      value of fenofibrate?
+
+rapid worsening of DR
+  pregnancy
+  rapid tightening of control
+
+when you are shown a posterior segment with PDR || RVO
+  mention the risk of NVG
+
+for any question about DR
+  ALWAYS: mention GP and systemic control
+
+asymmetric DR
+  Gay and Rosenbaum (1966) found carotid stenosis was protective against DR
+    this has *never* been consistently replicated and is probably bullshit
+    actually it wasn't even carotid stenosis
+      ophthalmodynamometry was performed on 10 patients
+    10/250 patients assessed had 2+ 'stages' of difference in DR
+      classification was Ballantyne (1946)
+        remember this predates the DRS
+        stages 3-5 are all PDR!
+
+=begin
+"Based upon the retinal changes in 178 diabetics, BALLANTYNE (1946) divided the retinopathy into 5 stages according to their relation to the development of retinopathy. The first stage included microaneurysms with or without punctate haemorrhages and punctate exudates. The second, dot and blot haemorrhages and waxy exudates. The third, periphlebitis and phlebosclerosis, new-formed intra and preretinal vessels, increasing haemorrhages in the retina and vitreous, massive exudates, retinitis proliferans and detachment of the retina. The fourth, further advance in vessel changes, increase in vitreous haemorrhage and exudates, destruction of the retina. The fifth, a  mixed form, included most of the above-mentioned changes and hypertensive changes."
+
+or from the Gay paper itself
+  1. Microaneurysms, minute hemorrhages, and punctate exudates.
+  2. Dot and blot hemorrhages, waxy exudates either discrete or confluent.
+  3. Retinal hemorrhages, irregular expansion of veins, formation of knobs, loops, coils, and leashes ; newly formed intraretinal and preretinal plexuses; vascular tufts in the vitreous.
+  4. Intraocular hemorrhage ; retinitis proliferans, detachment of retina and vitreous, secondary glaucoma.
+=end
+
+    no carotid ultrasound was performed
+    8/10 patients had 15% difference in CRA diastolic pressure by ODM
+      this was assumed to indicate carotid occlusion on the lower side
+      the technique for ODM was not a modern doppler technique
+        the doctor simply observed the CRA using a direct ophthalmoscope
+    2/8 patients had audible carotid bruits
+  Duker (1990)
+    asymmetry
+      DRS high risk PDR with < preproliferative in the fellow eye
+        defined as CWS only!
+        VB and IRMA were deemed 'too dificult to quantify'
+      so carotid doppler was performed on only patients with
+        PDR in one eye
+        no PDR in the fellow eye
+        no CWS in the fellow eye
+    387 patients over 2 years
+    20/387 patients had asymmetric DR
+      these 20 patients had carotid dopplers
+    4/20 had haemodynamically significant carotid stenosis
+      defined as 75+% occlusion
+      2/4 had ipsilateral stenosis
+      2/4 had contralateral stenosis
+    concluded that carotid stenosis was not protective
+  Dogru (1998)
+    asymmetry was defined as PDR in 1 eye only for 2+ years
+      so SNPDR/PDR was considered asymmetric
+    19 patients were evaluated over 7 years (denominator?)
+    5/19 patients with delayed arm to retina time on FFA
+      delayed arm to retina time is not defined
+      ONLY these patients had carotid studies
+        all 5 had 90+% ipsilateral carotid stenosis
+          by doppler || carotid angiogram
+      low perfusion pressure on the ipsilateral side was confirmed by ODM
+        technique not described
+        low perfusion pressure by ODM is not defined
+    the other 14/19 patients
+      protective
+        PVD
+          some in the setting of AH
+          AH by itself had no bearing beyond absence of PVD
+        optic atrophy
+          AION
+          blunt trauma
+        high myopia
+    only 2 factors were statistically significant
+      ipsilateral carotid occlusion
+      no PVD
+
+cataract surgery in DR
+  for any DR question
+    ALWAYS: mention
+      involving GP
+      general DM control
+  postop complications
+    worsening PDR
+      NVI
+      NVG
+      TRD
+    DME
+    CME
+      petalloid
+      360
+      disc staining
+      OCT usually HFL
+        but DME can be here also
+    endophthalmitis
+  preop
+    GP evaluation
+    counselling
+      DM control
+      surgical risks as above
+    biometry
+      can be challenging
+        PSC
+        VH
+        TRD
+    in PDR
+      maximise PRP
+        preop slitlamp
+        intraop indirect
+    pretreat
+      topical steroids
+      NSAIDs
+    surgical timing
+      consider the state of the fellow eye
+      operate more urgently for "only eye" situations
+  intraop
+    large CCC
+      high risk of ACCS
+    monofocal acrylic lens
+      may need SO later
+    meticulous LEC cleanup
+    suture the wound
+  postop
+    always use NSAIDs
+    review
+      earlier
+      more often

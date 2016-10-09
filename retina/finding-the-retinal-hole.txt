@@ -1,0 +1,21 @@
+Finding the retinal hole – Lincoff – AO 1971
+
+Purpose – to formulate a method for finding a retinal hole based on the shape of the detachment.
+
+Methods – 1000 retinal detachment cases analyzed (216 had small (less than 1 quadrant) detachments, 279 had temporal or nasal detachments of more than 1 quadrant, 340 had superior detachments across both quadrants, 106 had total retinal detachment, 12 patients had central detachments because of macular holes).
+
+Principles
+
+1.  The ultimate shape of the detachment is a function of the location of the tear, the effects of gravity, and the anatomical limitations of the ora, nerve, adhesions, etc.
+
+2.  In a superior nasal or temporal detachment, the detachment will progress  first to the ora, then inferiorly and around to the other side of the nerve (think of the nerve as the center of the eye when it comes to retinal detachment). The detachment will not rise as high on the far side of this process, so the higher side of the detachment is the one with the hole. If there are multiple holes, the most superior hole is the “primary hole” because if it were present by itself it would result in the same area of detachment. In almost every case, the primary hole will be within a couple clock hours of the highest border of the detachment.
+
+3.  In an inferior detachment, the fluid moves first to the ora below the hole and then extends to either side. As in the previous example, it will rise higher on the side where the hole lies (equal fluid levels point to a hole at 6 o’clock – even a few millimeters away from 6 is enough to cause asymmetric fluid levels). Inferior detachments almost never progress to total retinal detachment unless there is traction on the retina. Similarly, the detachment will almost always rise higher on the side of the hole, unless there is traction on the opposite side or adhesions blocking the path of fluid on the side where the hole is located. Inferior detachments are usually shallow when the hole is inferior, so if the detachment is bullous, consider the possibility that a superior hole is connected to the detachment via  a peripheral sinus (the sinus will be more obvious if the patient lays so that side of the eye is dependent).
+
+4.  Detachments that cross the 12 o’clock meridian originate from holes close to 12 o’clock. These detachments are likely to become total, but if you catch them in evolution, the lower edge will correlate with the side of the hole. The further posterior the retinal hole, the more it can deviate from the 12 o’clock position and still cause a detachment that crosses the 12 o’clock meridian (to rephrase, the area where you are likely to find the hole looks like a triangle with its apex at 12 o’clock and it’s base (a couple clock hours across) at the equator. So if you see a hole inferiorly in a detachment that crosses the 12 o’clock meridian, you have to assume that you are missing the primary hole, and that surgery to repair the inferior break will fail if you don’t find the superior break.
+
+5.  Always look for a wedge of attached retina superiorly in an apparent total retinal detachment. If you do see a wedge of attached retina, you can usually discern a higher side and focus on finding the break on that side. These wedges can be really far peripheral so you need to look for them.
+
+6.  When you are examining a patient with a retinal detachment, first carefully draw the limits of the detachment and then search the appropriate area for the primary hole. After this you can search for secondary holes, which will often be in the same horizontal meridian as the primary hole and close to it.
+
+7.  If you can’t find a hole after a thorough search, and the the detachment fits into one of the classic categories described, it may be acceptable to treat the area where the break is most likely to lie based on the principles above.

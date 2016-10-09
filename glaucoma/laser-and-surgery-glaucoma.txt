@@ -1,0 +1,402 @@
+glaucoma laser
+
+  LTP
+    mechanism unclear
+      increased TM permeability
+      cytokine mediated at the cellular level
+    max ~ 25% reduction in IOP
+    success ~ 75% for ALT and SLT
+    only about half will be controlled without drops
+    avoid LTP in
+      angle scarring or membranes
+        PAS
+        angle recession
+        anterior segment dysgenesis
+        ICE
+      inflammatory glaucoma
+      NVA
+
+    ALT
+      pretreatment
+        apraclonidine 0.5%
+      argon 532 nm laser
+        Ritch LTP lens
+        50 µm spot size
+        100 ms duration
+        400-1000 mW
+          increase intensity until blanching or a small bubble forms
+        placed @ junction of pigmented and nonpigmented trabecular meshwork
+        // 50 burns per 180˚
+        3 burn-widths apart
+      postoperative
+        apraclonidine 0.5% immediately after treatment
+      IOP check
+        1-3 hours
+        POD 1
+      topical steroid
+        4 times a day for 4-7 days
+      re-evaluation
+        1/52
+        6/52
+      complications:
+        elevated IOP
+        progressive visual field loss
+        PAS formation
+        iritis
+        pain
+        potential decreased success of future filtering procedures
+
+    SLT
+      pretreatment
+        apraclonidine 0.5%
+        optional
+      532 nm YAG // for example Ellex Tango
+        Latina LTP lens
+        fixed 400 µm spot size
+        fixed 0.3 ns duration
+        aiming beam will not be in sharp focus
+        burns overlap the entire TM
+        titrate energy
+          below the threshold for bubbling and blanching
+            pigmented angles
+              0.3+ mJ
+            nonpigmented angles
+              0.8+ mJ
+        ~ 50 confluent burns per 180˚
+      360 treatment
+        compared to 180
+          drops IOP more
+          higher incidence of IOP spikes
+            particularly in pigmentary glaucoma || heavy pigmented angles
+      postoperative
+        NSAIDs || a mild steroid
+      25+% reduction @ 3-6/12 is an excellent response
+      short duration relative to the thermal relaxation time of the tissue
+        essentially no thermal damage
+        hence the repeatability
+      complications
+        IOP spikes
+        PAS formation
+        similar numbers to ALT
+        thought to be less inflammatory
+          literature has never proven this
+      follow-up
+        if you're going to treat 180 at a time
+          wait 8/52 before deciding on the effect of the first 180
+
+  LPI for ACG
+    indications
+      PACD
+        PACS
+        PAC ± G
+        APAC
+        fellow eye
+      MMG
+      plateau iris
+      nanophthalmos
+      pupillary block after CEIOL
+      imperforate surgical iridectomy
+      uveitis
+        PS
+        iris bombe
+      aqueous misdirection
+        diagnostic
+        allows access to hyaloid face for laser
+    risks
+      cataract
+      IOP spike
+      inflammation
+      PBK
+        described @ 20% 7 years out in one Japanese study
+        not reproduced in other populations
+    pretreat
+      apraclonidine 0.5%
+      pilocarpine 1%
+        debatable whether to use during acute attack
+        probably OK if you have a good view for the LPI
+    topical anaesthesia
+      tetracaine
+    Abraham iridotomy lens
+    dense irides
+      pretreat with Argon 532
+        // 20± spots in an iris crypt
+        50 µm
+        100 ms
+        100+ mW to start
+          can be increased considerably
+    YAG 2-10 mJ to punch through
+      start 5- mJ
+      3- pulses/burst
+        lens damage is possible @ 2+ mJ/pulse
+
+  ALPI
+    useful for
+      plateau iris
+      to improve anatomy for LPI // see PACD above
+      chronic ACG
+        lyse PAS
+    consent
+      inflammation
+      IOP spike
+      abnormal pupil shape or size
+    goal is to contract stromal collagen
+    generally
+      low energy
+      big spot size
+    pretreat
+      pilo
+      brimonidine || apraclonidine
+      proparacaine
+    lens
+      couple with viscous AT
+      direct
+        Abraham iridotomy (YAG LPI) lens
+        easier
+      indirect
+        single mirror lens
+        allows you to see the effect in the angle
+    settings
+      spot size 400+ µm
+      duration 300-500 ms
+      power 300-500+ mW
+    treat far periphery
+      with direct Abraham lens
+        may need to overlap the limbus with the spot
+    avoid TM
+    // 16± burns per 180˚
+    1+ burn widths between spots
+    titrate
+      visible contraction
+      no bubbles
+      no pigment dispersion
+    postop
+      check IOP @ 1 hour
+      topical steroids qid x 4 days
+
+  diode TSCPC
+    indications
+      elevated IOP with poor visual potential
+      pain relief in a blind eye with high IOP
+    ALWAYS: retrobulbar block
+    lid speculum
+    810 nm diode
+    fibre-optic G-probe
+      long edge of the footplate wedge points away from the limbus
+      1.5 mm from anterior footplate when positioned at the limbus
+      700 µm effective spot size
+      hold parallel to the visual axis
+        depress slightly for full contact
+    duration 4 seconds
+    1200-2200 mW
+      titrate just below the level of an audible pop
+    // 12 burns per 180˚
+      18 burns total
+        leave 1 quadrant untreated
+          to avoid anterior segment ischaemia
+      avoid ciliary nerves @ 3 & 9
+
+//
+
+
+glaucoma surgery
+
+  avoid trab with
+    NVI
+    uveitis
+    scarred conj
+    thin sclera
+
+  trabeculectomy (fornix-based, my preference)
+    7.0 vicryl corneal traction suture
+    lift conj with lidocaine
+    superior limbal peritomy
+      ± radial relaxing incisions
+    ~ 4 mm scleral flap
+      1/2 thickness
+      15˚ blade
+        base of the flap only
+      dissection with angled crescent
+        into clear cornea
+      open the sides of the flap with the 15˚
+    MMC 0.5 mg/mL for 2-5 minutes
+      concentration can be varied
+        0.3-0.5 mg/mL
+        maximum is '0.5 for 5'
+      hold the limbal margin of the conj away from the MMC
+      remove and irrigate
+    paracentesis and deepening of the AC
+      ± OVD if needed
+      alternative is AC maintainer
+    anterior horizontal incision with 15˚ blade
+    enlarge sclerostomy to about 2 mm across with a scleral punch
+      1 mm posteriorly is plenty
+      more than that risks CB bleeding
+    SPI with forceps and iris scissors
+    10-0 nylon flap closure
+      ± 4-throw adjustable knots
+      Khaw technique
+        permanent sutures at the corners
+        4 x adjustables
+          2 on either side of each permanent suture
+    irrigate AC with BSS and check flow
+      adjust knots or add sutures as needed
+    running/locking conj closure to limbus
+      9-0 vicryl
+      can recess in a 1/2 thickness corneal groove
+      Khaw technique
+        small purse string at each corner
+        single horizontal x 3 across the middle
+          in through the groove
+          underside to topside
+            ± 1-2 pursestring bites for corners
+          topside to underside
+          out through the groove
+    seidel to ensure closure is watertight
+    deepen AC
+    remove traction suture
+
+  Baerveldt (Ahmed similar without tucking under muscles)
+    7.0 vicryl corneal traction suture
+    limbal peritomy in quadrant of your choice
+      usually ST
+    isolate rectus muscles with muscle hook
+    place plate in position beneath muscles
+    suture plate to sclera
+    tie off tube
+      7-0 vicryl
+      2 mm from the plate ||
+      "rip-cord" suture
+    cut tube
+      bevel up
+      4 mm beyond the limbus
+    paracentesis and deepen the AC
+      ± OVD if needed
+    enter AC at the limbus with a 23-25 g needle
+    pass tube into AC
+    suture to sclera
+      couple of 9-0 nylon stitches
+    fenestrate the anterior portion of the tube at several points
+    cover with scleral patch graft
+      anchor graft with 10-0 nylon
+    close conjunctiva
+      running/locking closure
+      9-0 vicryl
+    seidel to ensure closure is watertight
+    deepen AC
+    remove traction suture
+
+  combined surgery
+    may decrease success rates
+    high-risk patients
+      filtering surgery alone
+      subsequent CEIOL
+
+
+//
+
+
+postop management
+
+flat AC after trabeculectomy
+  ask about
+    eye rubbing
+    trauma
+    straining
+      lifting
+      constipation
+    gush of fluid
+  determine
+    low IOP
+    high IOP
+  run DDx for each
+    seidel
+    exam
+      surgical emergencies
+        central IK touch
+        lens-K touch
+  adjust medications
+  temporising measures
+    e.g. scleral CTL
+  minor surgical interventions
+  complete reoperations
+    if endothelial contact
+      operate early to save the cornea
+
+low IOP after trabeculectomy
+  stop any glaucoma drops
+  shield
+  avoid lifting or straining
+  // not all items are appropriate for a question about a flat AC
+  overfiltration
+    look for loose flap sutures
+      especially adjustables
+    don't gonio a soft eye until you've ruled out a leak
+    if early after surgery
+      reduce steroids to help scarring
+    atropine
+    limbus-to-fornix Palmberg sutures
+      limits bleb size
+    transconjunctival scleral flap sutures
+    autologous blood patch
+    AC OVD (to temporise)
+    bleb revision with new flap sutures
+  bleb leak
+    2% fluorescein minims to identify
+      strips not used in AU
+    if early after surgery, reduce steroids to help scarring
+    ofloxacin cover
+    atropine
+    aqueous suppressants
+      key distinction
+        aqueous suppressants are OK in a leak but not overfiltration
+    doxycycline to inhibit MMPs
+    scleral CTL
+    fibrin glue
+    autologous blood patch
+    AC OVD (to temporise)
+    conjunctival graft ||
+    full bleb revision
+  wound leak
+  cyclodialysis cleft
+  RRD
+  serous suprachoroidal effusion
+  reduced aqueous production
+    medication-induced decrease in aqueous production
+    CB shutdown
+      // examiners aren't keen on this vague Dx - keep it low on the list
+  counsel the patient
+    hypotony increases the risk of blebitis || endophthalmitis
+  hypotony maculopathy
+    choroidal folds
+    OCT helps to distinguish folds from CME
+
+high IOP after trabeculectomy
+  // not all items are appropriate for a question about a flat AC
+  tight flap sutures
+  scarring
+    conjunctiva
+    flap
+    sclerostomy
+  blocked sclerostomy // AC usually deep
+    OVD
+    fibrin
+    blood
+    iris
+  trabecular outflow obstruction
+    AC inflammation
+      sterile
+      infectious
+        endophthalmitis
+        blebitis
+    retained OVD
+    hyphaema
+    spillover VH
+    angle closure
+      PAS
+      aqueous misdirection
+      suprachoroidal haemorrhage
+  pupillary block
+    PS
+      incomplete SPI
+      no SPI performed
+        pseudophakes

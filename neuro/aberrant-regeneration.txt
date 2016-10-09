@@ -1,0 +1,33 @@
+aberrant formation
+  Marcus-Gunn jaw winking
+    CN5 where CN3 should be
+    lid opens wide with jaw movement
+    // see ptosis.txt for full management
+
+
+//
+
+
+aberrant regeneration
+
+  aberrent regeneration of CN7
+    usually after Bell palsy
+      tears with cheek puffing AKA crocodile tears
+        BOTOX
+      ptosis with cheek puffing
+        excess OOM tone
+
+  aberrant regeneration of CN3 after CN3P
+    lid elevation in downgaze
+      lid-gaze dyskinesis
+    pupil constriction with eye movement
+      pupil-gaze dyskinesis
+    not ischaemic
+      ALWAYS: MRI
+
+  aberrant regeneration of CN3 without CN3P
+    primary aberrant regeneration of CN3
+    intradural aneurysms
+    meningioma near cavernous sinus
+    ALWAYS: MRI any time you see aberrant regeneration of CN3
+      whether there's been a palsy or not

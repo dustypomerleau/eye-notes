@@ -1,0 +1,255 @@
+cicatrising conjunctivitis DDx
+
+=begin
+SJS is used here to represent the full continuum
+  EM minor
+  EM major (SJS)
+  TEN
+=end
+
+  infectious
+    viral
+      adenovirus
+      VZV
+      infection-induced SJS
+        usually HIV + pneumocystis jiroveci
+        HIV + PJ => SJS
+    bacterial
+      HIV + PJ => SJS as above
+      trachoma
+      Streptococcus
+        usually beta-haemolytic
+          S. pyogenes
+          enterococcus
+      Corynebacteria
+      Neisseria spp.
+
+  inflammatory
+    inflammatory
+      sarcoid
+      rosacea
+      dermatitis herpetiformis
+        blistering rash on the extremities, back, and buttocks
+        gluten intolerance
+        coeliac disease
+          small bowel CA
+        skin biopsy
+        dapsone
+    autoimmune
+      GVHD
+      MMP
+        Foster grading // one of many systems
+          1
+            subepithelial fibrosis
+          2
+            shortening of the fornix
+          3
+            symblepharon
+          4
+            ankyloblepharon || motility restriction
+      SJS
+      linear IgA bullous dermatosis
+        autoimmune blistering skin disease
+        diagnosed by linear IgA deposition on skin biopsy
+      lupus
+      scleroderma
+      lichen planus
+        red bumps on the inner wrist
+        nail pitting
+        white dots on the tongue
+        gingivitis
+        oral ulcers
+        skin biopsy
+        topical and systemic steroids
+    allergic
+      atopic keratoconjunctivitis
+
+  idiopathic
+
+  iatrogenic
+    iatrogenic
+      radiation
+      GVHD
+    surgical
+      BROADLY: ocular surface surgery
+
+  neoplastic
+    solid tumours
+      SCC
+      morpheaform BCC
+      sebaceous cell carcinoma
+
+  DAMS
+    medications
+      medication-induced SJS
+        sulfonamides
+        anticonvulsants
+          carbamazepine AKA Tegretol
+          lamotrigine AKA Lamictal
+        NSAIDs
+        allopurinol
+      medication toxicity || hypersensitivity reaction
+        COMMON:
+          topical beta blockers
+          miotics
+          brimonidine
+        BROADLY: any BAC-preserved drop
+        ALSO: copanlisib
+          new lymphoma drug
+          SJS-like cicatrising conjunctivitis plus dermal reaction
+            chemical-like burns
+
+  genetic
+    inherited
+      AR epidermolysis bullosa
+        minor trauma causes skin and mucous membrane blisters
+        esophageal strictures are a risk here
+          just like in MMP
+        systemic steroids and antibiotics
+
+  trauma
+    trauma
+    thermal or chemical burns
+
+
+//
+
+
+treatment
+
+  SJS, MMP, and GVHD all start with:
+    PF lubricants
+      say Cellufresh
+        sounds Australian
+    antibiotic prophylaxis
+    ± punctal occlusion
+    topical cyclosporine A
+    scleral CTL to maintain the fornix
+    // don't lyse symblephara during active inflammation
+
+    SJS
+      ADMIT to a burn unit
+      stop the offending agent
+      systemic prednisone
+      IVIG
+      COMMON: amniotic membrane
+        trim eyelashes
+        create a custom symblepharon ring out of IV tubing
+        cover with amniotic membrane
+          ocular surface
+          fornices
+          meibomian glands
+          external eyelids
+        suture the AM to the eyelids
+
+    MMP
+      key findings
+        inferior symblepharon
+        inferior fornicial shortening
+        keratinised caruncle
+      ALSO:
+        trichiasis
+        entropion
+        punctal stenosis
+        subepithelial fibrosis
+        keratinised cornea and conjunctiva
+      older woman
+      inferior fornix 8- mm
+      subepithelial fibrosis over the tarsus
+      oral mucosal lesions
+        ulcers
+        angular stomatitis
+      systemic symptoms
+        laryngeal strictures
+          can be life threatening
+          ask about difficulty breathing
+          ALWAYS: consult ENT
+        esophageal strictures
+          ask about dysphagia
+        GI symptoms
+          constipation
+          melena
+          rectal bleeding
+        any mucous membrane can be affected
+          anus
+          vagina
+          urethra
+      conjunctival biopsy
+        bulbar conj
+          to avoid promoting symblepharon formation
+        in a quiet area
+        staining for anti-basement-membrane Ab
+        high false negative rate
+      skin biopsy
+        send salt-split skin for direct immunofluorescence
+        normal appearing perilesional skin is best
+      serum assay
+        serum can be sent for indirect immunofluorescence
+        confirms circulating anti-basement-membrane Ab
+        uses healthy salt-split skin as a substrate
+      dapsone
+        good for the slow simmering disease
+        titrate upward from 25 mg po daily
+        adjust weekly
+        usually quiets at 100-150 mg po daily
+        then taper over several months
+        follow FBC
+          can cause haemolytic anaemia
+          avoid in G6PD deficiency
+      if more acute or aggressive
+        per Jabs
+          rituximab
+            newer
+          cyclophosphamide
+            classic
+        per my previous reading
+          prednisolone 1 mg/kg/d to achieve short-term control
+          cyclosporine
+          cyclophosphamide
+          MTX
+          mycophenolate
+      recalcitrant cases
+        rituximab
+        infliximab
+      may need late surgery
+        usually for entropion
+
+    GVHD
+      cyclosporine
+      tacrolimus
+      topical steroids
+        high risk at home
+          immunosuppressed
+
+  surgery
+    don't do any surgery during active inflammation
+    lids first
+      later
+        amniotic membrane grafting
+        forniceal reconstruction
+    avoid corneal surgery unless there is excessive thinning or perforation
+      high failure rates
+    tarsal fracture with everting sutures
+    tarsoconjunctival or mucosal grafts
+      ear cartilage
+      sclera
+      hard palate
+
+
+//
+
+
+  trachoma //... to be completed
+    grading (T-FIST-CO)
+      follicular conjunctival inflammation (TF)
+        5+ UL
+        necrotic limbal follicles
+          become Herbert pits
+      diffuse conjunctival inflammation (TI)
+        1/2+ deep tarsal vessels obscured
+      Arlt line tarsal conjunctival scarring (TS)
+      aberrant lashes (TT)
+      corneal opacification (CO)
+    treatment
+      1 g azithromycin po
+      tetracycline ointment bd x 2/12

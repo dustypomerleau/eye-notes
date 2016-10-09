@@ -1,0 +1,214 @@
+// see infantile-corneal-opacity-and-anterior-segment-dysgenesis.txt
+
+corneal dystrophies
+  epithelial
+  Bowman
+  stromal
+  endothelial
+
+  epithelial
+    sporadic EBMD
+      thickened basement membrane
+      map lines
+      dots
+      fingerprints
+      really 2 forms
+        genetic
+        degenerative
+      associated with Salzmann nodular degeneration
+        elevated grey SE nodules made of epithelium
+        usually idiopathic or associated with DES
+        PTK ± MMC
+          fewer recurrences than lamellar keratectomy
+      treatment
+        debridement
+          may cause RCES
+          micropuncture
+          diamond burr polishing
+            debride epithelium with a blade or weck first
+            go 1 direction 10-15 seconds total across whole corneal surface
+          PTK
+            usually 5-10 µm ablation
+    AD Meesmann
+      mutation in the keratin gene
+      juvenile presentation
+      accumulation of degenerated epithelial cells
+        tiny bubbles against the red reflex
+    XLD Lisch
+      feathery whorls of microcysts
+      minimal effect on vision
+    AR gelatinous droplike
+      subepithelial amyloidosis
+      band K and NVK in the late stages
+
+  Bowman
+    TGFBI
+    childhood onset
+    CDB1 AKA AD Reis-Bucklers
+      dense reticular opacities at the level of Bowman
+    CDB2 AKA AD Thiel-Benke
+      central honeycomb opacities at the level of Bowman
+      spares peripheral cornea
+
+  stromal (MMA GHM LAC)
+    AD lattice
+      TGFBI
+      visual impairment in 30s
+      branching anterior stromal amyloid deposits with loss of Bowman
+
+    // lesions below this point
+    //   generally too deep for superficial keratectomy and laser keratectomy
+
+    AD granular
+      TGFBI
+      childhood onset
+      granular hyaline deposits
+        sharp and defined
+        span the full depth of stroma
+        intervening spaces are clear
+      granular 1
+      granular 2 == Avellino
+        snowflakes
+    AR macular
+      childhood onset
+       stromal haze to the limbus
+       round central opacities
+        hazy and soft around the edges
+        space between the lesions is hazy
+    AD Schnyder
+      diagnosed in 20s
+      stromal lipid deposits cause a ring opacity
+        ± crystals in 1/2
+          corneal crystals DDx
+            infectious crystalline keratopathy
+              // see infectious-keratitis.txt
+            AD Schnyder corneal dystrophy
+              central
+              SE
+              progressive
+            AR Bietti crystalline dystrophy
+              // see retinal-dystrophies.txt
+              yellow-white
+              refractile
+              peripheral
+            AR cystinosis
+              // see retinal-dystrophies.txt
+              diffuse
+              also present in
+                conjunctiva
+                TM
+            MM
+              probably deposition of IgG light chains in the stroma
+    AD CSCD
+      diffuse clouding without oedema in an infant
+    AD fleck
+      dandruff opacities in an infant
+      not VS
+    AD central cloudy dystrophy of Francois
+      AD inherited posterior crocodile shagreen appearance
+
+  endothelial
+    sporadic FECD
+      guttae on the posterior aspect of Descemet
+      pleomorphic endothelial cells
+      oedema in advanced cases
+    AD(VP) PPCD
+      childhood onset
+      fusiform collagen plaques on Descemet
+        snail tracks
+        donuts
+    AR CHED AKA Maumenee
+      milky corneal clouding and oedema at birth
+      stationary
+      early PK to prevent amblyopia
+
+
+//
+
+
+  not AD
+    sporadic EBMD
+    XLD Lisch
+    AR gelatinous
+    AR macular
+    sporadic FECD
+    AR CHED
+
+    // macular and CHED Maumenee are recessive
+    //   most likely to be tested
+
+
+  TGFBI dystrophies (5q31)
+    CDB1
+    CDB2
+    lattice
+    granular
+
+
+//
+
+
+  cornea verticillata AKA vortex keratopathy
+    amiodarone
+    chloroquine & hydroxychloroquine
+    indomethacin
+    phenothiazines
+      chlorpromazine
+    Fabry disease
+      XLR alpha galactosidase deficiency
+      cornea verticillata
+      spokelike cataract
+      paresthaesias
+      angiokeratomas
+      decreased sweating
+      renal failure
+      stroke
+
+  ICE syndrome
+    COMMON: middle-aged women
+    sporadic
+    unilateral
+    types
+      Chandler syndrome
+        corneal oedema
+          COMMON: microcystic
+        beaten metal
+        epithelialisation of the endothelium
+      essential iris atrophy
+        angle and iris involved
+        corectopia
+        pseudopolycoria
+        iris atrophy
+      Cogan-Reese
+        iris naevus variant
+        tan pedunculated nodules
+        diffuse mottled and pigmented lesions
+    glaucoma
+    corneal decompensation
+      may require PK || DSEK
+    DDx
+      AD(VP) PPCD
+      AD Axenfeld-Rieger
+      aniridia
+    workup
+      may have a viral cause
+      unclear cases
+        serology
+          EBV
+          HSV
+
+  climatic droplet keratopathy
+    AKA
+      labrador keratopathy
+      spheroidal degeneration
+      ...
+    golden subepithelial globules
+      amyloid in the Bowman layer
+      may have lattice lines as well
+    predisposing climate
+      high UV
+      sand and dust
+    treatment
+      PTK
+      lamellar graft
+      can recur in a graft

@@ -1,0 +1,124 @@
+choroidal and retinal neoplasms
+
+pigmented fundus lesion DDx
+  RPE hypertrophy
+  CHRPE
+  haemorrhage
+  naevus
+  melanoma
+  melanocytoma
+  simple RPE hamartoma
+    RARE
+    usually congenital
+  combined hamartoma
+  RPE adenoma
+    high IR
+    feeding artery
+    draining vein
+  RPE adenocarcinoma
+
+choroidal melanoma
+
+  risk factors for choroidal melanoma
+    caucasian
+    fair skin
+      tendency to sunburn
+    freckled skin
+      marker of sun exposure
+    light eyes
+    iris naevi
+    uv exposure
+      outdoor activities
+      arc welding
+    symptoms
+    growth
+    thickness 2+ mm
+    within 3 mm of the nerve
+    no drusen
+    no halo
+    orange pigment
+    SRF
+    BSUS
+      acoustic hollowness
+        naevus is homogeneous
+      low-medium IR
+        naevus medium+ IR
+      choroidal excavation
+      orbital shadowing
+      spontaneous vascular pulsations
+    may need to follow several years to distinguish
+    "To Find Small Ocular Melanoma Using Helpful Hints Daily"
+      Thickness 2+ mm
+      Fluid
+      Symptoms
+      Orange pigment
+      Margin within 3 mm of disc
+      Ultrasound Hollowness
+      Halo absent
+      Drusen absent
+      2+ risk factors
+        half will grow
+          presumed melanoma
+        probably treat
+        ultimately clinician judgement based on full picture
+
+  COMS study
+    medium tumours
+      2.5-10 mm thick
+      5-16 mm in diameter
+      equal survival rates for I125 and enucleation
+    large tumours
+      equal survival rates whether you radiated before enucleation or not
+
+combined hamartoma of the retina and RPE
+  associations
+    NF2
+  diagnosis
+    may have a vascular component
+      vascular tortuosity is out of proportion to traction
+      FFA helps to distinguish from melanocytoma
+    glial component is rarely seen in melanocytoma
+  treatment
+    you can't peel the ERM because it's glial tissue integrated with the retina
+
+subretinal infiltrates in a leopard skin pattern
+  lymphoma
+
+choroidal mets
+  pigment clumping
+    leopard spot appearance
+
+choroidal folds
+  THIN RPE
+    tumours
+    hypotony
+    inflammation
+    idiopathic
+    neovascular membrane
+    retrobulbar mass
+    papilloedema
+    extraocular hardware
+      juxtascleral
+        SB
+      orbital
+  for most purposes
+    shorten this list to HIM
+      hypotony
+      inflammation
+        scleritis
+      mechanical
+        SB
+        orbital mass
+        TED
+
+choroidal osteoma
+  usually PP
+  orange-red => yellow white as overlying RPE loses pigment
+  look for small vascular networks on the tumour surface
+  BSUS
+    highly reflective
+  if SRF
+    PDT
+      any SRF
+    antiVEGF
+      SRF 2˚ CNV

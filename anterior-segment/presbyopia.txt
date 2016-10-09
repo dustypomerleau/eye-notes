@@ -1,0 +1,22 @@
+presbyopia
+
+//...
+
+// Abi Tenen spoke on this at VIC RANZCO
+
+options
+  ASLA/PRK
+  LASIK
+  SMILE
+  presbyLASIK
+  monovision
+  MFIOL
+  intracor (not using much now)
+  K inlays
+    usually in non-dominant eye
+      Kamra
+      Raindrop
+      Presbia Flexivue
+  RLE
+  scleral spacing
+  Neurovision AKA Revitalvision

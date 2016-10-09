@@ -1,0 +1,119 @@
+iris tumours
+
+// see images from Jerry Shields' talk
+
+  neoplasm
+
+    solid
+      congenital lacrimal gland choristoma
+      IPE cyst
+        can be free floating
+          AC
+          angle
+          vitreous
+        pupillary
+        peripheral
+        multiple
+          AKA iris flocculi
+          associated with familial dissecting aortic aneurysm
+      iris stromal cyst
+        kids
+          COMMON: first year of life
+        UBM
+          rule out amelanotic melanoma
+        about half will need treatment
+          visual axis
+          amblyopia
+          glaucoma
+          cataract
+          hyphaema
+          corneal decompensation
+        aspiration
+          ± cryo
+        absolute-alcohol-induced sclerosis
+        lamellar iridectomy
+        iridogoniectomy
+        iridogoniocyclectomy
+        recurrence is common
+      IPE adenoma AKA epithelioma
+      medulloepithelioma
+        embryonic tissue
+        usually starts in CB
+        complications
+          cataract
+          NVI
+            child with NVI
+              intraocular tumour until proven otherwise
+          glaucoma
+          RARELY: mets
+      surface epithelial cyst
+        congenital
+        acquired
+          trauma
+          surgery
+            epithelial downgrowth
+      Lisch nodules
+        NF1
+      JXG
+      pigmented
+        iris naevus
+          low malignant potential
+          risk factors for transformation to melanoma (Shields)
+            ABCDEF
+              age 40-
+              blood
+              CH inferior (c'mon guys)
+              diffuse
+              ectropion uveae
+              feathery margin
+        iris melanocytoma
+        iris melanoma
+          circumscribed
+            COMMON:
+              iridectomy
+              iridocyclectomy
+            ALSO:
+              PBT
+                alone || as an adjunct after resection
+              proton beam radiation
+            RARELY:
+              FNA to establish the diagnosis
+                excisional biopsy is preferred if the lesion is circumscribed
+          diffuse
+            enucleation
+          RARELY: metastasises
+            1/20 @ 5 years
+              liver
+              brain
+      soft tissue
+        COMMON: myogenic
+          leiomyoma
+          rhabdomyosarcoma
+
+
+    vascular
+      iris cavernous haemangioma
+      iris varix
+        can simulate melanoma
+      racemose haemangioma
+        iris Wyburn-Mason variant
+
+    lymphoproliferative
+      lymphoma
+
+    haematologic
+      RARELY: leukaemia
+
+    metastatic
+      can simulate granulomatous iritis
+        small cell lung CA
+        gastric carcinoma
+        ...
+
+
+
+
+
+
+
+

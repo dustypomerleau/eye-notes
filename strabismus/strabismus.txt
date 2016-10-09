@@ -1,0 +1,906 @@
+// see ET-DDx.txt
+// see vertical-strabismus-HT-DDx.txt
+// see XT-DDx.txt
+
+strabismus
+
+exam summary
+  history
+  observations
+    including glasses
+  VA
+  corneal light reflex
+  pupils
+  cover testing
+  ductions
+  versions
+  binocularity testing
+  cyclorefraction
+  slitlamp
+  DFE
+
+overall approach
+  what is the diagnosis?
+    do I need investigations to determine it?
+  is the vision normal?
+    options
+      spectacles
+      CTL
+      amblyopia therapy
+      surgery
+  is the patient binocular?
+    can they be binocular?
+    should I try and make them binocular?
+    options
+      orthoptics
+      spectacles
+      CTL
+      prisms
+      BOTOX
+      surgery
+      occlusion
+  is the appearance satisfactory?
+    options
+      BOTOX
+      surgery
+
+OSCE approximate time breakdown (minutes)
+  history (3)
+  glasses (1)
+  head posture (1)
+  vision (4)
+  pupils (1)
+  cover test (2)
+    write as you go
+      deviation for each gaze
+      DDx at the end
+  ductions then versions (1)
+  binocularity testing (1)
+    only if indicated
+      see below
+  cycloplegic refraction
+    STATE you would do it
+      they will give it to you
+  fundus examination (0.5)
+
+abbreviated DDx
+  child
+    ET child
+      infantile ET
+      accomodative ET
+        fully accomodative ||
+        partially accomodative
+        ± high AC/A
+          10 ∆ worse at near
+          no need to quantify further
+      sensory ET
+      Duane1 syndrome
+    XT child
+      intermittent X(T)
+      consecutive XT
+      sensory XT
+        ET more common in kids
+      CN3P
+      RARELY: infantile XT
+        should concern you
+        usually with other neurologic problems
+    HT child
+      IOOA
+      DVD
+      CN4P
+      Brown syndrome
+      CCDD
+      CN3P
+  adult
+    ET adult
+      residual ET
+        expect suppression
+      age-related distance ET
+      TED
+      MG
+      CN6P
+      Duane1
+        childhood onset
+      GCA
+    XT adult
+      consecutive XT
+        expect suppression
+      decompensating XT
+      sensory XT
+      CN3P
+      MG
+      GCA
+    HT adult
+      CN4P
+      TED
+      orbital fracture
+      MG
+      CN3P
+      GCA
+
+history
+  birth history
+    prenatal complications
+      including premature birth
+    birth complications
+    postnatal complications
+      infection
+      illness
+  developmental history
+    developmental milestones
+    education level for age
+  systemic disease
+  strabismus history
+    age of onset
+    sudden || gradual
+    constant || intermittent
+  adults
+    history of childhood strabismus
+    presence or absence of diplopia
+      direction if present
+        H or V
+  family history
+    strabismus
+    high refractive error
+    genetic eye disease
+      developmental anomalies
+      dystrophies
+  ocular history
+  neurologic symptoms
+    important for CNP
+      HA
+      weakness
+
+observation
+  glasses
+    + or -
+    direction of any prism
+      align paper edge for V
+      centre and then align paper edge for H
+    bifocal
+      usually high AC/A
+    high +
+      usually accomodative ET
+    minus
+      usually intermittent XT
+  visual behaviour
+    interest
+  head posture
+    stand them up straight
+    document
+      face turn
+      head tilt
+      chin up or down
+  facial anomalies
+    facial symmetry
+    thyroidectomy scar in adults
+  lids
+    ptosis
+    fissure symmetry
+  nystagmus
+    may take time to characterise
+    approach simply
+      uniocular or binocular
+      horizontal, vertical, or rotary
+      jerk or pendular
+      presence of a null point
+  manifest tropia
+
+age-appropriate visual acuity testing
+
+  if there is no amblyopia we expect at LEAST
+    6/60 by 6 months
+    6/15 by 3 years // many children are 6/6 by PL @ 3 years
+    6/12 by 5 years
+    method of testing is important
+      pattern VEP shows better VA than PL in infants
+      generally, the further you go down the list
+        the lower the measured acuity will be
+        i.e. PL, Lea tend to overestimate VA compared to ETDRS
+
+  interest, bright objects
+    human caretakers face is the best target for uninterested babies
+  CSM, 20 ∆ BD, base-to-base ∆ test: do they alternate?
+  PL/grating 6+ months
+  Kay/Allen/Lea 2+ YO
+  HOTV/SG 3+ YO
+  Snellen/ETDRS 5+ YO
+
+=begin
+
+amblyopia != suppression
+  you can have suppression of an eye with 6/6 vision
+  suppression is only present when using both eyes
+  amblyopia is present all the time
+
+good outcome of amblyopia therapy
+  6/9 vision
+  straight eyes
+  by 10 YO
+
+PEDIG summary
+  moderate amblyopes 6/24+
+    atropine 1% bd 2 days/week ||
+    2 h patching
+  severe amblyopes 6/30-
+    patch up to 6 h
+    no benefit to more than that
+  actual studies
+    moderate amblyopes
+      7- YO
+        daily atropine = 6 (2002)
+        2 = 6 (2003)
+        2/7 (weekend) atropine = daily atropine
+        3/4 7- YO moderates achieve 6/9 || gain 3 lines
+          biggest improvement is in the first 6/52
+      7-12 YO
+        2/7 atropine = 2 (2008)
+          1/5 achieves 6/7.5 in this age group
+          size of gain is much smaller
+            average gain is a little more than a line
+          younger patients get more benefit
+    severe amblyopes
+      7- YO
+        6 = full-time (2003)
+          4/5 gain 3 lines
+          1/4 achieve 6/9
+      3-12 YO
+        2/7 atropine = 2 (2009)
+          average gain was 1-2 lines
+          nearly all patients were 6/15- despite this
+            so better to use 6 hours patching || daily atropine in 6/30-
+
+MOTAS amblyopia study (2004)
+  patching has a dose-response effect
+  only half of patients are compliant with patching
+  the greatest effect of patching is in the first few weeks
+  treatment age is a major factor in the success of patching
+
+review amblyopes
+  1/12-3/12 depending on
+    amblyopia severity
+    age
+      see sooner if
+        younger
+        better visual potential
+        more dense amblyopia
+  stop therapy
+    3 visits with no improvement
+  expectations
+    3/4 of moderate amblyopes gain 3 lines in 6/12
+      many will be faster than this
+    1/4 will have recurrence over the first year
+      to prevent recurrence
+        wean slowly
+          alternate days first
+          then reduce hours
+    older kids
+      still worth patching
+        1/2 will improve age 7-12
+        1/4 will improve age 13-17
+  if amblyopia therapy doesn't work
+    talk compliance
+    repeat the refraction
+    repeat the fundus exam
+
+  risk of poor outcome in amblyopes
+    strong FH of amblyopia
+    dense amblyopia at diagnosis
+    treatment started late
+    not compliant
+      including behavioural problems
+    poor family support
+
+=end
+
+
+deviation estimate by light reflex
+  susceptible to angle kappa errors
+  symmetric or not?
+    Hirschberg light reflex
+      15, 30, 45 ∆ at pupil edge, mid-iris, limbus
+    Krimsky prism measurement
+
+check for RAPD
+
+cover testing
+  first without glasses
+  then with glasses
+  make the diagnosis with cover-uncover
+  then quantify with prism + alternate cover
+
+  cover-uncover
+    perform in 5 positions at 6 m
+    then in 1˚'
+    this is really 2 tests
+      cover
+        watch fellow eye
+          is there a tropia?
+            yes
+              is there a fixation preference?
+                both eyes are briefly exposed between cover tests
+                look for the eye that doesn't move when the fellow is covered
+      uncover
+        watch covered eye
+          is there a phoria?
+          is there a DVD?
+    record each measurement as you go along
+    for ET || XT
+      STATE if the angle is worse at near || distance
+      write this down
+    write down top 3+ diagnoses at this point
+      decide what other information you need to prove/disprove them
+
+    if the deviation is incomitant and you suspect a palsy
+      check
+        1˚ deviation
+          good eye fixating
+        2˚ deviation
+          paretic eye fixating
+
+  special cover testing for X(T) // XT.txt
+
+=begin
+look for
+  DVD
+  oblique dysfunction
+  helps to confirm infantile ET
+    especially in an adult
+      residual ET
+      consecutive XT
+  also often have
+    asymmetric OKN
+    latent nystagmus
+=end
+
+  (prism + cover)
+    quantify only the tropia
+      endpoint is no movement
+    1˚
+    1˚'
+    4 gazes
+    may not need this test on the OSCE
+      generally you wouldn't operate on this angle
+      usually you would operate on the maximum angle
+        determined by prism + alternate cover
+
+  (prism + alternate cover)
+    quantify the maximum deviation
+      some describe this as phoria + tropia
+      really it's just semantics
+    1˚
+    1˚'
+    4 gazes
+
+  (prism under cover)-alternate cover
+    useful for measuring DVD
+
+=begin
+prism technique
+  hold prisms correctly
+    glass
+      Prentice position
+    plastic
+      frontal plane
+  don't follow the turned head
+  hold prism over the adducting eye in XT side-gaze measurements
+  OK to hold H + V together
+    do not stack back to back in the same orientation
+      split between the eyes
+  ALWAYS:
+    confirm that the eye is not motionless due to restriction
+    confirm patient is looking at the target.
+  measure intermittent deviations after 45 minutes of patching
+    to ensure you get the maximum angle
+=end
+
+test ductions and versions
+
+  ductions are the key
+    are they normal?
+      if there is a limitation
+        restrictive ||
+        paretic
+    document -1 to -4
+      ± upshoots or downshoots
+      (+1)-(+4) can be redundant if you've documented upshoots/downshoots
+        but as always there are some fanboys that love them
+      grading
+        unable to move from 1˚ (-4)
+        unable to make it 1/4 of the way into the field of gaze (-3)
+        unable to make it 1/2 of the way into the field of gaze (-2)
+        sclera is just visible (-1)
+        sclera is concealed by the canthus (0)
+        cornea is slightly covered (+1)
+        cornea is covered less than 1/4 (+2)
+        cornea is covered more than 1/4 (+3)
+        cornea is 1/2+ covered (+4)
+    version < duction
+      underaction or palsy
+      floating stop
+    version == duction
+      restrictive strabismus
+      hard stop
+    if you see a limitation
+      saccadic velocity
+        slow in paretic
+      forced ductions
+        ALWAYS: mention forced ductions if you suspect Brown syndrome
+          technically required to diagnose a Brown
+          in practise this is only done if you go to OT for surgery
+    look for oblique dysfunction // see notes on infantile ET above
+
+=begin
+  version patterns
+    A pattern 10+ ∆
+      SOOA AKA overdepression in adduction
+    V pattern 15+ ∆
+      IOOA AKA overelevation in adduction
+        bilateral CN4P
+        infantile ET
+      craniofacial syndromes
+        Crouzon syndrome
+    large angle XT with severe adduction deficit can have any pattern
+      A
+      V
+      X
+    surgery
+      MALE
+=end
+
+test binocularity
+
+=begin
+fusion
+  motor fusion
+    the vergence movement that keeps your eyes straight
+  sensory fusion
+    your brain's ability to combine the 2 images
+stereopsis is not necessarily present with fusion
+  stereo perception is not needed to keep the eyes straight
+
+abbreviated binocularity testing in an infant
+  // detailed discussion of binocularity testing after this note
+  test for strabismus
+    manifest alignment
+    Hirschberg/Krimsky
+    cover testing
+  test for suppression or amblyopia
+    base-to-base prism test
+      tests willingness to alternate fixation
+    15 ∆ BO test
+      tests for normal fusional convergence
+      no movement if the eye is suppressed
+    4 ∆ BO test
+      tests for monofixation syndrome versus bifoveation
+      assumes no suppression
+=end
+
+  if the patient has a manifest tropia
+    do not do any form of stereopsis testing
+  if the manifest deviation is large
+    do not do binocularity testing of any kind
+  patient appears straight
+    Worth lights
+      red over right eye
+      tests for suppression
+      best for distance stereopsis testing
+        useful in X(T)
+          synoptophore also good for distance stereopsis testing
+    Bagolini lenses
+      test over patient's glasses
+      135˚ right
+      45˚ left
+      assuming NRC "Bagolini axed the vet!"
+        X -> V = ET
+        X -> A = XT
+    stereo tests
+      Titmus stereo fly
+        polarised glasses
+        3000+" of arc @ 40 cm
+          people tend to do these tests too close
+          instructions give a range of arcs
+            depending on which part of the fly you look at
+      Titmus animals
+        polarised glasses
+        400-100"
+          400
+          200
+          100
+      Lang stereo cards
+        no glasses
+        shapes seen
+        200"
+      Titmus circle test
+        polarised glasses
+        800-40"
+          800
+          400
+          200
+          140
+            monocular clues can get you to 140
+            5+ correct is convincing evidence of true stereopsis
+          100
+          80
+          60
+          50
+          40
+      TNO random dot test
+        red-green glasses reveal hidden shapes
+        15"
+        can be used by preverbal children
+    synoptophore
+      test SP
+        see both the lion and the cage
+      test maximum deviation
+        switch pictures on and off
+        effectively an alternate cover test
+        add -3 D for near deviation measurement
+          will reveal high AC/A if present
+      test for ARC
+        patient puts the lion in the cage
+        if NRC
+          distance moved = deviation measured
+      test SF
+        patient aligns 2 partial images to create a single image
+        document angles
+      test MF
+        fix the tubes at the new angle
+        converge and diverge the tubes until fusion is lost
+      assess stereopsis
+        show the patient 2 dissimilar images
+        patient asked about the direction of stereo perception
+          e.g. a swing moving toward or away from the viewer
+    4 ∆ BO test
+      shows a quick microsaccade if the patient is bifoveating
+      monofixation syndrome
+        won't refixate when you put the prism in front of the scotoma eye
+    15 ∆ BO test
+      tests for normal fusional convergence
+      normal
+        saccade with both eyes
+        non-prism eye converges to refixate
+      nothing will happen if the prism-covered eye is being suppressed
+  testing torsion
+    usually in CN4P
+    double maddox rods
+      put the rods in a trial frame
+        lines going vertical
+          Red over Right
+          white over left
+        patient sees horizontal lines
+      add a little BU ∆ to separate them
+        arrow marks prism base on a trial frame lens
+      have the patient rotate until they are parallel
+      read the difference in ˚
+    synoptophore
+  prism fusion range
+    usually in CN4P
+    neutralise the HT with BD ∆
+    run the prism bar with BU ∆ until they can't maintain the phoria
+      in practice
+        just reduce the BD ∆
+          which is the equivalent of adding BU ∆
+      longstanding CN4P
+        AHP present in old photos
+        vertical fusional amplitude 3+ ∆
+
+=begin
+if you suspect a CNP
+  test other CN
+    facial sensation
+    facial movement
+    hearing
+    peripheral neuro exam
+      if history concerning
+        CVA
+        MS
+
+    most common mass in the cerebellopontine angle
+      acoustic neuroma (CN8 schwannoma) ± NF2
+        associated with CN[5-8] deficits
+          CN6P is rare with CPA lesions but still check motility
+          CN5P has a poor prognosis
+            neurotrophic corneal breakdown
+      ALSO:
+        meningioma
+        CN[57] schwannoma
+        ependymoma
+        mets
+      RARELY:
+        sarcoid
+        lymphoma
+        vascular tumours
+        other solid tumours
+=end
+
+cycloplegic refraction
+  useful even in adults
+  0.5% amethocaine
+    kids only
+  cyclopentolate 1% q 5 minutes x 2
+  poor dilation @ 30 min
+    repeat cyclopentolate
+    add 2.5% phenylephrine
+  refract @ 45 min
+  still not dilated @ 45 min
+    atropine 1% bd x 3 days
+      warn about side effects
+        COMMON:
+          flushing
+          dry mouth
+          palpitations
+            tachycardia
+          blurred vision
+        ALSO:
+          fever
+          nausea
+          delirium
+          poor GI motility
+          contact dermatitis
+        RARELY: respiratory depression
+
+anterior segment and DFE
+  corneal dystrophy
+  anterior segment dysgenesis
+  cataract
+  PFV
+  Rb
+  Coats
+  AD FEVR
+  ROP
+  coloboma
+  disc anomaly
+  ON hypoplasia
+  foveal hypoplasia
+  ...
+
+investigations
+  if you order a test
+    what are you looking for?
+    you will be asked
+
+treatment
+  make a decision about binocularity
+    is the patient binocular?
+    can they be binocular?
+    should I try and make them binocular?
+  run the list of options
+    orthoptics
+    glasses
+    CTL
+    prisms
+      fresnel
+        can handle much larger deviations than ground-in prism
+        available up to 40 ∆
+          most patients can not tolerate this much prism
+        vision degradation is considerable at high powers
+      ground-in
+        max 10 ∆ per lens
+          many patients can not tolerate this much
+      prisms do not address torsion
+        tolerance may be reduced in CN4P
+    BOTOX
+      2.5-5.0 units
+      ideal case
+        patient post multiple surgeries
+        still miserable
+      NEVER: use BOTOX superiorly
+        you will cause ptosis for sure
+
+=begin
+BOTOX mechanism
+  exotoxin derived from Clostridium botulinum
+    serotypes A and B used in BOTOX
+  blocks extracellular release of acetylcholine at nerve terminals
+    paralysis
+      onset 3/7
+      effect 3+/12
+        resprouting of nerve terminals causes effect to wear off
+BOTOX uses
+  strabismus
+    diagnostic
+      postop diplopia test
+    therapeutic
+  facial spasms
+    hemifacial spasm
+    benign essential blepharospasm
+    apraxia of eyelid opening
+    spastic entropion
+  medical tarsorrhaphy
+  excessive tearing
+  HA syndromes
+BOTOX complications
+  bruising || bleeding
+  unintended ptosis
+  unintended strabismus
+    diplopia
+  globe perforation
+  tearing
+    from lax LL
+      e.g. when used for spastic entropion
+=end
+
+    surgery
+      anaesthetic considerations
+        GA
+          all children
+          most adults
+          usually LMA
+          preop
+            fentanyl
+            antiemetics
+            Panadol
+          be prepared for bradycardia
+            atropine
+        LA
+          adults who prefer to avoid GA
+          adults not fit for GA
+          topical
+            Minims Benoxinate AKA oxybuprocaine
+          + local anaesthetic infiltration
+            lidocaine + marcaine (bupivicaine)
+      bigger surgical correction
+        high hyperopes
+        paralytic strabismus
+      smaller surgical correction
+        high myopes
+        restrictive strabismus
+          TED
+      generally operate on the biggest deviation you can find
+        not important which position or test revealed it
+      consult tables
+        approximate values
+          ET
+            bilateral MR recessions
+            3-6 mm each eye corrects 20-50 ∆
+              '320 to 650'
+          XT
+            bilateral LR recessions
+            5-11 mm each eye corrects 20-50 ∆
+              '520 to 1150'
+        numbers are similar for combining R & R in one eye
+      adjustable sutures
+        only use adjustables on recessions
+        plan to adjust them within 24 hours
+      most common reason for postop dissatisfaction
+        diplopia that wasn't present before
+          synoptophore gives some indication of binocular potential
+          true postop diplopia test is a better predictor
+            key point about the postop diplopia test
+              it's for patients that do *not* have diplopia preop
+            allows more adaptation time
+            methods for postop diplopia test
+              fresnel prisms
+              BOTOX
+                try BOTOX even if prisms failed
+                  prisms over-call postop diplopia
+                wait 6 months after BOTOX before measuring angles for surgery
+      incision types
+        limbal
+          easy for the surgeon
+          less comfortable postop for the patient
+          better for
+            access to rectus muscles
+            patients over 40
+              conjunctival restriction can play a role in adult strabismus
+        fornix
+          ~ 8 mm back
+          between the muscles in the white space
+          better for kids
+            even for rectus surgery
+          better for oblique surgery
+            exposure is better
+            use for oblique surgery regardless of age
+        swan
+          back like a fornix but right over the muscle
+          easier for vertical rectus access
+          can scar to the muscle insertion
+          some surgeons split the difference for vertical recti
+            go halfway between swan and fornix
+      to reduce postop pain
+        keep conj incisions out of the palpebral fissure
+        bury conjunctival knots
+          usually 8-0 vicryl in AU
+        protect the cornea
+        give subconj LA at the conclusion of the case
+      surgical complications
+        perforation and all related sequelae
+          endophthalmitis
+          vitreous haemorrhage
+          retinal detachment
+          choroidal || suprachoroidal haemorrhage
+        anterior segment ischaemia
+          ciliary arteries pass through the rectus muscles
+          interrupting 3+ muscles can induce ASI
+          signs
+            corneal oedema
+            anterior uveitis
+            rubeosis
+              severe ASI can cause NVG
+        postoperative strabismus
+          undercorrection || overcorrection
+          consecutive strabismus
+            including slipped or lost muscle
+              complete paresis in the direction of action on POD1
+              reduced saccadic velocity in the direction of action
+              ALWAYS:
+                suture the muscle belly
+                  not just the sheath
+                double-lock your sutures
+              if the muscle is slipped on POD1
+                operate to retrieve it ASAP
+                  before contracture
+                hand-over-hand lifting of the Tenon capsule
+                  muscle should follow
+              if you can't retrieve the muscle
+                transposition surgery
+          adherence syndrome
+            violation of Tenon
+            prolapse of orbital fat
+            fibrofatty scar
+            restrictive strabismus
+            COMMON: hypotropia after IO surgery
+          induced Brown syndrome
+            from operating around the trochlea
+        induced astigmatism
+          WTR can occur after operating on LR and MR in the same eye
+          usually resolves
+        postoperative amblyopia
+        postoperative diplopia
+        altered lid position
+          COMMON: LL retraction after IR recession
+        orbital cellulitis
+        Tenon prolapse
+          suture conj only
+            avoid suturing Tenon
+          close wound completely
+          can require excision if severe
+          fornix incisions may reduce Tenon prolapse
+        suture reactions
+          granuloma
+          scleritis
+          allergy
+        dellen
+    occlusion
+
+=begin
+preoperative counselling for parents of kids with strabismus
+  What is the purpose of the surgery?
+  What happens if you don't operate?
+  What happens if there is an overcorrection or undercorrection?
+  What are the risks of the surgery?
+    ocular risks
+      1/5 have misalignment
+        overcorrection
+        undercorrection
+      perforation
+        bleeding
+        infection
+        retinal detachment
+      lost || slipped muscle
+      need for additional surgery
+      amblyopia
+    anaesthetic risks
+      GA
+        cardiac
+        pulmonary
+        postop nausea
+  If the surgery comes out well, will the eyes stay straight?
+    What is the
+      binocular potential?
+      stereopsis potential?
+      cosmetic potential?
+        this gets back to the purpose above
+  What will be needed after the surgery?
+    postop drops
+    glasses
+    patching
+  Do you have any questions I haven't covered?
+
+  for *any* paediatric diagnosis
+    ALWAYS: address social issues
+      support network at hime
+      accomodations needed at school
+        offer to advocate
+=end

@@ -1,0 +1,550 @@
+orbital mass
+  ecchymosis
+  proptosis
+    ± pulsatile
+  resistance to retropulsion
+  venous outflow problems
+    elevated IOP
+    epibulbar vessels
+      dilated
+      tortuous
+    blood in Schlemm
+    choroidal effusions
+  infectious
+    fever
+    dental surgery
+    tooth abscess
+  cavernous sinus signs
+    CN[345(1|2)6PS]P // see 6 syndromes of CN6P in ET.txt
+  lacrimal gland enlargement
+  ON signs
+    VA
+    colour VA
+    APD
+    disc swelling or pallor
+  lymph node enlargement
+    metastases
+  MRI || CT
+    look for bony destruction
+    this should make you think of CA or histiocytic disorder
+  labs based on relevant DDx
+
+
+//
+
+
+abbreviated DDx
+  infectious
+    BROADLY:
+      infectious dacryoadenitis
+      orbital cellulitis
+  inflammatory
+    inflammatory
+      sarcoid
+      NSOI // see notes in preseptal-and-orbital-cellulitis.txt
+    autoimmune
+      IgG4-ROD
+      TED
+    vasculitis
+      GPA
+  vascular
+    vascular
+      (V|AV|L)M
+        per Alan McNab for AU purposes
+          just say 'vascular malformation'
+            high flow
+            low flow
+      CC fistula
+        dilated SOV creates a mass effect and proptosis
+        types
+          high flow
+            direct CC fistula
+          low flow
+            dural cavernous fistula AKA indirect CC fistula
+              may resolve spontaneously
+        lid swelling
+        proptosis
+          pulsatile
+        dilated tortuous vessels extending to the limbus
+        ocular bruit
+        CN[345(1|2)6PS]P // see 6 syndromes of CN6P in ET.txt
+          CN5P can make exposure keratopathy much worse
+          watch for exposure + neurotrophic corneal ulcers
+          CN3P ptosis can be protective here if present
+        venous congestion
+          blood in Schlemm canal
+          glaucoma
+            from elevated episcleral venous pressure
+            ALWAYS: mention glaucoma assessment in CC fistula workup
+          venous stasis retinopathy
+            sometimes progressing to frank CRVO
+            CME
+          NAION
+        if you suspect CC fistula
+          ALWAYS: ask about trauma
+            3/4 have a history of trauma
+          if no trauma
+            may have ICA aneurysm
+        imaging
+          start with MRI + MRA
+          if not definitive
+            catheter angiography
+              embolisation can be performed after confirming diagnosis
+              not risk-free
+                can have CVA during balloon occlusion
+                morbidity 1/100
+                mortality 1/1000
+  neoplastic
+    solid tumours
+      lacrimal gland
+        pleomorphic adenoma
+        adenoid cystic carcinoma
+      meningioma
+        sphenoid wing
+      nerve
+        glioma
+        meningioma
+      soft tissue
+        rhabdo
+    vascular tumours
+      haemangioma
+    lymphoproliferative
+      lymphoma
+    haematologic
+      leukaemia
+    metastases
+      neuroblastoma
+      lung
+      breast
+      prostate
+
+
+//
+
+
+the 7 ages of the orbit DDx // remember these are shortlists
+  ALWAYS: consider infectious causes
+    orbital cellulitis
+  birth
+    capillary haemangioma
+    rhabdomyosarcoma
+    teratoma
+  0-5
+    COMMON:
+      dermoid cyst // not to be confused with limbal dermoids or dermolipomas
+        superficial
+        dumbbell
+        orbital
+      retinoblastoma with extraocular extension
+      metastatic neuroblastoma
+    ALSO:
+      choristomas
+        dermoid cyst
+        limbal dermoid
+      capillary haemangioma
+  5-12
+    COMMON:
+      rhabdomyosarcoma
+      histiocytic lesions
+      primary granulocytic sarcoma AKA chloroma
+    ALSO:
+      ON tumours
+        ON sheath meningioma
+        ON glioma
+      lacrimal gland tumours
+        adenoid cystic carcinoma
+      primitive neuroectodermal tumour (PNET)
+      dermoid cyst
+  13-19
+    COMMON: fibrous dysplasia || ossifying fibroma
+      clinically similar
+      histopathologically distinct
+    ALSO:
+      ON sheath meningioma
+      neurofibroma
+      dermoid cyst // can present late with rupture
+  20-40
+    COMMON:
+      TED
+      sinus mucocele
+    ALSO:
+      NSOI
+      sarcoid
+      GPA
+      ON sheath meningioma
+      sphenoid wing meningioma
+      lacrimal gland tumours
+        pleomorphic adenoma
+        adenoid cystic carcinoma
+  40-65
+    COMMON:
+      cavernous haemangioma
+      schwannoma
+      neurofibroma
+    ALSO:
+      NSOI
+      sarcoid
+      GPA
+  65+
+    COMMON:
+      lymphoma
+      mets
+    ALSO:
+      extension of local tumours
+        SCC
+        BCC
+
+
+//
+
+
+orbital mass DDx:
+
+  infectious
+    BROADLY: infectious dacryoadenitis
+    BROADLY: orbital cellulitis
+    viral
+      viral infectious dacryoadenitis
+        HSV
+        VZV
+        EBV
+        CMV
+        mumps
+    bacterial
+      BROADLY: orbital cellulitis
+      bacterial infectious dacryoadenitis
+        COMMON:
+          staph
+          strep
+          gonococcus
+        ALSO:
+          H. flu
+          moraxella
+          Pseudomonas
+          TB
+          syphilis
+          Lyme
+    fungal
+      BROADLY: orbital cellulitis
+        COMMON:
+          aspergillus
+          mucor
+
+  inflammatory
+    inflammatory
+      sarcoid
+      NSOI
+    autoimmune
+      1˚ or 2˚ Sjogren syndrome
+      TED
+    vasculitis
+      GPA
+
+  idiopathic
+
+  vascular
+    vascular
+      (V|AV|L)M
+      dural-cavernous fistula
+      CC fistula
+
+  neoplastic
+    solid tumours
+      rhabdomyosarcoma
+      meningioma
+      optic meningioma
+      optic glioma
+      pleomorphic adenoma
+      adenoid cystic carcinoma
+        perineural spread
+        check CN5
+      dermoid cyst
+      dermolipoma
+        usually prolapses from the lateral canthus
+      RARELY:
+        SCC of the sinus
+        primary granulocytic sarcoma AKA chloroma
+        plasmacytoma
+        soft tissue sarcoma
+          with calcifications
+        teratoma
+    vascular tumours
+      cavernous haemangioma
+        most common in adults
+        RARELY: PHACES syndrome
+          posterior fossa malformations
+            Dandy-Walker syndrome
+          haemangiomas
+          arterial anomalies
+          coarctation of the aorta
+          eye abnormalities
+            PFV
+            morning glory disc anomaly
+            posterior staphyloma
+            CR coloboma
+          sternal clefting
+      capillary haemangioma
+        most common orbital tumour in children
+        grows rapidly for 1- y and then regresses
+        use beta blockers and treat amblyopia
+      haemangiopericytoma
+    lymphoproliferative tumours
+      lymphoma
+        COMMON: B-cell NHL
+        biopsy
+        treatment
+          usually orbital radiotherapy
+            many potential side effects
+              conjunctivitis
+              dry eye
+              keratitits
+              corneal ulceration
+              cataract
+              radiation optic neuropathy
+              radiation retinopathy
+          adjunctive chemotherapy in some cases
+          limited role for adjunctive immunotherapy
+            rituximab for CD20+ MALT
+    haematologic malignancies
+      BROADLY: histiocytic disorders
+        bony destruction
+        superotemporal orbit
+        determine
+          single focus
+            usually orbit is single focus
+            curettage
+            intralesional steroid
+          multiple foci
+            behaves more like a true cancer
+      leukaemia
+        COMMON: metastatic ALL
+    metastatic tumours
+      neuroblastoma
+      lung CA
+      breast CA
+      prostate CA
+
+  degenerative
+    degenerations
+      sinus mucocele
+
+
+//
+
+
+treatment // consider reordering
+  cavernous haemangioma
+    observe if they are small
+    complete excision for
+      hyperopia
+      choroidal || retinal folds
+      optic nerve compression
+      strabismus
+      proptosis
+      may require orbitotomy
+  (A|AV|L)M
+    biopsy is dangerous
+    complete excision is difficult or impossible
+      extensive haemorrhage
+      integration of normal structures
+    observe
+    embolise
+  CC fistula
+    observe
+    embolise
+  meningioma
+    observe
+    radiation
+    subtotal excision for
+      proptosis
+      compressive ON
+      cerebral oedema
+      // assume excision will result in permanent visual loss
+  NHL
+    oncology referral
+    CBC
+    bone marrow biopsy
+    chest and abdominal imaging
+    liver scan
+    SPEP
+    observe
+      low-grade lymphoid lesions
+    radiation
+      ± chemo
+      aggressive lymphoma
+    risk of systemic NHL with eye lesions
+      conjunctival - low
+      orbit - intermediate
+      eyelid - high
+  lacrimal gland tumours
+    benign
+      remove if encapsulated
+    malignant
+      e.g. adenoid cystic carcinoma
+      high dose radiation
+      debulking
+      intracarotid chemo
+      ± exenteration
+  mets
+    oncology workup if 1˚ not known
+    observe
+    treat systemic CA
+      hormonal therapy
+      chemo
+    palliative debulking || radiation as needed
+  rhabdomyosarcoma
+    any rapidly growing mass in a child
+      immediate biopsy to rule out rhabdo
+        ± anterior orbitotomy
+    complete removal if possible
+    infiltrating tumours
+      chemo
+      radiation
+      ± debulking
+    metastatic workup
+      chest imaging
+      bone marrow biopsy
+      lumbar puncture
+  capillary haemangioma
+    observe
+      spontaneous resolution is common
+    treat
+      amblyopia
+      strabismus
+      refractive error
+    if persistent
+      oral propranolol
+      topical timolol
+      pulsed-dye laser for dermal component
+      RARELY: systemic steroids
+        long-term side effects
+  glioma
+    intracranial
+      consultation to monitor ICP
+      pituitary labs
+      hypothalamic labs
+      ± resection
+        aggressive lesions
+        neurosurgical assistance
+    optic pathway
+      observe
+      adjuncts
+        radiation
+        chemo
+      RARELY: debulk
+        // assume surgery will cause permanent visual loss
+  plexiform neurofibroma
+    observe
+    excise for
+      cosmesis
+      astigmatism
+      amblyopia
+  histiocytic lesions
+    oncology consultation
+    debulk
+      ± chemo
+  metastatic neuroblastoma
+    oncology consultation
+    chemo
+  metastatic ALL
+    oncology consultation
+    chemo
+  dermoid || epidermoid cysts
+    if intraorbital dumbell expansion
+      excise
+      minimal trauma to the cyst wall
+        rupture is very inflammatory
+  congenital dermolipoma
+    observe
+    mass effect
+      conservative debulking
+        avoid lacrimal system
+        avoid EOMs
+  congenital teratoma
+    excision
+    if pathology shows malignant infiltration
+      exenteration
+
+lateral orbitotomy
+  GA
+  skin incision
+    straight out from the lateral canthus ||
+    sigmoid incision
+      from the upper lid crease following the Langer lines
+  reflect tissue and periosteum off the lateral orbital rim
+  mark bone to be removed
+  pre-drill holes for replacement
+  cut the orbital rim with a bone saw or drill
+    remove with good haemostasis
+    protect the eye with a retractor
+  lacrimal tumours
+    blunt dissection to define entire mass
+      without violating the lacrimal capsule
+  posterior tumours
+    hook, isolate, suture and disinsert the LR
+    dissect posteriorly
+    cryo probe can be used to place traction on the mass while dissecting
+    remove mass
+    reinsert LR
+  pass a drain out through the skin
+  replace bone using prolene through pre-drilled holes
+  recheck haemostasis
+  close periorbita
+  close OOM & skin
+    reform canthal angle if sigmoid incision not used
+  remove drain @ 24 h
+
+
+//
+
+
+2014 semester 2 paper 1A question 4 DDx:
+
+infectious
+  TB
+    most other infectious causes would have injection, pain
+
+inflammatory
+  inflammatory
+    sarcoid
+    possibly NSOI
+      unlikely without pain
+  autoimmune
+    TED
+
+neoplastic
+  solid
+    SCC
+      from adjacent NPC
+    RARELY: plasmacytoma
+    RARELY: soft tissue sarcoma
+      usually has calcifications
+  vascular
+    cavernous haemangioma
+    haemangiopericytoma
+    LM
+      usually has a fluid level
+      try to avoid resection or do subtotal resection
+    VM || AVM
+      usually you can see vascular channels
+      can't really resect or biopsy
+      sometimes you can embolise them or embolise and then resect
+  lymphoproliferative
+    LH || lymphoma
+      usually B-cell NHL
+        send some of the tissue fresh
+          test for monoclonal surface cell markers
+            flow cytometry
+            immunoassay
+          molecular genetic studies
+            FISH
+            PCR
+        concurrent systemic lymphoma
+          eyelid has greatest risk
+          orbit has intermediate risk
+          conjunctiva has lowest risk
+          treat with radiation
+  metastatic
+    lung
+    prostate (men)
+    breast (women)

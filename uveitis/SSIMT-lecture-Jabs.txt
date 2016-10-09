@@ -1,0 +1,146 @@
+anterior uveitis
+  risk of visual impairment doubles @ SUN 0.5+ WBC versus SUN 0
+
+intermediate uveitis
+  1˚ cause of visual loss is CME
+  if no CME
+    may observe
+  treatment
+    regional
+      periocular
+      intravitreal
+        100% incidence of cataract after 5 IVT
+      100% recurrence of CME with regional alone
+        so nearly always use systemic
+    systemic
+
+Jabs prednis(ol)one regimen
+  1 mg/kg/d 60- mg max
+    60+ mg greatly increases the risk of ischaemic necrosis of bone
+  taper after 2-4/52
+    if you can't taper
+      SSIMT
+  goal
+    SUN 0
+    under 7.5 mg/kg/d
+  Jabs does not use prophylactic PPI
+    NSAIDs cause PUD
+      steroids potentiate NSAID-associated ulceration
+      steroids alone have low risk of PUD
+    PPI increases the risk of osteoporosis
+  calcium + vitamin D is an optional adjunct
+    per Jabs
+      calcium alone may increase the risk of MI
+    most sources I read say MI risk is slightly increased ± vitamin D
+  weigh your patients
+    Hawthorne effect
+      measure behaviour is modified behaviour
+  taper
+    60-40 -10 mg/(week || 2/7 if rapid)
+    40-20 -5 mg
+    20-10 -2.5 mg
+    10- -2.5-1 mg
+
+monitoring SSIMT
+  bloods 4-6/52
+
+start SSIMT at diagnosis
+    COMMON:
+      JIA
+      MC ± P
+      BSCR
+      VKH
+
+choice of agent
+  mycophenolate || MTX
+  efficacy
+    mycophenolate > MTX
+    cyclosporine has poor efficacy
+  tolerance
+    mycophenolate > azathioprine
+    cyclosporine is poorly tolerated
+
+mycophenolate
+  2-3 g daily
+    divided bd
+  diarrhoea
+    less if you ramp up slowly
+  in children // see Doycheva, BJO 2016
+    225 mg/m2 bd x 1/52
+    then 450 mg/m2 bd
+    ± prednisolone 1 mg/kg/d
+      taper
+        10 mg/week to 30 mg/d
+        5 mg/week to 20 mg/d
+        2.5 mg/week to 0 mg/d
+
+cyclosporine
+  avoid in psoriasis
+    these patients are often on PUVA || CSA
+    cyclosporine potentiates PUVA and CSA skin cancer risks
+
+alkylating agents
+  cyclophosphamide
+  chlorambucil
+  avoid in the young
+    especially for duration 2+ years
+  high risk of cancer
+    COMMON: nonmelanotic skin cancer
+    all agents have some risk but this class is the worst
+
+TNFI
+  use first line for Behcet
+  COMMON: in combination
+    MTX
+    mycophenolate
+  if using TNFI in intermediate uveitis
+    ALWAYS: MRI
+      TNFI make MS worse
+  hard to taper
+    Foster BSCR data indicates they may need treatment for life
+  increased nonmelanotic skin cancer
+
+once SSIMT initiated
+  treat 3+ y regardless of activity
+  treat 2+ y inactive
+  data is from a study in JIA
+
+if SSIMT is inadequate but not ineffective
+  add a 2nd agent
+  you may be able to lower the dose of 1 or both once controlled
+
+
+//
+
+
+biologic names
+  -omab
+    murine
+  -ximab
+    chimeric
+      infliximab
+  -zumab
+    humanised
+      daclizumab
+      (bevacizumab
+      ranibizumab)
+  -mumab
+    fully human
+      adalimumab
+  -cept
+    receptor
+      etanercept
+      (aflibercept)
+  -ra
+    receptor antagonist
+      anakinra
+
+
+//
+
+
+review articles (see papers)
+
+  Guidelines for the Use of Immunosuppressive Drugs in Patients With Ocular Inflammatory Disorders: Recommendations of an Expert Panel
+
+  Expert Panel Recommendations for the Use of AntieTumor Necrosis Factor Biologic Agents in Patients with Ocular Inflammatory Disorders

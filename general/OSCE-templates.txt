@@ -1,0 +1,966 @@
+// review the Dunedin OSCE model answers and OSCE examiner reports and finetune
+// based on those
+// review your own notes and add exam tips especially strabismus and plastics
+// see neuro videos in RACE-shared/Adam...
+
+tools
+  fixation target
+    child target
+    adult target
+      snellen stick
+        with ruler
+          snellen up
+          measure up from the bottom
+    red pin for macular sparing
+  red desaturation target
+    drop bottle
+    or just use your ret rack handle
+  vision card
+  opaque occluder
+  good torch (2)
+  prism bars
+  retinoscopy racks
+  retinoscope battery (charge)
+  retinoscope head
+  direct ophthalmoscope head
+  lenses
+    90
+    66
+    20
+  BIO
+  BIO battery (charge)
+  scleral depressor
+  pen (2)
+  paper
+
+setup
+  wear bio and battery
+  shirt pocket
+    torch right
+    pen left
+    red pin deep
+  left upper inner jacket pocket
+    occluder
+    snellen stick
+  left lower inner jacket pocket
+    cow child target
+  right inner jacket pocket
+    ret racks
+  outer right jacket pocket
+    lenses
+  outer left jacket pocket
+    backup torch
+  carry
+    prisms
+    retinoscope with attached battery // charge - pack the charger
+
+you are allowed to retract a statement if made in error
+if you are flailing you can ask to quickly look at the patient again
+presentations are usually chronic but treat them as new
+  e.g. glaucoma testing
+comment on how the fellow eye influences your management
+
+'I prefer...'
+'My preferred technique is...'
+'I have seen...'
+
+
+//
+
+
+anterior segment
+
+  summary
+    introduction
+    look at the patient
+    torch
+      general inspection + comment
+    lids
+    // slitlamp
+    lids
+    conj
+    cornea
+    AC
+    iris
+    lens
+    ectasia
+    suggest gonioscopy if appropriate
+    suggest DFE if appropriate
+
+  introduction
+    'Hi, my name is Dustin. Thanks for coming in today.'
+    shake hands
+    'May I please have the visual acuity and IOP?'
+  look at the patient
+    muscle wasting
+      myotonic dystrophy
+    syndromic face
+    zoster scars
+    hearing aid
+    abnormal teeth
+      notched incisors AKA Hutchinson teeth
+        congenital syphilis
+      small teeth AKA microdontia
+        Axenfeld-Rieger syndrome
+        Down syndrome
+    rosacea
+  torch
+    sensory strabismus
+    buphthalmos
+    corneal scarring
+    iris heterochromia
+    pupils
+  lids
+    ptosis
+    entropion
+    ectropion
+    FES
+      if the lids are lax
+        distract
+  // slitlamp
+  // DF
+    misdirected lashes AKA trichiasis
+    lash loss AKA madarosis
+    long lashes AKA trichomegaly
+      ± dark lashes
+      think about prostaglandins
+    blepharitis
+    punctum
+      eversion
+      scarring
+  'Look down, please'
+    trab
+      high
+      low
+      diffuse
+      circumscribed
+      cystic
+      avascular
+      overhanging
+      sutures
+    tube
+      scleral patch graft
+      stent
+      if there is a tube
+        look for a failed trab
+    conj lesion
+      benign
+      malignant
+        'I would examine regional lymph nodes...'
+    conj scarring
+      prior surgery
+  'Look up, please'
+    symblepharon
+    scleral buckle
+    conj lesion
+    conj scarring
+      prior surgery
+      AKC
+      trachoma
+        'At this point, I would evert the upper lid, looking for...'
+  cornea
+    opacity
+      size
+      location
+        visual axis
+      depth
+        layer
+      pattern
+        corneal dystrophies
+    LASIK scar
+    graft
+      type
+        PK
+        DALK
+        DSEK
+      size
+      centration
+      rejection line
+      oedema
+      failure
+      vascularisation
+      sutures
+        loose
+        infected
+      indication
+        fellow eye
+          guttae
+          dystrophy
+          ectasia
+  // CB
+    guttae
+    folds
+    KP
+    pigment
+      Krukenberg
+    AC
+      tube
+        position
+        occlusion
+        contact
+      WBC
+        hypopyon
+      RBC
+        hyphaema
+      pigment
+        'At this point I would perform gonioscopy, looking for...'
+    iris
+      pupil shape
+        peaked from vitreous
+        sphincter tears
+        PS
+        vermiform light response
+      PXF
+      NVI
+      ectropion
+        prior NVI
+        malignancy
+      nodules
+      mass
+        benign
+        malignant
+          'I would examine regional lymph nodes...'
+      ICE
+        naevi
+        holes
+        membranes
+      ASD
+        posterior embryotoxon
+        aniridia
+      TID
+        PP
+        radial
+        spokelike
+        sectoral
+      LPI // ALWAYS: lift the lid to check
+        patent
+    lens
+      PXF
+      cataract
+        type
+        severity
+      glaukomflecken
+      IOL
+        type
+          if there is an ACIOL
+            look for an ECCE wound superiorly
+        site
+      PC
+        PCO
+        open
+  // SB
+    cornea
+      ectasia
+      level of scarring
+    AC
+      depth
+        peripheral
+        central
+  ALWAYS: 'At this point I would perform gonioscopy, looking for...'
+  'I would Seidel the bleb to look for sweating or a bleb leak...'
+    risk of endophthalmitis should prompt revision
+  'I would perform a DFE of both eyes...'
+  'I would perform IOP phasing at 2-hour intervals...'
+  'I would perform biometry in preparation for cataract surgery...'
+    // ask for the biometry on every cataract station
+  for any cataract
+    preop
+    intraop
+    postop
+  for any uveitis
+    topical
+    periocular
+    systemic
+
+
+//
+
+
+posterior pole (disc + macula + arcades)
+posterior segment (pole + full peripheral exam including BIO)
+
+  summary
+    introduction
+    look at the patient
+      general inspection + comment
+    fast anterior segment
+    vitreous
+    disc
+    vessels
+    macula
+    periphery
+
+  introduction
+    'Hi, my name is Dustin. Thanks for coming in today.'
+    shake hands
+    'May I please have the visual acuity and IOP?'
+    'Was there an APD present prior to dilation?'
+  look at the patient
+    hearing aid
+=begin
+  they may tell you to put on your indirect right away
+    clear media or not
+    nerve and vessels look normal or not
+      'The disc is pink and doesn't appear cupped'
+    'There is no obvious abnormality of the macula'
+    then start your peripheral exam
+  turn around and state your findings
+    'I would like to examine the other eye'
+    you can do this before you commit to a diagnosis
+=end
+  // slitlamp
+  // DF
+  anterior segment // quickly
+    'Look down, please'
+    'Look up, please'
+      conj scarring
+      SB
+    oil in the AC
+    NVI
+    lens status
+    AV
+      vitritis
+      VH
+      pigment cells
+      post PPV
+      SO
+  // CF 90
+  PVD
+  disc
+    colour
+    CDR
+      tilted
+      dysplastic
+    ISNT
+    notch
+    NVD
+    margin
+      swelling
+      Hb
+      drusen
+      PPA
+    NFL defect
+    angioid streaks
+  RV
+    attenuation
+    dilation
+    tortuousity
+    HTN ∆
+      wiring
+      AV nipping
+    embolus
+    vasculitis
+      arteriolitis
+      phlebitis
+  macula
+    staphyloma
+    foveal reflex
+      CSDME
+      CME
+      ERM
+    DR
+      features
+      grade
+    AMD
+      features
+      grade
+    scarring
+      laser
+    atrophy
+      bullseye
+    angioid streaks
+    Hb
+    retinitis
+    CR // specific level
+  periphery
+    9 positions // quickly
+    COMMON: schisis
+    RD
+    LD
+    holes
+    mass
+      naevus
+      melanoma
+      haemangioma
+      ...
+    IR pigment
+      RP
+      CHRPE
+    Hb
+    retinitis
+    CR // specific level
+
+
+//
+
+
+orbit // correct detailed to match summary below this point
+
+  intro
+  look
+  torch
+  measure
+  palpate
+  corneal protective
+  [57]
+  2
+  [346]
+  slitlamp
+
+  summary
+    introduction
+    look at the patient
+    torch
+      general inspection + comment
+    measure
+      globe displacement // usually proptosis but not always
+        axial
+        nonaxial
+      lids
+      strabismus (ask examiner)
+    palpate
+      rim
+      retropulsion
+      lacrimal gland
+      lacrimal sac
+      lymph nodes
+    optional
+      valsalva for varix
+        watch proptosis
+      listen for bruits (ask examiner)
+    // think of the following as corneal protective + [57] + 2 + [346]
+    corneal protective mechanisms
+    cranial nerves
+      facial sensation
+      facial nerve function
+    optic nerve function
+      pupils
+      CVF
+      colour vision (ask examiner)
+    motility
+      versions
+      ductions
+        forced ductions (ask examiner)
+    slitlamp (ask examiner)
+      SLK
+      exposure
+      optic neuropathy
+      venous congestion
+
+  introduction
+    'Hi, my name is Dustin, thanks for coming in today.'
+    shake hands
+    'May I please have the visual acuity and IOP?'
+  look at the patient
+    thyroid
+      neck scar
+      activity indicators
+        lid swelling
+        lid erythaema
+        conj injection
+        inflamed caruncle
+        proptosis
+    facial asymmetry
+      Bell CN7P
+    surgical scars
+      orbitotomy
+    lids
+      swelling
+      erythaema
+      lacrimal mass
+      retraction
+    ptosis
+    proptosis
+    strabismus
+    conj
+      injection
+      corkscrew vessels
+  shine torch
+    Hirschberg
+    conj
+    lift UL
+      lacrimal mass
+  take measurements
+    Hertel
+      if there is one in the room
+        use it
+        even if you don't see proptosis
+    fissure height
+    'Would you like me to measure the strabismus?'
+  palpate
+    orbital rim stepoff
+    lacrimal mass
+    retropulsion
+    lacrimal sac distention
+  valsalva
+    'Can you hold your breath and bear down like you're going to the toilet?'
+      demonstrate
+  'Would you like me to auscultate the orbit?'
+  'Would you like me to check for lymphadenopathy?'
+  corneal protective mechanisms
+    'Look down, please.'
+      lid lag
+    hold UL
+      'Try to close your eyes.'
+        Bell reflex
+    'Squeeze your eyes closed. Don't let me open them.'
+      OOM function
+    'I would like to check corneal sensation.'
+  CN[57]
+    facial sensation
+      CN5(1-2)
+    facial movements
+  CN2 optic nerve function
+    torch
+      pupils
+        on-off each side
+          brisk || sluggish
+        swing
+          RAPD
+    CVF // assumes at least CF vision
+      binocular fields
+        hands beside your head
+        'Look at my nose. Is any part of my face missing?'
+          homonymous defects
+      cover LE
+        'Keep looking at my nose. Can you still see my whole face?'
+        close your RE
+          use your own field as a reference
+        'Tell me how many fingers you see.'
+          ST [125]
+          IT
+          IN
+          SN
+      cover RE
+        close your LE
+        repeat
+      'Would you like me to map the scotoma?'
+    'I would like to test colour vision'
+      if asked
+        Ishihara plates
+        red desaturation
+  test CN[346]
+    versions // torch
+      L-UL-U-UR-R-DR-D-DL
+      if there is ptosis + incomitant strabismus
+        MG exam and testing as reviewed under lids
+    ductions
+      N-SN-S-ST-T-IT-I-IN
+      note restrictions
+        TED
+        orbital floor fractures
+          'Given the restriction, I would perform forced ductions.'
+        'May I have the IOP in upgaze?'
+  if you suspect TED
+    EUGOGO // talk the examiner through your classification
+      CAS
+      severity category
+  'I would like to examine the patient at the slitlamp.'
+    if asked
+      cornea
+        SLK
+        exposure
+        ulceration
+      disc
+        papilloedema
+        oedema
+        pallor
+      venous congestion
+        dilation
+        tortuousity
+        increased venous closing pressure
+      choroidal folds
+        mass effect
+        venous congestion
+
+
+//
+
+
+lids
+
+  summary
+    introduction
+    look at the patient
+    torch
+      general inspection + comment
+      pupils
+    if ptosis
+      measurements
+      Marcus-Gunn
+      MG
+    if entropion || ectropion
+      testing
+        involutional
+        cicatricial
+        paralytic
+        spastic
+    corneal protective mechanisms
+    motility
+      versions
+      ductions + aberrant regeneration
+      facial sensation
+    slitlamp
+
+  introduction
+    'Hi, my name is Dustin, thanks for coming in today.'
+    shake hands
+    'May I please have the visual acuity?'
+  look at the patient
+    frontalis overaction
+    muscle wasting
+      myotonic dystrophy
+    scars
+      trauma
+      prior lid surgery
+      thyroid scar
+    lids
+      ptosis
+        high lid crease
+          involutional
+      entropion || ectropion
+    enophthalmos
+      deep upper sulcus
+        prosthesis
+        prostaglandins
+    strabismus
+      CN3P
+    anisocoria
+      CN3P
+      Horner
+  shine torch
+    Hirschberg
+    conj
+    pupils
+      if abnormal
+        evaluate in
+          light
+          dark
+          convergence
+  if ptosis
+    check for Marcus-Gunn jaw winking
+      'Can you open your mouth, like this...'
+    measure the ptosis
+      lift the fellow lid
+        MRD1 + 2
+        fissure height in 1˚
+          distant target
+      levator function
+        'Look down, please.'
+          ALSO: comment on lid lag
+        'Look up, please.'
+      lid margin-to-crease
+      'I would like to perform a phenylephrine test to evaluate the function of the Muller muscle.'
+    check fatiguability
+      'I would ask the patient to sustain upgaze and check for fatiguability'
+      if asked
+        'Look up and try to hold your gaze on this target, even if you feel tired...'
+    'I would check the patient for a Cogan lid twitch'
+      if asked
+        'Look down for about 20 seconds.'
+        'When the time is up I'll have you look at this target.'
+    'I would perform a 30 minute sleep test with 2 minutes of ice.'
+    'If negative, I would perform a Tensilon test.'
+    'I would ask about contact lens wear and flip the eyelid to evaluate for papillae.'
+  if entropion || ectropion
+    distraction
+    snap back
+    'Look down, please'
+      LLR disinsertion
+        LL fails to move in downgaze
+    pull horizontally
+      MCT laxity
+    entropion
+      'Close your eyelids as tightly as you can.'
+        eyelid imbrication
+          FES
+          spastic entropion
+    ectropion
+      cicatricial
+        'Open your mouth as wide as you can.'
+      paralytic
+        CN7
+          'Puff your cheeks out, like this...'
+          'Smile, like this...'
+          'Wrinkle your forehead, like this...'
+          'Squeeze your eyes closed. Don't let me open them.'
+            transition to the rest of the corneal protective mechanisms
+  corneal protective mechanisms // important for surgical planning
+   'Look down, please.'
+      lid lag
+    lift UL
+      check for bleb
+    hold UL
+      'Try to close your eyes.'
+        Bell reflex
+    'Squeeze your eyes closed. Don't let me open them.'
+      OOM function
+        ALSO:
+          MG
+          CN7P
+    'I would like to check corneal sensation.'
+  motility
+    versions // torch
+      standard pattern
+    ductions
+      standard pattern
+      upgaze
+        MED
+      downgaze
+        wait a moment to lift the lid
+        watch for CN3P with aberrant regeneration
+          lid elevation
+          pupil constriction
+      'Given the restriction, I would perform forced ductions.'
+      'May I have the IOP in upgaze?'
+    facial sensation
+      CN5(1-2)
+  slitlamp
+    blepharitis
+    flip lids
+      AKC
+      FES
+    OSD from misdirected lashes
+    exposure
+    keratoconus
+    pigmentary retinopathy
+
+
+//
+
+
+motility // see strabismus.txt for more detail
+
+'Please examine this patient's ocular motility.'
+  cover testing
+  versions+
+
+'Please examine this patient's eye movements.'
+  skip cover testing
+  versions+
+
+  summary
+    introduction
+    observations
+    torch
+      general inspection + comment
+    history
+    glasses
+    cover testing
+    versions
+    ductions
+    binocularity testing
+    cyclorefraction
+    slitlamp
+    DFE
+
+    introduction
+      'Hi, my name is Dustin. Thanks for coming in today.'
+      shake hands
+      'May I please have the visual acuity?'
+    sit
+    observations // describe what you see
+      surroundings
+        assistive devices
+          cane
+          wheelchair
+        family members with syndromes || strabismus
+      patient age
+      AHP
+        presence indicates incomitant strabismus
+        you may need to ask them to read a line on the distance chart to see it
+      face
+        scars
+          thyroid surgery
+          trauma
+        facial asymmetry
+          CN4P
+          CN7P
+        syndromes
+      lids
+        ptosis
+      eyes
+        torch
+          Hirschberg
+          pupils // watch for CN3P and Horner
+            if abnormal
+              evaluate in
+                light
+                dark
+                convergence
+        conj scars
+        manifest strabismus
+        proptosis
+        nystagmus
+          characterise
+            1 or both eyes
+            horizontal, vertical, or rotary
+            jerk or pendular
+            presence of a null point
+              test convergence dampening
+          OKN (ask examiner)
+            inversion
+              CMN
+            asymmetry
+              infantile ET
+            abnormal to one side only
+              large parietal lesion
+                R side if OKN is abnormal rotating to the patient's R
+    history
+      'I would ask the patient if they have double vision.'
+      'I would ask the patient if they have had any prior surgery.'
+    glasses
+      if they aren't wearing glasses
+        'I would ask the patient if they wear glasses for distance vision.'
+      + or -
+      prism
+        tilt glasses
+          no prism
+            parallax-like effect
+          prism
+            stays displaced the same direction
+    cover testing
+      don't give them a big target
+        just a line or 2 above the smallest they can read
+      no glasses
+        distance
+          DVD?
+          latent nystagmus?
+          HT should prompt 3-step test
+        near
+          have them read
+          1/3 m
+          if there is an ET
+            comment on AC/A
+      glasses
+        distance
+        near
+      comment in general terms
+        small || large
+        comitant || incomitant
+        R || L
+        ET || XT || HT
+        // they will ask you to measure if it's important
+      comment on recovery
+      other gazes
+        A or V?
+        'Would you like me to cover test in other positions of gaze?'
+        'Would you like me to complete a 3-step test?'
+      prism + alternate cover to quantify
+        'Would you like me to measure the deviation?'
+    versions // near target
+      standard pattern
+        2 horizontal passes // SISASIF
+          left hand first
+            'Right eye aBduction is preserved.'
+          passing to right hand
+            'Right eye aDduction is preserved.'
+            'There is no oblique overaction.'
+            'There is no narrowing of the fissure or globe retraction.'
+            'There are no upshoots or downshoots.'
+          repeat for the left eye
+        2 vertical passes
+          without touching the lids
+            'There are no signs of aberrant regeneration.'
+          lifting the lids
+            'There is no oblique overaction.'
+            'There is no A or V pattern.'
+        4 out and back diagonal corners
+          left hand
+            UR
+            DR
+          right hand
+            UL
+            DL
+          'There is no oblique overaction.'
+          repeat for left eye
+      if there is ptosis + incomitant strabismus
+        'I would ask the patient to sustain upgaze and check for fatiguability'
+        if asked
+          'Look up and try to hold your gaze on this target.'
+        'I would check the patient for a Cogan lid twitch'
+          if asked
+            'Look down for about 20 seconds.'
+            'When the time is up I'll have you look at this target.'
+        'I would perform a 30 minute sleep test with 2 minutes of ice.'
+        'If negative, I would perform a Tensilon test.'
+      for any incomitant strabismus
+        Hess chart may be helpful
+      if there is bilateral vertical gaze palsy
+        check doll's eye reflex
+          normal in cortical lesions
+            supranuclear palsies
+              upgaze
+                Parkinson disease
+                DMS
+                  check near pupillary reflex
+              downgaze
+                PSP
+          abnormal in CPEO and other mitochondrial myopathies
+    ductions
+      standard pattern
+      upgaze
+        MED
+      downgaze
+        wait a moment to lift the lid
+        watch for CN3P with aberrant regeneration
+          lid elevation
+          pupil constriction
+      comment
+        improvement on versions
+      'Given the restriction, I would perform forced ductions.'
+      'May I have the IOP in upgaze?'
+      facial sensation
+        CN5(1-2)
+    convergence
+      hold the torch up unlit
+    saccades
+      ALWAYS: test saccades
+      torch to finger
+        horizontal
+        vertical
+    suspected CNP
+      ALWAYS: check CN[578]
+      CN4P
+        torsion
+          double maddox rod
+        vertical fusional amplitude
+      CN3P
+
+    STOP
+      summarise your findings before discussing binocularity + cyclorefraction
+
+    binocularity testing
+      manifest tropia
+        don't test stereo
+      large angle
+        don't do any binocularity testing
+      infantile ET
+        check for monofixation
+      eyes appear straight in 1˚
+        Worth lights
+        Bagolini
+        synoptophore // some tests useful with manifest strab also
+          SP
+          angle
+          ARC
+          SF
+          MF
+          stereo
+    cyclorefraction
+      'I would perform a cycloplegic refraction.' // will be given
+    slitlamp
+    DFE
+      disc
+        papilloedema
+        oedema
+        pallor
+      venous congestion
+        dilation
+        tortuousity
+        increased venous closing pressure
+      choroidal folds
+        mass effect
+        venous congestion
+      fundus excyclotorsion
+

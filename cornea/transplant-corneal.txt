@@ -1,0 +1,134 @@
+corneal-transplant.txt
+
+primary graft failure
+  graft never clears after surgery
+graft rejection
+  graft was clear after surgery for at least 2/52
+  epithelial rejection
+    usually about 3/12 out
+    superficial Kaye dot infiltrates
+  stromal rejection
+    anytime in the first 2 years
+    full thickness oedema
+    confined to the limits of the graft
+  endothelial rejection
+    usually within the first year
+    most aggressive
+    KP
+    diffuse graft oedema
+    Khodadoust line
+      near the vascularised edge of the graft
+    AC cell
+    5+ KP + Khodadoust = severe rejection
+    for endothelial rejection
+      use systemic steroids in addition to topicals
+  cell-mediated process
+  about 1/10 grafts will reject
+  secondary graft failure
+    cornea fails after rejection
+    when to declare failure
+      rejection persists 3/12
+      vision is compromised by oedema
+
+late graft failure (AOT graft rejection)
+  slow onset of oedema
+  no AC WBC
+  no KP
+  no Khodadoust rejection line
+
+likely graft rejection
+  young
+  autoimmune disease
+  atopy
+  ocular surface disease
+  original condition that can recur
+    HSV
+    VZV
+    corneal dystrophy
+  multiple prior grafts
+  big graft
+    large donor button size
+  eccentric graft
+  NVK
+    2+ quads = high risk
+  loose sutures
+  graft infection
+  intraoperative trauma to endothelium
+    especially in combined cases
+  uveitis
+  glaucoma
+  ACIOL
+  low ECT in donor
+  high antigen load in donor
+  poor donor match
+  treatment
+    ADMIT
+    remove vascularised sutures
+    culture any suspicious infiltrate
+    hourly PF
+    IV or oral steroids
+      no evidence for IVMP over po prednisolone
+      //... revisit this Elsie says no evidence for systemic
+    Chlorsig prophylaxis
+
+specular microscopy report
+  cell density (cells/mm2) (CD)
+    normal endothelial cell counts
+      5000 @ birth
+      3000 @ 40
+      2000 @ 70
+      3000+ is acceptable for PK || DSEK
+  number of cells analysed (NUM)
+  average cell area (µm2) (AVE)
+  standard deviation of the average cell area (SD)
+  maximum and minimum cell areas (MAX, MIN)
+  coefficient of variation (CV)
+    measures polymegathism
+    i.e. How variable are the cell areas?
+    0.4+ is abnormal
+  percentage of 6-sided cells (6P)
+    measures pleomorphism
+    50-% is abnormal
+  abnormal specular microscopy
+    FED
+      to delay DMEK in FED || PBK
+        hairdryer
+        hypertonic saline
+    PBK
+      Chlorsig prophylaxis if ruptured bullae
+    ICE
+    CTL
+    anterior uveitis
+    glaucoma
+    medications
+      CAI
+
+when combining or staging DSEK + CEIOL
+  DSEK may induce hyperopia
+  aim more myopic than usual
+    ~ -2
+  DMEK would significantly reduce this concern
+    still mostly DSEK in AU
+    so mention hyperopic shift
+
+endothelial keratoplasty
+  indications
+    FED
+    PBK
+    PK graft failure
+    ICE syndrome
+
+pain after DSEK || DMEK
+  high pressure
+    pupillary block from the bubble
+      mitigating options
+        preop yag
+        postop dilating drops
+        SPI
+          not popular
+          can bleed
+      treat
+        medically
+        in an emergency
+          burp air out the wound
+  epi defect

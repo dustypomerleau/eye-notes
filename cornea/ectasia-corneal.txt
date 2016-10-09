@@ -1,0 +1,203 @@
+corneal-ectasia.txt
+
+  KCN
+    // rule out pellucid (lobster claw topography) before diagnosing KCN
+    mean clinical onset 40s
+      often starts subclinically around puberty
+      tends to stabilise by 50s
+    usually sporadic
+      some genetic predisposition
+      lots of potential loci
+      combo of genes + environment
+      1st degree relatives of probands are at slightly higher risk
+    high prevalence in myopes seeking refractive surgery
+      be on the lookout
+      5+% in most series
+        including form fruste can be 15+%
+      warning signs
+        unstable refraction
+          ask for historical refractions
+        reduced vision even with glasses
+        myopia 10+ D
+        astigmatism 2+ D
+          oblique astigmatism is highly associated with KCN
+    oil droplet red reflex
+    scissoring on retinoscopy
+    look for concurrent atopic disease
+      blepharitis
+    Munson sign
+    Rizzuti sign
+      penlight directed at temporal limbus
+      bright reflection from the nasal limbus
+    Fleischer iron ring
+      hemosiderin deposit in the basal epithelium
+      partial or complete ring
+      base of the cone
+      stands out under cobalt blue light
+    prominent corneal nerves
+    Vogt striae stromal folds
+      deep
+      vertical
+      disappear with gentle digital pressure
+    descemet rupture with hydrops
+      acute hydrops
+        vision drops
+        painful
+        low IOP
+        treatment
+          Chlorsig
+          cycloplegia
+          hypertonic saline 5%
+          if inflamed
+            mild steroid
+          heals with scarring
+            1-2/12
+    central K 47+ D on topo
+      apical cone
+      inferior paracentral thinning
+        under 500 µm is usually pathologic
+      irregular astigmatism
+      posterior corneal surface is more sensitive for KCN
+        normal
+          5- µm posterior elevation (toric ellipsoid)
+        KCN
+          10+ µm posterior elevation (toric ellipsoid)
+      approach topography systematically
+        3 strikes
+          steep area 47+ D
+          thinnest pachymetry 500- µm
+          posterior elevation (toric ellipsoid) 10+ µm
+          pentacam posterior float 40+ µm definitely concerning
+        posterior surface changes in KCN
+          greater than anterior changes
+          happen earlier than anterior changes
+        look for skewed axes
+          bowtie not orthogonal
+        take age into account
+          a 20 YO is more concerning than a 50 YO with equivalent findings
+        asymmetry between the eyes makes subtle changes more suspicious
+    associations
+      atopic disease
+        asthma
+        eczema
+        vernal KC
+        atopic KC
+      Down syndrome
+        might be related to eye rubbing
+      OSA
+      BROADLY: connective tissue disorders
+        AD || sporadic Marfan
+        osteogenesis imperfecta
+      aniridia
+      RP
+      rubella
+      LHON
+      mitral valve prolapse
+    treatment
+    avoid eye rubbing
+    serial MRx and topography
+      helps confirm progression
+    rigid CTL
+      will treat 90% of patients
+        easiest on nipple shape
+        hardest on globus shape
+        in practice
+          60+ D is very difficult to fit
+          but ALWAYS: mention CTL fitting in KCN
+      surgery only if CTL fails in experienced hands
+    intrastromal ring segments
+      brands
+        KERARING in AU
+        INTACS in USA
+      only if CCT is 400+ µm
+      not a popular option
+        infection
+          Strep.
+            viridans
+            mitis
+            pneumococcus
+          Staph.
+            aureus
+            epidermidis
+          Pseudomonas
+          Nocardia
+          Klebsiella
+          Clostridium
+          Paecilomyces
+          Aspergillus
+        extrusion
+        epithelial ingrowth
+    crosslinking
+      use for progressive disease
+        not at presentation
+        document progression for at least a year
+          1+ D steepening
+          1+ D increase in astigmatism
+          20+ µm thinning of pachymetry
+          1+ line drop in BCVA
+        best candidates are 400+ µm at thinnest point
+          risk of endothelial failure with 400- µm thickness
+      links between tyrosines on collagen fibrils
+      tyrosine is oxidised to dityrosine
+      UVA causes the oxidation
+      riboflavin potentiates the effect of UVA
+      avoid crosslinking
+        cornea 400- µm
+        pregnant or breastfeeding
+        history of other corneal disease
+          especially HSV keratitis
+        riboflavin allergy
+      consent
+        won't improve vision
+          vision might be briefly worse
+        failure to prevent progression
+        2˚ infection
+        stromal haze
+        persistent epi defect
+        pain to be expected
+      Dresden (2008) protocol used in AU
+        epi off using alcohol
+        (0.1% riboflavin + 20% dextran) x 30 minutes
+        UVA @ 3 mW/cm2 x 30 minutes
+        BCTL until epithelialised
+        Chlorsig + FML qid
+        exams at (1, 3, 7, 30)/7
+    DALK
+      only if no history of hydrops
+      pros
+        low risk of rejection
+      cons
+        technically difficult in KCN
+    PK
+      may have slightly better VA outcomes
+    Bowman layer transplant into a manually dissected midstromal pocket
+      new and not widespread
+
+  Pentacam
+    rotating Scheimpflug images using a common centrepoint for registration
+    anterior and posterior surfaces measured
+    common registration point
+      better at locating the posterior corneal surface
+      more accurately measures thickness
+    tomography only
+      "topography" is generated
+      less sensitive to topographic contours than a placido system
+      Galilei is better - it has Placido topography + Scheimpflug tomography
+  Orbscan
+    horizontal slit-beam images of the anterior and posterior cornea
+    combined with Placido-based topography of the anterior cornea
+    often mislocates the posterior corneal surface
+      usually too far forward
+        underestimates thickness
+  Galilei
+    dual rotating Scheimpflug images + Placido disk
+      Placido provides good curvature matching
+      Scheimpflug provides good posterior surface
+    motion correction using the iris pattern as a reference
+    dual Scheimpflug allows accurate pachymetry even after motion correction
+    provides the best corneal power estimation for CEIOL
+
+cataract surgery in corneal ectasia
+  if the view is clear
+    usually do CEIOL alone to start
+    45 D standard Ks

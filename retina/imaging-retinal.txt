@@ -1,0 +1,116 @@
+wavelengths for retinal imaging
+
+// work in progress - still some unanswered questions
+
+  fluorescein molecule
+    peak excitation 480-490
+    peak transmission 520-530
+
+  ICG molecule
+    peak excitation 805
+    peak transmission 835
+
+  Spectralis
+    OCT 870
+    IR
+      excite 820 (SLO laser)
+      no filter?
+        // sensor can be adjusted in software to achieve a filter-like effect
+        // "no filter" might not mean the same as it did in the analog days
+        // buy one of the Heidelberg engineers a beer and work this out
+    BR
+      excite 488
+      no filter?
+    FAF
+      excite 488
+      521- wide BP filter
+    ICG
+      excite 790
+      filter?
+    FFA
+      excite 488
+      filter?
+
+  fundus camera
+    red-free
+      excite with white light ||
+      excite with 535-585 exciter filter for FAF if you have it
+      530-560 BP filter
+        analog film through a BP filter
+        monochrome digital sensor
+        full-color digital sensor through a BP filter
+        full-color digital sensor set to monochrome mode in software
+          does not use a filter
+          not quite the same quality but convenient
+        full-color digital images with RGB channels separated in software
+          lower resolution
+            only 1/3 pixels devoted to G channel
+        // similar options exist for FFA, FAF, ICG
+    FFA
+      excite 490
+      530-560 BP filter
+    FAF
+      excite 535-585
+      605-715 BP filter
+    ICG // not sure of exact wavelengths for any given product
+      excite ~ 805
+      BP filter centred ~ 835
+
+
+//
+
+
+FFA times
+  choroidal flush
+    ~ 10 seconds
+  cilioretinal artery filling
+  arterial phase AKA arm-to-retina time
+    ~ 2 seconds after choroidal flush
+    ~ 12 seconds total
+  AV phase AKA laminar flow
+    ~ 15 seconds
+  venous phase
+    veins completely full
+    ~ 20 seconds
+    vessels are at their brightest
+    ~ 30 seconds
+  mid-phase AKA recirculation phase
+    ~ 2-4 minutes
+    veins and arteries roughly equal in brightness
+    slow fade in all tissues
+    many docs will call these images "lates"
+  late phase
+    ~ 7 to 15 minutes
+    gradual elimination of dye
+    disc staining this late is normal
+
+
+//
+
+
+SDOCT
+  reflected infrared laser
+    // see wavelengths-for-retinal-imaging.txt
+  split into a spectrum of frequencies by dispersive element
+  spectrum falls on a detector of photosensitive diodes
+  Fourier transform
+    calculates the depth of tissue from which the reflected spectra originate
+  SNR falls off dramatically as you move away from the zero-delay line
+
+
+//
+
+
+from Roman ACO talk //... incorporate into above
+
+OCT
+  2-5 µm resolution
+  1-2 mm penetration
+
+  obel.ee.uwa.edu.au/research/oct/intro
+
+  3-12 mm Bscan length
+  26k-100k Ascans/sec
+
+
+

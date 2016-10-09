@@ -1,0 +1,84 @@
+revamped method for sutured IOL:
+
+GoreTex CV-8 (7-0 equivalent)
+  46 cm length
+  TTc-7 is the smallest needle
+    but you will cut it off anyway
+
+apply OVD to the cornea
+  refresh as needed
+360 peritomy
+haemostasis superiorly
+3 port PPV setup
+  place your ports carefully
+    infusion
+      low enough to avoid suture holes
+      high enough to allow torting eye downward for the frownie incision
+    other trochars
+      high enough to avoid suture holes
+      low enough to avoid superior frownie incision
+complete PPV
+  ensure PVD
+  remove any capsular remnant
+  shave vitreous base
+frownie incision @ 12
+  2 mm from the limbus at the apex
+  width appropriate for lens
+    B & L Akreos AO60 (hydrophilic acrylic)
+      4.5 mm
+    Alcon CZ70BD (PMMA)
+      external 6 mm
+      internal 7.5 mm
+  stay intracorneal for now
+0300 & 0900 suture holes
+  4 total
+  2 mm back
+  enter parallel to iris plane
+  use 15˚ blade
+    internal os is much smaller than an MVR incision
+    allows rotation of knot but usually does not need suturing
+  better to make them further apart
+    makes suture rotation easier
+    avoid compression of Akreos haptics
+    for now say about 3 mm
+      adjust this as you do these
+open suture
+  cut off needles
+  cut in half
+open lens
+  transfer to the operating field
+thread sutures through haptics
+  CZ70BD
+    run both sides of suture in front of the haptic
+  Akreos
+    run both sides of suture front to back
+enter AC using a 3 mm keratome blade
+  widen incision as above
+pass sutures
+  1 at a time
+  into the AC with a tying forcep
+  retrieve via your suture holes with a VR forcep
+  inferior suture before superior suture on each side
+take the slack out of the sutures
+pass the IOL into the AC
+  CZ70BD
+    simply pass with a tying forcep and hold the wound with a toothed forcep
+  Akreos
+    hold along the long axis with a tying forcep
+    fold along the long axis with a folding forcep
+      0300 and 0900 sutures stay on their respective sides
+        rather than touching each other
+    grasp with delivery forcep to deliver to the AC
+take the slack out of the sutures
+slide the suture a bit on each side
+  to ensure that the suture moves freely and is not bound around the haptic
+  so you know you can bury the knot later
+tie each side
+  Akreos is not that long
+    use slipknots
+    centre before tying off
+tuck the knot into the sclera with a tying forcep
+  trim the ends flush with the sclera
+suture the frownie incision with interrupted 10-0 nylon
+close the conjunctiva with 6-0 plain gut
+  take episcleral bites at the limbus

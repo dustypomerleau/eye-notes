@@ -1,0 +1,281 @@
+leukocoria DDx
+  infectious
+    helminthic
+      toxocara
+    BROADLY: endophthalmitis
+  inflammatory
+    inflammatory
+      BROADLY: uveitis
+  idiopathic
+    Coats disease
+  vascular
+    haemorrhagic
+      VH
+  neoplastic
+    solid tumours
+      Rb
+      medulloepithelioma
+      astrocytic hamartoma
+  congenital
+    congenital
+      cataract // see paediatric-cataract.txt
+    developmental
+      PFV
+        usually sporadic
+          ALWAYS: take a FH
+            AR and AD forms are possible
+              AR is more common
+            helps distinguish from XLR Norrie disease
+        incomplete regression of the hyaloid artery AKA 1˚ vitreous
+          severe end of a continuum that includes
+            Mittendorf dot on the lens
+            Bergmeister papilla on the disc
+        usually unilateral
+        any combination of forms can be seen
+          anterior
+            retrolental
+          posterior
+            overlying the disc
+      ROP
+      coloboma
+      myelinated nerve
+  genetic
+    genetic
+      retinal dysplasia
+        COMMON: trisomy 13
+    inherited
+      XLD incontinentia pigmenti // see phakomatoses.txt
+      XLR Norrie disease
+  trauma
+
+//...
+
+short DDx of presumed Rb
+  toxocara
+  PFV
+  Coats
+
+Coats disease vs retinoblastoma
+  pupil reflex
+    Coats yellow
+    Rb white
+  AC
+    either
+      NVI
+    Coats
+      cholesterol
+        yellow
+    Rb
+      pseudohypopyon
+        white
+  vitreous
+    Coats
+      clear
+    Rb
+      if endophytic
+        cloudy
+  subretinal material
+    Coats
+      cholesterol
+        yellow
+    Rb
+      tumour
+        grey
+        white
+  RV calibre
+    Coats
+      irregular dilation
+    Rb
+      uniform dilation
+  RV distribution
+    Coats
+      entirely visible
+    Rb
+      abruptly disappear
+  FFA
+    Coats
+      telangiectasia
+    Rb
+      uniform distribution
+  BSUS
+    Coats
+      retinal detachment
+    Rb
+      mass with calcium
+
+Rb
+
+  international classification of Rb AKA the Philadelphia classification
+    group
+      A
+        3- mm
+      B
+        3+ mm ||
+        3- mm from fovea ||
+        1.5- mm from disc ||
+        SRF 3- mm from the tumour
+      C
+        focal seeds
+          C1
+            SR seeds 3- mm from the tumour
+          C2
+            vitreous seed 3- mm from the tumour
+          C3
+            SR + vitreous seeds
+              both 3- mm from the tumour
+      D
+        diffuse seeds
+          D1
+            SR seeds 3+ mm from the tumour
+          D2
+            vitreous seed 3+ mm from the tumour
+          D3
+            SR + vitreous seeds
+              both 3+ mm from the tumour
+      E
+        extensive Rb
+          50+% of the globe ||
+          NVG ||
+          haemorrhage ||
+            AC
+            vitreous
+            SRH
+          invasive disease
+            AC
+            nerve
+            choroid
+            sclera
+            orbit
+
+  Rb treatment
+    ALWAYS: oncology referral
+    small tumours (A) // in AU they might do SALT on a B
+      systemic chemotherapy
+      TTT
+      PBT
+      laser
+      cryo
+    large unilateral tumours
+      usually enucleation
+        enucleation
+          try for 15+ mm of optic nerve
+            in case there is infiltration
+          if there is extension beyond the globe
+            +
+              high-dose chemo
+              EBRT
+    large bilateral tumours
+      systemic chemoreduction
+        vincristine
+        etoposide
+        carboplatin
+        chemoreduction failures
+          EBRT
+          subTenon chemo
+            carboplatin
+      sequential aggressive local therapy (SALT)
+        chemoreduction followed by
+          laser
+          cryo
+          PBT
+      intraarterial chemo
+        melphalan
+        effective but high-risk
+      intravitreal chemotherapy
+        melphalan
+        for vitreous seeding
+    poor prognosis for metastatic disease
+      fortunately this is rare at presentation
+
+  Rb genetics
+    13q14 RB1 gene
+
+    no FH
+      unilateral Rb
+        15% germline
+          multiple *distinct* tumours in 1 eye strongly suggest germline
+      bilateral Rb
+        98% germline
+          assumed to be 100% for counselling purposes
+        1/3 of sporadic Rb are bilateral
+          presumed sporadic germline mutations
+
+    if you don't know it's germline
+      unilateral Rb in a patient with unaffected parents
+        15% likelihood it is germline *
+        50% likelihood of passing it on *
+        90% penetrance =
+          7% likelihood of an affected child
+            85% of those affected will be bilateral
+      what about the patient's future siblings?
+        risk is higher than pure chance
+          increased from << 1% to ~1%
+        why?
+          parent could be a carrier but unaffected
+            remember that penetrance of germline mutations is only 90%
+          doesn't make much difference to counselling
+
+    if you know it is germline
+      parent has Rb ||
+      patient has bilateral Rb
+        50% transmission * 90% penetrance =
+          45% chance each child will be affected
+            85% of those affected will be bilateral
+      future siblings of bilateral patient with unaffected parents?
+        higher risk that parent is an unaffected carrier // see above
+        risk to future siblings is ~5%
+
+    genetic testing can help determine if the mutation is germline
+      methods
+        PCR
+        karyotyping
+        FISH
+        MLPA
+        RNA analysis
+      most new mutations will be picked up
+        about 1/20 will be missed
+          so positives are helpful
+          negatives should be viewed with caution
+
+Coats disease
+  unilateral
+  usually males
+  classification
+    telangiectasias (1)
+    exudation (2)
+      2B involves the fovea
+    RD (3)
+      3A2 involves the fovea
+      3B total
+    glaucoma (4)
+    end stage (5)
+  treatment
+    obs
+    laser
+    cryo
+    RARELY: surgery
+
+XLR Norrie disease
+  bilateral
+  usually symmetric
+    leukocoria
+      cataract
+      VR dysplasia
+        macular dragging
+        globular dystrophic retina
+        stalk tissue
+        peripheral avascular retina
+        pigmentary changes
+        depending on mutation may phenotypically overlap with
+          ROP
+          AD FEVR
+          PFV
+  hearing loss
+  motor dysfunction
+  cognitive disability
+  surgery
+    lensectomy
+      stalk is usually attached
+    vestigial stalk removal
+    laminar dissection
+      to allow retinal relaxation

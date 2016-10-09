@@ -1,0 +1,91 @@
+blepharitis.txt
+//... use aao ppp here
+and from papers The International Workshop on Meibomian Gland Dysfunction: Executive Summary
+
+
+blepharitis
+  may coexist with
+    allergy
+    ATD
+    multiple types may be present
+  PEE nonspecific
+    may be present in all types
+  anterior
+    staphylococcal blepharitis
+      collarettes
+      lash loss
+      trichiasis
+      lid margin
+        erythaema
+        ulceration
+      marginal infiltrates
+        where the lids cross the limbus in primary gaze
+          10 & 2
+          4 & 8
+        hypersensitivity response to Staph. toxins
+          probably immune-complex deposition
+      phlyctenules
+        cell-mediated immune response to Staph. toxins
+        vascularisation
+        limbal nodules
+      both SA and SE can cause it
+    seborrheic blepharitis
+      flaking
+      look for other dermatitis
+        eyebrows
+        scalp
+    Demodex
+      sleeves are pathognomonic
+      present in normals and blepharitis
+      not clear if it causes any symptoms
+      some people treat for it
+  posterior
+    MGD
+      prominent vessels
+        cross the mucocutaneous junction
+      foamy discharge
+      thick or turbid secretions
+      increased evaporation
+        rapid TBUT
+        poor tear meniscus
+          also present with ATD
+      hyperosmolarity
+      rosacea
+        facial telangiectasias
+        midfacial erythaema
+        papules
+        rhinophyma
+
+chronic blepharitis masquerades
+  sebaceous cell carcinoma
+  discoid lupus
+  IBD
+    ulcerative blepharitis
+
+treatment
+  eyelid cleansing
+    good for both anterior and posterior blepharitis
+    baby shampoo
+      dilute
+    finger or cotton swab
+  warm compresses
+    best for MGD
+    hotter is better
+    don't burn the skin
+    twice a day
+  Chlorsig at bedtime for a few weeks
+  doxycycline 50 mg bd x 2-6/52
+    best for rosacea MGD
+    has antibiotic and antiinflammatory properties
+    reduces SE & SA lipase production
+  mild topical steroids
+    FML
+    loteprednol
+    particularly for
+      marginal keratitis
+      phlyctenules
+    use acutely but not chronically
+      taper after a couple weeks
+  cyclosporine
+    refractory MGD
+

@@ -1,0 +1,193 @@
+contraindications to MFIOL
+  reacts badly to counselling
+    glare
+    halos
+    glasses
+    need for additional surgery
+      KRS
+      piggyback
+      exchange
+  unrealistic patient expectations
+    picky
+    type A
+    neurotic OCD freak
+  happy to wear glasses
+  primary concern is sharp, clear vision
+  heavy dependence on intermediate vision
+    computer occupation
+  heavy dependence on night vision
+    pilot
+    taxi driver
+    truck driver
+  low myopes
+    accustomed to perfect uncorrected reading vision
+  cylinder 0.75+ D
+    toric MFIOL if otherwise a good candidate
+  poor candidate for bioptic KRS
+    corneal topography
+    OSD
+    prior PK
+    ... // see KRS.txt
+  lots of higher order aberrations
+    especially
+      3rd and 4th order
+      coma is a particularly bad 3rd order
+  inaccurate biometry
+    for any reason
+  ectasia
+    keratoconus
+    pellucid
+  FED
+  pupil size
+    too big
+    don't constrict enough at near
+    too dilated when reading in dim light
+      4 mm is ideal
+    more glare and halos
+  PXF
+  optic nerve dysfunction
+  poor macular function
+    ERM
+    AMD
+    chronic DME
+    ...
+  dementia
+  alternating monofixators
+    such as large angle XT
+    mild amblyopia can be revealed after MFIOL
+      acuity gets worse when you reduce contrast
+  intraop
+    decentred rhexis
+    decentred bag
+      zonular loss
+    PC tear
+      not an absolute contraindication
+      can sometimes be saved with a posterior rhexis
+
+multifocal IOL options
+  ReSTOR diffractive ± toric (Alcon)
+  Tecnis diffractive ± toric (AMO)
+  AT LISA trifocal diffractive ± toric (Zeiss)
+    plate haptic
+    stable
+    hard to remove or rotate
+  M-flex refractive ± toric (Rayner)
+
+toric IOL options
+  AcrySof toric (Alcon)
+    ~ 1-4 D at the corneal plane
+  Tecnis toric (AMO)
+  AT TORBI bitoric (Zeiss)
+    same plate haptic as the AT LISA
+  T-flex toric (Rayner)
+
+full arsenal
+  monofocal distance ± toric
+  monofocal near or intermediate ± toric
+  bifocal diffractive ± toric
+  bifocal refractive ± toric
+  trifocal diffractive ± toric
+  LRI
+    nomogram
+      DONO
+      NAPA
+      both go up to 3 D
+      in practise don't try to correct 1.5+ D astigmatism with LRI
+        2 x 60˚ (2 CH) incisions
+    online calculator from AMO
+      takes cataract wound into account
+      http://www.lricalculator.com/
+    blade depth == 90% of thinnest pachymetry
+  keratorefractive surgery
+  contact lenses distance
+  monofocal glasses distance
+  monofocal glasses near
+    exact distance depending on patient needs
+
+  most not using LRI or KRS to routinely correct astigmatism
+    OK for late tweaking if toric inadequate or rotated
+
+unhappy patient after MFIOL
+  residual refractive error
+    refraction
+      look for astigmatism in particular
+      if refraction corrects them
+        trial frame in the office
+      if refraction can't correct them
+        repeat corneal topography
+          irregular astigmatism is a common culprit
+      options
+        observation
+        glasses
+        KRS
+        IOL exchange
+  glare and halos
+    immediate
+      watch
+    delayed
+      revisit refraction and topography
+        options above
+      look for PCO
+      YAG if indicated
+  poor contrast sensitivity
+    check for concurrent disease
+      macular pathology
+        postop CME
+      optic nerve pathology
+        including glaucoma
+  counsel and be patient
+
+reducing unhappy toric patients
+  gradual lifetime shift is against-the-rule
+    a minority of surgeons intentionally leave a touch of with-the-rule
+  corneal topography
+    make sure the head is straight in the machine
+    10˚ tilt loses 1/3 of the toric's effect
+    posterior corneal astigmatism
+      probably the cause of most "lenticular astigmatism"
+      usually steep in the vertical meridian
+        remains steep @ 90 with age, unlike anterior astigmatism
+        so to review
+          both the anterior and posterior corneal surfaces start steep @ 90 WTR
+          the anterior surface gradually shifts against the rule as we age
+          the posterior surface stays the same
+      use Galilei or Pentacam to get good posterior readings
+      allows more accurate calculation of total corneal astigmatism
+  limbal marking
+    Osher ThermoDot allows small marks that don't diffuse like ink
+  using the iris
+    note landmarks in the axis of interest
+  limbal registration systems
+    Alcon Verion
+    Zeiss Cataract Suite
+    TrueVision TrueGuide
+  intraoperative wavefront aberrometry
+    useful during CEIOL even for spherical IOLs
+      Alcon WaveTec ORA with VerifEye
+        Alcon is expected to combine Verion + ORA into one product soon
+      Clarity Medical Systems Holos IntrOp
+  postop analysis of lens position
+    NIDEK OPD-Scan
+      combines
+        keratometry
+        corneal topography
+        autorefractor
+        wavefront aberrometry
+      can analyse the toric position in place and give residual astigmatism
+    ASCRS online calculator
+      http://www.ascrs.org/toric-results-analyzer
+      input
+        MRx
+        toric model
+        current axis of toric
+      outputs estimated effect of rotating IOL on the MRx
+      same site as Barrett toric calculator and post-KRS IOL calculator
+  secondary surgery
+    lens adjustment
+      3-8/52
+      MRx usually stable by 4/52 but IOL still mobile
+    piggyback lens
+      Rayner Sulcoflex series
+        aspheric
+        toric
+        MFIOL ± toric

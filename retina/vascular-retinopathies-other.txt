@@ -1,0 +1,204 @@
+vascular retinopathies
+
+Purtscher and Purtscher-like retinopathy
+  crush injury
+  pancreatitis
+  pancreatic cancer
+  renal failure
+  haematologic malignancies
+  lupus vasculitis
+  long bone fractures
+  orthopaedic surgery
+  iatrogenic emboli
+    retrobulbar injection
+    periocular and intradermal steroid injections
+    BOTOX
+
+Terson syndrome
+  subarachnoid haemorrhage, usually due to ruptured cerebral aneurysm
+  intraretinal haemorrhage
+  sub-ILM haemorrhage
+  VH
+
+CSC
+  idiopathic
+  high-stress
+  type-A
+  exogenous corticosteroids
+    COMMON: solid organ transplant recipients
+  Cushing syndrome
+    pregnancy
+    adrenal tumour
+      e.g. phaeochromocytoma
+    ACTH-secreting pituitary adenoma
+  chronic CSC associated with polyps
+  OCT
+    SRF
+      may be turbid
+    SR fibrin
+    PED
+    choroidal thickening
+  FFA
+    ink blot / expansile dot
+    smokestack
+    RPE ∆
+      guttering
+        not pathognomonic
+        many conditions can have dependent fluid
+          AMD
+          dome maculopathy
+          ...
+  treatment
+    spironolactone 25 mg daily
+    eplerenone 25 mg x 1/52 then 50 mg x 4/52
+    rifampin 10 mg/kg up to 600 mg total daily dose (i.e. up to 300 bd)
+      upregulates CYP450
+        warfarin and other drugs metabolised more rapidly
+        INR will drop
+    finasteride
+    mifepristone
+    thermal laser
+    PDT
+
+PCV
+  SHRM overlying a PED
+    suggestive of polyp || CNV
+  branching vascular network
+    often feeds into PCV
+  laser || PDT
+    30% bleed rate
+
+venous dilation as you move away from the disc margin
+  generic sign of widespread retinal ischaemia
+  look for this
+    DM
+    RVO
+    ...
+
+OIS
+  some patients have pain
+    dull orbital ache
+  vision loss
+    usually gradual
+    can have amaurosis
+    poor light adaptation
+  IOP
+    usually low
+    high in some late NVG cases
+  pupil
+    mid-dilated
+    sluggish
+  anterior segment
+    injected
+    corneal oedema
+    flare but few cells
+    iris atrophy
+    NVI
+  posterior segment
+    disc pallor
+    NVD
+    CWS
+    arterioles narrowed
+      low perfusion pressure if you press on the eye
+    veins dilated
+      but not tortuous
+    mid-peripheral IRH
+  FFA
+    delayed choroidal filling
+      normal ~ 10 seconds
+      choroidal filling is usually normal in RVO or DR
+    long AV transit time
+      laminar flow should start ~ 15 seconds
+      veins should fill completely ~ 30 seconds
+    NV if present
+  PRP if NV
+  ESR
+    rule out GCA
+  carotid ultrasound
+    OIS generally requires 90+% stenosis
+    NASCET
+      CEA for 70-99% stenosis
+  consult
+    GP
+    vascular surgeon
+  mortality is high
+    nearly half will die over 5 years
+      IHD
+      CVA
+
+peripheral retinal NV DDx
+  infectious
+    viral
+      ARN
+  inflammatory
+    inflammatory
+      sarcoid
+      BROADLY: intermediate uveitis // see separate DDx
+    vasculitis
+      BROADLY // see separate DDx
+      Eales
+  vascular
+    vasoocclusive
+      PDR
+      RVO
+      OIS
+      S(S|T|C)
+        sickle cell
+          comma-shaped conjunctival vessels
+          focal iris atrophy
+          NVI and all the sequelae
+            hyphaema
+            NVG
+          peripheral venous tortuosity
+          salmon patch midperipheral preretinal haemorrhages
+          black sunburst CR infarcts
+          sea fan NVE
+          RARELY: angioid streaks
+        avoid CAI
+          promotes sickling
+      aplastic anaemia
+        MAs
+        telangiectasias
+        exudative RD
+        peripheral NP
+          ± NV
+  neoplasia
+    BROADLY: leukaemia
+      COMMON: CML
+  iatrogenic
+    surgical
+      encircling SB
+  congenital
+    developmental
+      ROP
+  genetic
+    inherited
+      XLD incontinentia pigmenti
+      AD VRC
+      AD FEVR
+  endocrine
+    endocrine
+      DM // mentioned above as PDR
+
+retinal haemorrhages with low platelets
+  ITP
+  TTP
+    low platelets
+    haemolytic anaemia
+    fever
+    renal dysfunction
+    altered mental status
+    CVA
+    HA
+  medications
+    amiodarone
+    sulfonamides
+    ibuprofen
+    tamoxifen
+
+pulmonary HTN
+  RARELY:
+    serous RD
+    PED
+    usually resolve with systemic treatment
+    can be difficult to separate from CSC if on steroids

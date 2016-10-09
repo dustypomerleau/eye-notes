@@ -1,0 +1,40 @@
+type 1
+  anaphylactic
+  IgE
+  exogenous antigen
+  15 minutes
+  weal and flare
+  hay fever
+  allergic rhinitis
+
+type 2
+  cytotoxic
+  IgG
+  IgM
+  cell surface antigen
+  lysis and necrosis
+  minutes-hours
+  erythroblastosis faetalis
+  Goodpasture nephritis
+
+type 3
+  immune complex
+  IgG
+  IgM
+  soluble antigen
+  erythaema and oedema
+  3-8 hours
+  lupus
+  farmer's lung disease
+
+type 4
+  delayed
+  no antibodies
+    T-cell mediated
+  tissues and organs act as antigen
+  2-3 days
+  erythaema and induration
+  PPD
+  poison ivy
+
+

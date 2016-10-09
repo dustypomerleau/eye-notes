@@ -1,0 +1,94 @@
+albinism
+
+  ask about
+    bleeding
+    bruising
+    recurrent infections
+    developmental milestones
+
+  all albinism
+    decreased VA
+      COMMON: foveal hypoplasia
+      ALSO: ON hypoplasia
+    nystagmus
+      COMMON: PAN
+    reduced stereopsis
+      over-decussation at the chiasm
+      confirmed by asymmetric VEP
+    iris TI defects
+    fundus hypopigmentation
+    foveal hypoplasia
+      ± ON hypoplasia
+
+  AR OCA "he's A ROCkAh"
+    7 types primarily based on mutation
+    spectrum of tyrosinase activity
+    the term "tyrosinase negative" has been abandoned in favour of a continuum
+      generally
+        more tyrosinase activity (previously tyrosinase positive)
+          better VA
+            6/36+ requires some tyrosinase activity
+
+  XLR OA
+    XLR therefore predominantly boys
+    OA1 is the usual variant
+      mud splattered fundus in carrier females
+    OA2 overlaps clinically with some forms of CSNB
+
+
+  syndromes
+
+    Hermansky-Pudlak
+      AR OCA
+      bleeding problems from low platelets
+      lung disease
+      colitis
+      Swiss or Puerto Ricans
+        H[PPP] [Pudlak Platelets Puerto Ricans]
+
+    Chediak-Higashi
+      AR OCA
+      severe pyogenic infections
+      mucosal inflammation and ulceration
+      coagulation problems
+      neurologic decline
+      early death
+      blood smear to diagnose
+      most common of the silvery hair syndromes with Griscelli and Elejalde
+
+    albinoidism
+      hypopigmentation
+      normal vision
+      normal fovea
+
+    AD Waardenburg syndrome
+      patchy piebald skin and hair
+      heterochromic irides
+      sometimes deafness
+
+
+  management
+    examine parents and siblings
+    skin biopsy
+      to prove carrier state
+        macromelanosomes are present in carriers
+      to determine if there is any tyrosinase activity
+        presence of microscopic melanin is helpful
+        melanocytes can be cultured and tested for tyrosinase expression
+    systemic workup for HP & CH
+    aggressive sun protection
+      sunglasses
+      sunscreen
+      hats and full clothing
+      will need to work indoors as an adult
+    address
+      refractive error
+      strabismus
+      amblyopia
+    ALWAYS: refer to a geneticist
+    ALWAYS: refer for low vision rehabilitation
+      Royal Society for the Blind
+      low vision clinic referral
+      optimise the home environment for low vision safety
+      low vision schooling
+        usually for those with complete absence of tyrosinase activity

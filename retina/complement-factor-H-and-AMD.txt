@@ -1,0 +1,25 @@
+Complement factor H and AMD
+
+Age related macular degeneration is a disease process characterized by chronic progressive degeneration of photoreceptors, RPE, Bruch’s membrane, and possibly the choriocapillaris in the macula. Its etiology is still not understood. The result is that photoreceptors atrophy, RPE degenerates, Bruch’s membrane thickens, drusen form, and choroidal neovascularization sometimes follows.  A variety of single nucleotide polymorphisms (SNPs) have been found to be associated with AMD:
+
+1.  CFH (Chromosome 1q32, Entrez Gene ID 3075)
+
+1.1.  Several SNPs have been reported within this gene, but the CFH Y402H (rs1061170, 1277T to C) polymorphism is the one with the strongest association. Of the 8 or so SNPs that have been studied, 2 are protective but most increase susceptibility to AMD.
+1.2.  Odds ratios of 2.5 (heterozygotes) to 7.4 (homozygotes) have been reported.
+1.3.  The Y402H marker has been shown to be a genetic risk factor for AMD worldwide. Specific associations have been identified in the populations of France, The Netherlands, Iceland, India, Germany, UK, China, Russia and Australia.
+1.4.  CFH is a critical regulator of the complement cascade in innate immunity and associated inflammatory processes. CFH acts upon the C3 cleavage product C3b. When C3b binds to the surface of cells, it forms C3b–Bb, which acts as an activating enzyme, leading to further production of C3b. If unchecked, this process would be harmful to the host tissue. CFH inhibits this alternative pathway cascade by binding to C3b, accelerating the decay of C3b–Bb and acting as a cofactor for the factor I-mediated proteolytic cleavage inactivation of C3b. CFH is able to preferentially bind to and prevent complement activation on host tissue in part by binding to heparin and sialic acid. The polymorphism could potentially impact the affinity of CFH for heparin.
+1.5.  It is not yet clear how the SNPs that have been discovered affect the functionality of CFH. It is thought that they either decrease expression of CFH or decrease the efficacy of the gene product, but it has also been proposed that CFH SNPs interrupt the functionality of neighboring genes.
+
+2.  Complement factor B (chromosome 6p21.3, Entrez Gene ID 629)
+
+3.  Complement Component 2 (chromosome 6p21.3, Entrez Gene ID 717)
+
+4.  PLEKHA1/ARMS2/HtrA1 (chromosome 10q26, Entrez Gene ID 387715/5654/59338)
+
+5.  Excision repair cross-complementing rodent repair deficiency, complementation group 6 (chromosome 10q11.23, Entrez Gene ID 2074)
+
+6.  VEGF (chromosome 6p12, Entrez Gene ID 7422)
+
+For more info:
+
+Ross RJ, Verma V, Rosenberg KI, Chan CC, Tuo J. Genetic markers and biomarkers for age-related macular degeneration. Expert Rev Ophthalmol. 2007 Jun;2(3):443-457.

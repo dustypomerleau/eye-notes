@@ -1,0 +1,68 @@
+angioid streaks
+
+  COMMON:
+    genetic
+      AR PXE
+        ABCC6
+          ATP binding cassette protein
+          300+ mutations described
+          soft tissue calcification
+          abnormal elastic fibre formation
+        COMMON:
+          plucked chicken skin changes
+            folds of the neck
+            inner elbows
+            armpits
+          PPA
+            ± dehiscence of the Bruch membrane
+          angioid streaks
+            choroidal rupture
+            CNV
+          peau d'orange
+            COMMON: temporal macula
+        ALSO:
+          systemic
+            acclerated atherosclerosis
+            mitral valve disease
+            GI bleeding
+          eye
+            corneal ectasia
+            lens subluxation
+            optic nerve drusen
+            SDD
+            GA
+            VMD appearance
+              SRF without CNV
+              SRD
+            pattern dystrophy-like hyperFAF
+        avoid contact sports given risk of rupture
+    Ehlers-Danlos syndrome
+      AD || AR
+    Paget disease of bone
+      AD || sporadic
+
+  RARELY:
+    inflammatory
+      autoimmune
+        acquired haemolytic anaemia
+    neoplasm
+      solid tumours
+        pituitary adenoma
+          acromegaly
+    genetic
+      genetic
+        haemoglobinopathies
+          sickle cell disease
+          hereditary spherocytosis
+        phakomatoses
+          NF1
+          Sturge-Weber
+          tuberous sclerosis
+        AR abetalipoproteinaemia
+        AR hereditary haemochromatosis
+    endocrine
+      endocrine
+        DM
+        hypercalcinosis
+        hyperphosphataemia
+

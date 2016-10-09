@@ -1,0 +1,144 @@
+"That thing that wasn't the thing I thought of is the most ridiculous thing in the universe!" --Every RACE examiner, ever.
+The mind reading component is part of the test. Don't be upset by it. It's a game, treat it as such. You have to guess what they want. Accept that guessing correctly is a skill you need to acquire, and hone it well. There *are* patterns and this *is* learnable.
+
+Your guiding principle for all questions:
+  "What would I actually do for this patient in the clinic?"
+    They are expecting this question to be answered.
+  You pass the question by saying the right things
+    There are *no bonus points* for things that are not on the marking sheet
+
+For each question, start with a template
+  What is the diagnosis?
+    if you aren't sure
+      circle demographics and buzzwords
+  Where's the money?
+    put a $ next to the part of the question that needs most attention
+      don't spend all day on part A if part B is the $
+  What bad stuff is related to that diagnosis?
+    important rule-out on the differential
+    ocular complication - can blind you
+    medical complication - can kill you
+      for each bad thing
+        distinguishing history
+        unique exam finding
+        ancillary test that will rule it out
+        investigation that will rule it out
+        treatment that will prevent it
+    For every question about a patient over 50
+      determine if GCA could cause the problem and test for it
+      they will probably give you someone 70+ but don't rely on that
+  What is the most common item from each DDx category?
+    you've already listed the stuff that can kill or blind you
+    now list the stuff that "usually" causes the problem
+    write the category first, and then write the common diagnosis within it
+      this demonstrates that you are describing a basket of possibilities
+    very long DDx (or lists of any kind) will not help you on the RACE
+      if they ask for 3
+        give them your best 3 and then move on
+      when studying
+        don't waste your time on extensive lists
+          if you are a naturally thorough person, this will require discipline
+        a memorised, organised, instantly accessible shortlist will pass
+        a half-forgotten, disorganised, long list will fail (and eat up time)
+      any type of list on the RACE scores better if
+        you only list the 3 things the examiner is thinking of
+        AOT
+          listing 10 things
+          3 things the examiner wants are on there, but
+            you don't list them until the end
+            examiner thinks stuff at the top of the list is crap
+          examiner decides you're stupid even though you are right
+  when you've finished with your DDx
+    what did they tell you in the question that would rule those items out
+    if the patient can't have a particular diagnosis
+      explain that || don't list it
+  if they only give you information about 1 eye
+    STATE that you would examine both eyes
+  in the clinic
+    what would you do for this specific patient?
+    *find a way* to include those tests or therapies
+    the question might be worded imperfectly but they're expecting these things
+  if you are describing a procedure
+    before you describe the steps
+      consent the patient
+        biggest surgical risks
+        main reasons patients are unhappy
+          even if you don't think of these as "risks"
+        specific risks for the case presented
+      mention standard aseptic prep
+    after you describe the steps
+      describe your postop medication regimen
+      describe your follow up interval
+        a good time for if-then statements
+  counsel the patient and family
+  make appropriate referrals to other disciplines
+    at a minimum
+      include the GP in any systemic disease
+        ALWAYS: refer for improved control of DM, HTN, chol, etc.
+
+  when writing the answer out
+    first list the diagnosis (if it is clear cut)
+    then list key issues to be dealt with
+    then begin answering part A
+
+
+//
+
+
+VSAQ
+
+Allot 30 min for 60 questions @ 30 sec/Q
+
+
+SAQ
+
+Allot 15 min for each of 8 SAQ and be strict about time.
+Organise under sub-headings within your answer if possible.
+Average answer length 2-3 pages.
+Practise past papers in entirety with time constraints.
+
+
+While grading examiners make the following points:
+
+1. Did the candidate answer the question? A generic essay on thyroid eye disease is inadequate if the question is all about elevated IOP in a thyroid patient. This is a common and frustrating problem.
+
+2. Did the candidate display adequate knowledge? Did the candidate convince the examiner he/she was capable of managing this particular problem?
+
+3. Did the candidate show appropriate perspective? Not doing so might mean he/she stressed an unlikely aspect of the problem instead of the more obvious or more common one. It might also mean requesting a host of unnecessary tests or failing to document why certain examinations or tests are necessary. You must justify everything in relation to the particular patient you are being asked about so long lists without focusing on their relevance are frowned upon and will count against you.
+
+For disease X,
+What is the relevant history (meds, family, social, symptoms etc.)
+What are the risk factors that need to be queried
+What is the differential of the condition
+What are the appropriate clinical exams to diagnose the condition
+What ancillary testing is needed to diagnose or treat the condition
+What investigations are needed to diagnose or treat the condition
+What factors need to be addressed in terms of impact on the patient (genetic counseling, ADLs)
+
+With respect to overall performance:
+
+A pass grade for the exam is therefore 37/46 for the writtens and 15/18 for the OSCE. A candidate who is borderline in the writtens (32-36/40) but does particularly well in the OSCE (>16/18) will still pass the whole exam.
+
+
+//
+
+
+OSCE
+  avoid 'of course,' 'obviously'
+
+
+//
+
+
+plastics tute
+  with any skin or orbit lesion
+    first goal is establish the diagnosis
+    biopsy if it's uncertain
+  mention "margin control" methods when excising skin cancer
+    Mohs is generally best if available
+    24 h paraffin probably second
+      wait until day 2 to repair the defect
+        that way you can do further excision if necessary
+    routine frozen section can miss things but is better than nothing
+  for neoplastic disease of the orbit mention "patient needs complete staging"
+    i.e. is it confined to the orbit

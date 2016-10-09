@@ -1,0 +1,707 @@
+ptosis
+
+  major categories of ptosis
+    myogenic
+    aponeurotic
+    neurogenic
+    mechanical
+    traumatic
+
+  short ptosis DDx
+    myogenic
+      simple congenital ptosis
+      MED
+      blepharophimosis syndrome
+      CFEOM
+      mitochondrial myopathies
+        CPEO
+          including Kearns-Sayre
+        MELAS
+      AD muscular dystrophies
+        OPD
+        FSHD
+        myotonic dystrophy
+          hatchet-like facies
+    aponeurotic
+      involutional aponeurotic ptosis
+      congenital defect in the aponeurosis
+    neurogenic
+      CN3P
+      Horner syndrome
+      Marcus-Gunn jaw winking syndrome
+      MG
+      apraxia of eyelid opening
+      blepharospasm
+    mechanical
+      COMMON:
+        capillary haemangioma
+        plexiform neurofibroma
+    traumatic
+    pseudoptosis
+      hypotropia
+      fellow eye
+        lid retraction
+        proptosis
+
+
+//
+
+
+  ptosis DDx:
+
+    BROADLY: any cause of CN3P
+    BROADLY: any cause of Horner syndrome
+    BROADLY: any cause of pseudoptosis
+      orbital mass
+      lid oedema
+      fellow eye UL retraction
+      fellow eye buphthalmos
+
+    infectious
+      BROADLY: CN3P due to meningitis
+        viral
+        bacterial
+        fungal
+      viral
+        VZV
+
+    inflammatory
+      inflammatory
+        NSOI
+        sarcoid
+          & sarcoid CN3P
+        BROADLY:
+          any lacrimal gland
+            inflammation
+            infiltration
+            mass
+      autoimmune
+        MG
+          childhood onset is possible
+          ask about
+            difficulty
+              swallowing
+              speaking
+              breathing
+            proximal muscle weakness
+            fatigability
+              ptosis worsens in sustained upgaze
+              worse late in the day
+          Cogan lid twitch
+            upward flick of ptotic lid
+            when returning to primary from 15+ seconds of downgaze
+          weak OOM
+            unable to resist forced eyelid opening
+          clinical tests
+            Tensilon (edrophonium) test
+              dose
+                adults
+                  take your baseline measurements for comparison
+                  have atropine ready and monitor vitals
+                    bradycardia
+                    hypotension
+                    bronchospasm
+                    abdominal pain
+                  start with 10 mg total
+                    2 mg IV
+                      wait 2 minutes
+                    4 mg IV
+                      wait 1 minute
+                    4 mg IV
+                  stop at any point if you get a response
+                kids
+                  0.1 mg/kg total
+                  divide 2/10, 4/10, 4/10 as with adults
+                infants
+                  1 mg SC
+                    don't bother with a ladder
+            sleep test
+              30 minutes in a dark room
+              expect 2+ mm improvement in ptosis immediately after waking
+                easiest reference is fissure height before and after
+            ice test
+              ice pack over closed eyes x 2-5 minutes
+                ptosis may improve in 2 minutes but motility takes 5 minutes
+                  for ptosis only stop at 2 minutes
+                  3+ minutes is uncomfortable and doesn't improve the test
+              expect 2+ mm improvement in ptosis immediately after removing ice
+              sleep + ice for the last 2 minutes can be combined
+                usually produces a larger response
+                easier to measure a positive
+          AChR-Ab
+            helpful if positive
+            positive less than 1/2 the time
+          chest CT
+            rule out thymoma
+            present in 5-%
+          EMG
+            only if diagnosis is not clear
+          treatment
+            anticholinesterase drugs
+              Mestinon (pyridostigmine)
+              Prostigmin (neostigmine)
+            SSIMT
+              prednisolone
+              azathioprine
+              cyclophosphamide
+              cyclosporine
+            plasmapheresis
+            IVIG
+            thymectomy
+        demyelinating disease
+          CN3P
+          Horner syndrome
+      vasculitis
+        BROADLY: any vasculitis-related CN3P
+      allergic
+        atopy
+        allergy
+        often mechanical
+          eye rubbing
+
+    idiopathic
+
+    iatrogenic
+      iatrogenic
+        BOTOX
+      surgical
+        post-surgical ptosis
+
+    vascular
+      vasoocclusive
+        ischaemic CN3P
+        Horner due to medullary CVA
+      aneurysm
+        PCA aneurysm CN3P
+      haemorrhagic
+        haemorrhagic compressive CN3P
+      hypercoagulable
+        cavernous sinus thrombosis CN3+ palsy
+
+    neoplastic
+      solid
+        BROADLY: any compressive tumour CN3P
+        Horner due to a solid tumour
+          medullary tumour
+          apical lung tumour
+          neck mass
+        BROADLY: any solid tumour mechanical ptosis
+          plexiform neurofibroma
+      vascular
+        capillary haemangioma mechanical ptosis
+      lymphoproliferative
+        lymphoma infiltrative CN3P
+      metastatic
+        BROADLY: any metastatic carcinoma CN3P or Horner
+          infiltrative
+          compressive
+
+    DAMS
+      medications
+        medication-induced myopathy
+          e.g. HAART
+
+    degenerative
+      degeneration
+        aponeurotic ptosis
+
+    congenital
+      congenital
+        congenital myogenic ptosis
+        congenital CN3P
+        Marcus Gunn jaw winking
+          CN5 where CN3 should be
+          not a true CN3P
+          primary issue is with CN5 innervation of the levator
+          more than half have strabismus
+            COMMON: MED
+              look for a hypotropia
+          treatment
+            observe
+            strabismus surgery before lids if needed
+            COMMON:
+              *bilateral* levator transection
+                remove a 10 mm section
+                  above the Whitnall ligament
+                  transconjunctival approach
+                    described by Bowyer in 2004
+                    when isolating the levator
+                      avoid the SR!
+                  anterior approach via lid crease incision is also possible
+              + *bilateral* frontalis sling
+                Bowyer technique
+                  Crawford triangles
+                  autogenous fascia lata
+                  silicone is also an option
+                    my preference
+                  lid height should just clear the visual axis
+            ALSO:
+              levator advancement
+                useful when
+                  ptosis is the primary problem
+                  winking is very mild
+        congenital MED
+          restrictive
+          innervational
+          mixed
+        microphthalmos
+        congenital Horner syndrome
+          usually brachial plexus trauma
+
+    genetic
+      inherited
+        AD blepharophimosis syndrome
+          ptosis
+          epicanthus inversus
+          horizontal eyelid shortening
+          nasal bridge hypoplasia
+        AD OPD
+        AD FSHD
+          face
+            hard to whistle or drink from a straw
+          upper arms and shoulders
+            scapulae stick out
+              AKA scapular winging
+          eventually effects lower body also
+        AD myotonic dystrophy
+        CFEOM
+          AD || AR
+          restrictive strabismus ± ptosis
+          *very* hard to treat surgically
+        mitochondrial CPEO
+          usually ptosis precedes strabismus
+          ± Kearns-Sayre
+            CPEO
+            cardiac conduction defects
+              ALWAYS: ECG
+            pigmentary retinopathy
+            chorioretinal atrophy
+            ataxia
+            deafness
+            DM
+            dementia
+          RRF on muscle biopsy
+            abnormal mitochondria accumulate in the muscle
+            many mitochondrial myopathies will have this
+        mitochondrial MELAS
+          Mitochondrial myopathy
+          Encephalopathy
+            seizures
+            headaches
+          Lactic Acidosis
+            abdominal pain
+            vomiting
+            trouble breathing
+          Stroke-like episodes
+            transient paresis
+
+    trauma
+      eye rubbing
+        including allergies
+      CTL
+
+    neurologic
+      Horner syndrome
+        dedicated DDx, but the main concerns
+          1st || 2nd order neuron Horner syndrome
+            medullary tumour || infarct
+              Wallenberg syndrome AKA lateral medullary syndrome
+                Horner
+                loss of pain and temperature sensation
+                  contralateral body
+                  ipsilateral face
+                dysphagia
+                ataxia
+                  damage to spinocerebellar tracts
+                    loss of proprioceptive input to the cerebellum
+            apical lung tumour
+              Pancoast tumour
+              metastatic neuroblastoma
+            C spine trauma
+          3rd order neuron Horner syndrome
+            carotid dissection
+              spontaneous
+              trauma
+                chiropractic manipulation
+              high risk of hemispheric stroke
+                usually from thromboemboli
+            cavernous sinus aneurysm
+      CN3P covered above
+      RARELY:
+        apraxia of eyelid opening
+        blepharospasm
+
+
+//
+
+
+ptosis exam
+  cyclorefraction
+    particularly important in children
+    induced astigmatism can cause amblyopia
+      even if the visual axis is clear
+  pupils // Savino rule see pupils.txt
+    CN3P
+    Horner
+      sympathetic anatomy
+        1st order
+          hypothalamus => C8-T2 CSCB
+        2nd order
+          C8-T2 CSCB => sympathetic chain in the neck => SCG
+        3rd order
+          SCG => ICA plexus => long ciliary Ns
+            cavernous sinus
+            orbit
+      Horner testing
+        ALWAYS: drop both eyes
+          you are making a comparison of responses
+          post-drop measurements should be taken in a well-lit room
+        cocaine 4%
+          prevents NE reuptake
+          will fail to dilate any Horner patient
+            they aren't producing NE
+          positive test if post-drop anisocoria is 0.8+ mm
+        apraclonidine 1%
+          will only dilate a hypersensitive Horner pupil
+            mostly alpha2
+            alpha1 effect is not enough to dilate a normal pupil
+            so the anisocoria will flip in a patient with Horner
+              this is easier to detect than the cocaine endpoint
+            NEVER: use apraclonidine in < 1 y baby
+              causes CNS depression in infants
+        phenylephrine 1% (dilute)
+          will only dilate a hypersensitive Horner pupil
+          same endpoint as apraclonidine
+            anisocoria will flip in a patient with Horner
+        hydroxyamphetamine 1%
+          induces NE release
+            will fail to dilate a 3rd-order Horner
+          endpoint
+            anisocoria gets bigger in a 3rd-order Horner
+        so for Horner diagnosis
+          cocaine will not dilate a Horner pupil
+            not commonly used but ALWAYS mention it
+          apraclonidine || (dilute) phenylephrine
+            will only dilate a Horner pupil
+            flips the anisocoria if positive
+        and for Horner localisation
+          hydroxyamphetamine will only dilate if the 3rd-order neuron is intact
+            i.e. Horner is 1st or 2nd order
+        all the agents except cocaine are 1%
+        in practice
+          if there is acute onset of Horner with neck pain
+            you don't have time to do this pharmacologic testing before imaging
+            ALWAYS: MRI + MRA to exclude carotid dissection first
+              brain
+                medullary tumour || infarct
+                  Wallenberg syndrome AKA lateral medullary syndrome
+              C + T spine
+              neck
+                carotid dissection
+                  look for high-intensity T1 crescent in the carotid
+                    easiest to see in axial views
+              apical chest
+                Pancoast tumour
+                metastatic neuroblastoma
+            most institutions have a Horner protocol for imaging these areas
+              RVEEH uses CT + CTA instead of MRI + MRA
+            if there is a dissection
+              ADMIT to neurology
+                they will dictate anticoagulation versus antiplatelet therapy
+                  still controversial which you choose
+                some carotid dissections are amenable to intervention
+                  endovascular techniques
+                  surgery
+  EOM // Savino rule see strabismus.txt
+    CN3P
+  MRD1 UL
+    lift the fellow UL
+    re-measure
+    Hering may cause you to underestimate ptosis
+  MRD2 LL
+  fissure height in 1˚
+    widest point
+    distance fixation
+    should be MRD1 + MRD2
+    good way to check your numbers
+  lid crease position
+    mm from lid margin
+  levator function
+    downgaze to upgaze
+    don't let them use the frontalis
+      put pressure on the brow if you need to
+    4- mm needs a sling
+    8+ mm is perfect for levator advancement
+    in between is a grey zone
+      careful with big levator advancements
+      can lift the lid off the cornea and cause OSD
+  Muller function
+    phenylephrine test
+      1.5+ mm is positive
+    usually negative for involutional aponeurotic ptosis
+    most helpful for surgical planning in 2- mm small ptosis
+  lid lag in downgaze?
+    common in congenital ptosis
+  Bell reflex
+  sustained upgaze
+    MG
+  synkinesis
+    lid elevates with jaw movement
+      Margus Gunn jaw winking
+    lid elevates in downgaze
+      aberrant regeneration after CN3P
+  OSD
+    exposure
+  corneal sensation
+  iris
+    congenital Horner
+      iris is lighter
+
+
+//
+
+
+surgical treatment
+  Mullerectomy + conjunctival resection
+    2- mm with a positive phenylephrine test
+    avoid epi in the local infiltration to keep measurements accurate
+  Fasanella-Servat
+    2- mm with a positive or negative phenylephrine test
+    not quite as predictable as Mullerectomy
+    mainly tarsectomy + small mullerectomy
+      so still effective even with a negative phenylephrine test
+      if they do have a positive phenylephrine test
+        do a Mullerectomy
+  levator advancement
+    can correct 2- mm but is best for 3-4 mm
+      patients with 4+ mm ptosis often have poor levator function
+        in that case you need a sling anyway
+    allows you to adjust the height on the table
+      much more predictable under local anaesthesia
+    allows concurrent blepharoplasty
+      aponeurotic ptosis repair (anterior approach):
+        mark the skin to show the lid apex and a mini-blepharoplasty
+        local anaesthetic infiltration front and back
+        excise the mini-bleph
+        clear OOM off the tarsus
+        ask patient to look up
+          identify the tugging of the levator
+        open through the septum
+          levator is right underneath
+        identify the orbital fat pad superiorly
+          undermine a bit so you are just holding levator
+        double-armed 5-0 ethibond suture
+          passed horizontally through the tarsus
+          just above the lid apex you marked
+        evert the lid
+          ensure you didn't pass full-thickness
+        2nd suture further laterally
+        pull the levator aponeurosis down
+          pass the 2 double-armed sutures through the middle to upper part of the aponeurosis
+        tie a couple throws over a loop
+          check the lid position to make sure you're happy before locking
+        goal is to have the lid margin in line with the superior limbus
+          lid will sit a touch higher than the actual postoperative result
+            2˚ epinephrine in the anaesthetic
+        trim off excess levator in front of the sutures
+        close the OOM
+          capture a small bite of the levator to re-form the lid crease
+        close the skin
+          running 6-0 prolene
+          plan removal about a week after surgery
+  frontalis suspension sling
+    autogenous fascia lata
+      patient 3+ YO for harvesting
+      strong
+      integrates well
+      rejection is rare
+    banked fascia lata
+      patient 3- YO
+      rejection risk is mostly theoretical
+    silicone
+      Silastic rod
+      no harvesting
+      easy to adjust
+      classic pentagon pattern
+        mark skin
+          3 sites along lid margin
+            some docs e.g. RC incise across the full lid
+              this allows direct suturing of the tubing to the tarsus
+              // see alternative by RC here
+              //   https://www.youtube.com/watch?v=vXsmprEMkbw
+          3 sites along brow
+        local infiltration
+        incise lid margin through OOM
+        incise brow down to periosteum
+          you can wait to make brow incisions if you prefer
+          allows you to check position after securing the lid margin
+        pass rod sub-OOM from centre incision to outer incisions in lid margin
+        pull rod up to the brow
+        confirm site of medial and lateral brow incisions
+        pass the silicone through the preaponeurotic (sub-OOM) space
+        anchor the sling to OOM at the medial and lateral incisions
+          5-0 Vicryl
+        close the lid margin incisions
+          6-0 Vicryl
+        pass the Silastic from the outer brow incisions to the central one
+        secure the rod with a silicone sleeve
+          you can tie the sleeve if you want
+          harder to adjust later
+        adjust height
+          adult acquired ptosis
+            set the lid at 1-3 mm above the pupil
+          congenital ptosis
+            set the lid margin even with the limbus
+        trim with 8 mm to spare for future adjustment
+        protect the cornea after surgery!
+
+
+//
+
+
+terminology
+  symblepharon
+    fusion of the bulbar and palpebral conj
+  ankyloblepharon
+    fusion of the eyelids
+  euryblepharon
+    temporal widening of the palpebral fissure
+      like someone pulled your outer cheek down
+    can happen in blepharophimosis syndrome
+  epiblepharon
+    pretarsal OOM overrides and turns the lower lashes in
+  epicanthus
+    tarsalis
+      upper eyelid fold
+    inversus
+      lower eyelid fold
+    palpebralis
+      evenly distributed upper + lower fold
+    supraciliaris
+      fold running from the eyebrow to the lacrimal sac
+
+
+//
+
+from http://www.drdresner.com/ptosis-management/
+
+From an article contributed by Dr. Dresner to the medical textbook Oculoplasty Surgery: The Essentials, edited by William P. Chen. New York: Thieme Medical Publishers, 2001.
+
+Ptosis of the upper eyelid is a condition in which the upper eyelid margin is in an abnormal inferiorly displaced position.  It may cover a significant portion of the cornea and pupillary aperture so as to cause visual impairment.  The treatment of ptosis requires accurate and consistent evaluation and measurement as well as skillful use of surgical techniques to implement a functional and aesthetic correction.
+
+This article describes evaluation and measurement of ptosis, the corrections for minimal ptosis (Mülllerectomy, Fasanella-Servat procedure), and levator aponeurotic repair for patients with involutional changes.  Frontalis suspension and Whitnall's sling are presented.
+
+EVALUATION OF A PTOSIS PATIENT
+The history is important in evaluating the ptosis patient.  If the ptosis is congenital, one should question the patient or family as to the absence or presence of jaw winking.  With acquired ptosis, a history of fatigability would warrant a workup for myasthenia gravis.  Any history of trauma, previous ocular history , or contact lens wear may also be germane.
+
+There are numerous classifications for ptosis, such as congenital versus acquired, neurogenic, myogenic, traumatic, and mechanical.1  None of these classifications, however, provides a practical approach or system for repair.  On a practical basis, ptosis can be viewed as either minimal, moderate, or severe.  A logical system with appropriate choices can then be applied to each of these three categories.
+
+Ocular Exam
+In addition to documenting the visual acuity, the patient's ocular motility and pupillary function should be evaluated.  Any anisocoria suspicious for Homer's syndrome should be fully worked up.  The presence or absence of Bell's phenomenon should be documented as well as the tear film and breakup, cornea, and quantitative tear functions.  Children with ptosis should have full-dilated exams, retinoscopy, and assessment of amblyopia.
+
+Ptosis Assessment and Documentation
+The amount of ptosis is important to document to the nearest 0.5 mm if possible.  This is better documented by the margin-to-reflex distance 1 (MRD1),2 which is the distance from the central pupillary light reflex to the upper eyelid margin.  The margin-to-reflex distance 2 (MRD2) is the distance from the central pupillary light reflex to the lower eyelid margin.  The MRD1 plus the MRD2 should equal the palpebral fissure measurement.
+
+The levator excursion is the best clinical test of levator function.  The levator excursion is documented in millimeters, measuring the distance from extreme up gaze to downgaze with the brow immobilized by the examiner's thumb to eliminate any contribution of the brow to lid elevation.  A millimeter ruler is used vertically in the pupillary axis to assess the full excursion.  Levator excursion of 10 mm or greater is considered good function, 5 to 9 mm of excursion is fair function, and 4 mm or less is poor function.
+
+Patients with minimal ptosis (2 mm or less) should have a phenylephrine test performed in the involved eye or eyes after appropriate ptosis measurements have been evaluated and documented.  Either 2.5 or 10% phenylephrine is instilled in the affected eye or eyes.  Usually two drops are placed and the patient is reexamined 5 minutes later.  The MRD1 is rechecked in the affected and unaffected eyes . A rise in the MRDl of 1.5 mm or greater is considered a positive test.  This indicates that Müller's muscle is viable, and the Müller's muscle conjunctival resection procedure can be performed.  It may also give the patient a reasonable prediction of the desired result.
+
+The contralateral eye must also be rechecked in patients with unilateral ptosis.  With the ptotic eye occluded, if the MRDl decreases appreciably in the opposite eye, this usually indicates that bilateral ptosis is present, consistent with Hering's law.3  This may necessitate bilateral surgery.  A negative phenylephrine test precludes the use of the Müller's muscle conjunctival procedure because of the unpredictability of the procedure in this setting.2
+
+Callahan and Beard1 have stated that minimal or mild ptosis is 2 mm or less, moderate ptosis is 3 to 4 mm, and severe ptosis is 4 mm or greater.  Usually patients with minimal ptosis will have good levator excursions.  The moderate-ptosis patients usually have good to fair excursion, and, typically, patients with severe ptosis have poor levator excursions.
+
+Surgical Options Based on Levator Function
+For patients with minimal ptosis (2 mm or less) there are three viable options: (1) Müller's muscle conjunctival resection, (2) Fasanella-Servat, or (3) levator aponeurotic surgery.  If the phenylephrine test is positive in the affected eyelid or eyelids, the Müller's muscle conjunctival resection procedure is the most precise and predictable surgical option.2  For many ptosis surgeons, this is the preferred approach for minimal ptosis because of its ease, predictability, and the ability to grade the correction.  If, however, the phenylephrine test is negative, one must consider other procedures due to the unpredictability of Müller's muscle conjunctival resection in this setting.  The Fasanella-Servat procedure is the next option that should be considered with minimal ptosis and a negative phenylephrine test.  The Fasanella-Servat procedure, although not quite as predictable as Müller's muscle conjunctival resection, is nearly as predictable and equally easy to perform.4   Because it is in a sense a tarsectomy with little Müller's muscle resected, it is viable in the absence of a positive phenylephrine test.
+
+Levator aponeurotic repair is the third option for minimal ptosis.  Many surgeons prefer this technique because of the ability to set the eyelid height on the operating table.  It is quite useful for patients who have contour abnormalities and who have ptosis requiring concomitant blepharoplasty.5  There are, however, many variables that may affect the results, including the need for patient cooperation, the effects of sedation or local anesthetic infiltration, and the need to overcorrect the affected side or sides on the operating room table.  It is also difficult to grade under general anesthesia.  Indeed, many reports have suggested that predictability and success with this procedure may vary up to within 2 mm of the other affected eyelid.6,7  However, in the setting of minimal ptosis, success ought to be judged to within 0.5 mm.  Nonetheless, levator aponeurotic repair is useful for many minimal ptosis patients.
+
+Levator aponeurotic repair is the treatment of choice for nearly all patients with moderate ptosis.  These patients usually have good to fair levator excursions, and usually have negative phenylephrine tests.
+
+Patients with severe ptosis typically have poor levator excursions and require some type of frontalis suspension.  Patients with unilateral congenital ptosis and levator excursions of only 4 to 5 mm are often helped with Whitnall slings or maximal levator aponeurotic advancement.  This can be augmented by simultaneous tarsectomy as well.
+
+Bilateral severe ptosis patients, or patients with very poor levator excursion, need some type of frontalis suspension.  Congenital severe ptosis with little levator excursion is best served with autogenous fascia lata grafts.  Nonautogenous materials are available and can be used if necessary; however, the long-term results are poorer than with autogenous materials.8  Acquired severe ptosis, such as seen with third nerve palsy, progressive external ophthalmoplegia, or oculopharyngeal dystrophy, is best treated by frontalis suspension using a silicone (Silastic) rod because of its adjustability and the possibility for subsequent removal if the cornea becomes compromised.9
+
+SURGICAL MANAGEMENT
+Müller's Muscle Conjunctival Resection
+Müller's muscle conjunctival resection is reserved for patients with minimal ptosis (2 mm or less) with normal levator excursion and a positive phenylephrine test.  This technique was originally described by Putterman and Urist10 in 1975.  Various modifications have been described to modify this technique.2,11
+
+Müller's muscle is a smooth muscle that originates from the undersurface of the levator and inserts with a 0.5 to 1 mm tendon into the superior tarsal plate12  When denervated in Horner's syndrome, this muscle relaxes, causing 2 to 3 mm of clinical blepharoptosis.  The levator aponeurosis has been shown to insert on the anterior 7 to 8 mm of the upper tarsus, with additional interdigitations to the orbicularis oculi's intermuscular septum, forming the eyelid crease.13  Whitnall, however, recognized Müller's muscle as another important primary attachment or insertion of the levator.  When Müller's muscle is advanced, it strengthens the posterior lamella and appears to plicate the levator aponeurosis with healing and subsequent scarring in the posterior lamella.  This plication is successful in maintaining a permanent elevated position of the upper eyelid.2
+
+Surgical Technique
+
+A frontal nerve block is unnecessary for this procedure; lor 2% Xylocaine is used as a regional block for the upper eyelid.  Epinephrine is omitted to avoid stimulation of Müller's muscle; 2 to 3 cc of the solution mixed with hyaluronidase (10 cc anesthetic mixed with 150 units hyaluronidase Wydase) is injected just below the superior orbital rim.  Tetracaine topical anesthetic eye drops are then placed on the conjunctival surface.  A 4-0 silk suture is placed through the tarsus at the eyelid margin in the pupillary axis.  The eyelid is reflected over a Desmarres retractor.  Marks are made at one-half the distance of the total resection amount medially, centrally, and laterally, measured with a caliper and beginning 0.5 mm above the tarsal plate.  Another mark is made centrally to measure the total extent of resection desired.4
+
+Three 4-0 silk traction sutures are placed through the conjunctiva and Müller's muscle centrally, medially, and laterally at the halfway marks.  Each bite is approximately 3 mm long and deep to the underlying Müller's muscle, but should not penetrate the levator aponeurosis or orbicularis muscle.  The sutures are separated into two bundles and tied on themselves, to be used as traction sutures to elevate the required amount of conjunctiva and Müller's muscle to be resected .5
+
+The Desmarres retractor is removed and the lid marginal suture is clamped superiorly to the head drape.  The bundles of sutures are elevated.  One bundle is held by the surgeon and the other by an assistant.  The Müller's muscle conjunctival resection clamp (Karl Ilg Instruments, Villa Park, IL) is placed over the elevated tissues.  The clamp is placed so that the most superior central mark is adjacent to the resection clamp.
+
+A 6-0 plain suture is placed under the clamp with a horizontal mattress technique approximately 0.5 to 1 mm below the clamp .  The clamp tissues are excised with a no.15 blade, metal on metal .  The conjunctiva is closed with a running baseball stitch in the reverse direction of the original pass.  The suture is tied on itself . Exteriorizing the suture is not required.  The eyelid is returned to its anatomic position and the eyelid margin suture is removed.  Antibiotic ointment is placed in the eye.  No patch is necessary.
+
+Excellent results can be seen with minimal ptosis ranging between 1 and 2 mm .  The advantages of this technique are that it is quick, predictable, and quantifiable.  Late failures are quite rare.
+
+Complications include a rare superior corneal abrasion, undercorrection, or overcorrection.  Usually an abrasion heals spontaneously if it is small.  A bandage contact lens can also be placed if desired.  Overcorrection is rare with this technique.  If it occurs, the plain suture can be cut under topical anesthetic in the office, and the wound can be separated gently with a cotton swab.  Undercorrection requires another procedure at a later date.
+
+FasaneIla-Servat Procedure
+In 1961 Fasanella and Servat described their tarsectomy operation for correcting small amounts of ptosis in patients with normal levator function.  In 1972 Putterman14 developed a clamp to supplant the use of curved hemostats for the Fasanella-Servat procedure.  This clamp is best known today for its use in the Müller's muscle conjunctival resection procedure.  The Fasanella-Servat procedure is well suited for minimal ptosis.  Because patients with a positive phenylephrine test are treated with a Müller's muscle conjunctival resection procedure, the Fasanella is reserved for patients with minimal ptosis and a negative phenylephrine test who do not require blepharoplasty.
+
+Surgical Technique
+
+Fasanella and Servat described performing their procedure with two curved hemostats.  Placing these hemostats can be cumbersome, and malplacement can lead to postoperative contour abnormalities or central peaking.  A modified Putterman clamp (Karl Ilg) can be used in place of the two hemostats .  This clamp is modified with a screw closure, which assists in crushing the tarsus.
+
+Anesthesia is obtained by injecting 1% Xylocaine with 1:100,000 dilution epinephrine and hyaluronidase through the superior cul-de-sac.  The eyelid is everted and two 4-0 silk sutures are placed through the conjunctival tarsal border medially and laterally .  The tarsus is marked centrally along the pupillary axis, measuring the proposed resection amount.  One millimeter of tarsus should be resected for each millimeter of ptosis.  The tissues are elevated via the two traction sutures and the clamp is placed over the tarsus and conjunctiva .  The screw device is turned until the tissues are firmly secured.  A 6-0 polypropylene (Prolene) suture is placed through the anterior lamella under the clamp, then passed back and forth in a horizontal mattress fashion and exteriorized out the anterior skin lamella at the other end of the clamp.14  The clamped tissues are excised with a no.15 blade .  The eyelid is reflected back in its anatomic position and the suture is tied over itself along the pretarsal area.  The suture is removed in 5 to 7 days.
+
+Although this procedure is not as predictable as the Müller's muscle conjunctival resection procedure, it is nearly so, and can yield excellent results in patients who have 1 to 2 mm of ptosis .  Correction of 3 mm of ptosis is not recommended with this procedure because of the need to excise large amounts of tarsus.
+
+Complications include undercorrection, overcorrection, and the rare corneal epithelial defect.  Overcorrections can usually be treated by early removal of the suture and by digital massage.  Undercorrections will need either a full-thickness eyelid resection or a levator aponeurotic repair.
+
+This procedure can be performed on patients with or without positive phenylephrine tests; however, patients with a positive phenylephrine test are usually better served with Müller's muscle conjunctival resection.  The advantages of this modified Fasanella-Servat technique include avoiding the need for two hemostats, the absence of contour abnormalities, and the ability to quantitate the procedure well.
+
+Levator Aponeurotic Repair
+Levator aponeurotic repair is useful for minimal to moderate ptosis and can be employed if Müller's muscle conjunctival resection or Fasanella-Servat are not indicated, such as in patients with a large conjunctival filtering bleb or when concomitant blepharoplasty is desired.  For moderate ptosis (3 to 4 mm), it is the procedure of choice.  A maximallevator aponeurotic advancement or Whitnall sling can be employed for patients with severe unilateral ptosis.  This can be further augmented by excising additional amounts of tarsus to elevate the eyelid margin.
+
+The levator palpebral superioris extends from the annulus of Zinn posteriorly through the superior orbit to Whitnall's ligament, which serves as a suspensory ligament for the upper eyelid . At this point the muscle becomes aponeurotic and whitish in appearance.  The aponeurosis courses downward to insert on the inferior two thirds of the anterior surface of the tarsal plate, the fibrous septi of the orbicularis and the subcutaneous tissues.15  Further anterior to the aponeurosis is the pre-aponeurotic fat pad and the orbital septum.
+
+Surgical Technique
+
+The procedure is best performed under local anesthetic with minimal intravenous sedation.  Small amounts of local anesthetic are used to avoid paralyzing the levator muscle.  Epinephrine is recommended for adequate hemostasis.  Approximately 1 to 2 cc of 1% Xylocaine with epinephrine is usually sufficient.
+
+The eyelid crease is marked prior to local infiltration.  If unilateral ptosis is to be performed, the incision is marked approximately 1 mm below the crease on the opposite eyelid, because postoperatively the crease will rise slightly.  If bilateral surgery is planned, the incision can be symmetrically placed at the desired location, but placing the incision too high beyond the superior tarsal border of the upper tarsus should be avoided.
+
+After the local anesthetic is injected on the lid, topical tetracaine eye drops are placed on the conjunctival surface.  The patient is prepped, and protective corneal shields can be placed over the globes.  The incision can be made with a no.15 Bard-Parker blade or a CO2 laser set to incisional mode.  A skin-muscle flap is developed to expose the orbital septum.  The septum is incised over the upper one third to avoid incising or damaging the underlying levator .21  The preaponeurotic fat pad is reflected upward and the whitish aponeurosis is seen underneath.  A high-temperature hand-held cautery is used to disinsert the aponeurosis from the tarsal plate, which separates the aponeurosis from the underlying Müller's muscle .  Dissection is carried upward, as high as Whitnall's ligament if necessary.  A double-arm 6-0 Vicryl suture is placed partial thickness through the central portion of the upper tarsus in two 3 mm bites.  This suture is then taken up through the aponeurosis at the desired height .  This is temporarily tied and the level is examined.  Usually sitting the patient up on the table gives a more accurate assessment.  A 1 to 1.5 mm overcorrection is desirable, because the protractors (orbicularis) are paralyzed by local anesthetic and there can be some stimulation of Müller's muscle by the epinephrine.  Additional sutures can be placed medially and laterally for contour adjustment; however, often they are unnecessary.  The excess levator aponeurosis is trimmed.  A strip of skin-orbicularis flap superiorly can be excised if necessary, or bilateral blepharoplasties can be performed with this surgical technique.  The wound is then closed with a 6-0 suture of choice with supratarsal fixation on every other bite of the suture.  Excellent results can be obtained with this approach.
+
+Whitnall Sling
+The Whitnall sling procedure is a maximal levator aponeurotic advancement.  In actuality, the levator muscle's Whitnall's ligament is sewn to the superior tarsal plate without cutting the medial and lateral horns of the levator and aponeurosis.  This is usually utilized in unilateral congenital ptosis with levator function in the 5 mm range.
+
+Surgical Technique
+
+Because this technique is often performed under general anesthesia, an empirical formula needs to be used to set the height of the lid margin.  The gaping technique described by McCord16 suggests that in congenital ptosis, one adds 3 mm to the amount of ptosis present and that this amount of gaping or lagophthalmos is established on the operating table.  For instance, if there is 3 mm of ptosis present, the eyes should be left open 6 mm on the operating table.  Another formula is to subtract the levator excursion in the affected eyelid from the normal side of excursion.  This number is then multiplied by 1.2 to identify the amount of levator aponeurotic advancement.  For example, if one side has an excursion of 6 mm and the other side is 14 mm, then the levator is advanced 9.6mm.
+
+If additional elevation is required, a tarsectomy can be performed at the time of Whitnall's sling.  2 to 4 mm of tarsus can be excised at the time of surgery.  With this method, each millimeter of tarsus is equivalent to 2 mm of aponeurotic advancement.
+
+Complications with aponeurotic surgery include contour abnormalities, overcorrection, and undercorrection. Conjunctival prolapse is rare.  These complications are usually best addressed 1 week postsurgery.7  With overcorrections, the wound can be opened and the aponeurotic sutures cut.  The aponeurosis is recessed slightly with cotton swabs and the eyelid level is reassessed.  Undercorrections are opened and the aponeurosis adyanced appropriately.  Contour abnormalities are handled in a similar fashion.
+
+Frontalis Suspension Using Fascia Lata
+Patients with severe ptosis and poor levator function are candidates for frontalis suspension with autogenous fascia lata.  Patients with synkinetic ptosis (Marcus-Gunn jaw-winking ptosis) may also be candidates for this procedure with or without levator extirpation.  Generally, autogenous fascia lata gives more predictable and long-lasting results.7  Eye-bank-preserved tissues can be utilized when the patient is younger than 3 years of age or at the family's request.
+
+Autogenous fascia lata is easy to harvest freehand, obviating the need for fascial strippers.  A 3 to 4 cm incision is marked in the midthigh longitudinally, halfway between the head of the fibula and the anterior superior iliac spine .  Although this procedure is usually performed under general anesthesia, 0.5% Marcaine with 1:100,000 dilution epinephrine is injected subcutaneously for hemostasis and postoperatively analgesia.  The foot is pronated slightly by a nonscrubbed assistant or can be taped to immobilize the leg and place the fascia lata on stretch.  The incision is begun with a no.15 Bard-Parker blade, and dissection is carried down through the subcutaneous fat to the fascia.  For bilateral surgery , a harvested strip of fascia needs to be at least 6 mm in width and 8 to 10 cm in length.  Two incisions are made 8 to 10 cm apart into the fascia with a no.15 Bard-Parker blade.  The fascia is exposed superiorly and inferiorly by dissecting bluntly with small "peanuts" (small wrapped cotton balls).  A surgical assistant moves along the incisions with army-navy retractors to expose the field.  Using long Metzenbaum scissors, the fascial strips are incised lengthwise.  The strip is transected on both ends with curved scissors or Jorgenson's scissors, and pulled out of the wound.  The fascia lata is not repaired.  The subcutaneous tissues are closed with 4-0 or 5-0 Vicryl sutures, and the skin can be closed with a 5-0 plain suture.
+
+Surgical Technique
+
+A number of patterns for frontalis suspensions have been described.  A simple pentangular pattern is useful for both fascia lata and silicone rod and requires a limited length of material.
+
+Local anesthetic with epinephrine is injected pretarsally and to the suprabrow region.  Two incisions are marked adjacent to the medial and lateral corneal limbus over the midtarsus.  Three-millimeter incisions are made down to the tarsal plate.  A 2 to 3 mm width fascial strip is then pulled through the incisions with a Wright fascia lata needle.  The fascial strips can be pulled upward to the medial and lateral eyebrow to mark the two brow incisions, ensuring a proper vector and eyelid contour.  The medial and lateral suprabrow incisions are incised down to the periosteum with a no.15 Bard-Parker blade.  While the globe is protected by a lid plate, a Wright needle is passed downward from the medial and lateral brow incisions through the preaponeurotic fat pads to the lid incisions.  The fascia strip is then pulled through the medial and lateral brow incisions.  It is then crossed centrally over the pupil to mark the central incision, at a point 4 to 5 mm above the two incisions.  The central incision is made down to the periosteum and the two ends of the fascial strip are tunneled into the central incision with the Wright needle.  This approach helps to ensure the proper vectors of pull and a normal eyelid contour.  The fascia is pulled up until the lid margin approximates the upper limbus and is then tied with one half of a surgeon's knot.  A 6-0 Prolene suture or braided nylon suture is sewn through the knotted strips and tied, securing the knot.  It is then sewn into the frontalis muscles superiorly.  Excess fascia is trimmed, and 4 to 5 mm of remnant fascia is tucked into the central incision.  The lid and brow incisions are then closed with 6-0 plain suture.
+
+Variation
+
+A variation of this technique can be performed by making a lid crease incision and sewing the fascia directly to the tarsal plate.  This is helpful in some instances when one wants to excise excess skin or to provide a more defined lid crease.  The pretarsal incision technique described previously, however, is faster and creates an appropriate upper eyelid crease.
+
+Frontalis Suspension Using a Silicone (Silastic) Rod
+Silicone (Silastic) rod suspension is useful in myogenic ptosis conditions such as progressive external ophthalmoplegia, oculopharyngeal dystrophy, and myasthenia gravis, or in third nerve palsy patients.  Rarely, an adult with severe bilateral congenital ptosis with no previous surgical correction or with undercorrection from previous surgeries may present with absent or poor Bell's protective eye phenomenon.  These patients are usually better served with silicone rod frontalis suspension.
+
+Silicone rod frontalis suspension is recommended in patients with progressive neuromuscular disorders and third nerve palsy because of the possibility of recovery of illness, possible favorable response to therapeutics, and allowance for postoperative adjustment.  The 1 mm solid silicone (Silastic) rods are available commercially .  The Silastic rod package comes with passing needles and Silastic sleeve, which eliminate the need for the Wright fascia lata needle.
+
+Surgical Technique
+
+The surgery can be done under general anesthesia or local anesthesia; however local anesthesia is preferred to fine-tune the eyelid level and contour intraoperatively.  A simple pentangular design similar to what is used for the fascial frontalis suspension works well for this procedure.  A lid crease incision, however, is more appropriate in this case to attach the silicone rod directly to the tarsal plate.
+
+One percent Xylocaine with epinephrine and hyaluronidase is injected under the lid crease incision and just above the eyebrow centrally, medially, and laterally.  The lid crease incision is made and the tarsal plate is exposed by dissection through the orbicularis.  The silicone rod is sewn onto the tarsal plate with three to five interrupted 6-0 braided nylon or polypropylene .  The rod is then pulled up to the eyebrow to mark the medial and lateral brow incisions.  This will help to optimize the contour of the upper eyelid margin.  Incisions are made down to the periosteum.  With the globe protected, the rods are passed through the preaponeurotic space to the medial and lateral brow incisions with the passing needles .  The medial and lateral ends of the Silastic rod are then pulled up and crossed centrally to mark the central incision.  This is usually above the pupil or just medial to the pupil.  The two ends of the rod are passed through a small Silastic sleeve to secure them at an optimum length and tension.  The lid level is set between 1 and 3 mm above the pupil, depending on the condition being treated.  (One should not elevate these lids to the limbus, as one does with congenital ptosis.)  The rods are trimmed and left with 5 to 8 mm of length on either end for possible future adjustment.  The ends of these rods are then tucked into the wound.  A 6-0 braided nylon or polypropylene suture is sewn around the sleeve, which is then sewn superiorly to the deeper frontalis muscle .  The brow incisions are closed and the lid crease incision is closed, usually with supratarsal fixation every other bite to create a defined lid crease.  One can adjust the lid level and contour postoperatively in the office by exposing the Silastic sleeve under the central suprabrow incision.  This is best done within the first few weeks after surgery because once a pseudocapsule forms around the rods, adjustment may be more difficult.  If indicated, the rod can be entirely removed at any time postoperatively.  The Silastic rod offers the extra advantage and flexibility of adjustability, and comparable results to fascia lata techniques can be obtained.

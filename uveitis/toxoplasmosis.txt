@@ -1,0 +1,63 @@
+toxoplasmosis
+  COMMON:
+    large patch of retinochoroiditis
+    segmental periarteriolar inflammatory plaques AKA Kyrieles plaques
+      also occur in
+        CMV retinitis
+        Susac syndrome
+  ALSO:
+    punctate inner || outer retinitis
+    papillitis
+    neuroretinitis
+  usually a clinical diagnosis
+    IgM generally up if infection occurred within a year
+    atypical cases
+      PCR of aquous || vitreous
+  DDx
+    // see chorioretinitis-DDx.txt
+    short list
+      HSV
+      VZV
+      CMV
+        immunosuppressed
+      HIV
+        if HIV+ with toxoplasmic CR
+          half will have brain lesions
+            MRI
+      TB
+      sarcoid
+      syphilis
+  treatment
+    anterior uveitis
+      hourly prednisolone
+      ± cycloplegia
+    posterior segment
+      no evidence that any treatment regimen improves outcomes
+      probably reasonable to treat in macula-threatening cases
+      options
+        Bactrim DS (trimethoprim/sulfamethoxazole 160/800) bd x 4-6/52
+          avoid in sulfa allergy
+          RARELY causes SJS
+        atovaquone 750 mg qid
+          expensive
+          may cause nausea
+        triple therapy (PSF 25(2) 1(4) 5(1/2))
+          pyrimethamine 25 mg bd
+            may cause bone marrow suppression and any type of pancytopenia
+          sulfadiazine 1 g qid
+            avoid in sulfa allergy
+            RARELY causes SJS
+          folinic acid 5 mg 3x/week
+            prevents pyrimethamine-associated anaemia
+          ± clindamycin 300 mg qid
+            risk of C. dificile colitis
+            liver toxicity
+        ± prednisone 1 mg/kg daily
+          usually started several days after antibiotics
+          not evidence based
+          adverse effects
+            // see anterior-and-intermediate-uveitis.txt
+        ± intravitreal clindamycin 1 mg in 0.1 mL
+          reported effective
+          not often used
+          consider in macula-threatening cases

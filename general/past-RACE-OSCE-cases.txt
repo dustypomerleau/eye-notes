@@ -1,0 +1,402 @@
+past RACE OSCE cases:
+
+
+plastics
+  aponeurotic ptosis
+  aponeurotic ptosis
+    bilateral
+  BCC
+  BCC
+    aponeurotic ptosis
+  BCC
+    lower lid
+  BCC
+    lower lid
+    cicatrical ectropion
+  BCC
+    lower lid
+    involutional entropion
+  CC fistula
+  CN7P
+  CPEO
+  dermoid cyst
+  ectropion
+    involutional
+  ectropion
+    involutional
+    ptosis
+  ectropion
+    tarsal
+  myotonic dystrophy
+  orbital apex tumour
+  orbital apex cavernous haemangioma
+  retrobulbar haemorrhage management
+  TED
+  TED
+
+  recurring themes
+    entropion and ectropion
+    eyelid anatomy
+    eyelid neoplasms
+    orbital mass
+    ptosis
+    TED
+
+
+//
+
+
+cornea
+  anterior segment dysgenesis
+    with chemical injury
+  chemical burn
+  cicatrising conjunctivitis
+  conjunctival lymphoma
+  conjunctival melanoma
+  corneal anaesthesia
+  corneal topography
+  corneoscleral melt
+    post beta radiation
+  FED
+    post PK &&
+    post DSEK
+  graft rejection
+  granular dystrophy
+  high myope with iris claw IOL
+    post DSEK
+    thin pachymetry
+  ICE
+    post DSEK
+  interstitial keratitis
+  KCN
+  KCN
+    post DALK
+  lattice dystrophy
+  lattice dystrophy
+    with features of macular dystrophy
+  OSSN
+  PAM
+  PBK
+  PEI
+    with siderosis
+  pellucid marginal degeneration
+  pterygium
+  pterygium
+  pterygium
+    post beta radiation
+  PUK
+    post lamellar graft
+  RK
+    post PK
+    endothelial rejection
+  SJS
+  SLK
+  Terrien marginal degeneration
+
+  recurring themes
+    conjunctival and ocular surface neoplasm
+    corneal dystrophy
+    KCN
+    PK, DSEK
+    pterygium
+
+
+//
+
+
+retina
+  AMD
+    only eye
+  angioid streaks
+    quiescent CNV
+  BRVO
+  CMM
+  CRAO
+    embolus
+    cilioretinal artery sparing
+  CRVO
+    CME
+  CRVO
+    CME
+    OHT
+  CRVO
+    treated CMM
+  CRVO
+    young patient
+  DR
+    DME
+    BRVO overlay
+  DR
+  ERM
+  high myope
+    myopic CNV
+    retinoschisis
+  high myope
+    chronic RRD
+  IMT
+  MH
+  MH
+  PCV
+  retinoschisis
+  RP
+  Susac syndrome
+  VMT
+
+  recurring themes
+    CRVO
+    MH
+
+
+//
+
+
+uveitis
+  ampiginous CR
+    with secondary CNV
+  ARN
+  birdshot CR
+  birdshot CR
+  CMV retinitis
+  CMV retinitis
+  CMV retinitis
+  fungal CR
+  FUS
+  GPA
+  intermediate uveitis
+    CME
+  JIA
+  JIA
+  JIA
+  MC
+  MC
+  MEWDS
+    broad WDS questioning
+  necrotising scleritis
+  necrotising scleritis
+  neuroretinitis
+  occlusive retinal vasculitis
+  postoperative endophthalmitis
+  sarcoid
+  sarcoid
+  SO
+  TB vasculitis
+  toxoplasmosis
+  VKH
+
+  recurring themes
+    birdshot CR
+    CMV retinitis
+    JIA
+    MC
+    necrotising scleritis
+    sarcoid
+
+
+//
+
+
+glaucoma
+  ACG
+    with trab
+  ACG
+    advanced
+  angle recession
+  FUS
+    glaucoma
+  hypotony
+    post-trab
+    with MMC
+  ICE syndrome
+    asymmetric glaucoma
+  nanophthalmos
+    chronic ACG
+  NTG
+    advanced
+  NVG
+    painful
+    NPL
+  PCG
+  PCG
+  PEG
+  POAG
+    advanced
+    only eye
+  POAG
+    advanced
+  trauma
+    PDG
+  traumatic glaucoma
+
+  recurring themes
+    PCG
+    traumatic glaucoma
+
+
+//
+
+
+cataract
+  aphakia
+    treatment options
+  CME
+    with PBK
+  congenital cataract
+    subluxed IOLs
+  FED
+    DR
+    CME || DME?
+  FUS
+    cataract
+  iris prolapse
+  Marfan syndrome
+    ectopia lentis
+  Marfan syndrome
+    subluxed lens
+  MFIOL
+    refractive surprise
+  nanophthalmos
+  PEG
+    post-trab
+  posterior polar cataract
+  preoperative discussion with patient who desires to be free of glasses
+  refractive surprise
+    discussion of refractive surgery options
+  subluxed lens
+  subluxed lens
+  traumatic cataract
+  traumatic cataract
+  traumatic iridodialysis
+  UGH syndrome
+
+  recurring themes
+    refractive surprise
+    subluxed IOL || subluxed crystalline lens
+    traumatic cataract
+
+
+//
+
+
+paeds
+  albinism
+  aniridia
+  anisometropic amblyopia
+  aphakic glaucoma
+  aphakic glaucoma
+    prior paediatric CEIOL
+  Best disease
+  coloboma
+  congenital cataract
+    DDx
+    management
+  congenital motor nystagmus
+  congenital motor nystagmus
+  congenital rubella
+    discussion of TORCH diagnoses
+  conjunctival inclusion cyst
+  cystinosis
+  LHON
+  morning glory disc anomaly
+  PFV
+  retinoblastoma
+  ROP
+    discussion with photos
+  sensory nystagmus
+    optic nerve and CR coloboma
+  spasmus nutans
+  Stargardt disease
+  Stargardt disease in 7 YO patient
+    DDx discussion
+  VKC
+  VKC
+
+  recurring themes
+    aphakic glaucoma
+    congenital motor nystagmus
+    Stargardt disease
+    VKC
+
+
+//
+
+
+strabismus
+  accomodative ET
+  acute ET in a child
+  Brown syndrome
+  CFEOM
+  CN3P with aberrant regeneration
+  CN4P
+  CN4P
+  CN4P
+  CN6P
+  consecutive XT
+  Duane syndrome
+  infantile ET
+    IOOA
+    DVD
+    with retinal findings
+  infantile ET
+    + explaining to parents and counseling
+  partially accomodative ET
+  sensory XT
+  TED with ET
+  TED with ET
+  X(T)
+  X(T)
+  X(T)
+
+  recurring themes
+    ET
+      infantile || accommodative
+    CN3P with aberrant regeneration (present in neuro also)
+    CN4P
+    TED
+    X(T)
+
+
+//
+
+
+neuro
+  Adie pupil
+  atypical optic neuritis
+  capillary haemangioblastoma
+  cavernous sinus thrombosis
+  CN3P
+    aberrant regeneration
+  CN3P
+    aberrant regeneration
+  CN4P
+  CN6P
+  disc drusen
+  disc swelling
+    bilateral
+    21 YO female
+    vision loss
+  disc swelling
+    unilateral
+  dorsal midbrain syndrome
+  homonymous hemianopia
+    bilateral optic atrophy
+  Horner syndrome
+  Horner syndrome
+  Horner
+    with IIH
+  IIH
+  INO
+  MG
+  MS
+  NAION
+  optic atrophy
+  optic disc drusen
+  optic nerve sheath meningioma
+  seesaw nystagmus
+  VF testing
+
+  recurring themes
+    CN3P with aberrant regeneration
+    disc swelling
+    Horner syndrome
+    optic neuritis
+    VF patterns

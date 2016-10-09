@@ -1,0 +1,619 @@
+vertical strabismus
+
+// see strabismus.txt
+
+four rules for vertical strabismus
+  CN4P unless proven otherwise
+  CN4P are congenital unless proven otherwise
+  CN4P are usually traumatic if not congenital
+  if a vertical strabismus is not congenital or traumatic CN4P
+    investigate
+
+CN4P
+  children
+    usually have AHP
+      sit them up straight
+      document
+        head tilt
+        face turn
+        chin up or down
+          will tilt and turn away from the palsy
+    CN4P in kids is not really an innervation problem
+      most have a lax SO tendon when you do forced ductions in OT
+  adults
+    middle-aged patient
+    intermittent diplopia
+      longstanding CN4P
+        AHP present in old photos
+        vertical fusional amplitude 3+ ∆
+    traumatic cases
+      significant inciting event
+      much more torsion than congenital cases
+        limit of tolerance is about 10˚
+          measure
+            double maddox rods
+            synoptophore
+  BHTT
+    negative BHTT does not rule out CN4P
+    CN4P is THE cause of vertical strabismus
+  CN4P DDx
+    COMMON: congenital >> traumatic > ALSO: microvascular > RARELY: tumour
+    prism fusion range can help distinguish // see OSCE notes
+  bilateral CN4P
+    complain of difficulty reading more than diplopia
+    not common
+    consider if
+      alternating HT
+      history of trauma
+      10+˚ excyclotorsion on DMR
+      V pattern ET 25+ ∆ in downgaze
+        look for chin down posture
+  to rule out CN4P in the setting of CN3P
+    look for torsion
+  when to image a CN4P
+    other CNP
+    progressively worse
+    nystagmus
+    papilloedema
+  surgery
+    COMMON: IO weakening
+      myotomy
+      myectomy
+      anterior transposition
+      maximum 20 ∆
+        if you need more
+          fellow eye IR recession
+            conservative amount
+            effect increases with time
+            risk of LL retraction
+          SR recession // RARE
+            only good for comitant cases
+            most are not comitant
+    to address AHP
+      SO tuck
+        risk of an induced Brown syndrome
+    to address torsion primarily
+      Harada-Ito
+        split the SO down the middle
+        transpose the anterior half forward
+          as far as the SR insertion allows
+        can combine HI with fellow eye SO tuck
+          to correct large torsions
+          to correct a large HT in 1˚
+          SO tuck has a risk of an induced Brown syndrome
+
+  5 syndromes of CN4P
+    nuclear || fascicular CN4P
+      midbrain
+        trauma
+        haemorrhage
+        infarction
+        demyelination
+      sympathetics pass through here
+        may have a contralateral Horner syndrome
+    subarachnoid space
+      where CN4 exits the dorsal midbrain
+        trauma
+          contracoup forces from the edge of the tentorium
+          often the site in bilateral CN4P
+        pinealoma
+        meningioma
+        meningitis
+    cavernous sinus CN4P
+      // covered extensively below in CN3P
+      it's hard to check CN4 function when there is a CN3P
+        SO can't be tested because you can't adduct the eye
+        turn the head so the eye is abducted
+        ask the patient to look down
+        observe for intortion to confirm CN4 is intact
+    orbital CN4P
+      usually other CN are involved and orbital signs are present
+    isolated CN4P
+      congenital CN4P gets lumped in here even though it's not really a palsy
+      if acquired in an adult without a history of trauma
+        scan
+          can be ischaemic but unlike CN3P you probably shouldn't observe here
+
+
+//
+
+
+CN3P
+  // a very important RACE topic
+  // four rules don't apply here
+  //   because there is (usually) a significant horizontal component also
+  for all CNP
+    STATE that you would examine other CN
+  partial CN3P
+    can present with any strabismus except an ET
+      small vertical
+      oblique dysfunction
+      INO appearance
+      ± ptosis
+      ± mydriasis
+  patients with CN3P need imaging
+    MRI + MRA ± gad ||
+    noncon CT + contrast CTA
+      many institutions do CTA first
+        it's fast and available
+        noncon CT is great for SAH
+        CTA is great for PCA || basilar aneurysms
+        MR is better for tissue pathology
+        MR allows you to follow the course of CN3 for other causes
+    if the results are uncertain || suggest PCA aneurysm
+      catheter angiography
+        often done at the time of planned embolisation for PCA aneurysm
+        not risk-free
+          can have CVA during balloon occlusion
+          morbidity 1/100
+          mortality 1/1000
+    exception
+      complete CN3P
+      totally normal pupil
+      patient fits ischaemic CN3P demographics
+      patient has vascular risk factors
+      recovery in 3/12
+      no signs of aberrant regeneration // see below
+    do not rely on pain
+      ischaemic and aneurysmal palsies can both hurt
+    check the pupil again in 1/52
+      to ensure the CN3P is not progressive
+  ALWAYS: screen for GCA if they are old
+  look for aberrant regeneration
+    COMMON: lid elevation in downgaze
+    ALSO:
+      paradoxical eye movement
+      pupil constriction with eye movement
+    ALWAYS: scan a patient with aberrant regeneration
+      clear indicator that the CN3P is not ischaemic
+    fairly common in congenital CN3P
+  recurrent CN3P
+    ophthalmoplegic migraine
+    DM
+    compression
+      ethmoidal mucocele
+      pituitary adenoma
+      IIH
+  children
+    high amblyopia risk
+      top concern after getting the scan is amblyopia
+    surgery
+      goal is 1˚ position alignment and no amblyopia
+      options
+        max LR recession
+        detaching LR and fixating to the orbital wall
+        large MR resection
+        SR + IR traction sutures
+          temporary
+          pass through lid
+          to generate medial scarring
+        SO transposition to MR insertion
+        ptosis
+          usually poor levator function
+          silicone frontalis sling
+          high risk of postop exposure
+            poor Bell phenomenon
+            limited upgaze
+  adults
+    if aneurysm present on MRI + MRA
+      need clipping or embolisation ASAP
+
+  7 syndromes of CN3P
+    nuclear CN3P
+      RARE
+      CN3 nucleus innervates contralateral SR
+      unpaired central caudal nucleus innervates both levators
+        true nuclear CN3P has
+          bilateral ptosis
+          contralateral eye upgaze paralysis
+    CN3 fascicle
+      COMMON: ischaemic
+      many combinations but most are some mix of
+        cerebellar peduncle
+          Nothnagel syndrome
+            CN3P + cerebellar ataxia
+        red nucleus
+          Benedikt syndrome
+            CN3P + contralateral extrapyramidal tremor
+        cerebral peduncle
+          Weber syndrome
+            CN3P + contralateral hemiparesis
+    uncal herniation
+      stretches CN3 across the tentorium below the temporal lobe
+      often starts as a dilated and fixed pupil
+      later progresses to a more complete CN3P
+    PCA aneurysm
+      COMMON: and important cause of CN3P with a fixed and dilated pupil
+      junction of the PCA and ICA
+      CN3 passes lateral to this before entering the cavernous sinus
+    cavernous sinus CN3P
+      CN[345(1|2)6PS]P // see 6 syndromes of CN6P in ET.txt
+      COMMON: CN3 aberrant regeneration after cavernous sinus CN3P
+        // see aberrant-regeneration.txt
+    orbital CN3P
+      CN3 splits as it enters the SOF
+        CN3P may apply to only one division
+          superior division
+            levator
+            SR
+          inferior division
+            MR
+            IR
+            IO
+            parasympathetic fibres
+              EW via cavernous sinus => ciliary ganglion => short ciliary Ns
+                pupillary constrictors
+                fibres to CB for accomodation
+    pupil-sparing isolated CN3P
+      usually ischaemic // see notes above
+
+  CN3P DDx
+
+    infectious // LP is not standard CN3P workup but add for meningeal signs
+      viral
+        COMMON: VZV
+        BROADLY: viral meningitis
+      bacterial
+        TB
+        neurosyphilis
+        BROADLY:
+          bacterial meningitis
+          invasive sinusitis
+      fungal
+        BROADLY:
+          fungal meningitis
+          invasive sinusitis
+
+    inflammatory
+      inflammatory
+        sarcoid
+        Tolosa-Hunt syndrome
+          idiopathic cavernous sinus inflammation
+          unilateral orbital pain
+          cavernous sinus syndrome
+            CN[345(1|2)6PS]P
+              COMMON: CN6P
+              RARELY: trigeminal involvement with abnormal facial sensation
+          MRI for cavernous sinus granuloma
+          IV || oral steroids
+            depending on acuity
+          diagnosis of exclusion
+            probably overdiagnosed
+              technically MRI || biopsy must demonstrate a granuloma
+            painful ophthalmoplegia DDx
+              VZV
+              orbital cellulitis
+              syphilis
+              NSOI
+              TED
+              sarcoid
+              GPA
+              GCA
+              CC fistula
+              orbital neoplasm
+              Tolosa-Hunt
+            // see preseptal-and-orbital-cellulitis.txt for OAS DDx
+              vision loss accompanying CNP should make you suspect OAS over CS
+        NSOI
+      autoimmune
+        MS/demyelinating disease
+        MG
+      vasculitis
+        GCA
+
+    idiopathic
+
+    iatrogenic
+      surgical
+        BROADLY
+
+    vascular
+      vascular
+        dural AV fistula
+      vasoocclusive
+        ischaemic CN3P
+          age-related
+          atherosclerotic
+          HTN
+          DM
+          hyperviscosity syndromes
+      aneurysmal
+        PCA aneurysm
+        basilar aneurysm
+      haemorrhagic
+        SAH can cause CN3P
+          look for
+            HA
+            altered consciousness
+            meningismus
+              stiff neck
+              photophobia
+              HA
+            vomiting
+            seizures
+          multiple mechanisms
+            trauma
+            ruptured PCA aneurysm
+
+    neoplastic
+      solid tumours
+        by region
+          brainstem
+          interpeduncular
+          cavernous sinus / parasellar
+        by type
+          meningioma
+          schwannoma
+          chordoma
+          invasive nasopharyngeal carcinoma
+      vascular tumours
+        cavernous haemangioma
+        (A|AV|L)M
+      lymphoproliferative
+        lymphoma
+          cavernous sinus
+          orbit
+      metastatic
+        cavernous sinus
+        orbit
+
+    DAMS
+      drugs
+        cocaine
+      medications
+        Viagra and its relatives
+
+    congenital
+      within the first 3/12 is generally considered congenital
+
+    endocrine
+      endocrine
+        DM
+
+    trauma
+
+    neurologic
+      hydrocephalus
+      uncal herniation
+
+
+//
+
+
+DVD // covered under infantile ET
+
+CCDD
+  congenital cranial dysinnervation disorders
+    CFEOM
+      muscles and orbit are abnormally restricted/fibrous
+      neuro abnormalities at the level of the CN nuclei
+    sporadic Mobius syndrome
+    // listed here because it's CCDD not because it's vertical
+      CN(6+7)P
+        may have CN5(1)P also
+          can develop neurotrophic corneal ulcers
+      mask-like facies
+      limb hypoplasia
+      orofacial defects
+      1˚ gaze is variable
+        ET
+        XT
+        ortho
+  technically also includes
+    Duane syndrome
+    possibly
+      CN4P
+      Brown syndrome
+  treatment for CFEOM || Mobius syndrome
+    MRI
+      cerebrovascular abnormalities
+      absent CN nuclei
+    genetic counselling
+    additional treatment similar to other forms of strabismus
+      refract
+      treat amblyopia
+      address AHP
+
+Brown syndrome
+  a disorder of the young
+    RARE to see adults who still have it
+  look for
+    chin-up AHP
+      may have a head tilt to the affected side
+    limitation of elevation in adduction
+      congenital cases have a short SO tendon sheath
+    V pattern
+    positive forced ductions
+      technically mandatory to diagnose Brown syndrome
+    usually worse at distance
+  acquired Brown syndrome
+    can occur at any age
+      surgery around the eye
+      sinus surgery
+      trauma
+      inflammation
+        RA
+  treatment options
+    range-of-motion orthoptic exercises
+    peritrochlear steroid injection
+    SO tenotomy || silicone spacer (5-7 mm)
+      you can leave the posterior capsule intact
+        to avoid an induced CN4P
+      spacer may have lower incidence of postop IOOA
+        you can recess the IO to reduce postop IOOA but this isn't common
+      surgical indications
+        manifest HT in 1˚
+        AHP
+        cosmesis
+      don't do surgery if you don't have to
+        more than 40% get a relative SO palsy
+          a portion of those may lose binocularity
+
+MED
+  HoT in both abduction and adduction
+  usually also
+    chin up AHP
+    ptosis
+  NEVER:
+    diagnose MED without ruling out
+      CN3P
+      CCDD
+  MED is really a collection of disorders
+    some restrictive
+    some supranuclear
+
+orbital fracture // see also orbital-fractures.txt
+  COMMON:
+    adults
+    floor fractures
+  RARELY:
+    medial wall fractures
+  history
+    mechanism
+    vertical diplopia
+      usually in floor fractures
+      upgaze is limited by entrapment
+        affected eye hypotropic in 1˚
+      downgaze is limited by weakening of the entrapped muscle
+        leads to the so-called "double diplopia"
+    infraorbital anaesthesia
+  exam
+    oculocardiac reflex
+      bradycardia
+    complete eye exam for associated injury
+      first rule out globe rupture
+      acuity
+      pupils
+      IOP
+        1˚ versus upgaze
+      colour
+      anterior uveitis
+      hyphaema
+      angle recession
+        gonio
+      cataract
+      zonular dehiscence
+        subluxation
+      VH
+      optic neuropathy
+      commotio
+      choroidal rupture
+      retinal tear
+      RRD
+      periocular
+        medial canthal rounding
+        traumatic telecanthus
+    ecchymosis
+    enophthalmos
+      Hertel
+    hypoglobus
+    EOMs
+      ductions
+      versions
+      forced ductions
+        both paretic and restrictive elements are possible with trauma
+    saccadic velocity
+    lag in downgaze
+    Hess chart
+    infraorbital nerve hypoaesthesia
+  non-con CT
+    fractures
+    orbital apex syndrome
+    orbital emphysema
+  treatment
+    prism
+      if restrictive
+        put all the prism on the affected eye
+        AOT comitant strabismus
+          you would normally split the prism
+    surgery
+      eye lag in downgaze &&
+      ductions > versions
+        Faden of fellow eye IR
+          uses of the Faden
+            COMMON:
+              DVD // see ET.txt
+                SR recession boosted by Faden
+              muscle paresis
+                to weaken the fellow eye synergist
+                COMMON: fellow MR in CN6P
+              convergence excess in accomodative ET with high AC/A
+                Faden added to bimedial recessions will boost effect
+              floor fractures
+                limitation of downgaze on the side of fracture causes diplopia
+                Faden to fellow IR
+          use nonabsorbable 6-0 Mersilene braided polyester
+          Faden issues
+            hard to get posterior
+              usually well past equator
+            thin sclera
+              high risk of perforation
+            risk of vortex vein trauma
+            risk to the orbital fat pad
+              adherence syndrome
+            in SR Faden for DVD
+              SO tendon is in the way
+      markedly limited ductions
+        Knapp transposition
+          MR & LR to the insertion of the IR
+
+TED // see TED.txt
+
+MG // see ptosis.txt
+
+CPEO // see ptosis.txt
+
+skew deviation
+  normal ocular tilt reaction
+    right body tilt induces
+    left head tilt
+      major aspect of the physiologic OTR
+    eyes roll left
+      minor aspect of the physiologic OTR
+  skew deviation
+    HT + pathologic OTR
+      HT
+        usually comitant
+          BHTT usually negative
+      when tilting toward the lower eye
+        eyes roll in the direction of tilt
+          much more than in physiologic OTR
+      ± torsional jerk nystagmus
+        away from a medullary lesion
+        toward a midbrain lesion
+  anatomic sites
+    lateral medullary lesion
+      Wallenberg syndrome
+      lesion on the side of the low eye
+    large cerebellar lesions
+      lesion on the side of the low eye
+    MLF
+      usually + INO
+      lesion on the side of the high eye
+    medulla
+      lesion can be either side
+    RARELY:
+      thalamus
+      cortex
+  skew deviation DDx
+    COMMON: brainstem CVA
+    ALSO:
+      infectious meningitis
+      abscess
+      MS
+      neurosurgical injury
+      brainstem tumour
+    RARELY:
+      PML
+      elevated ICP
+        Chiari malformation
+  exam
+    incyclotorsion of the high eye
+      opposite of CN4P
+    skew deviation almost always has other abnormalities on neurologic exam
+  ALWAYS: MRI
+    other investigaions depending on what you need to rule out
+    remember
+      if a vertical is not CN4P => investigate
+
+GCA // see optic-neuropathy.txt

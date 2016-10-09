@@ -1,0 +1,325 @@
+preseptal and orbital cellulitis:
+
+  DDx to consider
+    RARELY: HSV, VZV
+    lacrimal gland inflammation
+      infectious
+      inflammatory
+      neoplastic & infiltrative
+    NSOI
+      diagnosis of exclusion
+      default should be to biopsy
+      very few situations call for empirical steroids without a diagnosis
+        obvious TED
+        sight-threatening orbital apex disease
+          to temporise while you arrange biopsy
+      COMMON: women
+        but men are harder to treat and have more recurrences
+    IgG4-ROD // much of what used to be called NSOI
+      elevated eosinophils
+      occlusive phlebitis
+      sometimes elevated IgG4
+      any combination of
+        dacryoadenitis
+          salivary gland can also be involved
+          lifelong dry eye if untreated
+        enlarged infraorbital nerve
+          nearly pathognomonic if bilateral
+        orbital myositis
+          orbital myositis is nonspecific and associated with many diseases
+            Whipple disease
+            TED
+            NSOI
+            IgG4 disease
+            sarcoid
+            RA
+            lupus
+            scleroderma
+            IBD
+            coeliac disease
+            Churg Strauss
+            GPA
+            RARELY: paraneoplastic
+        sclerosing orbital inflammation
+      biopsy
+        fibrosis
+        eosinophils
+        lymphocytes
+        40+% IgG4+/IgG+ plasma cells
+      treatment
+        oral steroids
+          more than half relapse after taper
+        MTX
+        rituximab
+    TED
+    lupus
+    GCA
+    GPA
+    PAN
+    lymphoma
+    leukaemia
+    rhabdo in kids
+    metastatic tumours
+      neuroblastoma
+
+  risk factors
+    bacterial
+      sinusitis
+        COMMON: ethmoid
+      trauma
+      adjacent inflammation
+        blepharitis
+        conjunctivitis
+        dacryoadenitis
+        dacryocystitis
+        endophthalmitis
+    fungal
+      DM
+      immunosuppressed
+
+  ask about
+    trauma
+      especially orbital foreign body
+    surgery
+    systemic infection
+      fever
+    dental abscess
+    immunosuppression
+    DM
+
+  nonspecific findings
+    periorbital oedema
+    erythaema
+
+  findings indicating orbital cellulitis
+    vision loss
+    APD
+    proptosis
+      Hertel
+      resistance to retropulsion
+    conjunctival injection
+    gaze restriction
+      motility
+      evaluate for CN[3456]P
+    fever
+    leukocytosis
+
+  orbital septum
+    rim to levator aponeurosis (upper)
+    rim to tarsus (lower)
+
+  rule out
+    unstable vital signs
+    mental status changes
+    meningeal signs
+
+  causative organisms
+    SA
+    pneumococcus
+    Bacteroides
+    H. flu
+      unvaccinated kids
+    GNR
+      after trauma
+    mixed including anaerobes
+      dental abscess
+    fungal
+      DM
+      immunosuppressed
+      aspergillus
+      mucor
+        painful ophthalmoplegia
+        dark hue of the periorbital skin
+        black nasal discharge
+        high risk of DIC
+          crossmatch and be ready to transfuse
+
+  culture
+    nasal drainage
+    skin wound
+    abscess contents if surgery performed
+    media
+      gram stain
+      blood
+      chocolate
+      thioglycollate broth
+      Sabouraud agar
+
+  investigations
+    CT orbits
+    RARELY: LP for meningeal signs
+    labs
+      FBC
+      blood cultures
+
+  treatment
+    preseptal
+      oral Augmentin 875/125 (kids: 22.5 + 3.2 mg/kg up to 875/125) bd x 10/7
+        for simplicity
+          think of this as 23 + 3 bd x 10/7
+        AU dose is usually 500/125 tds
+    orbital
+      ADMIT
+      orbital apex syndrome?
+        consider canthotomy + cantholysis
+      IV antibiotics
+        flucloxacillin 2 g (kids: 50 mg/kg up to 2 g) q 6/24 for SA &&
+        ceftriaxone 2 g (kids: 50 mg/kg up to 2 g) q 8/24 for strep. and H. flu.
+          followed by Augmentin as for preseptal
+        if not improving rapidly over 2/7
+          consider MRSA
+          start IV vancomycin
+            40 mg/kg/d up to 2 g in 2 divided doses
+            reduce for renal insufficiency
+      pain medication
+      ± debridement
+        persistent subperiosteal abscess
+        optic neuropathy
+      fungal
+        aspergillus & mucor
+          transfer to the ICU
+          urgent CT with contrast
+            GFR 30-60 mL/minute/1.73 m2
+              volume expansion with saline before contrast
+            GFR 30-
+              no contrast
+          blood gases
+            monitor for DKA
+          blood cultures
+          oxygen
+          IV liposomal amphotericin B
+            better tissue penetration
+          ± debridement
+            ask for help
+              COMMON:
+                ID
+                  monitor for sepsis
+                ENT
+                  may be able to debride/biopsy endoscopically
+                    look for septate hyphae of mucor
+              ALSO:
+                renal
+                neurosurgery
+    young kids
+      swollen lids?
+        mention amblyopia risk
+        not an issue with the normal course
+          improvement over 5/7
+
+  signs of extension
+    orbital apex syndrome
+      CN[345(1)6]P
+        if 5(2) || PS are involved think cavernous sinus
+
+      DDx OAS
+
+        infectious
+          viral
+            VZV
+          bacterial
+            TB
+            syphilis
+            Strep.
+            Staph.
+            Actinomyces
+            BROADlY:
+              GNR
+              anaerobes
+          fungal
+            Aspergillus
+            Mucor
+
+        inflammatory
+          // definitive diagnosis may require biopsy
+          inflammatory
+            sarcoid
+            NSOI
+            Tolosa-Hunt // see CN3P DDx in HT-vertical-strabismus.txt
+              diagnosis of exclusion
+              MRI can look like
+                sarcoid
+                meningioma
+                lymphoma
+          autoimmune
+            lupus
+            TED
+          vasculitis
+            GPA
+            GCA
+            Churg Strauss AKA eosinophilic GPA
+              eosinophilia
+              elevated ESR
+              elevated pANCA
+              late stages are life threatening
+                abdominal pain
+                bowel infarction || perforation
+                inflammatory heart disease
+
+        iatrogenic
+          surgical
+            orbital surgery
+            sinus surgery
+
+        vascular
+          vascular
+            CC fistula
+              ask about head trauma
+          vasoocclusive
+            sickle cell
+          aneurysm
+            CC aneurysm
+          hypercoagulable
+            CC thrombosis
+
+        neoplastic
+          solid tumours
+            SCC
+            melanoma
+              perineural invasion
+            nasopharyngeal carcinoma
+            adenoid cystic carcinoma
+            neurofibroma
+            meningioma
+            schwannoma
+            pituitary adenoma
+              usually cavernous sinus syndrome
+          lymphoproliferative
+            Burkitt lymphoma
+            NHL
+          haematologic
+            BROADLY: leukaemia
+          metastatic
+            melanoma
+            lung
+            breast
+            renal cell carcinoma
+
+        DAMS
+          medications
+            pamidronate
+              prostate CA treatment
+              can cause 2˚ orbital inflammation
+
+        degeneration
+          dysfunction
+            mucocele
+
+        endocrine
+          endocrine
+            DM
+              predisposes to infectious OAS
+          metabolic
+            orbital amyloidosis
+
+        trauma
+          orbital apex fracture
+            orbital haemorrhage
+          penetrating orbital injury
+          orbital FB
+
+    cavernous sinus syndrome/thrombosis
+      extension of orbital apex syndrome
+      may have CN5(2) deficit also
+      may become bilateral
+    meningitis
+    encephalitis

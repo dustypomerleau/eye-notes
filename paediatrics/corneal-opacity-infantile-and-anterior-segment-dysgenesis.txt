@@ -1,0 +1,184 @@
+anterior segment dysgenesis
+
+  sporadic Peters anomaly
+    also reported with
+      Axenfeld-Rieger
+      congenital rubella
+    corneal opacity
+    posterior corneal defect
+    iridocorneal || lenticulocorneal adhesions
+    bilateral Peters
+      work up
+        brain defects
+        heart defects
+        genetic syndromes
+
+  AD Axenfeld-Rieger syndrome
+    posterior embryotoxon AKA Axenfeld-Rieger anomaly
+      anterior displacement of the Schwalbe line
+      present in
+        isolated posterior embryotoxon
+        Axenfeld-Rieger syndrome
+        Alagille syndrome
+          facial abnormalities
+          posterior embryotoxon
+          ON drusen
+          heart and lung malformations
+          vertebral defects
+          shortage of bile ducts
+    iris adhesions
+    iris stromal hypoplasia
+    corectopia
+    pseudopolycoria
+    systemic findings
+      small teeth AKA microdontia
+      broad nasal bridge
+      telecanthus
+      redundant periumbilical skin
+      hypospadias
+    glaucoma is a major concern
+
+  aniridia ± WAGR
+    PAX6
+      2/3 AD
+      1/3 sporadic
+      PAX6 predisposes to Wilms tumour even without full WAGR
+        Wilms tumour is most often seen in sporadic aniridia
+        1/3 of sporadic aniridia develops Wilms tumour
+      RARELY: Gillespie syndrome
+        AR aniridia
+        cerebellar ataxia
+        mental retardation
+    ptosis
+      1/10
+      usually bilateral and symmetric
+    aniridia-associated keratopathy (AAK)
+      1/5
+      very thick pachymetry
+        ALWAYS: check CCT before interpreting IOPs
+        can be 100 µm thicker than normal
+      LSCD with late corneal scarring
+        may have adequate stem cells until there is an insult
+          CEIOL with manipulation of limbal tissues
+          trabeculectomy with MMC applied near the limbus
+      poorly differentiated epithelium
+    COMMON: iris hypoplasia
+      often complete absence
+    COMMON: glaucoma 2˚ abnormal angle tissue
+    lens abnormalities
+      COMMON: cataract
+        1/2 of cases
+        ALWAYS: mention amblyopia prevention
+          in practice
+            usually not dense enough to require paediatric CEIOL
+      ALSO:
+        zonular weakness
+        subluxation
+        lens coloboma
+        posterior lenticonus
+        microspherophakia
+    CB hypoplasia
+      less than the iris
+    ON hypoplasia
+      1/10
+      RARELY: ON coloboma
+    COMMON: foveal hypoplasia
+      nystagmus
+      retinal vessels may cross the FAZ
+    investigations
+      GP involvement to assess for WAGR
+        sporadic has the greatest risk of WAGR
+        AD can have WAGR if other family members have WAGR
+      ALWAYS: renal US q 3/12 until age 8
+        most Wilms tumour occurs before age 5
+      genetic testing for PAX6 || WT1 mutations
+        genetic counselling if appropriate
+      urinalysis for protein
+    AAK
+      PF lubricants
+      autologous serum drops
+      LSC allograft
+        they don't usually have enough LSC for an autograft
+      lamellar limbokeratoplasty
+    aniridic glaucoma
+      does not respond well to angle surgery like PCG
+        exception
+          prophylactic goniotomy before the IOP rises
+          useful in patients with early membranes noted in the angle
+      trabeculectomy is usually necessary
+      OK to try topicals but success with meds is low
+      diode TSCPC is sometimes necessary
+        high risk of phthisis and RD in aniridic patients
+        don't use it first line
+    CEIOL is rarely needed in kids
+      but if you do perform CEIOL
+        black diaphragm aniridic IOL
+
+  specific genes
+    homeobox
+      PAX6
+        Peters anomaly
+        aniridia ± WAGR
+      PITX2
+        Peters anomaly
+        Axenfeld-Rieger syndrome
+      FOXC1
+        Peters anomaly
+        Axenfeld-Rieger syndrome
+    cytochrome
+      CYP1B1
+        Peters anomaly
+        PCG
+          ALSO: MYOC
+            MYOC mutations are more common in JOAG and adult POAG than PCG
+
+
+//
+
+
+infantile corneal opacity (clouding)
+  categories
+    1˚ dystrophies
+    2˚ corneal clouding
+      anterior segment dysgenesis
+      infection
+      glaucoma
+      uveitis
+  primary corneal opacity
+    AD infantile-onset PPCD
+      formerly CHED1
+      RARE
+      increased corneal thickness
+      corneal oedema
+    AR CHED
+      formerly CHED2
+      presents with nystagmus
+      RARELY deafness
+      increased corneal thickness
+      corneal oedema
+      distinguishing CHED from PCG
+        normal IOP
+        normal corneal diameter
+    AD CSCD
+      feathery corneal clouding
+      normal corneal thickness
+      no corneal oedema
+  secondary corneal opacity
+    failure of development
+      iridocorneal contact
+        Peters1
+      lenticulocorneal contact
+        Peters2
+      successful separation of lens but failure of corneal formation
+        sclerocornea
+    elevated IOP
+      PCG
+      BROADLY: uveitis
+      BROADLY: NVG
+    breaks in the Descemet membrane
+      forceps trauma
+    metabolic causes
+      MPS1
+        formerly Hurler/Scheie
+    infectious
+      COMMON: TORCH

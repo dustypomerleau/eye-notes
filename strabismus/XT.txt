@@ -1,0 +1,213 @@
+XT
+
+// see strabismus.txt
+
+XT DDx
+
+  intermittent XT
+    X(T) is a diagnosis
+      not just a description
+    classic presentation
+      2-3 YO
+      normal
+        VA
+        binocularity
+        refractive error
+      closes 1 eye in bright light
+      develops X(T) with distance tasks or fatigue
+    // do X(T) special testing and grade recovery // see strabismus.txt
+    grade recovery
+      Newcastle control score
+        strabismus || monocular eye closure
+          home control
+            never noticed (0)
+            50-% @ distance (1)
+            50+% @ distance (2)
+            distance + near (3)
+          clinic control
+            near
+              spontaneous recovery (0)
+              recovers after blink || refixation (2)
+              manifests spontaneously || no recovery (3)
+            distance
+              spontaneous recovery (0)
+              recovers after blink || refixation (2)
+              manifests spontaneously || no recovery (3)
+        grade (best control (0)) to (worst control (9))
+    measure angle // see types below
+      distance
+      far distance
+      near
+      near with +3
+      near after 45 minutes occlusion
+    types
+      basic X(T)
+        distance and near measurements 10- ∆ apart
+      divergence excess
+        XT is 10+ ∆ larger at distance
+          simulated
+            ± TPF
+          true
+            ± high AC/A
+        simulated divergence excess
+          patch for 45 minutes
+          measure again at near without allowing fusion first
+          if the measurements fit with basic X(T) after patching
+            diagnosis
+              simulated divergence excess X(T)
+              + tenacious proximal fusion (TPF)
+          if the measurements are still 10+ ∆ at distance after patching
+            diagnosis
+              true divergence excess X(T)
+            without allowing fusion
+            test at near with a +3 add
+            if 20+ ∆ increase at near with the +3 add
+              diagnosis
+                true divergence excess X(T)
+                + high AC/A
+      convergence weakness
+        worse at near
+        not in any way related to true convergence insufficiency in adults
+    red flags
+      angle gets bigger
+      deviation becomes constant
+        size of the deviation does not matter if it's stable
+          what matters is how much of the time they can control it
+      child develops suppression
+    treatment
+      correct refractive error
+        better vision will drive fusion
+        leave hyperopes slightly hyperopic to drive convergence
+      observe if possible
+      treat if
+        red flags
+        angle present the majority of the time
+        patient highly symptomatic
+      options
+        most patients decompensate and need surgery
+        can try
+          orthoptic exercises
+            usually in conjunction with other methods
+            diplopia awareness AKA anti-suppression
+            convergence exercises
+          spectacles
+            minus lenses
+            overminus most helpful in high AC/A
+          BI prisms
+            not effective long-term
+        surgery
+          // for exam purposes
+            Kushner (1998)
+              basic
+                unilateral R & R
+              divergence excess // Kushner looked at simulated but not true
+                LR recessions
+              convergence weakness // not specifically looked at by Kushner
+                MR resections
+              for exam purposes
+                do *not* overcorrect
+          // not for exam purposes - RF preferences
+            LR recessions
+              operate on the largest deviation you find
+                usually distance
+              dicey
+                best chance of binocularity is inital 10 ∆ overcorrection
+                  later becomes ortho
+                but if the ET persists
+                  very likely to develop amblyopia
+                  watch them like a hawk
+              patients with high AC/A true divergence excess
+                may need bifocals postoperatively
+            convergence weakness is a special surgical case
+              may do better with MR resections
+
+  congenital XT
+    congenital XT is RARE
+    ALWAYS:
+      MRI
+      work up for
+        systemic disease
+        neurologic disorders
+        developmental delay
+    binocularity is a low priority in congenital XT
+      prevent amblyopia
+      achieve cosmetic alignment
+
+  consecutive XT
+    most common adult strabismus by a huge margin
+    bimodal
+      early postoperative presentation in kids
+      late adult presentation
+    risk factors
+      poor binocularity
+      multiple surgeries
+    exam
+      DVD
+        very common
+        helps confirm former infantile ET
+      A pattern
+      previous surgical scars
+        often patients do not know their history
+      if abnormal ductions
+        forced ductions
+          many patients will have restriction
+            tight LR
+            slipped or weak MR
+      cycloplegic refraction
+        regardless of age
+        measure the angle again after cyclo
+          eliminates accomodative convergence
+    ask about diplopia
+      if no diplopia
+        postop diplopia test
+          fresnel prisms
+          BOTOX
+            predictive and therapeutic
+          // see OSCE notes for details
+    surgery
+      do less surgery on previously operated muscles
+        effect is magnified
+      if you recess the LR
+        use an adjustable suture
+
+  decompensating (X)
+    patients are fully binocular
+    when the deviation is manifest
+      diplopia
+      eye strain
+    symptoms
+      similar to CN4P
+      exam shows intermittent horizontal strabismus
+    treatment
+      often need surgery
+        usually the angle is too big for prism
+        when the angle is small
+          fresnels degrade vision
+            patients lose binocularity
+      totally different surgery and disease than kids with X(T)
+        aim for undercorrection
+          helps avoid diplopia
+          adult patients will pull the eye in the last few ∆
+
+  sensory XT
+    classic case
+      longstanding traumatic cataract
+      XT present many years
+      patient can not fuse when vision is restored
+        intractable diplopia after cataract surgery
+      if vision is adequate
+        test for fusion before offering surgery
+           synoptophore better than prisms in this group
+    strabismus surgery
+      define your goals
+        if patient unable to fuse
+          observe
+          operate for purely cosmetic reasons
+
+  CN3P // review in vertical-strabismus-HT-DDx
+
+  Duane2 syndrome // review in ET-DDx.txt
+
+  MG
+
+  GCA

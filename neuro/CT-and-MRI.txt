@@ -1,0 +1,26 @@
+CT versus MRI
+
+bone
+  very bright on CT
+  medium bright on MRI
+
+vitreous or CSF
+  dark on T1
+  bright on T2
+
+vascular lumens
+  bright on T1 post-gad
+  (T2 is usually done before contrast)
+
+orbital fat
+  not reliable
+    usually bright on T1 & T2
+      but fat suppression is standard on most orbital studies
+
+CT is preferred for
+  fast study
+  bone
+    fractures
+    calcifications e.g. Rb
+  acute haemorrhage
+    good for ruling out intracranial bleed
