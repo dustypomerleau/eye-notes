@@ -46,7 +46,7 @@ SJS is used here to represent the full continuum
           3
             symblepharon
           4
-            ankyloblepharon || motility restriction
+            ankyloblepharon OR motility restriction
       SJS
       linear IgA bullous dermatosis
         autoimmune blistering skin disease
@@ -88,7 +88,7 @@ SJS is used here to represent the full continuum
           lamotrigine AKA Lamictal
         NSAIDs
         allopurinol
-      medication toxicity || hypersensitivity reaction
+      medication toxicity OR hypersensitivity reaction
         COMMON:
           topical beta blockers
           miotics

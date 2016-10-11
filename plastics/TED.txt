@@ -44,7 +44,7 @@ TED
   exam
     thyroidectomy scar
     lid retraction
-      superior || inferior
+      superior OR inferior
     lid lag
     lid oedema
     chemosis
@@ -56,13 +56,13 @@ TED
           I mean, I certainly would.
     SLK
     proptosis
-      Hertel 22+ mm || ∆ 2+ mm
+      Hertel 22+ mm OR ∆ 2+ mm
       resistance to retropulsion
     motility
       EOM restriction
         strabismus
           usually not XT
-            XT should make you think of MG ||
+            XT should make you think of MG OR
             another missed diagnosis
           eye tends to be pulled toward most inflamed muscles
             if the orbital disease follows IMSLO
@@ -84,7 +84,7 @@ TED
 
   ancillary testing & investigations
     HVF
-    non-con CT || MRI
+    non-con CT OR MRI
       fusiform enlargement
       tendon sparing
       IMSLO
@@ -112,7 +112,7 @@ EUGOGO
 
   clinical activity score // replaces Mourits, NO SPECS, VISA
     retrobulbar pain (at rest)
-    pain on upgaze || downgaze
+    pain on upgaze OR downgaze
     lid erythaema
     lid swelling
     conj injection
@@ -128,7 +128,7 @@ EUGOGO
       constant
       1˚
     restriction
-    exposure keratopathy || ulceration
+    exposure keratopathy OR ulceration
     CON
 
   severity categories
@@ -173,7 +173,7 @@ EUGOGO
           RARELY: orbital radiation
             combine with IVMP
             best for diplopia + restriction
-            NEVER: perform OR in patients with DR || severe HTN
+            NEVER: perform OR in patients with DR OR severe HTN
               try to avoid OR even in DM without DR
         inactive
           wait 6/12
@@ -187,7 +187,7 @@ EUGOGO
       obs
 
     NOTE: there is no evidence that TED is helped by
-      thyroidectomy ||
+      thyroidectomy OR
       antithyroid treatment
         I125
         methimazole
@@ -211,7 +211,7 @@ EUGOGO
       treat systemic disease
         endocrine
         ± ENT
-        ± psychiatry || counselling
+        ± psychiatry OR counselling
       once everything is quiet
         orbital surgery "Orbit is One"
         strabismus surgery
@@ -224,7 +224,7 @@ EUGOGO
       achieve a euthyroid state
         endocrine consult
         ± ENT consult
-        ± psychiatry || counselling
+        ± psychiatry OR counselling
         options
           radioactive I
           thyroidectomy
@@ -303,4 +303,4 @@ stupid TED eponyms
   Von Graefe sign
     lid lag in downgaze
   Stellwag sign
-    incomplete || infrequent blinking
+    incomplete OR infrequent blinking

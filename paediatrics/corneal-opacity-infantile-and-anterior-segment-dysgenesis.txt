@@ -6,7 +6,7 @@ anterior segment dysgenesis
       congenital rubella
     corneal opacity
     posterior corneal defect
-    iridocorneal || lenticulocorneal adhesions
+    iridocorneal OR lenticulocorneal adhesions
     bilateral Peters
       work up
         brain defects
@@ -91,7 +91,7 @@ anterior segment dysgenesis
         AD can have WAGR if other family members have WAGR
       ALWAYS: renal US q 3/12 until age 8
         most Wilms tumour occurs before age 5
-      genetic testing for PAX6 || WT1 mutations
+      genetic testing for PAX6 OR WT1 mutations
         genetic counselling if appropriate
       urinalysis for protein
     AAK

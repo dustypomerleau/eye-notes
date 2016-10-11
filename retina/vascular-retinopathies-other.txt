@@ -62,10 +62,10 @@ CSC
 
 PCV
   SHRM overlying a PED
-    suggestive of polyp || CNV
+    suggestive of polyp OR CNV
   branching vascular network
     often feeds into PCV
-  laser || PDT
+  laser OR PDT
     30% bleed rate
 
 venous dilation as you move away from the disc margin

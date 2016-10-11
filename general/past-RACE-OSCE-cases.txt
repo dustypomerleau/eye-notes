@@ -58,7 +58,7 @@ cornea
   corneoscleral melt
     post beta radiation
   FED
-    post PK &&
+    post PK AND
     post DSEK
   graft rejection
   granular dystrophy
@@ -244,7 +244,7 @@ cataract
     subluxed IOLs
   FED
     DR
-    CME || DME?
+    CME OR DME?
   FUS
     cataract
   iris prolapse
@@ -270,7 +270,7 @@ cataract
 
   recurring themes
     refractive surprise
-    subluxed IOL || subluxed crystalline lens
+    subluxed IOL OR subluxed crystalline lens
     traumatic cataract
 
 
@@ -348,7 +348,7 @@ strabismus
 
   recurring themes
     ET
-      infantile || accommodative
+      infantile OR accommodative
     CN3P with aberrant regeneration (present in neuro also)
     CN4P
     TED

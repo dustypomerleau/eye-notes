@@ -53,14 +53,14 @@ nystagmus
     latent nystagmus with a history of infantile ET
     opsoclonus
       paraneoplastic opsoclonus
-        lung || breast CA
+        lung OR breast CA
       nonparaneoplastic opsoclonus
         MS
         lithium toxicity
       MRI for pons or cerebellar lesion
     convergence retraction nystagmus in DMS
       MS
-      dorsal midbrain CVA || tumour
+      dorsal midbrain CVA OR tumour
     PAN
       look for albinism
       MRI for cerebellar lesion
@@ -188,7 +188,7 @@ nystagmus DDx
       tumour
       MRI for ipsilateral brainstem lesion
     Wernicke syndrome AKA Wernicke encephalopathy
-      downbeat || gaze-evoked horizontal jerk nystagmus
+      downbeat OR gaze-evoked horizontal jerk nystagmus
         B1 thiamine deficiency
           MS ∆
           nystagmus
@@ -211,7 +211,7 @@ nystagmus DDx
         ALSO:
           malnutrition
           persistent vomiting
-          bariatric || bowel surgery
+          bariatric OR bowel surgery
           eating disorders
         easy to treat even if you aren't sure
           empiric thiamine + Mg has minimal downside
@@ -272,7 +272,7 @@ vertical gaze palsy DDx
 
 1.5 syndrome
   INO + ipsilateral CN6P
-  lesion takes out MLF + (PPRF || CN6 nucleus) on the same side
+  lesion takes out MLF + (PPRF OR CN6 nucleus) on the same side
   total horizontal gaze palsy on that side
   only abduction of the opposite eye intact
   important distinction in 1.5 versus typical INO
@@ -359,14 +359,14 @@ supranuclear motility disorders
     congenital ocular motor apraxia
       unable to initiate saccades
         use head thrusts + VOR to foveate and then rotate back to centre
-      congenital || early-onset OMA DDx
+      congenital OR early-onset OMA DDx
         isolated COMA
         lysosomal storage diseases
           AR Niemann-Pick-C disease // Niemann-Pick-A has the cherry red spot
             Nova Scotians of French descent
             lysosomal storage from sphingomyelinase deficiency
             vertical supranuclear gaze palsy
-              COMMON: upgaze paralysis || poor vertical saccades
+              COMMON: upgaze paralysis OR poor vertical saccades
             ataxia
             poor muscle tone
               speech
@@ -404,7 +404,7 @@ supranuclear motility disorders
             Cogan syndrome with COMA manifesting as poor horizontal saccades
             LCA-like pigmentary retinopathy with progressive loss of ERG
             Bardet-Biedl syndrome
-              // see congenital-and-genetic-syndromes.txt
+              // see syndromes-congenital-and-genetic.txt
             ataxia
             nystagmus with poor smooth pursuit
             polydactyly

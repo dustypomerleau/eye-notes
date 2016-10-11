@@ -26,7 +26,7 @@ preop
     OSD
     FED
       if intraoperative MCE
-        topical glycerin ||
+        topical glycerin OR
         scrape epithelium
     uveitis
     OHTN
@@ -58,7 +58,7 @@ do we routinely measure CCT pre-CEIOL?
 =end
 
 determining true corneal power and proper IOL power after KRS
-  the corneal index of refraction is changed after LASIK || PRK
+  the corneal index of refraction is changed after LASIK OR PRK
   ELP calcs are usually based on corneal power
     post-KRS ELP is more posterior than the calcs would indicate
 
@@ -235,7 +235,7 @@ IOL formulas
       APACRS website also include Barrett formulas for
         post-KRS
         toric
-        piggyback || IOL exchange
+        piggyback OR IOL exchange
 
     Olsen // papers in 2006 and 2009
       Gaussian optics
@@ -252,7 +252,7 @@ IOL formulas
 biometry factors by importance
   AL
   K
-    Galilei for irregular Ks or ectasia // see corneal-ectasia.txt
+    Galilei for irregular Ks or ectasia // see ectasia-corneal.txt
   WTW
   MRx
   ACD
@@ -327,7 +327,7 @@ cataract surgery in very short eyes
               can be done at the time of CEIOL
     small ACD + normal AL
       relative anterior microphthalmos
-        still get ACG like nanophthalmos || microphthalmos
+        still get ACG like nanophthalmos OR microphthalmos
         sclera is normal
           no uveal effusions
         COMMON:
@@ -423,12 +423,12 @@ intraop
           continuous irrigation helps here
       excessive phaco power
     once you note wound burn
-      check irrigation line for blockage || disconnection
+      check irrigation line for blockage OR disconnection
       if severe
         close and open a new wound
       reduce phaco power
       if AC is shallowing from wound leak
-        elevate the bottle || increase infusion pressure
+        elevate the bottle OR increase infusion pressure
       closure
         horizontal mattress suture
           less astigmatism than multiple radial sutures
@@ -449,7 +449,7 @@ intraop
             helps healing to have the blood supply
           fold the flap over and suture it upside-down over the wound
 
-  retrobulbar || suprachoroidal haemorrhage
+  retrobulbar OR suprachoroidal haemorrhage
     50 g IV mannitol over 15 minutes
       faster than AACG protocol but this is an emergency
     500 mg IV Diamox
@@ -512,13 +512,13 @@ postop
         quiet 6/12 before surgery
         non-B27 anterior uveitis
           5/7 topical pretreatment
-        B27 anterior uveitis ||
-        anterior uveitis with CME ||
+        B27 anterior uveitis OR
+        anterior uveitis with CME OR
         posterior uveitis
           5/7 50 mg/day oral prednisolone
         local treatment is becoming more popular
           2-4 mg triamcinolone
-            intravitreal || intracameral
+            intravitreal OR intracameral
         taper oral and topical agents over 4/52 if quiet
       glaucoma
         risk of steroid response
@@ -573,7 +573,7 @@ postop
       preop
         gloves
         topical anaesthetics
-        steroids || NSAIDs
+        steroids OR NSAIDs
         dilating drops
         surgical prep gloves
         surgical prep solutions
@@ -654,7 +654,7 @@ postop
         SB
           ACD is overestimated based on longer AL
           myopic surprise
-      ALSO: Ks wrong due to DES || OSD
+      ALSO: Ks wrong due to DES OR OSD
       ALWAYS: repeat the biometry
     calcs wrong
       bad formula choice
@@ -751,7 +751,7 @@ high IOP after CEIOL
   AC inflammation
   retained lens
   retained OVD
-  pupillary block || 2˚ angle closure
+  pupillary block OR 2˚ angle closure
     e.g. with piggyback lenses
 
 hypotony during cataract surgery
@@ -849,11 +849,11 @@ corneal oedema after CEIOL
     IOL
     flat chamber
       wound leak
-      suprachoroidal effusion || haemorrhage
+      suprachoroidal effusion OR haemorrhage
       aqueous misdirection
     iris bombe
     vitreous
-  descemet detachment
+  Descemet detachment
   retained lens
   elevated IOP
   persistent inflammation

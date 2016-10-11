@@ -6,7 +6,7 @@ zonular dehiscence
         trauma is nearly always the cause
     medical conditions
       COMMON:
-        AD || sporadic Marfan
+        AD OR sporadic Marfan
           myopia
           KCN
           cataract
@@ -154,7 +154,7 @@ zonular dehiscence
     VisionBlue
     centre rhexis relative to lens
       even if lens is decentred
-    capsular hooks ||
+    capsular hooks OR
     repurposed iris hooks
       placed where zonules are absent
     complete hydrodissection

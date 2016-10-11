@@ -36,7 +36,7 @@ Jabs prednis(ol)one regimen
     Hawthorne effect
       measure behaviour is modified behaviour
   taper
-    60-40 -10 mg/(week || 2/7 if rapid)
+    60-40 -10 mg/(week OR 2/7 if rapid)
     40-20 -5 mg
     20-10 -2.5 mg
     10- -2.5-1 mg
@@ -52,7 +52,7 @@ start SSIMT at diagnosis
       VKH
 
 choice of agent
-  mycophenolate || MTX
+  mycophenolate OR MTX
   efficacy
     mycophenolate > MTX
     cyclosporine has poor efficacy
@@ -76,7 +76,7 @@ mycophenolate
 
 cyclosporine
   avoid in psoriasis
-    these patients are often on PUVA || CSA
+    these patients are often on PUVA OR CSA
     cyclosporine potentiates PUVA and CSA skin cancer risks
 
 alkylating agents

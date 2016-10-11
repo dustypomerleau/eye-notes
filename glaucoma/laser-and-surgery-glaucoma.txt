@@ -67,9 +67,9 @@ glaucoma laser
         compared to 180
           drops IOP more
           higher incidence of IOP spikes
-            particularly in pigmentary glaucoma || heavy pigmented angles
+            particularly in pigmentary glaucoma OR heavy pigmented angles
       postoperative
-        NSAIDs || a mild steroid
+        NSAIDs OR a mild steroid
       25+% reduction @ 3-6/12 is an excellent response
       short duration relative to the thermal relaxation time of the tissue
         essentially no thermal damage
@@ -145,7 +145,7 @@ glaucoma laser
       big spot size
     pretreat
       pilo
-      brimonidine || apraclonidine
+      brimonidine OR apraclonidine
       proparacaine
     lens
       couple with viscous AT
@@ -264,7 +264,7 @@ glaucoma surgery
     suture plate to sclera
     tie off tube
       7-0 vicryl
-      2 mm from the plate ||
+      2 mm from the plate OR
       "rip-cord" suture
     cut tube
       bevel up
@@ -354,7 +354,7 @@ low IOP after trabeculectomy
     fibrin glue
     autologous blood patch
     AC OVD (to temporise)
-    conjunctival graft ||
+    conjunctival graft OR
     full bleb revision
   wound leak
   cyclodialysis cleft
@@ -365,7 +365,7 @@ low IOP after trabeculectomy
     CB shutdown
       // examiners aren't keen on this vague Dx - keep it low on the list
   counsel the patient
-    hypotony increases the risk of blebitis || endophthalmitis
+    hypotony increases the risk of blebitis OR endophthalmitis
   hypotony maculopathy
     choroidal folds
     OCT helps to distinguish folds from CME

@@ -51,7 +51,7 @@ For each question, start with a template
   when you've finished with your DDx
     what did they tell you in the question that would rule those items out
     if the patient can't have a particular diagnosis
-      explain that || don't list it
+      explain that OR don't list it
   if they only give you information about 1 eye
     STATE that you would examine both eyes
   in the clinic

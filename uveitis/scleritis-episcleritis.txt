@@ -8,7 +8,7 @@ episcleritis
     should be mobile
   lubrication
   NSAIDs
-    topical || oral
+    topical OR oral
   recurrent cases
     limited workup
       VZV
@@ -116,7 +116,7 @@ scleritis
 
   testing
     // order only based on suspicion
-    if purulent ||
+    if purulent OR
     history suspicious for infectious causes
       scrape in OT
         PCR
@@ -187,7 +187,7 @@ scleritis
       SSIMT
         methotrexate
           good in RA
-        cyclophosphamide ||
+        cyclophosphamide OR
         mycophenolate
           good in vasculitis
         TNF inhibitors

@@ -26,7 +26,7 @@ shortlist
             peripheral satellite lesions
             variable haemorrhage
           ALWAYS: confirm the diagnosis
-            vitreous || AC tap for PCR
+            vitreous OR AC tap for PCR
               vitreous is usually higher yield
               send for
                 HSV
@@ -71,7 +71,7 @@ shortlist
               multidisciplinary approach
                 ID consult
               ALWAYS: confirm the diagnosis
-                vitreous || AC tap for PCR
+                vitreous OR AC tap for PCR
                   vitreous is usually higher yield
                   send for
                     HSV
@@ -92,15 +92,15 @@ shortlist
                   sarcoid
                   lymphoma
               classic regimen
-                IV acyclovir 10-15 mg/kg q 8/24 x 1/52
+                IV aciclovir 10-15 mg/kg q 8/24 x 1/52
                 then switch to orals at therapeutic dose x 3+/12
               there is significant evidence for po only
-                plasma concentration not quite as high as IV acyclovir
+                plasma concentration not quite as high as IV aciclovir
                   can achieve nearly the same by doubling the usual dose
                   not usually necessary to do this
                   certainly OK for peripheral disease
                 most centres still give IV induction and then switch to po
-                valacyclovir 1 g po tds x 3+/12
+                valaciclovir 1 g po tds x 3+/12
                   assuming good renal function
                   in poor renal function
                     adjust dose to avoid CNS toxicity
@@ -379,7 +379,7 @@ The problem with using HLA typing diagnostically is illustrated in the case of B
             includes AIBSES
             central photopsia + scotoma
             confined to outer retina
-            lesions not visible ||
+            lesions not visible OR
             white demarcation line
               usually hyperFAF
             patchy hyperFAF spots progress to hypoFAF spots
@@ -447,7 +447,7 @@ The problem with using HLA typing diagnostically is illustrated in the case of B
               preservatives can be added to try and delay this
         treatment
           systemic MTX
-            ± Ara-C || radiotherapy
+            ± Ara-C OR radiotherapy
             COMMON: IV
             ALSO: intrathecal
           intravitreal MTX 0.4 mg/0.1 mL for local control
@@ -466,7 +466,7 @@ The problem with using HLA typing diagnostically is illustrated in the case of B
           metastatic lymphoma cells are mostly in the uvea
             these differences aren't absolute but help guide clinical suspicion
             primary uveal lymphoma is possible but RARE
-      can masquerade as WDS || retinal dystrophy
+      can masquerade as WDS OR retinal dystrophy
         peripheral pigmentary changes
         reduced ERG
     haematologic

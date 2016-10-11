@@ -1,7 +1,4 @@
-// review the Dunedin OSCE model answers and OSCE examiner reports and finetune
-// based on those
-// review your own notes and add exam tips especially strabismus and plastics
-// see neuro videos in RACE-shared/Adam...
+//... work in progress
 
 tools
   fixation target
@@ -514,7 +511,7 @@ orbit // correct detailed to match summary below this point
     torch
       pupils
         on-off each side
-          brisk || sluggish
+          brisk OR sluggish
         swing
           RAPD
     CVF // assumes at least CF vision
@@ -589,7 +586,7 @@ lids
       measurements
       Marcus-Gunn
       MG
-    if entropion || ectropion
+    if entropion OR ectropion
       testing
         involutional
         cicatricial
@@ -618,7 +615,7 @@ lids
       ptosis
         high lid crease
           involutional
-      entropion || ectropion
+      entropion OR ectropion
     enophthalmos
       deep upper sulcus
         prosthesis
@@ -662,7 +659,7 @@ lids
     'I would perform a 30 minute sleep test with 2 minutes of ice.'
     'If negative, I would perform a Tensilon test.'
     'I would ask about contact lens wear and flip the eyelid to evaluate for papillae.'
-  if entropion || ectropion
+  if entropion OR ectropion
     distraction
     snap back
     'Look down, please'
@@ -764,7 +761,7 @@ motility // see strabismus.txt for more detail
         assistive devices
           cane
           wheelchair
-        family members with syndromes || strabismus
+        family members with syndromes OR strabismus
       patient age
       AHP
         presence indicates incomitant strabismus
@@ -836,10 +833,10 @@ motility // see strabismus.txt for more detail
         distance
         near
       comment in general terms
-        small || large
-        comitant || incomitant
-        R || L
-        ET || XT || HT
+        small OR large
+        comitant OR incomitant
+        R OR L
+        ET OR XT OR HT
         // they will ask you to measure if it's important
       comment on recovery
       other gazes

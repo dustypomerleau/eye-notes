@@ -37,9 +37,9 @@ angioid streaks
             pattern dystrophy-like hyperFAF
         avoid contact sports given risk of rupture
     Ehlers-Danlos syndrome
-      AD || AR
+      AD OR AR
     Paget disease of bone
-      AD || sporadic
+      AD OR sporadic
 
   RARELY:
     inflammatory

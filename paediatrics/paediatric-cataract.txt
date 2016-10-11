@@ -16,7 +16,7 @@ aetiology of congenital cataract
     4/5 sporadic
       1/2 unilateral
       16% with a systemic disease
-        cerebral palsy || developmental delay 6%
+        cerebral palsy OR developmental delay 6%
           low birth weight is a risk factor
         PFV 6%
         Down syndrome 5%
@@ -134,13 +134,13 @@ DDx for paediatric cataracts
     inherited
       familial cataract
         COMMON: AD
-      AD || sporadic PAX6 aniridia ± WAGR
+      AD OR sporadic PAX6 aniridia ± WAGR
       AD FEVR
       XLD incontinentia pigmenti
         girls only
         lethal in males
-      AD || sporadic Marfan syndrome
-      AD || sporadic NF2
+      AD OR sporadic Marfan syndrome
+      AD OR sporadic NF2
         PSC
     genetic dystrophy
       AD myotonic dystrophy
@@ -158,7 +158,7 @@ DDx for paediatric cataracts
   endocrine
     endocrine
       DM
-        including maternal || gestational DM
+        including maternal OR gestational DM
         vacuolar
       hypocalcaemia
         COMMON: hypoparathyroidism

@@ -1,7 +1,7 @@
 vision loss in pregnancy
   infectious
     //... you need to finish this! toxop etc.
-  gestational DM ||
+  gestational DM OR
   worsening of preexisting DM
     DME
     VH
@@ -11,7 +11,7 @@ vision loss in pregnancy
     serous RD
     NAION
     cortical blindness
-      true CVA ||
+      true CVA OR
       transient cortical blindness
         caused by cerebral oedema
     RAO
@@ -50,7 +50,7 @@ vision loss in pregnancy
     pregnancy can unmask undiagnosed MS
     patients with known MS may stop their drugs to protect the fetus
     // see MS.txt for possible ophthalmic manifestations
-  functional || psychogenic
+  functional OR psychogenic
 
 pregnancy exacerbates preexisting
   DM
@@ -59,7 +59,7 @@ pregnancy exacerbates preexisting
   MS
 
 medications in pregnancy
-  // see glaucoma-medications.txt
+  // see medications-glaucoma.txt
   // see DR.txt
   antiVEGF
     Lucentis and Eylea are both category C

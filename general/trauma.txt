@@ -1,4 +1,4 @@
-// see also orbital-fractures.txt
+// see also fractures-orbital.txt
 
 hyphaema
   in blacks
@@ -23,7 +23,7 @@ hyphaema
       IOP 50+ x 2/7
         to prevent optic atrophy
       clinical signs of blood staining
-        regardless of IOP || duration
+        regardless of IOP OR duration
         mechanism
           haemoglobin from the AC is forced into the corneal stroma
           keratocytes phagocytose haemoglobin and store hemosiderin
@@ -33,7 +33,7 @@ hyphaema
     technique
       GA
       avoid
-        hypotony ||
+        hypotony OR
         flat AC
           to prevent rebleeding intraoperatively
       if they do bleed
@@ -115,7 +115,7 @@ NAI
 
 if there is blunt trauma to the eye
   pursue the workup for orbital fractures and intracranial injury
-  // see orbital-fractures.txt
+  // see fractures-orbital.txt
 
 diplopia after trauma
   orbital fractures
@@ -128,7 +128,7 @@ diplopia after trauma
     for CN3P
       ptosis
       pupil changes
-  breakdown of preexisting phoria || previously weak fusion
+  breakdown of preexisting phoria OR previously weak fusion
     COMMON: after head trauma
     usually improves
   monocular diplopia due to eye injury
@@ -205,4 +205,4 @@ thermal burns
     full-thickness skin grafts
     amniotic membrane grafts
     tarsorrhaphy
-      temporary || permanent
+      temporary OR permanent

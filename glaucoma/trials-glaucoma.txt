@@ -34,7 +34,7 @@ classic glaucoma trials
         surgery
     worse prognosis in NTG
       female sex
-      migraine || Raynaud
+      migraine OR Raynaud
       disc haemorrhage
       NOT Asian
         slower progression in Asians

@@ -1,4 +1,4 @@
-// see infantile-corneal-opacity-and-anterior-segment-dysgenesis.txt
+// see corneal-opacity-infantile-and-anterior-segment-dysgenesis.txt
 
 corneal dystrophies
   epithelial
@@ -80,25 +80,34 @@ corneal dystrophies
       stromal lipid deposits cause a ring opacity
         ± crystals in 1/2
           corneal crystals DDx
-            infectious crystalline keratopathy
-              // see infectious-keratitis.txt
-            AD Schnyder corneal dystrophy
-              central
-              SE
-              progressive
-            AR Bietti crystalline dystrophy
-              // see retinal-dystrophies.txt
-              yellow-white
-              refractile
-              peripheral
-            AR cystinosis
-              // see retinal-dystrophies.txt
-              diffuse
-              also present in
-                conjunctiva
-                TM
-            MM
-              probably deposition of IgG light chains in the stroma
+            infectious
+              infectious crystalline keratopathy
+              // see keratitis-infectious.txt
+            DAMS
+              drugs
+                tamoxifen
+                //...
+            genetic
+              genetic
+                AD Schnyder corneal dystrophy
+                  central
+                  SE
+                  progressive
+                AR Bietti crystalline dystrophy
+                  // see dystrophies-retinal.txt
+                  yellow-white
+                  refractile
+                  peripheral
+                AR cystinosis
+                  // see dystrophies-retinal.txt
+                  diffuse
+                  also present in
+                    conjunctiva
+                    TM
+            neoplastic
+              hematologic
+                MM
+                  probably deposition of IgG light chains in the stroma
     AD CSCD
       diffuse clouding without oedema in an infant
     AD fleck
@@ -185,7 +194,7 @@ corneal dystrophies
         diffuse mottled and pigmented lesions
     glaucoma
     corneal decompensation
-      may require PK || DSEK
+      may require PK OR DSEK
     DDx
       AD(VP) PPCD
       AD Axenfeld-Rieger

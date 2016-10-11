@@ -18,7 +18,7 @@ XT DDx
     // do X(T) special testing and grade recovery // see strabismus.txt
     grade recovery
       Newcastle control score
-        strabismus || monocular eye closure
+        strabismus OR monocular eye closure
           home control
             never noticed (0)
             50-% @ distance (1)
@@ -27,12 +27,12 @@ XT DDx
           clinic control
             near
               spontaneous recovery (0)
-              recovers after blink || refixation (2)
-              manifests spontaneously || no recovery (3)
+              recovers after blink OR refixation (2)
+              manifests spontaneously OR no recovery (3)
             distance
               spontaneous recovery (0)
-              recovers after blink || refixation (2)
-              manifests spontaneously || no recovery (3)
+              recovers after blink OR refixation (2)
+              manifests spontaneously OR no recovery (3)
         grade (best control (0)) to (worst control (9))
     measure angle // see types below
       distance

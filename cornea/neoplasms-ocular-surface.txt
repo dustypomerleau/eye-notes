@@ -6,6 +6,9 @@ ocular surface neoplasia
         HIV
           COMMON: under 50
       HPV
+        also causes benign papillomas
+        if benign papillomas are recurrent after excision
+          heavy cryo
       age
       sun exposure
       smoking
@@ -23,13 +26,13 @@ ocular surface neoplasia
       overall practice pattern at RVEEH
         favours direct excision over incisional biopsy
       large lesions 4+ CH
-        incisional biopsy if unsure ||
+        incisional biopsy if unsure OR
         straight to chemoreduction + excision if fairly certain
       small lesions
         chemoreduction without biopsy
         excisional biopsy
     preinvasive
-      MMC || 5FU || interferon alpha 2b
+      MMC OR 5FU OR interferon alpha 2b
         COMMON: MMC 0.04% qid
         interferon alone requires a long course
           6-12/12
@@ -40,7 +43,7 @@ ocular surface neoplasia
             RARELY: punctal stenosis
         follow monthly for regression
     invasive
-      ± MMC || 5FU || interferon alpha 2b chemoreduction
+      ± MMC OR 5FU OR interferon alpha 2b chemoreduction
         practice varies here
         options
           chemoreduction only
@@ -55,16 +58,18 @@ ocular surface neoplasia
       excision
         3 mm margins
           some say 4 mm
-        no touch technique
+        no touch dry technique
         alcohol may help wth corneal epithelium
         beaver blade
-        lamellar dissection of involved corneal || scleral bed
+        lamellar dissection of involved corneal OR scleral bed
+          avoid penetrating the Bowman layer
+            forms a natural barrier
       cryo to bed
         double freeze-thaw
       if primary closure not possible
         amniotic membrane graft
       ±
-        MMC || 5FU || interferon alpha 2b postoperatively
+        MMC OR 5FU OR interferon alpha 2b postoperatively
       ongoing biopsies all 4 quads
         twice a year initially
         50+% recur
@@ -103,7 +108,7 @@ ocular surface neoplasia
     isle de Fuchs are pathognomonic
       can calcify
     indications for surgery
-      abutting || occluding visual axis
+      abutting OR occluding visual axis
       approaching visual axis with documented growth
       induction of visually significant astigmatism
       premalignant changes
@@ -113,7 +118,7 @@ ocular surface neoplasia
       conj autograft
         recommended
           reduces recurrence to 1/10
-        sutures || fibrin glue
+        sutures OR fibrin glue
       bare sclera
         1/2 will recur
         not acceptable

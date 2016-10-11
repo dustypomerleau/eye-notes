@@ -65,8 +65,10 @@ DDx
   malignant
     incisional biopsy
       usually a 3 mm punch in AU
+    for large OR aggressive lesions
+      involve the GP ± oncologist
     excision with margins
-      MOHS || frozen sections
+      MOHS OR frozen sections
     BCC (3 mm)
       if young patient
         rule out
@@ -120,7 +122,7 @@ DDx
               intradermal triamcinolone can help
           flaps
             advancement flaps
-              Tenzel semicircular flap ||
+              Tenzel semicircular flap OR
                 too large a flap will round the canthus
               mini Mustarde flap
                 watch out for CN7 with either of these
@@ -134,6 +136,8 @@ DDx
       perineural invasion of SCC can affect the orbit and cavernous sinus
       if there is a CNP associated with SCC
         thin cut MRI ± gad of orbit and cavernous sinus
+      anytime you can't see the whole lesion
+        scan
     sebaceous cell carcinoma (4+ mm)
       very aggressive
       need workup for systemic malignancies
@@ -157,7 +161,7 @@ lid reconstruction
     Tenzel semicircular flap
       too large a flap will round the canthus
     upper lid:
-      contralateral upper lid free tarsoconjunctival graft ||
+      contralateral upper lid free tarsoconjunctival graft OR
       hard palate
       + skin-muscle flap
       more natural/mobile lid than Cutler-Beard (50+% of lid margin)
@@ -174,7 +178,7 @@ lid reconstruction
       adjacent tarsoconjunctival flap
       + free full-thickness skin graft
     lower lid:
-      contralateral upper lid free tarsoconjunctival graft ||
+      contralateral upper lid free tarsoconjunctival graft OR
       hard palate
       + skin-muscle flap
     lower lid:

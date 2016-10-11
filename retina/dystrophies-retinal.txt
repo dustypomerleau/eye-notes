@@ -54,7 +54,7 @@ ERG interpretation
           'off' bipolar cells
       implicit times // see Parvaresh (2009) for normal values by age group
         for each event
-          from flash onset to peak || trough of the waveform
+          from flash onset to peak OR trough of the waveform
         ~ normal values
           a-wave max
             15-25 ms
@@ -449,7 +449,7 @@ types of colorblindness
 photophobia in a child (without epiphora)
   // see overlapping DDx for child with nystagmus in nystagmus...txt
   BROADLY: elevated IOP
-    1˚ || 2˚
+    1˚ OR 2˚
   BROADLY: uveitis
   albinism
   cone dysfunction

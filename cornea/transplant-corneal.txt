@@ -21,7 +21,10 @@ graft rejection
     AC cell
     5+ KP + Khodadoust = severe rejection
     for endothelial rejection
-      use systemic steroids in addition to topicals
+      some use systemic steroids in addition to topicals
+        IVMP OR po prednisolone
+          no evidence this really helps
+          probably not justified
   cell-mediated process
   about 1/10 grafts will reject
   secondary graft failure
@@ -29,6 +32,10 @@ graft rejection
     when to declare failure
       rejection persists 3/12
       vision is compromised by oedema
+    HSV recurrence in a corneal graft
+      delay topical steroids until (nearly) epithelialised
+      if HSV recurs in a graft while on aciclovir
+        aciclovir resistance testing
 
 late graft failure (AOT graft rejection)
   slow onset of oedema
@@ -77,7 +84,7 @@ specular microscopy report
       5000 @ birth
       3000 @ 40
       2000 @ 70
-      3000+ is acceptable for PK || DSEK
+      3000+ is acceptable for PK OR DSEK
   number of cells analysed (NUM)
   average cell area (µm2) (AVE)
   standard deviation of the average cell area (SD)
@@ -91,7 +98,7 @@ specular microscopy report
     50-% is abnormal
   abnormal specular microscopy
     FED
-      to delay DMEK in FED || PBK
+      to delay DMEK in FED OR PBK
         hairdryer
         hypertonic saline
     PBK
@@ -110,6 +117,11 @@ when combining or staging DSEK + CEIOL
   DMEK would significantly reduce this concern
     still mostly DSEK in AU
     so mention hyperopic shift
+  DSEK + CEIOL
+    higher failure rate of DSEK
+    perform CEIOL first unless
+      frank bullae
+      decompensated cornea with no view
 
 endothelial keratoplasty
   indications
@@ -118,7 +130,7 @@ endothelial keratoplasty
     PK graft failure
     ICE syndrome
 
-pain after DSEK || DMEK
+pain after DSEK OR DMEK
   high pressure
     pupillary block from the bubble
       mitigating options

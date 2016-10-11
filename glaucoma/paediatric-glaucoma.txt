@@ -38,7 +38,7 @@ paediatric glaucoma
         Haab striae
           horizontal breaks in the Descemet membrane
         Koeppe direct gonioscopy
-          anterior iris insertion ||
+          anterior iris insertion OR
           Barkan membrane
             abnormal angle tissue
             obscures the CB band
@@ -52,7 +52,7 @@ paediatric glaucoma
       OK to temporise medically
       may help clear the cornea
         typically
-          start with latanoprost 0.005% || timolol 0.5% as monotherapy
+          start with latanoprost 0.005% OR timolol 0.5% as monotherapy
             timolol is the drug with the longest track record
               kids 3- YO use timolol 0.25%
             betaxolol is a theoretically better choice in kids with asthma
@@ -119,7 +119,7 @@ paediatric glaucoma
     use it with caution in older kids
 
   amblyopia
-    both PCG && early-onset JOAG are at risk
+    both PCG AND early-onset JOAG are at risk
     monitor changing refractive error and any strabismus
 
   ocular and systemic diseases to consider in kids with glaucoma
@@ -133,9 +133,9 @@ paediatric glaucoma
       Axenfeld-Rieger syndrome
       sclerocornea
     lens-associated glaucoma
-      AD || sporadic Marfan syndrome
+      AD OR sporadic Marfan syndrome
       AR homocystinuria
-      AD || AR Weill-Marchesani syndrome
+      AD OR AR Weill-Marchesani syndrome
       microspherophakia
     congenital posterior segment disease
       PFV
@@ -164,7 +164,7 @@ paediatric glaucoma
         malformed eye
       nanophthalmos
         small but anatomically normal eye
-        usually diagnose microphthalmos || nanophthalmos because of microcornea
+        usually diagnose microphthalmos OR nanophthalmos because of microcornea
           9- mm @ birth
           10- mm @ 2 YO
           may be easiest to think of both ends in terms of ranges
@@ -187,7 +187,7 @@ paediatric glaucoma
 
   photophobia in a child (without epiphora)
     BROADLY: elevated IOP
-      1˚ || 2˚
+      1˚ OR 2˚
     BROADLY: uveitis
     albinism
     cone dysfunction

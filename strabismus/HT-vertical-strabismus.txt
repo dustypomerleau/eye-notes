@@ -83,7 +83,7 @@ CN4P
           SO tuck has a risk of an induced Brown syndrome
 
   5 syndromes of CN4P
-    nuclear || fascicular CN4P
+    nuclear OR fascicular CN4P
       midbrain
         trauma
         haemorrhage
@@ -132,15 +132,15 @@ CN3P
       ± ptosis
       ± mydriasis
   patients with CN3P need imaging
-    MRI + MRA ± gad ||
+    MRI + MRA ± gad OR
     noncon CT + contrast CTA
       many institutions do CTA first
         it's fast and available
         noncon CT is great for SAH
-        CTA is great for PCA || basilar aneurysms
+        CTA is great for PCA OR basilar aneurysms
         MR is better for tissue pathology
         MR allows you to follow the course of CN3 for other causes
-    if the results are uncertain || suggest PCA aneurysm
+    if the results are uncertain OR suggest PCA aneurysm
       catheter angiography
         often done at the time of planned embolisation for PCA aneurysm
         not risk-free
@@ -275,11 +275,11 @@ CN3P
               COMMON: CN6P
               RARELY: trigeminal involvement with abnormal facial sensation
           MRI for cavernous sinus granuloma
-          IV || oral steroids
+          IV OR oral steroids
             depending on acuity
           diagnosis of exclusion
             probably overdiagnosed
-              technically MRI || biopsy must demonstrate a granuloma
+              technically MRI OR biopsy must demonstrate a granuloma
             painful ophthalmoplegia DDx
               VZV
               orbital cellulitis
@@ -404,7 +404,7 @@ CCDD
     possibly
       CN4P
       Brown syndrome
-  treatment for CFEOM || Mobius syndrome
+  treatment for CFEOM OR Mobius syndrome
     MRI
       cerebrovascular abnormalities
       absent CN nuclei
@@ -436,7 +436,7 @@ Brown syndrome
   treatment options
     range-of-motion orthoptic exercises
     peritrochlear steroid injection
-    SO tenotomy || silicone spacer (5-7 mm)
+    SO tenotomy OR silicone spacer (5-7 mm)
       you can leave the posterior capsule intact
         to avoid an induced CN4P
       spacer may have lower incidence of postop IOOA
@@ -462,7 +462,7 @@ MED
     some restrictive
     some supranuclear
 
-orbital fracture // see also orbital-fractures.txt
+orbital fracture // see also fractures-orbital.txt
   COMMON:
     adults
     floor fractures
@@ -527,7 +527,7 @@ orbital fracture // see also orbital-fractures.txt
         AOT comitant strabismus
           you would normally split the prism
     surgery
-      eye lag in downgaze &&
+      eye lag in downgaze AND
       ductions > versions
         Faden of fellow eye IR
           uses of the Faden

@@ -265,7 +265,7 @@ ptosis
           eventually effects lower body also
         AD myotonic dystrophy
         CFEOM
-          AD || AR
+          AD OR AR
           restrictive strabismus ± ptosis
           *very* hard to treat surgically
         mitochondrial CPEO
@@ -303,8 +303,8 @@ ptosis
     neurologic
       Horner syndrome
         dedicated DDx, but the main concerns
-          1st || 2nd order neuron Horner syndrome
-            medullary tumour || infarct
+          1st OR 2nd order neuron Horner syndrome
+            medullary tumour OR infarct
               Wallenberg syndrome AKA lateral medullary syndrome
                 Horner
                 loss of pain and temperature sensation
@@ -381,7 +381,7 @@ ptosis exam
         so for Horner diagnosis
           cocaine will not dilate a Horner pupil
             not commonly used but ALWAYS mention it
-          apraclonidine || (dilute) phenylephrine
+          apraclonidine OR (dilute) phenylephrine
             will only dilate a Horner pupil
             flips the anisocoria if positive
         and for Horner localisation
@@ -393,7 +393,7 @@ ptosis exam
             you don't have time to do this pharmacologic testing before imaging
             ALWAYS: MRI + MRA to exclude carotid dissection first
               brain
-                medullary tumour || infarct
+                medullary tumour OR infarct
                   Wallenberg syndrome AKA lateral medullary syndrome
               C + T spine
               neck

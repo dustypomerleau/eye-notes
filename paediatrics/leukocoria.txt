@@ -110,9 +110,9 @@ Rb
       A
         3- mm
       B
-        3+ mm ||
-        3- mm from fovea ||
-        1.5- mm from disc ||
+        3+ mm OR
+        3- mm from fovea OR
+        1.5- mm from disc OR
         SRF 3- mm from the tumour
       C
         focal seeds
@@ -134,9 +134,9 @@ Rb
               both 3+ mm from the tumour
       E
         extensive Rb
-          50+% of the globe ||
-          NVG ||
-          haemorrhage ||
+          50+% of the globe OR
+          NVG OR
+          haemorrhage OR
             AC
             vitreous
             SRH
@@ -216,7 +216,7 @@ Rb
           doesn't make much difference to counselling
 
     if you know it is germline
-      parent has Rb ||
+      parent has Rb OR
       patient has bilateral Rb
         50% transmission * 90% penetrance =
           45% chance each child will be affected

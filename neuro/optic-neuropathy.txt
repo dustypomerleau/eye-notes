@@ -90,7 +90,7 @@ history
               protein C & S deficiency
               antithrombin 3 deficiency
               antiphospholipid Ab syndrome
-              pregnancy || postpartum
+              pregnancy OR postpartum
               oral contraceptives
             lymphoma
           NEVER: diagnose IIH until you have ruled out DVST
@@ -157,7 +157,7 @@ history
                       HA is the 1˚ issue
                       ± worsening VF
                         CSF diversion procedures
-                        VS stenting || angioplasty
+                        VS stenting OR angioplasty
                           despite lack of true DVST in IIH
                       vision loss is the 1˚ issue
                         VF constriction

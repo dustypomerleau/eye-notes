@@ -2,7 +2,7 @@ retinal toxicity
 
 quinine retinal toxicity
   diffuse TID
-    unlike PDS || PXF
+    unlike PDS OR PXF
   constricted VF
   loss of colour vision
   reduced ERG amplitude

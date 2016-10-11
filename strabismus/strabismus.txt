@@ -68,7 +68,7 @@ abbreviated DDx
     ET child
       infantile ET
       accomodative ET
-        fully accomodative ||
+        fully accomodative OR
         partially accomodative
         ± high AC/A
           10 ∆ worse at near
@@ -132,8 +132,8 @@ history
   systemic disease
   strabismus history
     age of onset
-    sudden || gradual
-    constant || intermittent
+    sudden OR gradual
+    constant OR intermittent
   adults
     history of childhood strabismus
     presence or absence of diplopia
@@ -220,7 +220,7 @@ good outcome of amblyopia therapy
 
 PEDIG summary
   moderate amblyopes 6/24+
-    atropine 1% bd 2 days/week ||
+    atropine 1% bd 2 days/week OR
     2 h patching
   severe amblyopes 6/30-
     patch up to 6 h
@@ -231,7 +231,7 @@ PEDIG summary
         daily atropine = 6 (2002)
         2 = 6 (2003)
         2/7 (weekend) atropine = daily atropine
-        3/4 7- YO moderates achieve 6/9 || gain 3 lines
+        3/4 7- YO moderates achieve 6/9 OR gain 3 lines
           biggest improvement is in the first 6/52
       7-12 YO
         2/7 atropine = 2 (2008)
@@ -248,7 +248,7 @@ PEDIG summary
         2/7 atropine = 2 (2009)
           average gain was 1-2 lines
           nearly all patients were 6/15- despite this
-            so better to use 6 hours patching || daily atropine in 6/30-
+            so better to use 6 hours patching OR daily atropine in 6/30-
 
 MOTAS amblyopia study (2004)
   patching has a dose-response effect
@@ -325,8 +325,8 @@ cover testing
           is there a phoria?
           is there a DVD?
     record each measurement as you go along
-    for ET || XT
-      STATE if the angle is worse at near || distance
+    for ET OR XT
+      STATE if the angle is worse at near OR distance
       write this down
     write down top 3+ diagnoses at this point
       decide what other information you need to prove/disprove them
@@ -399,7 +399,7 @@ test ductions and versions
   ductions are the key
     are they normal?
       if there is a limitation
-        restrictive ||
+        restrictive OR
         paretic
     document -1 to -4
       ± upshoots or downshoots
@@ -711,7 +711,7 @@ BOTOX uses
   excessive tearing
   HA syndromes
 BOTOX complications
-  bruising || bleeding
+  bruising OR bleeding
   unintended ptosis
   unintended strabismus
     diplopia
@@ -809,7 +809,7 @@ BOTOX complications
           endophthalmitis
           vitreous haemorrhage
           retinal detachment
-          choroidal || suprachoroidal haemorrhage
+          choroidal OR suprachoroidal haemorrhage
         anterior segment ischaemia
           ciliary arteries pass through the rectus muscles
           interrupting 3+ muscles can induce ASI
@@ -819,7 +819,7 @@ BOTOX complications
             rubeosis
               severe ASI can cause NVG
         postoperative strabismus
-          undercorrection || overcorrection
+          undercorrection OR overcorrection
           consecutive strabismus
             including slipped or lost muscle
               complete paresis in the direction of action on POD1
@@ -878,7 +878,7 @@ preoperative counselling for parents of kids with strabismus
         bleeding
         infection
         retinal detachment
-      lost || slipped muscle
+      lost OR slipped muscle
       need for additional surgery
       amblyopia
     anaesthetic risks

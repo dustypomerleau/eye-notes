@@ -27,7 +27,7 @@ DR grading (ETDRS)
   PDR
     new vessels
   high-risk PDR
-    1/4+ disc of NVD ||
+    1/4+ disc of NVD OR
     VH/PRH 2˚ NV
 
 antiVEGF in PDR
@@ -45,7 +45,7 @@ antiVEGF in PDR
         rescue PRP allowed at the investigator's discretion
           treatment 'failure' or 'futility'
       both groups were allowed prn Lucentis for DME
-        VA 6/9- && CST 2 SDs thicker than gender and age-matched controls
+        VA 6/9- AND CST 2 SDs thicker than gender and age-matched controls
         1/2 of the PRP group got Lucentis for DME over 2 years (!)
       macular laser was allowed at the investigator's discretion
     VA outcomes were similar
@@ -292,7 +292,7 @@ DME
         Eylea 2 mg q 4/52 x 5 then q 8/52
       rescue criteria
         10+ letter loss x 2 visits
-        15+ letter loss from BCVA && worse than baseline
+        15+ letter loss from BCVA AND worse than baseline
     at 100+ weeks
       laser group was switched to Eylea
       same protocol as rescue
@@ -429,7 +429,7 @@ rapid worsening of DR
   pregnancy
   rapid tightening of control
 
-when you are shown a posterior segment with PDR || RVO
+when you are shown a posterior segment with PDR OR RVO
   mention the risk of NVG
 
 for any question about DR
@@ -486,7 +486,7 @@ or from the Gay paper itself
       delayed arm to retina time is not defined
       ONLY these patients had carotid studies
         all 5 had 90+% ipsilateral carotid stenosis
-          by doppler || carotid angiogram
+          by doppler OR carotid angiogram
       low perfusion pressure on the ipsilateral side was confirmed by ODM
         technique not described
         low perfusion pressure by ODM is not defined

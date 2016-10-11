@@ -51,10 +51,10 @@ Infectious (viral)
 
 1.  Acute retinal necrosis (ARN) – occlusive retinal arteriolitis, vitritis, multifocal yellow-white peripheral retinitis (VZV, HSV 2, EBV, CMV). Usually spares the posterior pole. VERY prone to breaks and RRD/TRD so some do barrier laser. Most patients are not immunosuppressed in ARN but PORN (herpetic) affects late-stage AIDS patients.
 
-1.1.   Intravenous acyclovir x 48 hours before starting steroids for vitritis.
+1.1.   Intravenous aciclovir x 48 hours before starting steroids for vitritis.
 1.2.  Intravitreal ganciclovir may help in AIDS patients.
 1.3.  Resolves over 1-2 months with poor acuity.
-1.4.  Oral acyclovir x 2-4 months
+1.4.  Oral aciclovir x 2-4 months
 
 2.  CMV (neonates, leukemia / lymphoma, immunosuppressed, AIDS) – multifocal brushfire retinitis, hemorrhage, exudate. Minimal overlying vitritis because of immunosuppression. In AIDS usually occurs with CD4 under 50. Don’t bother with serologies because so many people are positive that it’s not diagnostically useful.
 
@@ -62,7 +62,7 @@ Infectious (viral)
 2.2.  Intravitreal ganciclovir (including implant) or foscarnet can be given in addition (or instead if they can’t tolerate intravenous).
 2.3.  SIZE of the lesion (look at borders) most important in determining response to therapy.
 
-3.  EBV – retinal lesions during infectious mononucleosis or with positive serology. Treat supportively, possibly add oral acyclovir.
+3.  EBV – retinal lesions during infectious mononucleosis or with positive serology. Treat supportively, possibly add oral aciclovir.
 
 4.  Rubella  - salt and pepper retinitis sometimes with exudative RD seen in congenital, acquired usually causes conjunctivitis, keratitis, iritis more often than retinitis. Measles looks similar but rare because of immunization.
 
@@ -136,7 +136,7 @@ Immunologic (retinochoroidopathies) – blurred vision and scotomata; always exc
 
 22. Punctate inner choroiditis (PIC) – usually myopic women ages 18-37 with bilateral loss of central acuity. Vitreous is quiet but there are small punctate inner choroidal lesions in the posterior pole. On FA lesions block early and stain late. Mild cases clear in 4-6 weeks but some people treat with steroids. Look for CNV. There is a possibility that PIC, MCP, and SFU represent a continuum of one disease.
 
-23. Serpiginous choroidopathy – adults 30-60 with blurred vision. Exam shows a serpiginous or geographic pattern of scars in the fundus. Lesions may be active at the edges, making them yellow-gray and edematous. Old lesions are atrophic. There may be mild vitreous cell. On FA, active areas block choroidal flush. Progression is indolent and proceeds centrifugally, so if it misses the macula prognosis is good. Steroids, cyclosporine and acyclovir have been advocated for macula-threatening disease but they don’t seem very effective.
+23. Serpiginous choroidopathy – adults 30-60 with blurred vision. Exam shows a serpiginous or geographic pattern of scars in the fundus. Lesions may be active at the edges, making them yellow-gray and edematous. Old lesions are atrophic. There may be mild vitreous cell. On FA, active areas block choroidal flush. Progression is indolent and proceeds centrifugally, so if it misses the macula prognosis is good. Steroids, cyclosporine and aciclovir have been advocated for macula-threatening disease but they don’t seem very effective.
 
 24. Subretinal fibrosis and uveitis syndrome (SFU) – women ages 14-34 with bilateral vitritis and multifocal choroiditis which later forms stellate subretinal fibrotic lesions. No good treatment (steroids and immunosuppressives sometimes used), poor prognosis.
 
@@ -325,7 +325,7 @@ Ocular involvement in AIDS
 3.2.4.  Response to treatment is determined by change in the size of the lesion, along with the degree of  “activity” of the lesion (retinal whitening, hemorrhage at the border).
 3.2.5.  Monitor these patients closely, they can develop atrophic holes and subsequent retinal detachment, and relapses of the retinitis are the rule. Most patients need to be on chronic anti-CMV therapy in addition to HAART.
 
-4.  Progressive outer retinal necrosis (PORN) – a rare infection in HIV infected patients caused by herpes simplex or herpes zoster. Can look like CMV or ARN but is more rapidly progressive than CMV and has relatively little vitreous inflammation compared to ARN. Commonly bilateral, with high incidence of retinal detachment. Treatment is with intravenous acyclovir and intravitreal ganciclovir or foscarnet but prognosis is poor.
+4.  Progressive outer retinal necrosis (PORN) – a rare infection in HIV infected patients caused by herpes simplex or herpes zoster. Can look like CMV or ARN but is more rapidly progressive than CMV and has relatively little vitreous inflammation compared to ARN. Commonly bilateral, with high incidence of retinal detachment. Treatment is with intravenous aciclovir and intravitreal ganciclovir or foscarnet but prognosis is poor.
 
 5.  Toxoplasma retinochoroiditis – in immunocompromised patients, the disease is more often bilateral, lesions are bigger, vitritis over the lesion is less than usual. AIDS patients tend not to have the classic toxo scars to help you diagnose toxoplasmosis. This is probably because the toxoplasma is acquired, rather than reactivation of congenital disease. In AIDS patients toxoplasma can infect the brain so sometimes they need an MRI. Treat with pyramethamine, sulfadiazine, and clindamycin. Avoid steroids if possible. Continue antitoxoplasmic therapy for life in these patients.
 

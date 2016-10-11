@@ -174,7 +174,7 @@ LSCD
         % of cells which are hexagonal
   surgery
     particularly with complete removal of epithelium
-  MMC || 5FU toxicity
+  MMC OR 5FU toxicity
   radiation
   vitamin A deficiency
   pterygium

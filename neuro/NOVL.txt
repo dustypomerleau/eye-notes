@@ -16,7 +16,7 @@ nonorganic visual loss
     most of the time parents are not the problem but
       ALWAYS: consider
         child abuse
-        negative home || school situation
+        negative home OR school situation
     COMMON: symmetric, bilateral symptoms
       COMMON:
         visual acuity loss
@@ -40,7 +40,7 @@ nonorganic visual loss
         CVAs
         CNS tumours
     consider 2˚ causes of NOVL
-      physical || sexual abuse
+      physical OR sexual abuse
       specific stressful life events
       undiagnosed psychiatric illness
         refer patients to a psychiatrist if you aren't sure
@@ -99,7 +99,7 @@ nonorganic visual loss
       polarised eye charts
         polarised glasses with vertical and horizontal axes
         same as red-green charts with alternating axes of polarisation
-    tests useful for monocular || binocular NOVL
+    tests useful for monocular OR binocular NOVL
       // cover the good eye as needed in monocular NOVL
       reverse reading of the VA chart
         start at 6/4 and go slowly
@@ -127,13 +127,13 @@ nonorganic visual loss
         in a normal patient
           6/12 line @ 2 m can read 6/6 line @ 1 m
         NOVL will often read the same line at both distances
-      magic drop || magic lens may improve NOVL in kids
+      magic drop OR magic lens may improve NOVL in kids
       proprioception testing
         should be normal even with poor vision
         have them touch their fingertips with outstretched arms + open eyes
       mirror test
         only useful for severe vision loss
-          patient complaining of LP || NPL
+          patient complaining of LP OR NPL
         occlude the better eye if the complaint is monocular
         rock the mirror side to side
         following the image proves HM+ VA
@@ -151,12 +151,12 @@ nonorganic visual loss
           MFVEP
             best for sussing out subtle ON dysfunction
             not useful in NOVL
-        ERG || MFERG
+        ERG OR MFERG
           useful for excluding retinal pathology
           not generally useful for proving NOVL
       VF patterns typical of NOVL
         spiral field
-          tangent screen || Goldmann
+          tangent screen OR Goldmann
           move clockwise systematically but go past your starting point
           patient brings field in further on the 2nd pass
         tunnel field

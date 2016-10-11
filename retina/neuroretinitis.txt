@@ -23,8 +23,8 @@ NR shortlist
     3/4 have systemic symptoms
     treatment does not improve final VA
       azithromycin
-        500 mg po daily x 1/7 || 10 mg/kg for 45- kg
-        250 mg po daily x 4/7 || 5 mg/kg for 45- kg
+        500 mg po daily x 1/7 OR 10 mg/kg for 45- kg
+        250 mg po daily x 4/7 OR 5 mg/kg for 45- kg
       doxycycline + rifampicin have also been used
     usually still treat if
       immunosuppressed

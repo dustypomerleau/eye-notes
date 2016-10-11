@@ -68,7 +68,7 @@ anterior and intermediate uveitis DDx
       viral
         HSV
           for typical HSV OHTN uveitis
-            acyclovir 400 bd is enough
+            aciclovir 400 bd is enough
               AOT to full treatment dose
         VZV
         CMV
@@ -133,7 +133,7 @@ anterior and intermediate uveitis DDx
             trauma
             postop CEIOL
           KP
-            granulomatous || nongranulomatous
+            granulomatous OR nongranulomatous
           temporise medically
             aggressive topical steroids
             IOP control
@@ -209,10 +209,10 @@ anterior and intermediate uveitis DDx
     idiopathic
       idiopathic anterior uveitis
       idiopathic intermediate uveitis
-        == pars planitis if snowballs || snowbanking
+        == pars planitis if snowballs OR snowbanking
       Fuchs uveitis syndrome
         hotly debated but might be rubella
-        CC is usually vitreous floaters || cataract
+        CC is usually vitreous floaters OR cataract
         diffuse, stellate KP
         AC WBC
           usually mild
@@ -304,9 +304,9 @@ anterior and intermediate uveitis DDx
             congenital Horner syndrome // see ptosis.txt
             Waardenburg syndrome // see albinism.txt
           gain of pigment
-            diffuse iris naevus // see iris-tumours.txt
-            melanoma // see iris-tumours.txt
-            prostaglandins // see glaucoma-medications.txt
+            diffuse iris naevus // see neoplasms-iris.txt
+            melanoma // see neoplasms-iris.txt
+            prostaglandins // see medications-glaucoma.txt
             oculodermal melanocytosis AKA naevus of Ota
               // see paediatric-glaucoma.txt
             Sturge Weber syndrome AKA encephalotrigeminal angiomatosis
@@ -347,7 +347,7 @@ anterior and intermediate uveitis DDx
                 SR debris + fluid on OCT
               VKH-like syndrome
                 including skin depigmentation
-          MEK inhibitors // see retinal-dystrophies.txt
+          MEK inhibitors // see dystrophies-retinal.txt
             COMMON: intermediate uveitis
             also cause RDS-like lesions
           BRAF inhibitor
@@ -428,7 +428,7 @@ anterior and intermediate uveitis DDx
 //
 
 
-  short DDx for diffuse || stellate KP
+  short DDx for diffuse OR stellate KP
   // LL says stellate is specific to FUS but several sources list:
     HSV
     VZV
@@ -475,7 +475,7 @@ anterior and intermediate uveitis DDx
 investigations
   // only order based on suspicion
   PCR
-    aqueous (100+ µL) || vitreous
+    aqueous (100+ µL) OR vitreous
       HSV
       VZV
       CMV
@@ -622,7 +622,7 @@ treatment
           IVMP 1 g daily x 3/7
           then switch to prednisolone 1 mg/kg/day po
             ± OFT
-          aggressive disease like VKH || Behcet with heavy bilateral presentation
+          aggressive disease like VKH OR Behcet with heavy bilateral presentation
             start SSIMT at the same time as steroids
             can even consider combinations
               MTX + infliximab

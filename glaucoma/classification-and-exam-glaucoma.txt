@@ -88,9 +88,9 @@ glaucoma classification
   POAG
     definitions
       AAO and SEAGIG
-        typical POAG rim loss ||
-        notch ||
-        NFL defect ||
+        typical POAG rim loss OR
+        notch OR
+        NFL defect OR
         VF defect
         +
         adult onset
@@ -110,7 +110,7 @@ glaucoma classification
       imaging
         red free photographs of the NFL
         stereo disc photos
-        ± HRA || GDX
+        ± HRA OR GDX
       automated perimetry
         VF defect should correlate with structure
         repeatable
@@ -121,11 +121,11 @@ glaucoma classification
     treatment
       target IOP at least 20% below baseline
       tailor target IOP based on risk
-        low || moderate risk suspect
+        low OR moderate risk suspect
           normal VF
-        high risk suspect || moderate POAG
+        high risk suspect OR moderate POAG
         high risk POAG
-          VF loss within 5˚ of fixation ||
+          VF loss within 5˚ of fixation OR
           VF defects in both hemifields
   JOAG
   NTG
@@ -197,15 +197,15 @@ glaucoma classification
       normal IOP
       treatment
         indications
-          3+ quads of ATM or less ||
-          FH ||
+          3+ quads of ATM or less OR
+          FH OR
           symptoms
         LPI
         if VS cataract
           early CEIOL // see Tarongoy review in Survey of Ophthalmology (2009)
     PAC
       PACS +
-        PAS ||
+        PAS OR
         IOP 22+
       treatment
         LPI
@@ -232,7 +232,7 @@ glaucoma classification
             clear lens with reasonable AC depth
               trab alone
     PACG
-      PAC + structural disc damage || VF loss
+      PAC + structural disc damage OR VF loss
       treatment
         same as PAC except never do CEIOL alone
         if the IOP is too high after LPI ± ALPI + meds
@@ -280,7 +280,7 @@ glaucoma classification
                 you can tie the sutures tight and lyse them later as needed
         ALWAYS: fellow eye LPI
       trabeculectomy alone
-      if VS cataract || very shallow AC
+      if VS cataract OR very shallow AC
         trabeculectomy + CEIOL
 
   PACD // based on AAO guidelines
@@ -435,7 +435,7 @@ causes of unilateral glaucoma
     degeneration
       dysfunction
         ICE syndrome
-          // see corneal-dystrophies.txt
+          // see dystrophies-corneal.txt
         ACG
           PACG
           intermittent ACG
@@ -448,13 +448,13 @@ causes of unilateral glaucoma
     congenital
       congenital
         BROADLY: anterior segment dysgenesis
-          // see infantile-corneal-opacity-and-anterior-segment-dysgenesis.txt
+          // see corneal-opacity-infantile-and-anterior-segment-dysgenesis.txt
         Sturge-Weber AKA encephalotrigeminal angiomatosis
     genetic
       genetic
         AD(VP) PPCD
         lens subluxation
-          AD || sporadic Marfan
+          AD OR sporadic Marfan
           AR homocystinuria
     trauma
       angle recession

@@ -2,7 +2,7 @@ visual fields
 
   ALWAYS: order a HVF for
     good VA and normal exam but
-      subjectively blurry vision ||
+      subjectively blurry vision OR
       trouble reading
 
   before you try to localise a VF defect
@@ -111,7 +111,7 @@ VF patterns by lesion location
   // temporal and parietal lobe lesions can cause almost anything congruous
   //   small wedge to a nearly complete hemianopia
   //   depends on how big the lesion is and how far back
-  //   usually temporal || parietal lobe lesions have other neurologic signs
+  //   usually temporal OR parietal lobe lesions have other neurologic signs
   //   homonymous defect in isolation
   //     COMMON: occipital lobe lesions
 
@@ -129,7 +129,7 @@ VF patterns by lesion location
       more congruous than an optic tract lesion
     additional parietal lobe neurologic signs
       contralateral sensory impairment
-        reduced pain || touch
+        reduced pain OR touch
       poor object recognition
       poor position sense
       dominant parietal lobe
@@ -155,7 +155,7 @@ VF patterns by lesion location
     for any relatively homonymous hemianopia
       check the OKN response
       pure occipital lesions will have a normal OKN response
-      large parietal || parieto + occipital lesions
+      large parietal OR parieto + occipital lesions
         may show abnormal OKN responses
           abnormal OKN when rotating the drum to the patient's right
             indicates a R parieto-occipital lesion
@@ -177,7 +177,7 @@ Goldmann VF
       10 dB = (1/10^1) * the brightest light the machine can produce
       20 dB = (1/10^2) * the brightest light the machine can produce
     to clarify
-      lower (1-4) || (a-e) values are brighter lights
+      lower (1-4) OR (a-e) values are brighter lights
       4 and e are the brightest lights in their groups
       4 and e have the lowest dB values in their groups
   typical settings

@@ -48,7 +48,7 @@ many different symptom patterns
 
 TMVL DDx // do not shotgun these tests for the RACE - be appropriate
   embolic
-    visible embolus in CRAO || BRAO
+    visible embolus in CRAO OR BRAO
       true RAO is not usually transient but there is a continuum
       cholesterol Hollenhorst plaque
         yellow
@@ -60,7 +60,7 @@ TMVL DDx // do not shotgun these tests for the RACE - be appropriate
       fibrin-platelet white plaque
         long
         smooth
-        dull white || grey
+        dull white OR grey
         caused by thrombosis
         can be a partner process to atherosclerosis
         COMMON:
@@ -68,7 +68,7 @@ TMVL DDx // do not shotgun these tests for the RACE - be appropriate
           cardiac
       calcific white plaque
         chalky white
-        oval || rectangular
+        oval OR rectangular
         COMMON: heart valve
         ALSO: aorta
       rare emboli
@@ -154,7 +154,7 @@ TMVL DDx // do not shotgun these tests for the RACE - be appropriate
     pregnancy
       can be a combination of above haemodynamic mechanisms
     malignant hypertension
-    reduced ophthalmic artery || CRA perfusion pressure
+    reduced ophthalmic artery OR CRA perfusion pressure
       press on the eye at the slitlamp
       CRA will occlude with minimal pressure
         this is true with *any* cause of reduced perfusion pressure
@@ -170,7 +170,7 @@ TMVL DDx // do not shotgun these tests for the RACE - be appropriate
         ESR
         CRP
         TAB
-    AV fistula || AVM
+    AV fistula OR AVM
       ophthalmic steal
     vasospasm
       not the same as migraine

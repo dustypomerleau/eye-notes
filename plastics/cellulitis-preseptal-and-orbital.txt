@@ -163,7 +163,7 @@ preseptal and orbital cellulitis:
       orbital apex syndrome?
         consider canthotomy + cantholysis
       IV antibiotics
-        flucloxacillin 2 g (kids: 50 mg/kg up to 2 g) q 6/24 for SA &&
+        flucloxacillin 2 g (kids: 50 mg/kg up to 2 g) q 6/24 for SA AND
         ceftriaxone 2 g (kids: 50 mg/kg up to 2 g) q 8/24 for strep. and H. flu.
           followed by Augmentin as for preseptal
         if not improving rapidly over 2/7
@@ -209,7 +209,7 @@ preseptal and orbital cellulitis:
   signs of extension
     orbital apex syndrome
       CN[345(1)6]P
-        if 5(2) || PS are involved think cavernous sinus
+        if 5(2) OR PS are involved think cavernous sinus
 
       DDx OAS
 
@@ -252,7 +252,7 @@ preseptal and orbital cellulitis:
               elevated pANCA
               late stages are life threatening
                 abdominal pain
-                bowel infarction || perforation
+                bowel infarction OR perforation
                 inflammatory heart disease
 
         iatrogenic

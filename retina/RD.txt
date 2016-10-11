@@ -44,7 +44,7 @@ non-rhegmatogenous SRF
           prednisolone 1 mg/kg/d
             monitor for steroid-related complications
               // see anterior-and-intermediate-uveitis.txt
-          start methotrexate || mycophenolate at the same time as steroids
+          start methotrexate OR mycophenolate at the same time as steroids
             even with SSIMT patients often require 10+ mg prednisolone x 6+/12
             but try to taper off steroids in 4-8/52
               monitor

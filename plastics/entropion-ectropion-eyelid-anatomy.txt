@@ -66,7 +66,7 @@ entropion
           go deep to the bone
         open lateral canthus
           down to orbital rim
-          knife || scissors
+          knife OR scissors
         expose the orbital rim
         create the strip
           cut the bottom edge of the tarsus
@@ -320,10 +320,10 @@ ectropion:
             confirm no other CNP
           treatment
             systemic ACV
-              zoster dose 800 mg po 5x/day x 10/7 ||
-              valacyclovir 1 g tds ||
+              zoster dose 800 mg po 5x/day x 10/7 OR
+              valaciclovir 1 g tds OR
               famciclovir 500 mg tds
-                bioavailability is better with valacyclovir and famciclovir
+                bioavailability is better with valaciclovir and famciclovir
                 best if started within 3/7 of onset
                 makes vesicles and pain resolve faster
                 no impact on postherpetic neuralgia

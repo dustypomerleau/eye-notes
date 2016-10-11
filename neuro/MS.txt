@@ -129,7 +129,7 @@ MS
             slower onset
               hours to days
             may not have fellow disc at risk
-            no haemorrhages || exudates
+            no haemorrhages OR exudates
               at least for typical optic neuritis
             central VF loss
               AION is typically altitudinal
@@ -150,7 +150,7 @@ MS
       chiasmal
       retrochiasmal
     ALWAYS: obtain VF testing in suspected optic neuritis
-      Goldman if HVF not reliable || poor VA
+      Goldman if HVF not reliable OR poor VA
       you need to check for VF patterns that would change the diagnosis
         e.g. junctional scotoma of pituitary apoplexy
         compressive lesions can mimic optic neuritis

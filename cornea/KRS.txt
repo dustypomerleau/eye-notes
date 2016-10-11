@@ -72,7 +72,9 @@ KRS complications
     flap
       dislocation
       striae
-      epi ingrowth
+      epithelial ingrowth
+        if visually significant
+          lift the flap and ablate with alcohol
       DLK
         sands of the sahara
         greatest in periphery

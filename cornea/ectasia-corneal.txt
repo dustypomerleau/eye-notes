@@ -1,4 +1,4 @@
-corneal-ectasia.txt
+ectasia-corneal.txt
 
   KCN
     // rule out pellucid (lobster claw topography) before diagnosing KCN
@@ -39,11 +39,12 @@ corneal-ectasia.txt
       deep
       vertical
       disappear with gentle digital pressure
-    descemet rupture with hydrops
+    Descemet rupture with hydrops
       acute hydrops
         vision drops
         painful
         low IOP
+        look for the Descemet tears
         treatment
           Chlorsig
           cycloplegia
@@ -86,7 +87,7 @@ corneal-ectasia.txt
         might be related to eye rubbing
       OSA
       BROADLY: connective tissue disorders
-        AD || sporadic Marfan
+        AD OR sporadic Marfan
         osteogenesis imperfecta
       aniridia
       RP
@@ -200,4 +201,22 @@ corneal-ectasia.txt
 cataract surgery in corneal ectasia
   if the view is clear
     usually do CEIOL alone to start
-    45 D standard Ks
+    COMMON: 45 D standard Ks
+  if the patient is looking at a future PK OR DALK
+    55- use patients Ks with target of low myopia (Moorfields)
+    55+ use standard Ks
+      Moorfields standard Ks
+        43.25
+      Irving Raber standard Ks (Wills)
+        45-47
+        you have some control when you do the graft
+          oversize 0.25 mm for 45
+          oversize 0.5 mm for 47
+    if the ectasia is off-centre
+      ALSO: central 2-3 mm of IOLMaster OR Lenstar Ks
+  toric IOL
+    should not be your default
+      requires stable refraction
+      confirm over multiple visits
+    very difficult to fit a rigid CTL over a toric IOL
+

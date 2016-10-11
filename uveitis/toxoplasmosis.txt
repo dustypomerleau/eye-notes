@@ -6,13 +6,13 @@ toxoplasmosis
         CMV retinitis
         Susac syndrome
   ALSO:
-    punctate inner || outer retinitis
+    punctate inner OR outer retinitis
     papillitis
     neuroretinitis
   usually a clinical diagnosis
     IgM generally up if infection occurred within a year
     atypical cases
-      PCR of aquous || vitreous
+      PCR of aquous OR vitreous
   DDx
     // see chorioretinitis-DDx.txt
     short list

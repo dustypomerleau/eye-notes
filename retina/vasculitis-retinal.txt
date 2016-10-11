@@ -14,7 +14,7 @@ retinal vasculitis DDx
   infectious
     viral
       COMMON:
-        HSV || VZV
+        HSV OR VZV
           ± ARN
         CMV
           immunosuppressed
@@ -80,7 +80,7 @@ retinal vasculitis DDx
           MAJOR:
             oral and genital ulcers
               nearly all Behcet patients have oral ulcers
-            uveitis || retinal vasculitis
+            uveitis OR retinal vasculitis
               eye involvement in 3/4 of Behcet
             skin lesions
               erythaema nodosum
@@ -128,7 +128,7 @@ retinal vasculitis DDx
 
   neoplastic
     lymphoproliferative
-      PIOL || PCNSL
+      PIOL OR PCNSL
     haematologic
       type 2 mixed cryoglobulinaemia
         COMMON: 2˚ hep C

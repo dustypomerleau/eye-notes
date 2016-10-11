@@ -25,7 +25,7 @@ phakomatoses AKA neurooculocutaneous syndromes
           optic nerve gliomas
           chiasmal gliomas
             try to watch them
-              if significant proptosis ||
+              if significant proptosis OR
               elevated ICP
                 debulking
                 ± chemo and radiation
@@ -42,7 +42,7 @@ phakomatoses AKA neurooculocutaneous syndromes
       2+ features
         1st degree FH
         6+ cafe au lait spots
-        2+ axillary || inguinal freckles
+        2+ axillary OR inguinal freckles
         2+ cutaneous neurofibromas
         1+ plexiform neurofibroma
         2+ lisch nodules

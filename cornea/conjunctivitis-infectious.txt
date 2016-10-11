@@ -6,7 +6,7 @@ infectious conjunctivitis
         g- intracellular diplococci
       Thayer-Martin
       PCR
-      ceftriaxone 250 mg IV || IM
+      ceftriaxone 250 mg IV OR IM
       irrigate fornices
         check for corneal involvement
         can perforate quickly
@@ -75,8 +75,8 @@ infectious conjunctivitis
         GP FU
           gonorrhea testing
           test partners
-      trachoma // see cicatrising-conjunctivitis.txt
-    medication toxicity || hypersensitivity reaction
+      trachoma // see conjunctivitis-cicatrising.txt
+    medication toxicity OR hypersensitivity reaction
     canaliculitis
 
   granulomatous conunctivitis

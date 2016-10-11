@@ -8,7 +8,7 @@ SEAGIG guidelines
     previous treatment
       meds
         glaucoma drops
-          failed drops || intolerance
+          failed drops OR intolerance
         steroid response
       lasers
       surgeries
@@ -24,7 +24,7 @@ SEAGIG guidelines
         difficult tracking fast-moving objects
           tennis balls
     PMH
-      asthma || COPD
+      asthma OR COPD
         avoid beta blockers
       cardiac AV block
         avoid
@@ -73,7 +73,7 @@ SEAGIG guidelines
     CCT
     conj
       follicles
-      trab || tube
+      trab OR tube
     cornea
       Krukenberg
       KP
@@ -153,9 +153,9 @@ SEAGIG guidelines
   ancillary tests
     stereo disc photos
       at diagnosis
-      when changes are suspected || annually
+      when changes are suspected OR annually
     NFL OCT
-    HRA || GDX if available // see ON-imaging-and-VFs.txt
+    HRA OR GDX if available // see ON-imaging-and-VFs.txt
     HVF // see ON-imaging-and-VFs.txt
 
   treatment goals

@@ -72,10 +72,10 @@ IOFB
     observe TICS
       tetanus
       IV antibiotics
-        IV vancomycin + ceftazidime 1 g each q 12/24 ||
-        a 4th generation quinolone such as IV moxifloxacin ||
+        IV vancomycin + ceftazidime 1 g each q 12/24 OR
+        a 4th generation quinolone such as IV moxifloxacin OR
         po cipro 500-750 mg bd x 7-10/7 (RVEEH protocol)
-        ± voriconazole 200 mg IV || po q 12/24
+        ± voriconazole 200 mg IV OR po q 12/24
       CT scan
         IOFB
         bony fractures
@@ -89,17 +89,17 @@ IOFB
       cataract with intact capsule may benefit from delay
         to get proper biometry
     endophthalmitis
-      sterile ||
+      sterile OR
       infectious
         Bacillus spp.
         GPC
         fungal
     VH precluding adequate assessment of the retina
     ambiguous BSUS findings
-    mac-on RRD ||
+    mac-on RRD OR
     progressive VR traction
 
-    removed via PP ||
+    removed via PP OR
     tunneled CS incision
       rare-earth magnet
       FB forceps

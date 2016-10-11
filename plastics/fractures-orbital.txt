@@ -62,7 +62,7 @@ treatment
     large fracture 1/2+ the orbital floor
     enophthalmos 2+ mm
   surgery
-    infraciliary || conjunctival
+    infraciliary OR conjunctival
     miniplating
     alloplastic implant
     complications

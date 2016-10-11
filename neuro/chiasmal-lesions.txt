@@ -4,7 +4,7 @@ chiasmal lesions
     COMMON:
       pituitary adenoma
         if the onset of a bitemporal hemianopia is acute
-          assume pituitary apoplexy || suprasellar aneurysm
+          assume pituitary apoplexy OR suprasellar aneurysm
             haemorrhage into a preexisting pituitary adenoma
               severe HA
               mental status changes
@@ -27,7 +27,7 @@ chiasmal lesions
             endocrine + neurosurgery to follow
               will usually start with bromocriptine
               may need transsphenoidal decompression
-                progressive vision loss || VF loss despite medical therapy
+                progressive vision loss OR VF loss despite medical therapy
     ALSO:
       meningioma
       craniopharyngioma

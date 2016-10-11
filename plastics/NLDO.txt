@@ -36,7 +36,7 @@ NLDO
           dacryocystitis
             see bugs below
         can cause local bony erosion in the lacrimal fossa
-        blockage will be in the canaliculus || common
+        blockage will be in the canaliculus OR common
         treatment
           COMMON: DCR
           ALSO: polyurethane stent
@@ -116,7 +116,7 @@ NLDO
                               mucus
                               blood
                               pus
-      in dacryocystocele || mucocele if the anatomy is uncertain
+      in dacryocystocele OR mucocele if the anatomy is uncertain
         digital subtraction dacryocystography (DS-DCG)
           contrast irrigation under X-ray with digital post-processing
         CT-DCG
@@ -161,9 +161,9 @@ NLDO
       Rosenmuller or lacrimal sac occlusion
         external DCR
           higher success rate than endoscopic DCR
-        if a patient has persistent || recurrent epiphora after DCR
+        if a patient has persistent OR recurrent epiphora after DCR
           first run through the exam above
-            look for a missed || mixed etiology
+            look for a missed OR mixed etiology
               hypersecretion
                 allergy
                 spastic entropion
@@ -190,7 +190,7 @@ NLDO
             tearing
             expressible mucous
           if the cause is still unclear
-            DCG || DSG as above
+            DCG OR DSG as above
 
 
 //
@@ -225,9 +225,9 @@ DCR
   reattach the MCT
   close the skin with nylon or gut
 
-medial spindle // see eyelid-anatomy-entropion-and-ectropion.txt
+medial spindle // see entropion-ectropion-eyelid-anatomy.txt
 
-LTS // see eyelid-anatomy-entropion-and-ectropion.txt
+LTS // see entropion-ectropion-eyelid-anatomy.txt
 
 
 //

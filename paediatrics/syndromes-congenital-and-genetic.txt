@@ -1,7 +1,7 @@
 congenital syndromes
 
-// see infantile-corneal-opacity-and-anterior-segment-dysgenesis.txt
-// see retinal-dystrophies.txt
+// see corneal-opacity-infantile-and-anterior-segment-dysgenesis.txt
+// see dystrophies-retinal.txt
 
 optic nerve hypoplasia
   isolated
@@ -47,7 +47,7 @@ Fraser syndrome
   malformed eyes beneath the skin
   cutaneous syndactyly
 
-AD || sporadic Marfan syndrome
+AD OR sporadic Marfan syndrome
   keratoglobus
   keratoconus
   lens subluxation
@@ -61,6 +61,8 @@ systemic associations of CR colobomas
     COMMON: eyelid coloboma
       ALSO: CR coloboma
     limbal dermoid
+      if large
+        consider amblyopia
     high incidence of Duane syndrome
   AD CHARGE syndrome
     colobomas
@@ -158,7 +160,7 @@ Klinefelter syndrome
   craniofacial abnormalities
     oculoauriculovertebral spectrum
 
-AD || AR Weill-Marchesani syndrome
+AD OR AR Weill-Marchesani syndrome
   short stature
   short fingers and toes
   microspherophakia

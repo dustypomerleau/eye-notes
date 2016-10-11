@@ -49,10 +49,19 @@ immune keratoconjunctivitis
         mast cell stabilisers
           cromolyn
         steroids
-          q 1/24 dexamethasone PF minims
-        cyclosporine
+          good for acute exacerbation
+          not usually given chronically
+          options
+            dexamethasone PF minims q 1-2/24
+            PF q 1-2/24
+        cyclosporine 1%
+          useful if
+            steroids are needed long-term
+            steroids inadequate
+            IOP response
         tacrolimus ointment
       supratarsal triamcinolone
+      RARELY: SSIMT
       debride shield ulcers in OT if nonhealing
     prognosis
       most kids outgrow VKC
@@ -124,7 +133,7 @@ immune keratitis
         FML
           can excerbate recurrence
         steroid dependent patients
-          cyclosporine ||
+          cyclosporine OR
           tacrolimus
 
   acne rosacea
@@ -145,7 +154,7 @@ immune keratitis
       omega 3 LCPUFA
 
   interstitial keratitis
-    // see infectious-keratitis.txt for DDx
+    // see keratitis-infectious.txt for DDx
 
   PUK
     true PUK is autoimmune by definition
@@ -153,6 +162,10 @@ immune keratitis
         infectious causes have been ruled out
         true ulceration with loss of epithelium
         true infiltration with WBC
+      if there is progressive thinning in a patient with systemic disease
+        assume the systemic disease is not controlled
+          even if the patient has no symptoms
+        increase SSIMT
 
     peripheral corneal ulceration DDx
     // includes PUK DDx + other causes
@@ -167,7 +180,7 @@ immune keratitis
             Hep. C
         bacterial
           BROADLY: infectious keratitis
-            // see  infectious-keratitis.txt
+            // see  keratitis-infectious.txt
           systemic
             TB
             syphilis
@@ -207,7 +220,7 @@ immune keratitis
                     true PUK
               painful
                 but no adjacent scleritis
-                AOT infection || PUK
+                AOT infection OR PUK
               limbus is involved
                 AOT Terrien marginal degeneration
               epi defect
@@ -236,10 +249,10 @@ immune keratitis
             superior
             clear zone at the limbus
             epi intact
-            opacities in the stroma
+            lipid opacities in the stroma
               fine
               punctate
-              white || yellow
+              white OR yellow
             white and quiet eye
             ATR astigmatism
               treat with CTL

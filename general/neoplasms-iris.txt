@@ -74,7 +74,7 @@ iris tumours
               iridocyclectomy
             ALSO:
               PBT
-                alone || as an adjunct after resection
+                alone OR as an adjunct after resection
               proton beam radiation
             RARELY:
               FNA to establish the diagnosis

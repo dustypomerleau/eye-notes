@@ -56,7 +56,7 @@ ET DDx
           usually observe
           if spontaneous and frequent
             SR recession
-              ± Faden posterior fixation suture ||
+              ± Faden posterior fixation suture OR
                 IR resection
           if concurrent IOOA
             IO anterior transposition
@@ -191,12 +191,12 @@ ET DDx
         fissure narrowing
         upshoots & downshoots
     Duane syndrome systemic associations
-      AD || AR Wildervanck syndrome
+      AD OR AR Wildervanck syndrome
         hearing loss
         fused cervical vertebrae
       sporadic Goldenhar syndrome
         hemifacial microsomia
-        preauricular skin tags ||
+        preauricular skin tags OR
         hypoplastic ear
         eyelid colobomas
         ocular dermoids
@@ -273,7 +273,7 @@ ET DDx
             R & R with an adjustable suture
           complete CN6P
             SR + IR transposition to the LR insertion
-              ± fellow eye MR BOTOX ||
+              ± fellow eye MR BOTOX OR
                 fellow eye MR recession
           complications
             COMMON: induced vertical strabismus

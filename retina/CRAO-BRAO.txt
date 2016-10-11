@@ -27,7 +27,7 @@ CRAO
         delayed RV filling and transit time
         choroidal filling should be normal
           if delayed
-            consider ophthalmic artery || carotid occlusion
+            consider ophthalmic artery OR carotid occlusion
 
   investigations
     BP

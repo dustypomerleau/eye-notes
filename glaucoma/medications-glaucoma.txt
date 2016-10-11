@@ -59,8 +59,8 @@ glaucoma medications in pregnancy and breastfeeding
       effect of topical quinolones is unclear
       tobramycin is often substituted if coverage is adequate
     oral antivirals
-      acyclovir is safe
-      valacyclovir is probably safe but less studied
+      aciclovir is safe
+      valaciclovir is probably safe but less studied
         category B
     dry eye
       avoid cyclosporine

@@ -24,7 +24,7 @@ orbital mass
     disc swelling or pallor
   lymph node enlargement
     metastases
-  MRI || CT
+  MRI OR CT
     look for bony destruction
     this should make you think of CA or histiocytic disorder
   labs based on relevant DDx
@@ -156,7 +156,7 @@ the 7 ages of the orbit DDx // remember these are shortlists
       primitive neuroectodermal tumour (PNET)
       dermoid cyst
   13-19
-    COMMON: fibrous dysplasia || ossifying fibroma
+    COMMON: fibrous dysplasia OR ossifying fibroma
       clinically similar
       histopathologically distinct
     ALSO:
@@ -337,7 +337,7 @@ treatment // consider reordering
     observe if they are small
     complete excision for
       hyperopia
-      choroidal || retinal folds
+      choroidal OR retinal folds
       optic nerve compression
       strabismus
       proptosis
@@ -391,7 +391,7 @@ treatment // consider reordering
     treat systemic CA
       hormonal therapy
       chemo
-    palliative debulking || radiation as needed
+    palliative debulking OR radiation as needed
   rhabdomyosarcoma
     any rapidly growing mass in a child
       immediate biopsy to rule out rhabdo
@@ -449,7 +449,7 @@ treatment // consider reordering
   metastatic ALL
     oncology consultation
     chemo
-  dermoid || epidermoid cysts
+  dermoid OR epidermoid cysts
     if intraorbital dumbell expansion
       excise
       minimal trauma to the cyst wall
@@ -468,7 +468,7 @@ treatment // consider reordering
 lateral orbitotomy
   GA
   skin incision
-    straight out from the lateral canthus ||
+    straight out from the lateral canthus OR
     sigmoid incision
       from the upper lid crease following the Langer lines
   reflect tissue and periosteum off the lateral orbital rim
@@ -525,12 +525,12 @@ neoplastic
     LM
       usually has a fluid level
       try to avoid resection or do subtotal resection
-    VM || AVM
+    VM OR AVM
       usually you can see vascular channels
       can't really resect or biopsy
       sometimes you can embolise them or embolise and then resect
   lymphoproliferative
-    LH || lymphoma
+    LH OR lymphoma
       usually B-cell NHL
         send some of the tissue fresh
           test for monoclonal surface cell markers
