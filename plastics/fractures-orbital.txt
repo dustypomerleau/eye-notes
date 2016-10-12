@@ -13,9 +13,9 @@ exam
     pupils
     IOP
       1˚ versus upgaze
-    colour
+    color
     anterior uveitis
-    hyphaema
+    hyphema
     angle recession
       gonio
     cataract

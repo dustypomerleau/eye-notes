@@ -44,14 +44,14 @@ angioid streaks
   RARELY:
     inflammatory
       autoimmune
-        acquired haemolytic anaemia
+        acquired hemolytic anaemia
     neoplasm
       solid tumours
         pituitary adenoma
           acromegaly
     genetic
       genetic
-        haemoglobinopathies
+        hemoglobinopathies
           sickle cell disease
           hereditary spherocytosis
         phakomatoses
@@ -59,7 +59,7 @@ angioid streaks
           Sturge-Weber
           tuberous sclerosis
         AR abetalipoproteinaemia
-        AR hereditary haemochromatosis
+        AR hereditary hemochromatosis
     endocrine
       endocrine
         DM

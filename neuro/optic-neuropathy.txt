@@ -9,12 +9,12 @@ history
     seconds long
     with change in body position
     suspicious for high ICP
-    look for papilloedema
+    look for papilledema
       ask about pulse synchronous tinnitus (PST)
-  colour vision
+  color vision
     in macular disease
-      poor colour vision usually comes with poor VA
-    if VA is only down a little but colour is poor
+      poor color vision usually comes with poor VA
+    if VA is only down a little but color is poor
       very likely to be optic neuropathy
     red desats
       faded
@@ -23,8 +23,8 @@ history
   difference in brightness
     ask patient during swinging penlight
     subjective confirmation of objective RAPD in subtle cases
-  distinguish true papilloedema from pseudopapilloedema
-    true papilloedema
+  distinguish true papilledema from pseudopapilledema
+    true papilledema
       HA
         worse
           lying down
@@ -36,7 +36,7 @@ history
         diplopia
         cognitive problems
       NFL swelling obscures retinal vessels
-      NFL haemorrhage
+      NFL hemorrhage
       CWS
       exudates
       no SVP
@@ -49,7 +49,7 @@ history
         disc leak
       HVF
         enlarged blind spot
-    pseudopapilloedema
+    pseudopapilledema
       disc drusen
         ALWAYS: confirm suspected disc drusen by BSUS
           high reflectivity persists even at low gain
@@ -59,7 +59,7 @@ history
             may pick up drusen slightly deeper
         bilateral disc swelling in the setting of disc drusen
           does *not* preclude intracranial pathology
-          if there is disc oedema
+          if there is disc edema
             scan them
       high hyperopia
       SVP present
@@ -73,7 +73,7 @@ history
       for any suspected ON
       including other CNPs where lesion location could threaten ON
     check Hertels if you suspect CON
-    if you suspect papilloedema
+    if you suspect papilledema
       BSUS to rule out drusen
       check BP for malignant HTN
       MRI
@@ -109,7 +109,7 @@ history
               lupus
               Behcet
           meningitis
-    Lee approach to papilloedema
+    Lee approach to papilledema
       complete ocular and neurologic exam
       Is there an exogenous cause?
         medication-induced IIH as above
@@ -167,7 +167,7 @@ history
                       + ICP controlled
                         ONSD
                           does not help with ICP or HA
-      papilloedema in the presence of fever
+      papilledema in the presence of fever
         intracranial abscess
           ring enhancing lesion on CT
           bright DWI on MRI
@@ -255,7 +255,7 @@ optic neuropathy DDx
           localised HA
           jaw claudication
             by far the most specific for GCA
-            maxillary artery ischaemia to the masseter muscle
+            maxillary artery ischemia to the masseter muscle
           scalp tenderness
             Does it hurt to comb your hair or shampoo?
           TA pain with palpation
@@ -310,7 +310,7 @@ optic neuropathy DDx
               lift the edge of the incision
                 use scissors to cut the full thickness of the skin
                 blunt dissect beneath the skin to make a pocket as you go
-              cauterise to obtain haemostasis
+              cauterise to obtain hemostasis
               stretch the incision with 2 rakes
               lift the fascial layer and open it with scissors
                 TA is immediately below the fascia
@@ -450,7 +450,7 @@ optic neuropathy DDx
     lymphoproliferative
       lymphoma infiltrative ON
       orbital lymphoma compressive ON
-    haematologic
+    hematologic
       leukaemia
         infiltrative ON
           COMMON: retrolaminar infiltration
@@ -458,12 +458,12 @@ optic neuropathy DDx
             congested retinal vessels
               RVO
               RAO
-              IR haemorrhages
+              IR hemorrhages
             vision loss can be severe
           ALSO: anterior infiltration of the disc
             fluffy, white infiltrate in the substance of the disc
             vision loss is mild
-          ALWAYS: confirm that the patient does not have papilloedema
+          ALWAYS: confirm that the patient does not have papilledema
             leukaemia can infiltrate the meninges and increase ICP
               LP would show WBC
           treatment for infiltrative ON
@@ -513,7 +513,7 @@ optic neuropathy DDx
         young men
         progressive
           bilateral VA 6/60-
-        pseudooedema
+        pseudoedema
         peripapillary telangiectasia
         arteriolar tortuosity
         mitochondrial inheritance

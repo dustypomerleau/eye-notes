@@ -3,7 +3,7 @@ AMD
     some doctors recommend avoiding supplements with iron in AMD patients
     AREDS2 vitamins increase iron absorption
       avoid in iron storage diseases
-        haemochromatosis
+        hemochromatosis
 
   histopathology
     Bruch

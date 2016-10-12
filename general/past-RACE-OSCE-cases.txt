@@ -29,8 +29,8 @@ plastics
     tarsal
   myotonic dystrophy
   orbital apex tumour
-  orbital apex cavernous haemangioma
-  retrobulbar haemorrhage management
+  orbital apex cavernous hemangioma
+  retrobulbar hemorrhage management
   TED
   TED
 
@@ -277,13 +277,13 @@ cataract
 //
 
 
-paeds
+peds
   albinism
   aniridia
   anisometropic amblyopia
   aphakic glaucoma
   aphakic glaucoma
-    prior paediatric CEIOL
+    prior pediatric CEIOL
   Best disease
   coloboma
   congenital cataract
@@ -361,7 +361,7 @@ strabismus
 neuro
   Adie pupil
   atypical optic neuritis
-  capillary haemangioblastoma
+  capillary hemangioblastoma
   cavernous sinus thrombosis
   CN3P
     aberrant regeneration

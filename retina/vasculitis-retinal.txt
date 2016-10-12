@@ -26,7 +26,7 @@ retinal vasculitis DDx
         WNV
         RVF
           paramacular exudate-like lesions
-          haemorrhages
+          hemorrhages
           vasculitis
           retinitis
     bacterial
@@ -83,7 +83,7 @@ retinal vasculitis DDx
             uveitis OR retinal vasculitis
               eye involvement in 3/4 of Behcet
             skin lesions
-              erythaema nodosum
+              erythema nodosum
               positive pathergy test
                 hypersensitivity pustule 1-2 days after sterile needle prick
           MINOR:
@@ -129,6 +129,6 @@ retinal vasculitis DDx
   neoplastic
     lymphoproliferative
       PIOL OR PCNSL
-    haematologic
+    hematologic
       type 2 mixed cryoglobulinaemia
         COMMON: 2˚ hep C

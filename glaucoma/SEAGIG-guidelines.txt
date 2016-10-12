@@ -16,7 +16,7 @@ SEAGIG guidelines
       elevated IOP
         blurring
         frontal HA
-      K oedema
+      K edema
         glare
         halos
       NFL loss
@@ -128,7 +128,7 @@ SEAGIG guidelines
         violation of ISNT
       CDR
         vertical
-      disc haemorrhage
+      disc hemorrhage
       NFL defects
         red-free filter
       PPA
@@ -178,7 +178,7 @@ SEAGIG guidelines
         PXF
           TID
             pupillary margin
-        disc haemorrhage
+        disc hemorrhage
         suspicious disc
         FH
         ethnicity

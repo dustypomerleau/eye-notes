@@ -45,7 +45,7 @@ anisocoria
     uveitis
       HSV
       VZV
-    ischaemia
+    ischemia
   Does the patient have a headache?
     young patient with a thunderclap HA and poorly reactive dilated pupil
       aneurysm until proven otherwise
@@ -76,8 +76,8 @@ DDx anisocoria
       near response is usually normal
       blurry when they switch back to distance
         but they slowly adjust
-  ischaemia
-    anterior segment ischaemia
+  ischemia
+    anterior segment ischemia
     ACG
   pharmacologic
     do all of your other testing before instilling agents to test this

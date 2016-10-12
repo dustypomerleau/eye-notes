@@ -57,7 +57,7 @@ Mackey protocol for approaching congenital cataracts
 //
 
 
-DDx for paediatric cataracts
+DDx for pediatric cataracts
 
   infectious
     viral
@@ -187,7 +187,7 @@ evaluation
     all genetic diseases
   birth history
   developmental milestones
-  consult paediatrician
+  consult pediatrician
     physical exam
     systemic diseases
     genetics

@@ -192,7 +192,7 @@ glaucoma laser
     // 12 burns per 180˚
       18 burns total
         leave 1 quadrant untreated
-          to avoid anterior segment ischaemia
+          to avoid anterior segment ischemia
       avoid ciliary nerves @ 3 & 9
 
 //
@@ -389,12 +389,12 @@ high IOP after trabeculectomy
         endophthalmitis
         blebitis
     retained OVD
-    hyphaema
+    hyphema
     spillover VH
     angle closure
       PAS
       aqueous misdirection
-      suprachoroidal haemorrhage
+      suprachoroidal hemorrhage
   pupillary block
     PS
       incomplete SPI

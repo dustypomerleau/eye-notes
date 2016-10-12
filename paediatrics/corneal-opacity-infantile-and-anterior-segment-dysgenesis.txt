@@ -70,7 +70,7 @@ anterior segment dysgenesis
         1/2 of cases
         ALWAYS: mention amblyopia prevention
           in practice
-            usually not dense enough to require paediatric CEIOL
+            usually not dense enough to require pediatric CEIOL
       ALSO:
         zonular weakness
         subluxation
@@ -149,20 +149,20 @@ infantile corneal opacity (clouding)
       formerly CHED1
       RARE
       increased corneal thickness
-      corneal oedema
+      corneal edema
     AR CHED
       formerly CHED2
       presents with nystagmus
       RARELY deafness
       increased corneal thickness
-      corneal oedema
+      corneal edema
       distinguishing CHED from PCG
         normal IOP
         normal corneal diameter
     AD CSCD
       feathery corneal clouding
       normal corneal thickness
-      no corneal oedema
+      no corneal edema
   secondary corneal opacity
     failure of development
       iridocorneal contact

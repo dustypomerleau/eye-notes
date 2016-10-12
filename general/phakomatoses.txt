@@ -33,7 +33,7 @@ phakomatoses AKA neurooculocutaneous syndromes
       especially in eyes with plexiform neurofibromas
     increased risk of secondary tumours
       JXG
-      retinal capillary haemangioma
+      retinal capillary hemangioma
       rhabdomyosarcoma
       pheochromocytoma
       Wilms tumour
@@ -69,11 +69,11 @@ phakomatoses AKA neurooculocutaneous syndromes
       COMMON: inner-retinal glial tumours AKA astrocytic hamartoma
 
   AD VHL
-    retinal and CNS capillary haemangioblastomas
+    retinal and CNS capillary hemangioblastomas
       ALWAYS: MRI
     renal carcinoma
     pheochromocytoma
-    treatment for retinal capillary haemangioblastomas
+    treatment for retinal capillary hemangioblastomas
       observation
       laser
         for small lesions
@@ -93,7 +93,7 @@ phakomatoses AKA neurooculocutaneous syndromes
         later in life
       hard to control with medication
       frequently requires trab
-    diffuse choroidal haemangioma
+    diffuse choroidal hemangioma
 
   AR ataxia telangiectasia AKA Louis-Barr syndrome
     CNS motor dysfunction
@@ -105,7 +105,7 @@ phakomatoses AKA neurooculocutaneous syndromes
     bullous skin lesions
     hydrocephalus
     seizures
-    ischaemic peripheral retina
+    ischemic peripheral retina
       VH
       TRD
       NVG

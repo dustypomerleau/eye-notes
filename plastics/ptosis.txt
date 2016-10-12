@@ -34,7 +34,7 @@ ptosis
       blepharospasm
     mechanical
       COMMON:
-        capillary haemangioma
+        capillary hemangioma
         plexiform neurofibroma
     traumatic
     pseudoptosis
@@ -53,7 +53,7 @@ ptosis
     BROADLY: any cause of Horner syndrome
     BROADLY: any cause of pseudoptosis
       orbital mass
-      lid oedema
+      lid edema
       fellow eye UL retraction
       fellow eye buphthalmos
 
@@ -169,12 +169,12 @@ ptosis
 
     vascular
       vasoocclusive
-        ischaemic CN3P
+        ischemic CN3P
         Horner due to medullary CVA
       aneurysm
         PCA aneurysm CN3P
-      haemorrhagic
-        haemorrhagic compressive CN3P
+      hemorrhagic
+        hemorrhagic compressive CN3P
       hypercoagulable
         cavernous sinus thrombosis CN3+ palsy
 
@@ -188,7 +188,7 @@ ptosis
         BROADLY: any solid tumour mechanical ptosis
           plexiform neurofibroma
       vascular
-        capillary haemangioma mechanical ptosis
+        capillary hemangioma mechanical ptosis
       lymphoproliferative
         lymphoma infiltrative CN3P
       metastatic

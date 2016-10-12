@@ -5,19 +5,19 @@ Purtscher and Purtscher-like retinopathy
   pancreatitis
   pancreatic cancer
   renal failure
-  haematologic malignancies
+  hematologic malignancies
   lupus vasculitis
   long bone fractures
-  orthopaedic surgery
+  orthopedic surgery
   iatrogenic emboli
     retrobulbar injection
     periocular and intradermal steroid injections
     BOTOX
 
 Terson syndrome
-  subarachnoid haemorrhage, usually due to ruptured cerebral aneurysm
-  intraretinal haemorrhage
-  sub-ILM haemorrhage
+  subarachnoid hemorrhage, usually due to ruptured cerebral aneurysm
+  intraretinal hemorrhage
+  sub-ILM hemorrhage
   VH
 
 CSC
@@ -69,7 +69,7 @@ PCV
     30% bleed rate
 
 venous dilation as you move away from the disc margin
-  generic sign of widespread retinal ischaemia
+  generic sign of widespread retinal ischemia
   look for this
     DM
     RVO
@@ -90,7 +90,7 @@ OIS
     sluggish
   anterior segment
     injected
-    corneal oedema
+    corneal edema
     flare but few cells
     iris atrophy
     NVI
@@ -147,10 +147,10 @@ peripheral retinal NV DDx
           comma-shaped conjunctival vessels
           focal iris atrophy
           NVI and all the sequelae
-            hyphaema
+            hyphema
             NVG
           peripheral venous tortuosity
-          salmon patch midperipheral preretinal haemorrhages
+          salmon patch midperipheral preretinal hemorrhages
           black sunburst CR infarcts
           sea fan NVE
           RARELY: angioid streaks
@@ -180,11 +180,11 @@ peripheral retinal NV DDx
     endocrine
       DM // mentioned above as PDR
 
-retinal haemorrhages with low platelets
+retinal hemorrhages with low platelets
   ITP
   TTP
     low platelets
-    haemolytic anaemia
+    hemolytic anaemia
     fever
     renal dysfunction
     altered mental status

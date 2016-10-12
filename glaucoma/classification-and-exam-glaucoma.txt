@@ -104,7 +104,7 @@ glaucoma classification
         rim loss
         notch
         NFL defect
-        disc haemorrhage
+        disc hemorrhage
         vertically enlarged cup
           usually 0.7+
       imaging
@@ -308,7 +308,7 @@ glaucoma classification
       secluded pupil
     without pupillary block
       posterior pushing
-        suprachoroidal effusion or haemorrhage
+        suprachoroidal effusion or hemorrhage
         scleral buckle
         posterior segment tumour
       anterior pulling
@@ -336,7 +336,7 @@ glaucoma classification
 
   PCG
   glaucoma 2˚ congenital anomalies or diseases
-    // see paediatric-glaucoma.txt
+    // see pediatric-glaucoma.txt
     anterior segment dysgenesis including aniridia
     Sturge-Weber
     NF1
@@ -413,7 +413,7 @@ causes of unilateral glaucoma
           AC cholesterolosis
           2˚ NVG
         CC fistula
-      haemorrhagic
+      hemorrhagic
         ghost cell glaucoma
     neoplastic
       solid
@@ -440,7 +440,7 @@ causes of unilateral glaucoma
           PACG
           intermittent ACG
           posterior pressure
-            suprachoroidal haemorrhage
+            suprachoroidal hemorrhage
             aqueous misdirection
             uveal effusion syndrome
         RRD

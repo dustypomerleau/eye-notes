@@ -63,12 +63,12 @@ RVO
         dysfibrinogenaemias
 
     neoplastic
-      haematologic
-        polycythaemia
+      hematologic
+        polycythemia
         multiple myeloma
         dysproteinaemias
           COMMON: Waldenstrom
-            may also have asymptomatic peripheral haemorhages and occlusions
+            may also have asymptomatic peripheral hemorhages and occlusions
 
     DAMS
       drugs
@@ -120,9 +120,9 @@ RVO
         ESR
         UEC
         urinalysis
-      haematologic
+      hematologic
         FBC
-        haematology consultation
+        hematology consultation
           hypercoagulable workup
             prothrombin time
             activated thromboplastin time

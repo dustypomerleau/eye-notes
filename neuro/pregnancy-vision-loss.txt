@@ -13,13 +13,13 @@ vision loss in pregnancy
     cortical blindness
       true CVA OR
       transient cortical blindness
-        caused by cerebral oedema
+        caused by cerebral edema
     RAO
       also possible with amniotic fluid emboli
         ask about premature rupture of membranes
     RVO
     hypertensive retinopathy
-      retinal haemorrhages
+      retinal hemorrhages
       CWS
       CME
     RARELY: DIC with choroidal infarcts
@@ -41,7 +41,7 @@ vision loss in pregnancy
   thiamine deficiency // see optic-neuropathy.txt
   TTP
     serous RD
-    retinal haemorrhages
+    retinal hemorrhages
     exudates
   Purtscher-like retinopathy
     usually during labour

@@ -54,7 +54,7 @@ CN4P
     other CNP
     progressively worse
     nystagmus
-    papilloedema
+    papilledema
   surgery
     COMMON: IO weakening
       myotomy
@@ -86,7 +86,7 @@ CN4P
     nuclear OR fascicular CN4P
       midbrain
         trauma
-        haemorrhage
+        hemorrhage
         infarction
         demyelination
       sympathetics pass through here
@@ -112,7 +112,7 @@ CN4P
       congenital CN4P gets lumped in here even though it's not really a palsy
       if acquired in an adult without a history of trauma
         scan
-          can be ischaemic but unlike CN3P you probably shouldn't observe here
+          can be ischemic but unlike CN3P you probably shouldn't observe here
 
 
 //
@@ -150,12 +150,12 @@ CN3P
     exception
       complete CN3P
       totally normal pupil
-      patient fits ischaemic CN3P demographics
+      patient fits ischemic CN3P demographics
       patient has vascular risk factors
       recovery in 3/12
       no signs of aberrant regeneration // see below
     do not rely on pain
-      ischaemic and aneurysmal palsies can both hurt
+      ischemic and aneurysmal palsies can both hurt
     check the pupil again in 1/52
       to ensure the CN3P is not progressive
   ALWAYS: screen for GCA if they are old
@@ -165,7 +165,7 @@ CN3P
       paradoxical eye movement
       pupil constriction with eye movement
     ALWAYS: scan a patient with aberrant regeneration
-      clear indicator that the CN3P is not ischaemic
+      clear indicator that the CN3P is not ischemic
     fairly common in congenital CN3P
   recurrent CN3P
     ophthalmoplegic migraine
@@ -207,7 +207,7 @@ CN3P
           bilateral ptosis
           contralateral eye upgaze paralysis
     CN3 fascicle
-      COMMON: ischaemic
+      COMMON: ischemic
       many combinations but most are some mix of
         cerebellar peduncle
           Nothnagel syndrome
@@ -245,7 +245,7 @@ CN3P
                 pupillary constrictors
                 fibres to CB for accomodation
     pupil-sparing isolated CN3P
-      usually ischaemic // see notes above
+      usually ischemic // see notes above
 
   CN3P DDx
 
@@ -311,7 +311,7 @@ CN3P
       vascular
         dural AV fistula
       vasoocclusive
-        ischaemic CN3P
+        ischemic CN3P
           age-related
           atherosclerotic
           HTN
@@ -320,7 +320,7 @@ CN3P
       aneurysmal
         PCA aneurysm
         basilar aneurysm
-      haemorrhagic
+      hemorrhagic
         SAH can cause CN3P
           look for
             HA
@@ -347,7 +347,7 @@ CN3P
           chordoma
           invasive nasopharyngeal carcinoma
       vascular tumours
-        cavernous haemangioma
+        cavernous hemangioma
         (A|AV|L)M
       lymphoproliferative
         lymphoma
@@ -486,9 +486,9 @@ orbital fracture // see also fractures-orbital.txt
       pupils
       IOP
         1˚ versus upgaze
-      colour
+      color
       anterior uveitis
-      hyphaema
+      hyphema
       angle recession
         gonio
       cataract

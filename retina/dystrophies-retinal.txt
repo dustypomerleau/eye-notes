@@ -67,7 +67,7 @@ ERG interpretation
         green
       cones peak sensitivity (collectively) 560 nm
         tennis ball yellow
-      review of visible colour wavelengths
+      review of visible color wavelengths
         400- ultraviolet
         400 violet
         445 indigo
@@ -785,7 +785,7 @@ CSNB panel (NGS)
     SLC24A1
     TRPM1
 
-hereditary haemorrhagic telangiectasia panel (NGS)
+hereditary hemorrhagic telangiectasia panel (NGS)
   650 USD
   3 genes
     ENG

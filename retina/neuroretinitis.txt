@@ -1,6 +1,6 @@
 neuroretinitis
   probably more accurate to say ODEMS
-    optic disc oedema with a macular star
+    optic disc edema with a macular star
     the macular star is really a 2˚ effect of disc swelling
     but neuroretinitis is the most recognised term
       some suggest using neuroretinitis only for infectious causes
@@ -99,10 +99,10 @@ NR DDx
   neoplastic
     solid
       juxtapapillary tumours
-        haemangioma
+        hemangioma
         melanoma
 
 if bilateral think about
   malignant HTN
-  papilloedema
+  papilledema
   systemic infections (above)

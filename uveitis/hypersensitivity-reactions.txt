@@ -14,7 +14,7 @@ type 2
   cell surface antigen
   lysis and necrosis
   minutes-hours
-  erythroblastosis faetalis
+  erythroblastosis fetalis
   Goodpasture nephritis
 
 type 3
@@ -22,7 +22,7 @@ type 3
   IgG
   IgM
   soluble antigen
-  erythaema and oedema
+  erythema and edema
   3-8 hours
   lupus
   farmer's lung disease
@@ -33,7 +33,7 @@ type 4
     T-cell mediated
   tissues and organs act as antigen
   2-3 days
-  erythaema and induration
+  erythema and induration
   PPD
   poison ivy
 

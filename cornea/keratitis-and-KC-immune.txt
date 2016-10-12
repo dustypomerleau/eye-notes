@@ -140,7 +140,7 @@ immune keratitis
     papules
     rhinophyma
     telangiectasias
-    midfacial erythaema
+    midfacial erythema
     MGD
     blepharitis
     conjunctivitis
@@ -238,7 +238,7 @@ immune keratitis
           BROADLY
 
       neoplastic
-        haematologic
+        hematologic
           BROADLY: leukaemia
 
       degeneration

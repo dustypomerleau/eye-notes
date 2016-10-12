@@ -25,7 +25,7 @@
     vascular
     vasoocclusive
     aneurysmal
-    haemorrhagic
+    hemorrhagic
     hypercoagulable
 
   Neoplastic
@@ -33,7 +33,7 @@
       solid tumours
       vascular tumours
       lymphoproliferative
-      haematologic
+      hematologic
       metastatic
       paraneoplastic
 

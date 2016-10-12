@@ -18,7 +18,7 @@ SJS is used here to represent the full continuum
       HIV + PJ => SJS as above
       trachoma
       Streptococcus
-        usually beta-haemolytic
+        usually beta-hemolytic
           S. pyogenes
           enterococcus
       Corynebacteria
@@ -194,7 +194,7 @@ treatment
         usually quiets at 100-150 mg po daily
         then taper over several months
         follow FBC
-          can cause haemolytic anaemia
+          can cause hemolytic anaemia
           avoid in G6PD deficiency
       if more acute or aggressive
         per Jabs

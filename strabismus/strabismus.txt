@@ -807,14 +807,14 @@ BOTOX complications
       surgical complications
         perforation and all related sequelae
           endophthalmitis
-          vitreous haemorrhage
+          vitreous hemorrhage
           retinal detachment
-          choroidal OR suprachoroidal haemorrhage
-        anterior segment ischaemia
+          choroidal OR suprachoroidal hemorrhage
+        anterior segment ischemia
           ciliary arteries pass through the rectus muscles
           interrupting 3+ muscles can induce ASI
           signs
-            corneal oedema
+            corneal edema
             anterior uveitis
             rubeosis
               severe ASI can cause NVG
@@ -898,7 +898,7 @@ preoperative counselling for parents of kids with strabismus
     patching
   Do you have any questions I haven't covered?
 
-  for *any* paediatric diagnosis
+  for *any* pediatric diagnosis
     ALWAYS: address social issues
       support network at hime
       accomodations needed at school

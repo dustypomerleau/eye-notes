@@ -27,7 +27,7 @@ nonorganic visual loss
         positive visual phenomena
           dots
           lines
-          colours
+          colors
           shapes
         HA
         eye pain
@@ -84,7 +84,7 @@ nonorganic visual loss
         9/12 Titmus circles is considered normal
         12/12 Titmus circles requires 6/6+ bilaterally & 40" stereo
         any stereopsis is helpful if the visual complaint is severe
-      colour testing
+      color testing
         Ishihara plates require relatively good acuity
           6/36+
         you can also perform Ishihara testing with red-green glasses
@@ -95,7 +95,7 @@ nonorganic visual loss
         alternating red and green letters
         red-green glasses ensure that each letter can only be read by one eye
         say
-          I'm going to do a short colour test.
+          I'm going to do a short color test.
       polarised eye charts
         polarised glasses with vertical and horizontal axes
         same as red-green charts with alternating axes of polarisation

@@ -37,15 +37,15 @@ acid and alkali burns
       2
         corneal haze
         visible iris
-        ± 4- CH focal limbal ischaemia
+        ± 4- CH focal limbal ischemia
       3
         total epi defect
         corneal haze obscuring iris
-        4-6 CH limbal ischaemia
+        4-6 CH limbal ischemia
       4
         opaque cornea
-        6+ CH limbal ischaemia
-      limbal ischaemia is the easiest aspect of grading
+        6+ CH limbal ischemia
+      limbal ischemia is the easiest aspect of grading
         none
         4-
         6-
@@ -58,7 +58,7 @@ but for your personal reference
       document as
         CH limbal involvement / % bulbar conj involvement (limbus to fornix)
         limbal involvement
-          limbal ischaemia OR complete loss of limbal epithelium including LSC
+          limbal ischemia OR complete loss of limbal epithelium including LSC
       grade 4+ have worse outcomes
         conveniently that's when 1/2 of the limbus and conj are involved
       0 CH / 0% (1)

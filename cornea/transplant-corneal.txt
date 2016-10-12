@@ -9,13 +9,13 @@ graft rejection
     superficial Kaye dot infiltrates
   stromal rejection
     anytime in the first 2 years
-    full thickness oedema
+    full thickness edema
     confined to the limits of the graft
   endothelial rejection
     usually within the first year
     most aggressive
     KP
-    diffuse graft oedema
+    diffuse graft edema
     Khodadoust line
       near the vascularised edge of the graft
     AC cell
@@ -31,14 +31,14 @@ graft rejection
     cornea fails after rejection
     when to declare failure
       rejection persists 3/12
-      vision is compromised by oedema
+      vision is compromised by edema
     HSV recurrence in a corneal graft
       delay topical steroids until (nearly) epithelialised
       if HSV recurs in a graft while on aciclovir
         aciclovir resistance testing
 
 late graft failure (AOT graft rejection)
-  slow onset of oedema
+  slow onset of edema
   no AC WBC
   no KP
   no Khodadoust rejection line

@@ -3,7 +3,7 @@ choroidal and retinal neoplasms
 pigmented fundus lesion DDx
   RPE hypertrophy
   CHRPE
-  haemorrhage
+  hemorrhage
   naevus
   melanoma
   melanocytoma
@@ -96,7 +96,7 @@ choroidal folds
     idiopathic
     neovascular membrane
     retrobulbar mass
-    papilloedema
+    papilledema
     extraocular hardware
       juxtascleral
         SB

@@ -5,7 +5,7 @@ chiasmal lesions
       pituitary adenoma
         if the onset of a bitemporal hemianopia is acute
           assume pituitary apoplexy OR suprasellar aneurysm
-            haemorrhage into a preexisting pituitary adenoma
+            hemorrhage into a preexisting pituitary adenoma
               severe HA
               mental status changes
               CN deficits
@@ -62,6 +62,9 @@ chiasmal lesions
     compression the decussating nasal fibres in the chiasm
       causes atrophy at 0300 & 0900
       results in a bowtie or band atrophy pattern
+    if the optic tract is involved
+      there may be bowtie atrophy on the contralateral side AND
+      diffuse atrophy OR vertical bowtie atrophy on the ipsilateral side
 
   VF patterns
     COMMON: bitemporal hemianopia

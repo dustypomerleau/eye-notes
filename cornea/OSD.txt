@@ -242,7 +242,7 @@ neurotrophic keratopathy DDx
         CPA tumours // see strabismus.txt for CPA tumour DDx
         COMMON: CN8 schwannoma AKA acoustic neuroma ± NF2
       vascular CN5 damage
-        ischaemic CN5P
+        ischemic CN5P
         CVA
       iatrogenic
         trigeminal neuralgia

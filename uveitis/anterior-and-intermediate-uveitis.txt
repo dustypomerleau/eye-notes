@@ -295,7 +295,7 @@ anterior and intermediate uveitis DDx
               postop PAS angle closure
                 AOT preop when they are unlikely to have any PAS
         iris heterochromia DDx
-          loss of pigment // darker or lighter really depends on iris colour
+          loss of pigment // darker or lighter really depends on iris color
             HSV
             VZV
             FUS
@@ -308,7 +308,7 @@ anterior and intermediate uveitis DDx
             melanoma // see neoplasms-iris.txt
             prostaglandins // see medications-glaucoma.txt
             oculodermal melanocytosis AKA naevus of Ota
-              // see paediatric-glaucoma.txt
+              // see pediatric-glaucoma.txt
             Sturge Weber syndrome AKA encephalotrigeminal angiomatosis
               // see phakomatoses.txt
             siderosis // see PEI-IOFB.txt

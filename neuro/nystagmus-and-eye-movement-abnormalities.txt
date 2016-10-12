@@ -37,7 +37,7 @@ nystagmus
     opsoclonus ± cerebellar ataxia
       metastatic neuroblastoma
     convergence-retraction nystagmus
-      essentially paediatric dorsal midbrain syndrome
+      essentially pediatric dorsal midbrain syndrome
         aqueductal stenosis
         pinealoma
     downbeat nystagmus

@@ -96,7 +96,7 @@ MS
           MS
           vasculitis
           CVA
-          haemorrhage
+          hemorrhage
           trauma
 
   ocular findings
@@ -119,8 +119,8 @@ MS
       2/3 retrobulbar
         disc looks normal
       1/3 anterior
-        disc oedema
-          mild oedema can still be typical
+        disc edema
+          mild edema can still be typical
           if disc swelling is severe
             treat as atypical optic neuritis
           distinguishing optic neuritis from NAION when there is swelling
@@ -129,7 +129,7 @@ MS
             slower onset
               hours to days
             may not have fellow disc at risk
-            no haemorrhages OR exudates
+            no hemorrhages OR exudates
               at least for typical optic neuritis
             central VF loss
               AION is typically altitudinal
@@ -216,7 +216,7 @@ treatment
       no pain on eye movement
       anterior uveitis
       marked disc swelling
-        haemorrhage
+        hemorrhage
         exudate
       chorioretinitis
     expand the DDx

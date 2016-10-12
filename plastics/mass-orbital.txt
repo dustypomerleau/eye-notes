@@ -19,7 +19,7 @@ orbital mass
   lacrimal gland enlargement
   ON signs
     VA
-    colour VA
+    color VA
     APD
     disc swelling or pallor
   lymph node enlargement
@@ -107,10 +107,10 @@ abbreviated DDx
       soft tissue
         rhabdo
     vascular tumours
-      haemangioma
+      hemangioma
     lymphoproliferative
       lymphoma
-    haematologic
+    hematologic
       leukaemia
     metastases
       neuroblastoma
@@ -126,7 +126,7 @@ the 7 ages of the orbit DDx // remember these are shortlists
   ALWAYS: consider infectious causes
     orbital cellulitis
   birth
-    capillary haemangioma
+    capillary hemangioma
     rhabdomyosarcoma
     teratoma
   0-5
@@ -141,7 +141,7 @@ the 7 ages of the orbit DDx // remember these are shortlists
       choristomas
         dermoid cyst
         limbal dermoid
-      capillary haemangioma
+      capillary hemangioma
   5-12
     COMMON:
       rhabdomyosarcoma
@@ -178,7 +178,7 @@ the 7 ages of the orbit DDx // remember these are shortlists
         adenoid cystic carcinoma
   40-65
     COMMON:
-      cavernous haemangioma
+      cavernous hemangioma
       schwannoma
       neurofibroma
     ALSO:
@@ -269,12 +269,12 @@ orbital mass DDx:
           with calcifications
         teratoma
     vascular tumours
-      cavernous haemangioma
+      cavernous hemangioma
         most common in adults
         RARELY: PHACES syndrome
           posterior fossa malformations
             Dandy-Walker syndrome
-          haemangiomas
+          hemangiomas
           arterial anomalies
           coarctation of the aorta
           eye abnormalities
@@ -283,11 +283,11 @@ orbital mass DDx:
             posterior staphyloma
             CR coloboma
           sternal clefting
-      capillary haemangioma
+      capillary hemangioma
         most common orbital tumour in children
         grows rapidly for 1- y and then regresses
         use beta blockers and treat amblyopia
-      haemangiopericytoma
+      hemangiopericytoma
     lymphoproliferative tumours
       lymphoma
         COMMON: B-cell NHL
@@ -305,7 +305,7 @@ orbital mass DDx:
           adjunctive chemotherapy in some cases
           limited role for adjunctive immunotherapy
             rituximab for CD20+ MALT
-    haematologic malignancies
+    hematologic malignancies
       BROADLY: histiocytic disorders
         bony destruction
         superotemporal orbit
@@ -333,7 +333,7 @@ orbital mass DDx:
 
 
 treatment // consider reordering
-  cavernous haemangioma
+  cavernous hemangioma
     observe if they are small
     complete excision for
       hyperopia
@@ -345,7 +345,7 @@ treatment // consider reordering
   (A|AV|L)M
     biopsy is dangerous
     complete excision is difficult or impossible
-      extensive haemorrhage
+      extensive hemorrhage
       integration of normal structures
     observe
     embolise
@@ -358,7 +358,7 @@ treatment // consider reordering
     subtotal excision for
       proptosis
       compressive ON
-      cerebral oedema
+      cerebral edema
       // assume excision will result in permanent visual loss
   NHL
     oncology referral
@@ -405,7 +405,7 @@ treatment // consider reordering
       chest imaging
       bone marrow biopsy
       lumbar puncture
-  capillary haemangioma
+  capillary hemangioma
     observe
       spontaneous resolution is common
     treat
@@ -475,7 +475,7 @@ lateral orbitotomy
   mark bone to be removed
   pre-drill holes for replacement
   cut the orbital rim with a bone saw or drill
-    remove with good haemostasis
+    remove with good hemostasis
     protect the eye with a retractor
   lacrimal tumours
     blunt dissection to define entire mass
@@ -488,7 +488,7 @@ lateral orbitotomy
     reinsert LR
   pass a drain out through the skin
   replace bone using prolene through pre-drilled holes
-  recheck haemostasis
+  recheck hemostasis
   close periorbita
   close OOM & skin
     reform canthal angle if sigmoid incision not used
@@ -520,8 +520,8 @@ neoplastic
     RARELY: soft tissue sarcoma
       usually has calcifications
   vascular
-    cavernous haemangioma
-    haemangiopericytoma
+    cavernous hemangioma
+    hemangiopericytoma
     LM
       usually has a fluid level
       try to avoid resection or do subtotal resection

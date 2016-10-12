@@ -173,7 +173,7 @@ anterior segment
       size
       centration
       rejection line
-      oedema
+      edema
       failure
       vascularisation
       sutures
@@ -198,7 +198,7 @@ anterior segment
       WBC
         hypopyon
       RBC
-        hyphaema
+        hyphema
       pigment
         'At this point I would perform gonioscopy, looking for...'
     iris
@@ -324,7 +324,7 @@ posterior segment (pole + full peripheral exam including BIO)
   // CF 90
   PVD
   disc
-    colour
+    color
     CDR
       tilted
       dysplastic
@@ -378,7 +378,7 @@ posterior segment (pole + full peripheral exam including BIO)
     mass
       naevus
       melanoma
-      haemangioma
+      hemangioma
       ...
     IR pigment
       RP
@@ -433,7 +433,7 @@ orbit // correct detailed to match summary below this point
     optic nerve function
       pupils
       CVF
-      colour vision (ask examiner)
+      color vision (ask examiner)
     motility
       versions
       ductions
@@ -453,7 +453,7 @@ orbit // correct detailed to match summary below this point
       neck scar
       activity indicators
         lid swelling
-        lid erythaema
+        lid erythema
         conj injection
         inflamed caruncle
         proptosis
@@ -463,7 +463,7 @@ orbit // correct detailed to match summary below this point
       orbitotomy
     lids
       swelling
-      erythaema
+      erythema
       lacrimal mass
       retraction
     ptosis
@@ -532,7 +532,7 @@ orbit // correct detailed to match summary below this point
         close your LE
         repeat
       'Would you like me to map the scotoma?'
-    'I would like to test colour vision'
+    'I would like to test color vision'
       if asked
         Ishihara plates
         red desaturation
@@ -559,8 +559,8 @@ orbit // correct detailed to match summary below this point
         exposure
         ulceration
       disc
-        papilloedema
-        oedema
+        papilledema
+        edema
         pallor
       venous congestion
         dilation
@@ -949,8 +949,8 @@ motility // see strabismus.txt for more detail
     slitlamp
     DFE
       disc
-        papilloedema
-        oedema
+        papilledema
+        edema
         pallor
       venous congestion
         dilation

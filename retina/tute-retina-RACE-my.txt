@@ -56,7 +56,7 @@ Karen Mai (make notes in your tumour sections on this)
   pigmented fundus lesion DDx
     RPE hypertrophy
     CHRPE
-    haemorrhage
+    hemorrhage
     naevus
     melanoma
     melanocytoma
@@ -234,13 +234,13 @@ Edward Doyle
   choroidal folds
     THIN RPE
       tumours
-        including infiltrative haematologic malignancies
+        including infiltrative hematologic malignancies
       hypotony
       inflammation
       idiopathic
       neovascular membrane
       retrobulbar mass
-      papilloedema
+      papilledema
       extraocular hardware
         juxtascleral
           SB
@@ -390,14 +390,14 @@ Jodie Jacobs
     RARELY:
       inflammatory
         autoimmune
-          acquired haemolytic anaemia
+          acquired hemolytic anaemia
       neoplasm
         solid tumours
           pituitary adenoma
             acromegaly
       genetic
         genetic
-          haemoglobinopathies
+          hemoglobinopathies
             sickle cell disease
             hereditary spherocytosis
           phakomatoses
@@ -405,7 +405,7 @@ Jodie Jacobs
             Sturge-Weber
             tuberous sclerosis
           AR abetalipoproteinaemia
-          AR hereditary haemochromatosis
+          AR hereditary hemochromatosis
       endocrine
         endocrine
           DM

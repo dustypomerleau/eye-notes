@@ -22,5 +22,5 @@ CT is preferred for
   bone
     fractures
     calcifications e.g. Rb
-  acute haemorrhage
+  acute hemorrhage
     good for ruling out intracranial bleed

@@ -109,7 +109,7 @@ corneal dystrophies
                 MM
                   probably deposition of IgG light chains in the stroma
     AD CSCD
-      diffuse clouding without oedema in an infant
+      diffuse clouding without edema in an infant
     AD fleck
       dandruff opacities in an infant
       not VS
@@ -120,14 +120,14 @@ corneal dystrophies
     sporadic FECD
       guttae on the posterior aspect of Descemet
       pleomorphic endothelial cells
-      oedema in advanced cases
+      edema in advanced cases
     AD(VP) PPCD
       childhood onset
       fusiform collagen plaques on Descemet
         snail tracks
         donuts
     AR CHED AKA Maumenee
-      milky corneal clouding and oedema at birth
+      milky corneal clouding and edema at birth
       stationary
       early PK to prevent amblyopia
 
@@ -179,7 +179,7 @@ corneal dystrophies
     unilateral
     types
       Chandler syndrome
-        corneal oedema
+        corneal edema
           COMMON: microcystic
         beaten metal
         epithelialisation of the endothelium

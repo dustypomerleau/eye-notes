@@ -1,4 +1,4 @@
-paediatric glaucoma
+pediatric glaucoma
 
   primary congenital glaucoma
     COMMON: sporadic
@@ -32,7 +32,7 @@ paediatric glaucoma
         quantify
           myopic cyclorefraction
             ALWAYS: cyclorefract
-              during any paediatric EUA
+              during any pediatric EUA
           ASUS for long AL
       portable slitlamp exam // the operating microscope may be adequate
         Haab striae

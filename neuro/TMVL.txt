@@ -34,7 +34,7 @@ many different symptom patterns
   HA are COMMON in TMVL
     nearly 1/2 of cases if you ask
     does not automatically mean migraine
-  if hypoperfusion is haemodynamic rather than embolic
+  if hypoperfusion is hemodynamic rather than embolic
     TMVL may be brought on by bright light
       trickle of retinal perfusion can't handle increased metabolic demand
       ASK about this in the history
@@ -127,7 +127,7 @@ TMVL DDx // do not shotgun these tests for the RACE - be appropriate
         1/5 will have longer attacks
           15+ minutes
           over an hour is possible but should make you question true amaurosis
-  haemodynamic
+  hemodynamic
     postural hypotension
       orthostatic BP
       1˚
@@ -139,7 +139,7 @@ TMVL DDx // do not shotgun these tests for the RACE - be appropriate
       2˚
         medications
     hyperviscosity syndromes and hypercoagulable states
-      polycythaemia
+      polycythemia
       MM
       Waldenstrom
       MGUS
@@ -150,9 +150,9 @@ TMVL DDx // do not shotgun these tests for the RACE - be appropriate
         ANA
         ENA
       antiphospholipid Ab
-      bloods for hyperviscosity with haematology assist
+      bloods for hyperviscosity with hematology assist
     pregnancy
-      can be a combination of above haemodynamic mechanisms
+      can be a combination of above hemodynamic mechanisms
     malignant hypertension
     reduced ophthalmic artery OR CRA perfusion pressure
       press on the eye at the slitlamp
@@ -197,23 +197,23 @@ TMVL DDx // do not shotgun these tests for the RACE - be appropriate
         ALWAYS: MRI
     migraine
       jagged edge
-      coloured lights
+      colored lights
       ± HA
       technically you should never make this diagnosis on a first episode
     epilepsy
       EEG
-    ON oedema
+    ON edema
       TVOs
         occur with change in body position
           *very* brief
             COMMON: under a minute
           elevated ICP
-          often visible papilloedema
+          often visible papilledema
           MRI
           LP
           HVF
     ON drusen
       BSUS
-    cortical ischaemia
+    cortical ischemia
     glaucoma
       full glaucoma workup if suspected

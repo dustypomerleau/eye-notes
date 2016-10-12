@@ -46,7 +46,7 @@ TED
     lid retraction
       superior OR inferior
     lid lag
-    lid oedema
+    lid edema
     chemosis
     dilated conj vessels
       sparing the limbus
@@ -68,7 +68,7 @@ TED
             if the orbital disease follows IMSLO
               tends to pull the eye down and medial
     compressive optic neuropathy
-      colour vision
+      color vision
       APD
       VF constriction
         CVF
@@ -113,10 +113,10 @@ EUGOGO
   clinical activity score // replaces Mourits, NO SPECS, VISA
     retrobulbar pain (at rest)
     pain on upgaze OR downgaze
-    lid erythaema
+    lid erythema
     lid swelling
     conj injection
-    conj oedema
+    conj edema
     inflamed caruncle
 
     active disease includes 3+/7

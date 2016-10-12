@@ -375,7 +375,7 @@ for RACE purposes
     dispersive OVD
       soft shell
     frequent reforming of the AC
-      high risk of suprachoroidal haemorrhage with hypotony
+      high risk of suprachoroidal hemorrhage with hypotony
     microincision capsulorhexis if possible
       helps keep the chamber deep and stable
       rhexis tend to radialise due to lens shape in nanophthalmos
@@ -449,13 +449,13 @@ intraop
             helps healing to have the blood supply
           fold the flap over and suture it upside-down over the wound
 
-  retrobulbar OR suprachoroidal haemorrhage
+  retrobulbar OR suprachoroidal hemorrhage
     50 g IV mannitol over 15 minutes
       faster than AACG protocol but this is an emergency
     500 mg IV Diamox
-    suprachoroidal haemorrhage
+    suprachoroidal hemorrhage
       don't drain acutely
-        haemorrhage will expand
+        hemorrhage will expand
       serial BSUS
         to look for liquefaction
       drain 1-2/52
@@ -537,7 +537,7 @@ postop
   PBK
     episodic pain
     blurred vision
-    full-thickness diffuse corneal oedema
+    full-thickness diffuse corneal edema
     bullae
       intact
       ruptured
@@ -558,7 +558,7 @@ postop
   investigation of clustered complications
     such as
       TASS
-      corneal oedema
+      corneal edema
     check everything that contacts the eye
       for all solutions consider
         wrong agent
@@ -831,7 +831,7 @@ management of intraoperative iris prolapse
       releasing OVD
     then reposit the iris
 
-corneal oedema after CEIOL
+corneal edema after CEIOL
   fragile endothelium
     FED
       general AU philosophy tends to favour CEIOL alone rather than triple
@@ -849,7 +849,7 @@ corneal oedema after CEIOL
     IOL
     flat chamber
       wound leak
-      suprachoroidal effusion OR haemorrhage
+      suprachoroidal effusion OR hemorrhage
       aqueous misdirection
     iris bombe
     vitreous
@@ -902,10 +902,10 @@ PSC cataract
     reading problems
 
 HORV
-  haemorrhagic occlusive retinal vasculitis
+  hemorrhagic occlusive retinal vasculitis
   1-14/7 post-CEIOL
   minimal intraocular inflammation
-  severe occlusive retinal vasculitis with haemorrhages
+  severe occlusive retinal vasculitis with hemorrhages
   etiology unknown
     possibly vancomycin
       almost all cases have had vancomycin

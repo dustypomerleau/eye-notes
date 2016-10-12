@@ -116,7 +116,7 @@ DDx
           FTSG
             easy
             can cover a large area
-            colour and texture aren't predictable
+            color and texture aren't predictable
             may pincushion slightly less than flaps
               pincushioning refers to rising above the surrounding skin
               intradermal triamcinolone can help

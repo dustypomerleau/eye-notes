@@ -9,7 +9,7 @@ leukocoria DDx
   idiopathic
     Coats disease
   vascular
-    haemorrhagic
+    hemorrhagic
       VH
   neoplastic
     solid tumours
@@ -18,7 +18,7 @@ leukocoria DDx
       astrocytic hamartoma
   congenital
     congenital
-      cataract // see paediatric-cataract.txt
+      cataract // see pediatric-cataract.txt
     developmental
       PFV
         usually sporadic
@@ -136,7 +136,7 @@ Rb
         extensive Rb
           50+% of the globe OR
           NVG OR
-          haemorrhage OR
+          hemorrhage OR
             AC
             vitreous
             SRH

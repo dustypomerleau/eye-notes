@@ -1,6 +1,6 @@
 // see also fractures-orbital.txt
 
-hyphaema
+hyphema
   in blacks
     ALWAYS:
       screen for sickle cell
@@ -10,23 +10,23 @@ hyphaema
         Saudi Arabia
         India
         Central and South America
-      ask about FH sickle cell or other haemoglobinopathy
+      ask about FH sickle cell or other hemoglobinopathy
       no Diamox or topical CAI if you can avoid it
         CAI will increase sickling if pt has sickle cell
       cycloplegia may reduce rebleed in sickle cell
-  AC washout in hyphaema
+  AC washout in hyphema
     in sickle cell
       IOP 25+ x 1/7 despite MMT
     in non-sickle cell
-      IOP 25+ + total hyphaema x 5/7
+      IOP 25+ + total hyphema x 5/7
         to prevent corneal blood staining
       IOP 50+ x 2/7
         to prevent optic atrophy
       clinical signs of blood staining
         regardless of IOP OR duration
         mechanism
-          haemoglobin from the AC is forced into the corneal stroma
-          keratocytes phagocytose haemoglobin and store hemosiderin
+          hemoglobin from the AC is forced into the corneal stroma
+          keratocytes phagocytose hemoglobin and store hemosiderin
           keratocytes die and release hemosiderin
           hemosiderin diffuses easily
             can stain all the way to the epithelium
@@ -46,7 +46,7 @@ hyphaema
         Simcoe cannula
         bimanual I/A
         25 g PPV handpiece
-        adjunctive tPA for fibrinous hyphaemas
+        adjunctive tPA for fibrinous hyphemas
       no need to clear *all* blood
         being aggressive risks a rebleed or damage to the iris
       suture all wounds
@@ -77,26 +77,26 @@ elevated IOP in the wake of trauma
       FH
 
 NAI
-  subdural haemorrhages
+  subdural hemorrhages
     bridging veins tear during shaking
-  diffuse retinal haemorrhages
+  diffuse retinal hemorrhages
     too many to count
-      extent of haemorrhages is important
+      extent of hemorrhages is important
       document that they are extensive if so
-      less extensive haemorrhages are nonspecific
+      less extensive hemorrhages are nonspecific
     multilayered
       preretinal
       intraretinal
       subretinal
     extending to the ora
-    haemorrhagic macular retinoschisis
+    hemorrhagic macular retinoschisis
       highly specific for NAI
-    haemorrhages can be unilateral
-    etiology of retinal haemorrhages
+    hemorrhages can be unilateral
+    etiology of retinal hemorrhages
       probably VR traction
   perimacular folds
   disc swelling
-    PP NFL haemorrhages
+    PP NFL hemorrhages
   encephalopathy
   skeletal survey
     occult fractures
@@ -148,7 +148,7 @@ thermal burns
       underlying soft tissue is destroyed
   exam
     ALWAYS: check burn victims for a CTL or other FB
-    periorbital oedema
+    periorbital edema
     lids
       depth of burns to eyelid skin // see severity above
       lash burn or loss
@@ -162,7 +162,7 @@ thermal burns
       corneal sensation
       Bell phenomenon
     conjunctiva
-      limbal ischaemia
+      limbal ischemia
         a white eye should worry you
       chemosis
       necrosis
@@ -173,7 +173,7 @@ thermal burns
       exposure keratopathy
       epi defect
       limbitis
-      limbal ischaemia // as above
+      limbal ischemia // as above
       LSCD
         assess during healing
       corneal opacification
@@ -198,7 +198,7 @@ thermal burns
     Chlorsig prophylaxis qid
       the risk of 2˚ infection is high
     topical steroids should be used with caution
-      sometimes very helpful with severe oedema
+      sometimes very helpful with severe edema
     reduce melting
       doxycycline 100 mg po daily
       ascorbic acid 1 g po bd

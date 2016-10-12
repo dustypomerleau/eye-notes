@@ -19,7 +19,7 @@ Formula:
     enterocytes are later shed into the gut lumen
     the enzymes that transport Fe from the gut to the blood depend on Cu
     Cu deficiency therefore causes Fe deficiency
-    Fe is required to synthesise haemoglobin
+    Fe is required to synthesise hemoglobin
     Fe deficiency causes anaemia
 
 67% of study participants took centrum multivitamins during the study - i'm not sure this is a trivial amount despite the much lower doses of antioxidants. I would have to look up the exact formulation of Centrum at the time of the study, but currently it contains:

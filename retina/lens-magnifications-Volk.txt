@@ -70,7 +70,7 @@ contact laser lenses
     image 0.51
     laser spot 1.97
 
-  Volk Quad Paediatric
+  Volk Quad Pediatric
     image 0.55
     laser spot 1.82
 

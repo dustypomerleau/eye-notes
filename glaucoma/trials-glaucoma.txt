@@ -35,7 +35,7 @@ classic glaucoma trials
     worse prognosis in NTG
       female sex
       migraine OR Raynaud
-      disc haemorrhage
+      disc hemorrhage
       NOT Asian
         slower progression in Asians
           not many blacks in the study
@@ -55,13 +55,13 @@ classic glaucoma trials
 
   OHTS (2002)
     dropping the IOP below 24 cut the risk of glaucoma in half
-    confirmed CNTGS finding that disc haemorrhage indicates faster progression
+    confirmed CNTGS finding that disc hemorrhage indicates faster progression
     ALT increases cataract
     risk factors
       age
       male sex
       African American race
-      ischaemic heart disease
+      ischemic heart disease
       IOP
       thin CCT
         average 575 µm
@@ -119,7 +119,7 @@ classic glaucoma trials
         NTG
           CNTGS
 
-    ischaemic heart disease
+    ischemic heart disease
     vasospasm
       migraine
       Raynaud
@@ -141,7 +141,7 @@ classic glaucoma trials
     IOP 24+
     PXF
     VCDR > HCDR
-    disc haemorrhage
+    disc hemorrhage
     bilateral disease
 
     higher HVF PSD

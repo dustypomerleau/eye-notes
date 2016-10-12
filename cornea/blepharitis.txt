@@ -16,7 +16,7 @@ blepharitis
       lash loss
       trichiasis
       lid margin
-        erythaema
+        erythema
         ulceration
       marginal infiltrates
         where the lids cross the limbus in primary gaze
@@ -52,7 +52,7 @@ blepharitis
       hyperosmolarity
       rosacea
         facial telangiectasias
-        midfacial erythaema
+        midfacial erythema
         papules
         rhinophyma
 

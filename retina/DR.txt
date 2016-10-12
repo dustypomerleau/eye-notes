@@ -446,7 +446,7 @@ asymmetric DR
         stages 3-5 are all PDR!
 
 =begin
-"Based upon the retinal changes in 178 diabetics, BALLANTYNE (1946) divided the retinopathy into 5 stages according to their relation to the development of retinopathy. The first stage included microaneurysms with or without punctate haemorrhages and punctate exudates. The second, dot and blot haemorrhages and waxy exudates. The third, periphlebitis and phlebosclerosis, new-formed intra and preretinal vessels, increasing haemorrhages in the retina and vitreous, massive exudates, retinitis proliferans and detachment of the retina. The fourth, further advance in vessel changes, increase in vitreous haemorrhage and exudates, destruction of the retina. The fifth, a  mixed form, included most of the above-mentioned changes and hypertensive changes."
+"Based upon the retinal changes in 178 diabetics, BALLANTYNE (1946) divided the retinopathy into 5 stages according to their relation to the development of retinopathy. The first stage included microaneurysms with or without punctate hemorrhages and punctate exudates. The second, dot and blot hemorrhages and waxy exudates. The third, periphlebitis and phlebosclerosis, new-formed intra and preretinal vessels, increasing hemorrhages in the retina and vitreous, massive exudates, retinitis proliferans and detachment of the retina. The fourth, further advance in vessel changes, increase in vitreous hemorrhage and exudates, destruction of the retina. The fifth, a  mixed form, included most of the above-mentioned changes and hypertensive changes."
 
 or from the Gay paper itself
   1. Microaneurysms, minute hemorrhages, and punctate exudates.
@@ -473,7 +473,7 @@ or from the Gay paper itself
     387 patients over 2 years
     20/387 patients had asymmetric DR
       these 20 patients had carotid dopplers
-    4/20 had haemodynamically significant carotid stenosis
+    4/20 had hemodynamically significant carotid stenosis
       defined as 75+% occlusion
       2/4 had ipsilateral stenosis
       2/4 had contralateral stenosis

@@ -26,7 +26,7 @@ iris tumours
           amblyopia
           glaucoma
           cataract
-          hyphaema
+          hyphema
           corneal decompensation
         aspiration
           ± cryo
@@ -90,18 +90,17 @@ iris tumours
           leiomyoma
           rhabdomyosarcoma
 
-
     vascular
-      iris cavernous haemangioma
+      iris cavernous hemangioma
       iris varix
         can simulate melanoma
-      racemose haemangioma
+      racemose hemangioma
         iris Wyburn-Mason variant
 
     lymphoproliferative
       lymphoma
 
-    haematologic
+    hematologic
       RARELY: leukaemia
 
     metastatic

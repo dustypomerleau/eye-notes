@@ -137,7 +137,7 @@ ET DDx
           child over 7
           no hyperopia
           CN palsies
-          papilloedema
+          papilledema
           ALWAYS: MRI
 
   acquired ET
@@ -242,7 +242,7 @@ ET DDx
         worse in abduction
         slowed abducting saccades
       isolated CN6P DDx
-        microvascular ischaemia
+        microvascular ischemia
           50+ YO
           + vascular risk factors
             referral to GP
@@ -291,7 +291,7 @@ ET DDx
           HA
           nausea
         exam
-          papilloedema
+          papilledema
           hemispheric signs
             aphasia
             hemianopia
@@ -323,7 +323,7 @@ ET DDx
                 brainstem syndrome
                   posterior fossa
                     compressive
-                    ischaemic
+                    ischemic
                     inflammatory
                       MS is a common cause of the brainstem CN6P syndrome
                   in this location you can see concurrent
@@ -340,7 +340,7 @@ ET DDx
                 increased ICP syndrome
                   stretches CN6 where it passes over the petrous temporal bone
                   COMMON: in IIH
-                    look for CN6P in patients with papilloedema
+                    look for CN6P in patients with papilledema
                   ALSO:
                     any pathology in the subarachnoid space
                       bleed
@@ -413,9 +413,9 @@ ET DDx
               if there is no evidence of the first 5 syndromes of CN6P
                 i.e. 6th syndrome AKA isolated CN6P
                 scan within 1-2/12
-                  in an adult with ischaemic demographics
+                  in an adult with ischemic demographics
                     you can wait a bit longer
-                    still expect improvement of ischaemic CN6P in 12/52
+                    still expect improvement of ischemic CN6P in 12/52
 
   convergence spasm AKA spasm of the near reflex
     usually functional

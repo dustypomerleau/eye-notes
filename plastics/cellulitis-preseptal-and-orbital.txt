@@ -88,8 +88,8 @@ preseptal and orbital cellulitis:
     DM
 
   nonspecific findings
-    periorbital oedema
-    erythaema
+    periorbital edema
+    erythema
 
   findings indicating orbital cellulitis
     vision loss
@@ -286,7 +286,7 @@ preseptal and orbital cellulitis:
           lymphoproliferative
             Burkitt lymphoma
             NHL
-          haematologic
+          hematologic
             BROADLY: leukaemia
           metastatic
             melanoma
@@ -313,7 +313,7 @@ preseptal and orbital cellulitis:
 
         trauma
           orbital apex fracture
-            orbital haemorrhage
+            orbital hemorrhage
           penetrating orbital injury
           orbital FB
 

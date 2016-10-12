@@ -24,7 +24,7 @@ shortlist
               can mimic vasculitis if tightly following vessel branching
             central clearing where retina is completely necrotic
             peripheral satellite lesions
-            variable haemorrhage
+            variable hemorrhage
           ALWAYS: confirm the diagnosis
             vitreous OR AC tap for PCR
               vitreous is usually higher yield
@@ -206,7 +206,7 @@ shortlist
           clustered yellow-white lesions
         ALSO:
           RAPD
-          disc oedema
+          disc edema
         reported small nematodes:
           Toxocara canis
           Ancylostoma caninum
@@ -469,7 +469,7 @@ The problem with using HLA typing diagnostically is illustrated in the case of B
       can masquerade as WDS OR retinal dystrophy
         peripheral pigmentary changes
         reduced ERG
-    haematologic
+    hematologic
       RARELY: leukemia
         usually
           IRH

@@ -68,7 +68,7 @@ non-rhegmatogenous SRF
     lymphoproliferative
       PIOL
       PCNSL
-    haematologic
+    hematologic
       AML
     metastatic
       mets

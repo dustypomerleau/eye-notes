@@ -4,7 +4,7 @@ associations
   all OAG
     nocturnal hypotension
     large diurnal IOP fluctuation
-  ischaemic vascular disease
+  ischemic vascular disease
   vasospasm
     migraine
     Raynaud
@@ -16,7 +16,7 @@ DDx
     // see optic-neuropathy-DDx.txt
     full scope of optic neuropathies could be listed here
       infectious
-      ischaemic
+      ischemic
       compressive
       toxic
       metabolic
