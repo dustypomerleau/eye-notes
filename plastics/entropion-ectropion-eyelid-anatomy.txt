@@ -320,14 +320,14 @@ ectropion:
             confirm no other CNP
           treatment
             systemic ACV
-              zoster dose 800 mg po 5x/day x 10/7 OR
+              zoster dose 800 mg po 5x/day x 10 days OR
               valaciclovir 1 g tds OR
               famciclovir 500 mg tds
                 bioavailability is better with valaciclovir and famciclovir
-                best if started within 3/7 of onset
+                best if started within 3 days of onset
                 makes vesicles and pain resolve faster
                 no impact on postherpetic neuralgia
-            prednisolone 1 mg/kg/d for 1/52
+            prednisolone 1 mg/kg/d for 1 weeks
             pain management
               oxycodone 5 mg tablets
               postherpetic neuralgia
@@ -373,7 +373,7 @@ ectropion:
           BOTOX
         ptosis with cheek puffing
           excess OOM tone
-    wait 6/12 before any surgery
+    wait 6 months before any surgery
       may recover spontaneously
       for ectropion component
         LTS

@@ -152,11 +152,11 @@ CN3P
       totally normal pupil
       patient fits ischemic CN3P demographics
       patient has vascular risk factors
-      recovery in 3/12
+      recovery in 3 months
       no signs of aberrant regeneration // see below
     do not rely on pain
       ischemic and aneurysmal palsies can both hurt
-    check the pupil again in 1/52
+    check the pupil again in 1 weeks
       to ensure the CN3P is not progressive
   ALWAYS: screen for GCA if they are old
   look for aberrant regeneration
@@ -364,7 +364,7 @@ CN3P
         Viagra and its relatives
 
     congenital
-      within the first 3/12 is generally considered congenital
+      within the first 3 months is generally considered congenital
 
     endocrine
       endocrine

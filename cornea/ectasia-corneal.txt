@@ -52,7 +52,7 @@ ectasia-corneal.txt
           if inflamed
             mild steroid
           heals with scarring
-            1-2/12
+            1-2 months
     central K 47+ D on topo
       apical cone
       inferior paracentral thinning
@@ -162,8 +162,7 @@ ectasia-corneal.txt
         UVA @ 3 mW/cm2 x 30 minutes
         BCTL until epithelialised
         Chlorsig + FML qid
-        exams at (1, 3, 7, 30)/7
-    DALK
+        exams at (1, 3, 7, 30) days    DALK
       only if no history of hydrops
       pros
         low risk of rejection

@@ -266,8 +266,7 @@ glaucoma classification
                 CEIOL
               clear lens
                 observe
-            if IOP is still too high over 3/7
-              VS cataract
+            if IOP is still too high over 3 days              VS cataract
                 phacotrab
               clear lens but very shallow AC
                 phacotrab

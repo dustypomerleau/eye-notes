@@ -45,17 +45,16 @@ preop
     high myopia
 
 
-
 //
 
 if a patient has thin corneas on biometry
   ask about prior KRS
 
-=begin
+/*
 do we routinely measure CCT pre-CEIOL?
   seems like we should
   though proper history will usually yield this data
-=end
+*/
 
 determining true corneal power and proper IOL power after KRS
   the corneal index of refraction is changed after LASIK OR PRK
@@ -64,14 +63,14 @@ determining true corneal power and proper IOL power after KRS
 
   summary of post-KRS options for calculating IOL
 
-=begin
+/*
 for RACE purposes
   just say
     if I have sufficient data I would use the ASCRS online calculator
     if I don't have good preop data
       CTL overrefraction
       Haigis-L on the IOL Master
-=end
+*/
 
     post-myopic-KRS
       clinical history
@@ -350,12 +349,12 @@ cataract surgery in very short eyes
     Holladay IOL Consultant software can make this easier
       Holladay 2 for main IOL
       Holladay R formula for piggyback
-=begin
+/*
 for RACE purposes
   given that you have to pay for the Holladay software
   probably best to say you would use Rayner's online piggyback calculator
   you don't want to be asked if you actually own it
-=end
+*/
   intraoperatively
     topical is better
       retrobulbar blocks increase
@@ -392,7 +391,7 @@ for RACE purposes
 
 cataract surgery with a trabeculectomy in place
   counselling about risk of trab failure
-  wait 6/12 after trab before doing the cataract
+  wait 6 months after trab before doing the cataract
   5FU 0.1 mL of 50 mg/mL at the time of surgery
   increased postoperative steroids to q 2 h
 
@@ -458,7 +457,7 @@ intraop
         hemorrhage will expand
       serial BSUS
         to look for liquefaction
-      drain 1-2/52
+      drain 1-2 weeks
         AC maintainer
           25 g PPV infusion through the limbus can be used
         radial sclerotomies 4+ mm from the limbus in the affected quad
@@ -488,7 +487,7 @@ postop
           IOL malposition
         early YAG?
           for exam purposes
-            no YAG before 3/12
+            no YAG before 3 months
               increased risk of
                 RD
                 CME
@@ -509,17 +508,17 @@ postop
       HTN
     treat concurrent ocular disease
       uveitis
-        quiet 6/12 before surgery
+        quiet 6 months before surgery
         non-B27 anterior uveitis
-          5/7 topical pretreatment
+          5 days topical pretreatment
         B27 anterior uveitis OR
         anterior uveitis with CME OR
         posterior uveitis
-          5/7 50 mg/day oral prednisolone
+          5 days 50 mg/day oral prednisolone
         local treatment is becoming more popular
           2-4 mg triamcinolone
             intravitreal OR intracameral
-        taper oral and topical agents over 4/52 if quiet
+        taper oral and topical agents over 4 weeks if quiet
       glaucoma
         risk of steroid response
         switch prostaglandins to another agent perioperatively
@@ -702,7 +701,7 @@ postop
         less predictable
         more prone to complications
           fibrosed bag increases risk
-        best done in first 8/52
+        best done in first 8 weeks
           no absolute cutoff
         good for patients that lack posterior chamber depth for a piggyback
       LRI
@@ -903,7 +902,7 @@ PSC cataract
 
 HORV
   hemorrhagic occlusive retinal vasculitis
-  1-14/7 post-CEIOL
+  1-14 days post-CEIOL
   minimal intraocular inflammation
   severe occlusive retinal vasculitis with hemorrhages
   etiology unknown

@@ -15,13 +15,13 @@ BRVO
   VIBRANT (2015)
     Eylea versus grid
       rescue laser allowed in either group
-    @ 6/12 Eylea doubled the number of 3-line gainers compared to baseline grid
+    @ 6 months Eylea doubled the number of 3-line gainers compared to baseline grid
       1/2 versus 1/4
 
 CRVO
   GALILEO (2014)
     Eylea versus sham
-    @ 6/12 Eylea tripled the number of 3-line gainers compared to sham
+    @ 6 months Eylea tripled the number of 3-line gainers compared to sham
       60% versus 22%
 
 
@@ -46,7 +46,7 @@ therefore summary is - scatter only if nv develops, but the bvos left a lot of u
 
 cvos
 
-eyes that do worse are those that present with poor vision or lots of nonperfusion - also duration of CRVO 4-/52 is more likely to progress to ischemic and more likely to develop nvg.
+eyes that do worse are those that present with poor vision or lots of nonperfusion - also duration of CRVO 4- weeks is more likely to progress to ischemic and more likely to develop nvg.
 
 grid reduces angiographic macular edema but doesn't improve vision.
 

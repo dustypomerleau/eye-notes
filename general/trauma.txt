@@ -16,12 +16,10 @@ hyphema
       cycloplegia may reduce rebleed in sickle cell
   AC washout in hyphema
     in sickle cell
-      IOP 25+ x 1/7 despite MMT
+      IOP 25+ x 1 day despite MMT
     in non-sickle cell
-      IOP 25+ + total hyphema x 5/7
-        to prevent corneal blood staining
-      IOP 50+ x 2/7
-        to prevent optic atrophy
+      IOP 25+ + total hyphema x 5 days        to prevent corneal blood staining
+      IOP 50+ x 2 days        to prevent optic atrophy
       clinical signs of blood staining
         regardless of IOP OR duration
         mechanism
@@ -50,7 +48,7 @@ hyphema
       no need to clear *all* blood
         being aggressive risks a rebleed or damage to the iris
       suture all wounds
-    first 5/7 are the most critical period for a rebleed
+    first 5 days are the most critical period for a rebleed
 
 elevated IOP in the wake of trauma
   angle recession

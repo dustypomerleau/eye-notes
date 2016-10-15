@@ -47,8 +47,16 @@ Maybe. If you think I've got something wrong, you should create a GitHub account
 # What do all the forward-slashes mean?
 
 **//** This is a comment. Think of it like a side note.
+
+**/\***
+This
+is a
+multi-line
+comment
+**\*/**
+
 **//...** This is something unfinished that I may come back to.
-**...** I've given some examples, but the list could go on.
+**...** This means that there are more examples than I've listed.
 
 # What is 4IVN-2DC-GETN?
 

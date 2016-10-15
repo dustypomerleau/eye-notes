@@ -119,8 +119,7 @@ EUGOGO
     conj edema
     inflamed caruncle
 
-    active disease includes 3+/7
-
+    active disease includes 3+ days
   other severity indicators
     proptosis
     diplopia
@@ -137,10 +136,10 @@ EUGOGO
       CON
       intervene immediately
         IVMP
-          if worsening over 1-2/52
+          if worsening over 1-2 weeks
             decompression surgery
               this is the one situation where you decompress active disease
-              usually want them quiet 6/12
+              usually want them quiet 6 months
     moderate-severe
       2+ mm lid retraction
       3+ mm exophthalmos
@@ -160,23 +159,23 @@ EUGOGO
           COMMON: IVMP
             3/4 respond
             many different regimens
-              500 mg q 1/52 x 6/52
-              250 mg q 1/52 x 6/52
-              stop at 12/52 and evaluate response
+              500 mg q 1 weeks x 6 weeks
+              250 mg q 1 weeks x 6 weeks
+              stop at 12 weeks and evaluate response
             regardless of regimen
               total dose should be 8- g
             DM and HTN must be managed
               but they should not prevent you from treating TED with steroids
           ALSO: po prednisolone
             1/2 respond
-            100 mg tapered 10 mg q 1/52 x 12/52 (10 mg plateau at the end)
+            100 mg tapered 10 mg q 1 weeks x 12 weeks (10 mg plateau at the end)
           RARELY: orbital radiation
             combine with IVMP
             best for diplopia + restriction
             NEVER: perform OR in patients with DR OR severe HTN
               try to avoid OR even in DM without DR
         inactive
-          wait 6/12
+          wait 6 months
           surgery in the correct order (OSL 'OZil')
             orbit
             strabismus
@@ -258,7 +257,7 @@ EUGOGO
             severe proptosis despite other treatments
               cosmesis
               exposure
-            stable angle for 6/12
+            stable angle for 6 months
             decompression approaches
               deep lateral
                 can eliminate up to 5 mm proptosis

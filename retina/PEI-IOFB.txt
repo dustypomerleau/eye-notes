@@ -72,10 +72,10 @@ IOFB
     observe TICS
       tetanus
       IV antibiotics
-        IV vancomycin + ceftazidime 1 g each q 12/24 OR
+        IV vancomycin + ceftazidime 1 g each q 12 hours OR
         a 4th generation quinolone such as IV moxifloxacin OR
-        po cipro 500-750 mg bd x 7-10/7 (RVEEH protocol)
-        ± voriconazole 200 mg IV OR po q 12/24
+        po cipro 500-750 mg bd x 7-10 days (RVEEH protocol)
+        ± voriconazole 200 mg IV OR po q 12 hours
       CT scan
         IOFB
         bony fractures
@@ -111,6 +111,6 @@ IOFB
         ± amphotericin B
 
   monitor the fellow eye for SO
-  leave corneal sutures in ~ 3/12
+  leave corneal sutures in ~ 3 months
 
   serial ERG if any question of retained iron

@@ -52,8 +52,8 @@ immune keratoconjunctivitis
           good for acute exacerbation
           not usually given chronically
           options
-            dexamethasone PF minims q 1-2/24
-            PF q 1-2/24
+            dexamethasone PF minims q 1-2 hours
+            PF q 1-2 hours
         cyclosporine 1%
           useful if
             steroids are needed long-term

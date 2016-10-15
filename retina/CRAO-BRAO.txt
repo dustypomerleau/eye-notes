@@ -41,9 +41,9 @@ CRAO
     hypercoagulable workup // see CRVO-BRVO.txt
       when indicated
     don't delay
-      highest risk of stroke is in the first 1/52
+      highest risk of stroke is in the first 1 weeks
 
-  gonio @ 1/12 for NVI
+  gonio @ 1 months for NVI
     1-/5 cases
 
   treatment // none widely accepted

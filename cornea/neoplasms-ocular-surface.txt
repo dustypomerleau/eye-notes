@@ -35,9 +35,9 @@ ocular surface neoplasia
       MMC OR 5FU OR interferon alpha 2b
         COMMON: MMC 0.04% qid
         interferon alone requires a long course
-          6-12/12
+          6-12 months
         chemoreduction very toxic
-          may need 1/52 on 1/52 off
+          may need 1 weeks on 1 weeks off
           risks
             LSCD
             RARELY: punctal stenosis
@@ -128,13 +128,13 @@ ocular surface neoplasia
           superinfection
             COMMON: Pseudomonas
       adjunctive MMC
-        MMC drops 0.02% bd x 5/7 postop
+        MMC drops 0.02% bd x 5 days postop
         not commonly used
           scleral necrosis
           superinfection
       postop steroids
         taper slowly
-        usually 3/12 total
+        usually 3 months total
 
   conjunctival squamous papilloma
     observation

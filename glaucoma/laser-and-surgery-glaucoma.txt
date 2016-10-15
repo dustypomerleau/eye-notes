@@ -36,8 +36,8 @@ glaucoma laser
       topical steroid
         4 times a day for 4-7 days
       re-evaluation
-        1/52
-        6/52
+        1 weeks
+        6 weeks
       complications:
         elevated IOP
         progressive visual field loss
@@ -70,7 +70,7 @@ glaucoma laser
             particularly in pigmentary glaucoma OR heavy pigmented angles
       postoperative
         NSAIDs OR a mild steroid
-      25+% reduction @ 3-6/12 is an excellent response
+      25+% reduction @ 3-6 months is an excellent response
       short duration relative to the thermal relaxation time of the tissue
         essentially no thermal damage
         hence the repeatability
@@ -82,7 +82,7 @@ glaucoma laser
           literature has never proven this
       follow-up
         if you're going to treat 180 at a time
-          wait 8/52 before deciding on the effect of the first 180
+          wait 8 weeks before deciding on the effect of the first 180
 
   LPI for ACG
     indications

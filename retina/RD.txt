@@ -45,8 +45,8 @@ non-rhegmatogenous SRF
             monitor for steroid-related complications
               // see anterior-and-intermediate-uveitis.txt
           start methotrexate OR mycophenolate at the same time as steroids
-            even with SSIMT patients often require 10+ mg prednisolone x 6+/12
-            but try to taper off steroids in 4-8/52
+            even with SSIMT patients often require 10+ mg prednisolone x 6+ months
+            but try to taper off steroids in 4-8 weeks
               monitor
                 symptoms
                 VA

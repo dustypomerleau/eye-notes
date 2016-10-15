@@ -1,11 +1,11 @@
 cicatrising conjunctivitis DDx
 
-=begin
+/*
 SJS is used here to represent the full continuum
   EM minor
   EM major (SJS)
   TEN
-=end
+*/
 
   infectious
     viral
@@ -252,4 +252,4 @@ treatment
       corneal opacification (CO)
     treatment
       1 g azithromycin po
-      tetracycline ointment bd x 2/12
+      tetracycline ointment bd x 2 months

@@ -52,7 +52,7 @@ acid and alkali burns
         6+
       if you can't see the iris it's 3+
 
-=begin
+/*
 but for your personal reference
     Dua (2001) // my preferred system given better modern era prognostic value
       document as
@@ -67,7 +67,7 @@ but for your personal reference
       6+ CH / 50+% (4)
       9+ CH / 75+% (5)
       12 CH / 100% (6)
-=end
+*/
 
   treatment
     irrigate with saline to pH 7.0-7.2
@@ -81,14 +81,14 @@ but for your personal reference
       cycloplegia
         homatropine 2% tds
       PF Chlorsig minims qid
-      FML up to q 1/24 depending on severity
+      FML up to q 1 hour depending on severity
         has collagenase activity
         try to taper rapidly after a week to allow new collagen synthesis
       ALWAYS: use collagenase inhibitors to inhibit MMPs
         doxycycline 100 mg po bd
         ascorbic acid 500 mg po qid
-        ascorbic acid 10% drops q 2/24
-      sodium citrate 10% drops q 2/24
+        ascorbic acid 10% drops q 2 hours
+      sodium citrate 10% drops q 2 hours
         chelates Ca
         inhibits neutrophils
       oral pain medication

@@ -154,20 +154,17 @@ preseptal and orbital cellulitis:
 
   treatment
     preseptal
-      oral Augmentin 875/125 (kids: 22.5 + 3.2 mg/kg up to 875/125) bd x 10/7
-        for simplicity
-          think of this as 23 + 3 bd x 10/7
-        AU dose is usually 500/125 tds
+      oral Augmentin 875/125 (kids: 22.5 + 3.2 mg/kg up to 875/125) bd x 10 days        for simplicity
+          think of this as 23 + 3 bd x 10 days        AU dose is usually 500/125 tds
     orbital
       ADMIT
       orbital apex syndrome?
         consider canthotomy + cantholysis
       IV antibiotics
-        flucloxacillin 2 g (kids: 50 mg/kg up to 2 g) q 6/24 for SA AND
-        ceftriaxone 2 g (kids: 50 mg/kg up to 2 g) q 8/24 for strep. and H. flu.
+        flucloxacillin 2 g (kids: 50 mg/kg up to 2 g) q 6 hours for SA AND
+        ceftriaxone 2 g (kids: 50 mg/kg up to 2 g) q 8 hours for strep. and H. flu.
           followed by Augmentin as for preseptal
-        if not improving rapidly over 2/7
-          consider MRSA
+        if not improving rapidly over 2 days          consider MRSA
           start IV vancomycin
             40 mg/kg/d up to 2 g in 2 divided doses
             reduce for renal insufficiency
@@ -204,8 +201,7 @@ preseptal and orbital cellulitis:
       swollen lids?
         mention amblyopia risk
         not an issue with the normal course
-          improvement over 5/7
-
+          improvement over 5 days
   signs of extension
     orbital apex syndrome
       CN[345(1)6]P

@@ -17,7 +17,7 @@ intermediate uveitis
 Jabs prednis(ol)one regimen
   1 mg/kg/d 60- mg max
     60+ mg greatly increases the risk of ischemic necrosis of bone
-  taper after 2-4/52
+  taper after 2-4 weeks
     if you can't taper
       SSIMT
   goal
@@ -36,13 +36,13 @@ Jabs prednis(ol)one regimen
     Hawthorne effect
       measured behavior is modified behavior
   taper
-    60-40 -10 mg/(week OR 2/7 if rapid)
+    60-40 -10 mg/(week OR 2 days if rapid)
     40-20 -5 mg
     20-10 -2.5 mg
     10- -2.5-1 mg
 
 monitoring SSIMT
-  bloods 4-6/52
+  bloods 4-6 weeks
 
 start SSIMT at diagnosis
     COMMON:
@@ -66,7 +66,7 @@ mycophenolate
   diarrhea
     less if you ramp up slowly
   in children // see Doycheva, BJO 2016
-    225 mg/m2 bd x 1/52
+    225 mg/m2 bd x 1 weeks
     then 450 mg/m2 bd
     ± prednisolone 1 mg/kg/d
       taper

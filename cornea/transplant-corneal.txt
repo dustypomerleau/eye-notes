@@ -3,9 +3,9 @@ corneal-transplant.txt
 primary graft failure
   graft never clears after surgery
 graft rejection
-  graft was clear after surgery for at least 2/52
+  graft was clear after surgery for at least 2 weeks
   epithelial rejection
-    usually about 3/12 out
+    usually about 3 months out
     superficial Kaye dot infiltrates
   stromal rejection
     anytime in the first 2 years
@@ -30,7 +30,7 @@ graft rejection
   secondary graft failure
     cornea fails after rejection
     when to declare failure
-      rejection persists 3/12
+      rejection persists 3 months
       vision is compromised by edema
     HSV recurrence in a corneal graft
       delay topical steroids until (nearly) epithelialised

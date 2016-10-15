@@ -9,7 +9,7 @@ neuroretinitis
     3/4 of cases
     RAPD often present
   1/2 report viral prodrome
-  macular star takes 1-2/52 to develop
+  macular star takes 1-2 weeks to develop
   COMMON: vitreous cells
     90%
 
@@ -23,8 +23,8 @@ NR shortlist
     3/4 have systemic symptoms
     treatment does not improve final VA
       azithromycin
-        500 mg po daily x 1/7 OR 10 mg/kg for 45- kg
-        250 mg po daily x 4/7 OR 5 mg/kg for 45- kg
+        500 mg po daily x 1 day OR 10 mg/kg for 45- kg
+        250 mg po daily x 4 days OR 5 mg/kg for 45- kg
       doxycycline + rifampicin have also been used
     usually still treat if
       immunosuppressed

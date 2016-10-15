@@ -40,7 +40,7 @@ antiVEGF in PDR
           consider fellow eye effect
     2 groups
       PRP over 1-3 visits
-      Lucentis q 4/52 x 3 or until NV resolved, then prn
+      Lucentis q 4 weeks x 3 or until NV resolved, then prn
         treated for visible NV on exam or photos
         rescue PRP allowed at the investigator's discretion
           treatment 'failure' or 'futility'
@@ -94,16 +94,16 @@ DME
       we assume Alcon's Triesence to be equivalent or better
     prior treatment OK
       excluded
-        laser in the last 4/12
-        steroid in the last 6/12
-    treated every 4/12 prn over 3 years
+        laser in the last 4 months
+        steroid in the last 6 months
+    treated every 4 months prn over 3 years
       observed if
         6/7.5+
         OCT dry (225- µm)
         'apparently futile'
         laser group: no untreated areas present on FFA
     tortoise and the hare
-      laser had better VA and anatomy at 12+/12
+      laser had better VA and anatomy at 12+ months
   BOLT (2010)
     Avastin versus laser
     80 patients
@@ -113,15 +113,15 @@ DME
       Sydney
     prior treatment OK
       excluded
-        any treatment in the last 3/12
+        any treatment in the last 3 months
     2 groups
       Avastin
-        q 6/52 x 3 then
-        q 6/52 prn until CST stable x 3
+        q 6 weeks x 3 then
+        q 6 weeks prn until CST stable x 3
           in year 2
             mean 4 injections
       laser
-        mETDRS q 4/12 prn
+        mETDRS q 4 months prn
     3-line gainers
       Avastin 32%
       laser 4%
@@ -131,23 +131,23 @@ DME
   DRCR-I (2010)
     361 patients with centre-involving DME
     excluded
-      any treatment in the last 4/12
+      any treatment in the last 4 months
     protocol was COMPLICATED
       immediate focal laser +
         sham
         Lucentis
         Trivaris
-      Lucentis + prn laser @ 24+/52
+      Lucentis + prn laser @ 24+ weeks
     sham and Triesence groups did poorly
     focus was on the 2 Lucentis groups
-      all got Lucentis q 4/52 x 4 then
-      q 4/52 until
+      all got Lucentis q 4 weeks x 4 then
+      q 4 weeks until
         6/6
         CST 250-
         plateau
           5- letter change
           10-% anatomic change
-      laser q 13/52 prn if not improving
+      laser q 13 weeks prn if not improving
         investigator discretion
     mean 12 injections in year 1
       for both Lucentis groups
@@ -160,10 +160,10 @@ DME
       Canada
       Europe
     excluded
-      laser or antiVEGF in the last 3/12
+      laser or antiVEGF in the last 3 months
     3 groups
-      laser at baseline and q 3+/12 prn ETDRS CSDME
-      Lucentis q 4/52 x 3 and until plateau, then prn
+      laser at baseline and q 3+ months prn ETDRS CSDME
+      Lucentis q 4 weeks x 3 and until plateau, then prn
       Lucentis + laser
     all patients thought they got both treatments
       sham injections and laser were used on the same schedule
@@ -183,7 +183,7 @@ DME
     RIDE
       South America
     750 patients with centre-involving DME
-    q 4/52
+    q 4 weeks
       sham
       0.3 mg Lucentis
       0.5 mg Lucentis
@@ -200,7 +200,7 @@ DME
       0.3 mg 60%/54%
       0.5 mg 63%/62%
     rescue laser allowed
-      q 3/12 @ 3+/12
+      q 3 months @ 3+ months
       OCT criteria
         CST 250+ µm
         ∆ CST 49- µm
@@ -220,13 +220,13 @@ DME
     Eylea versus laser
       rescue laser allowed
         CSDME by ETDRS criteria
-        24+/52 in Eylea groups
-        16+/52 in the group receiving laser at baseline
+        24+ weeks in Eylea groups
+        16+ weeks in the group receiving laser at baseline
     groups
-      Eylea 0.5 mg q 4/52
-      Eylea 2 mg q 4/52
-      Eylea 2 mg q 4/52 x 3 then q 8/52
-      Eylea 2 mg q 4/52 x 3 then prn
+      Eylea 0.5 mg q 4 weeks
+      Eylea 2 mg q 4 weeks
+      Eylea 2 mg q 4 weeks x 3 then q 8 weeks
+      Eylea 2 mg q 4 weeks x 3 then prn
       baseline laser
     laser outcomes were dramatically inferior
       1/3 of laser patients lost vision
@@ -234,17 +234,17 @@ DME
       only a handful of Eylea patients lost vision
         when they lost vision they lost only a little
     Eylea groups were similar
-      slight advantage to Eylea 2 mg q 4/52
+      slight advantage to Eylea 2 mg q 4 weeks
       prn group got 7 injections in the first year
-        similar to the Eylea 2 mg q 8/52 group
+        similar to the Eylea 2 mg q 8 weeks group
   MEAD (2014 P3)
     1048 patients with centre-involving DME
       2 trials over 3 years
     most previously treated
     excluded
-      antiVEGF or laser in the last 3/12
-      steroid in the last 6/12
-    3 groups treated @ 6+/12 intervals prn for 3 years
+      antiVEGF or laser in the last 3 months
+      steroid in the last 6 months
+    3 groups treated @ 6+ months intervals prn for 3 years
       sham
       Ozurdex 0.35 mg
       Ozurdes 0.7 mg // 0.7 went on to become the standard dose of Ozurdex
@@ -283,13 +283,13 @@ DME
       VISTA (USA)
     3 groups
       laser
-      Eylea 2 mg q 4/52
-      Eylea 2 mg q 4/52 x 5 then q 8/52
+      Eylea 2 mg q 4 weeks
+      Eylea 2 mg q 4 weeks x 5 then q 8 weeks
     at 24+ weeks
       Eylea groups could get rescue laser
       laser group could get rescue Eylea
         once switched, they stayed switched
-        Eylea 2 mg q 4/52 x 5 then q 8/52
+        Eylea 2 mg q 4 weeks x 5 then q 8 weeks
       rescue criteria
         10+ letter loss x 2 visits
         15+ letter loss from BCVA AND worse than baseline
@@ -298,12 +298,12 @@ DME
       same protocol as rescue
     3-line gainers @ 1 year (VIVID/VISTA)
       laser 9%/8%
-      Eylea q 4/52 32%/42%
-      Eylea q 4/52 x 5 then q 8/52 33%/31%
+      Eylea q 4 weeks 32%/42%
+      Eylea q 4 weeks x 5 then q 8 weeks 33%/31%
     3-line losers @ 1 year (VIVID/VISTA)
       laser 11%/9%
-      Eylea q 4/52 1%/1%
-      Eylea q 4/52 x 5 then q 8/52 0%/1%
+      Eylea q 4 weeks 1%/1%
+      Eylea q 4 weeks x 5 then q 8 weeks 0%/1%
       2-year results were similar
   DRCR-T
     660 patients with centre-involving DME
@@ -311,7 +311,7 @@ DME
       Avastin 1.25 mg
       Eylea 2 mg
       Lucentis 0.3 mg
-    rescue laser was allowed @ 24+/52 and was COMMON
+    rescue laser was allowed @ 24+ weeks and was COMMON
       Avastin 64%
       Eylea 41%
       Lucentis 52%
@@ -368,9 +368,9 @@ DME
     bispecific Ab (Roche RG7716)
       Ang2 + VEGFA
     3 groups
-      Lucentis q 4/52 x 6
-      RG7716 1.5 mg q 4/52 x 5 then sham x 1
-      RG7716 6 mg q 4/52 x 5 then sham x 1
+      Lucentis q 4 weeks x 6
+      RG7716 1.5 mg q 4 weeks x 5 then sham x 1
+      RG7716 6 mg q 4 weeks x 5 then sham x 1
     AMD study is AVENUE
     Angipoietin 2
       inflammatory growth factor
@@ -445,7 +445,7 @@ asymmetric DR
         remember this predates the DRS
         stages 3-5 are all PDR!
 
-=begin
+/*
 "Based upon the retinal changes in 178 diabetics, BALLANTYNE (1946) divided the retinopathy into 5 stages according to their relation to the development of retinopathy. The first stage included microaneurysms with or without punctate hemorrhages and punctate exudates. The second, dot and blot hemorrhages and waxy exudates. The third, periphlebitis and phlebosclerosis, new-formed intra and preretinal vessels, increasing hemorrhages in the retina and vitreous, massive exudates, retinitis proliferans and detachment of the retina. The fourth, further advance in vessel changes, increase in vitreous hemorrhage and exudates, destruction of the retina. The fifth, a  mixed form, included most of the above-mentioned changes and hypertensive changes."
 
 or from the Gay paper itself
@@ -453,7 +453,7 @@ or from the Gay paper itself
   2. Dot and blot hemorrhages, waxy exudates either discrete or confluent.
   3. Retinal hemorrhages, irregular expansion of veins, formation of knobs, loops, coils, and leashes ; newly formed intraretinal and preretinal plexuses; vascular tufts in the vitreous.
   4. Intraocular hemorrhage ; retinitis proliferans, detachment of retina and vitreous, secondary glaucoma.
-=end
+*/
 
     no carotid ultrasound was performed
     8/10 patients had 15% difference in CRA diastolic pressure by ODM

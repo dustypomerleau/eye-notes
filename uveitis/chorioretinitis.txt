@@ -39,19 +39,19 @@ shortlist
             ID consult
           treatment
           // similar discussion of IV versus po as below with ARN
-          // for RACE purposes say 1/52 IV then po
-            IV ganciclovir 5 mg/kg q 12/24
-            IV foscarnet 90 mg/kg q 12/24
-            po valganciclovir 900 mg po bd x 3+/12
+          // for RACE purposes say 1 weeks IV then po
+            IV ganciclovir 5 mg/kg q 12 hours
+            IV foscarnet 90 mg/kg q 12 hours
+            po valganciclovir 900 mg po bd x 3+ months
               until CD4 100+ and rising
             if the disc or macula are threatened
-              foscarnet 2.4 mg/0.1 mL intravitreally q 3/7 until quiescent
+              foscarnet 2.4 mg/0.1 mL intravitreally q 3 days until quiescent
             no need for steroids here
               generally no vitritis until immune reconstitution
               local immunosuppression is a risk factor for CMV retinitis
                 has been reported multiple times after IVT
-          if not better in 6/52 consider drug-resistant CMV
-          expect immune reconstitution 3-6/12 after starting HAART
+          if not better in 6 weeks consider drug-resistant CMV
+          expect immune reconstitution 3-6 months after starting HAART
             watch for immune recovery uveitis as CD4 count climbs
           // barrier laser use similar to ARN below
         HSV
@@ -92,15 +92,15 @@ shortlist
                   sarcoid
                   lymphoma
               classic regimen
-                IV aciclovir 10-15 mg/kg q 8/24 x 1/52
-                then switch to orals at therapeutic dose x 3+/12
+                IV aciclovir 10-15 mg/kg q 8 hours x 1 weeks
+                then switch to orals at therapeutic dose x 3+ months
               there is significant evidence for po only
                 plasma concentration not quite as high as IV aciclovir
                   can achieve nearly the same by doubling the usual dose
                   not usually necessary to do this
                   certainly OK for peripheral disease
                 most centres still give IV induction and then switch to po
-                valaciclovir 1 g po tds x 3+/12
+                valaciclovir 1 g po tds x 3+ months
                   assuming good renal function
                   in poor renal function
                     adjust dose to avoid CNS toxicity
@@ -109,9 +109,9 @@ shortlist
                     usually only an issue with doses much higher than 1 g
                     e.g. immunocompromised patients
               po prednisolone is debateable but widely used
-                for exam purposes start 0.5-1 mg/kg 2/7 after antivirals
+                for exam purposes start 0.5-1 mg/kg 2 days after antivirals
                 duration not well defined
-                probably taper after 1/52 if disease quiescent
+                probably taper after 1 weeks if disease quiescent
               aspirin also debateable
                 not usually used
               topical steroids
@@ -121,7 +121,7 @@ shortlist
               usually use SO if patient needs a PPV
                 not much evidence for this over gas but it's common practice
               if the disc or macula are threatened
-                foscarnet 2.4 mg/0.1 mL intravitreally q 3/7 until quiescent
+                foscarnet 2.4 mg/0.1 mL intravitreally q 3 days until quiescent
       ALSO:
         EBV
       RARELY:
@@ -239,14 +239,13 @@ shortlist
               FAF
                 dark acutely
                 bright during evolution
-                  ~ 5/7
-                mottled dark + bright chronically
+                  ~ 5 days                mottled dark + bright chronically
               OCT
                 OR lesions
                   loculated
                   reflective debris
                   VKH-like
-              fade over 2/52
+              fade over 2 weeks
             usually bilateral but onset may be asymmetric
             if
               HA
@@ -279,11 +278,11 @@ shortlist
               HVF
               ERG
               ± ICG
-=begin
+/*
 From Katherine Zamecki & Doug Jabs (2010) RE: the value of A29 in diagnosing Birdshot:
 
 The problem with using HLA typing diagnostically is illustrated in the case of BSCR. BSCR is associated with HLA-A29, and 85% to 95% of patients with BSCR possess HLA-A29, with an overall estimate of 90%. HLA-A29 is present in approximately 7.7% of the general population, and BSCR has among the highest relative odds of any HLA-associated disease. BSCR accounts for approximately 7% of posterior uveitis, and some clinicians advocate screening patients with posterior uveitis with HLA-A29 to diagnose BSCR. The problem with this approach is illustrated by Table 2, which shows the results of this strategy applied to 1000 patients with posterior uveitis. Despite the tight association of BSCR with HLA-A29, the positive predictive value of HLA-A29 is less than 50%, which means that diagnosing BSCR based on HLA-A29 results is wrong more often than it is right. If all uveitis patients were screened (as opposed to just posterior uveitis), the positive predictive value would be even lower, because the prevalence of BSCR is even lower among all patients with uveitis than it is among those with posterior uveitis. One could improve the positive predictive value of HLA-A29 testing by using it only in those situations where the patient had a multifocal choroiditis with yellow-orange ovoid spots, vitreous cells, no anterior chamber cells, and no evidence for syphilis, Lyme disease, or sarcoid. However, regardless of the HLA-A29 result, that patient would be diagnosed with BSCR (5% to 15% of patients with BSCR are HLA-A29 negative), so the test adds little to the diagnosis in this situation, either.
-=end
+*/
           MEWDS
             COMMON:
               mildly myopic women
@@ -454,9 +453,9 @@ The problem with using HLA typing diagnostically is illustrated in the case of B
             may require a large number of injections
               depends on concurrent effect of systemic therapy
             sample regimen
-              twice a week for 4/52
-              weekly for 8/52
-              monthly for 9/12
+              twice a week for 4 weeks
+              weekly for 8 weeks
+              monthly for 9 months
               total injections = 25
       PCNSL
         COMMON: diffuse large B-cell NHL

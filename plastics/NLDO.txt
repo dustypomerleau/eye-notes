@@ -271,6 +271,6 @@ dacryocystitis
         in nonimmunised
     Augmentin 22.5 mg + 3.2 mg/kg up to 875/125 po x 10 d
     or if severe
-      flucloxacillin 50 mg/kg up to 2 g q 6/24
-      ceftriaxone 50 mg/kg up to 2 g q 8/24
+      flucloxacillin 50 mg/kg up to 2 g q 6 hours
+      ceftriaxone 50 mg/kg up to 2 g q 8 hours
     often need a DCR later because of scarring

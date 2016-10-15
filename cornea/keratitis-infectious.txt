@@ -34,21 +34,21 @@ infectious keratitis DDx
         HEDS
           stromal keratitis
             topical steroids reduce the duration of inflammation
-              q 2/24
+              q 2 hours
               taper weekly based on response
             oral aciclovir 400 bd cuts recurrence in half
               cost of Valtrex 500 daily ~= aciclovir 400 bd in AU
               if kidney function is poor
                 avoid long term aciclovir OR Valtrex
         stromal scarring
-          must be quiet 6/12 before considering PK
+          must be quiet 6 months before considering PK
           continue oral aciclovir to prevent infection of the graft
         use preoperative antivirals before CEIOL OR PK
-          aciclovir 800 mg bd 3/7 before
-          valaciclovir 500 mg bd 2/7 before
-          famcyclovir 250 bd 2/7 before
+          aciclovir 800 mg bd 3 days before
+          valaciclovir 500 mg bd 2 days before
+          famcyclovir 250 bd 2 days before
           when to stop?
-            1/52 to 1 year depending on the severity/number of previous events
+            1 weeks to 1 year depending on the severity/number of previous events
       ± concurrent
         blepharoconjunctivitis
         NVK
@@ -147,7 +147,7 @@ infectious keratitis DDx
         ring infiltrate
           classic presentation
           late disease
-            usually not in the first 4/52 after onset
+            usually not in the first 4 weeks after onset
           only 1/5 really have a ring
       testing
         Giemsa
@@ -175,12 +175,12 @@ infectious keratitis DDx
             not used first line
             not used as monotherapy
           hexamidine 0.1%
-        minimum of 2/52 biguanide therapy before considering topical steroids
+        minimum of 2 weeks biguanide therapy before considering topical steroids
         4th gen. quinolone
           prophylaxis
           they probably use oflox in AU
         PK OR DALK
-          only if quiet for 6/12
+          only if quiet for 6 months
 
   PUK
     // see keratitis-and-KC-immune.txt for PUK DDx

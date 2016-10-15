@@ -1,6 +1,6 @@
 anterior and intermediate uveitis
 
-=begin
+/*
 see also
   toxoplasmosis-treatment.txt
   chorioretinitis-DDx.txt
@@ -60,7 +60,7 @@ grading inflammation
     endophthalmitis
     SO
     lens-associated
-=end
+*/
 
 anterior and intermediate uveitis DDx
 
@@ -154,11 +154,11 @@ anterior and intermediate uveitis DDx
         JIA
           for diagnosed JIA patients that haven't developed uveitis
             oligoarthritis
-              1-4 joints affected over 6/12
-              follow q 3/12 x 2 years then q 6/12
+              1-4 joints affected over 6 months
+              follow q 3 months x 2 years then q 6 months
             polyarthritis
-              5+ joints affected over 6/12
-              follow q 6/12
+              5+ joints affected over 6 months
+              follow q 6 months
             systemic arthritis
               follow annually
             overall
@@ -178,7 +178,7 @@ anterior and intermediate uveitis DDx
               MTX
               TNFI
             cataract surgery in JIA
-              preferable to wait until the uveitis is inactive 6/12
+              preferable to wait until the uveitis is inactive 6 months
               if amblyopia is an issue and the uveitis is active
                 operate early
                 leave them aphakic
@@ -602,7 +602,7 @@ treatment
           hold at each level for the time it took to reach 5- WBC/HPF on hourly
             longer time to initial control means slower taper
           if you use oral or injectable steroid to gain initial control
-            taper 1 drop every 4/52
+            taper 1 drop every 4 weeks
       oral steroids
         if oral prednisolone is required for initial control
           periocular triamcinolone may allow faster taper of systemic steroids
@@ -619,8 +619,7 @@ treatment
       IVMP
         useful for systemic diseases that present with severe uveitis
         e.g. aggressive VKH
-          IVMP 1 g daily x 3/7
-          then switch to prednisolone 1 mg/kg/day po
+          IVMP 1 g daily x 3 days          then switch to prednisolone 1 mg/kg/day po
             ± OFT
           aggressive disease like VKH OR Behcet with heavy bilateral presentation
             start SSIMT at the same time as steroids
@@ -662,7 +661,7 @@ treatment
         unable to taper systemic steroids
         systemic steroid side effects
       once you start SSIMT
-        expect to keep them on it for at least 24/12
+        expect to keep them on it for at least 24 months
       methotrexate
         mechanism
           folate analog antimetabolite
@@ -683,7 +682,7 @@ treatment
           LFT
           FBC
           UEC
-          @ 0, 4, & q 8-12/52
+          @ 0, 4, & q 8-12 weeks
       mycophenolate
         mechanism
           blocks a key enzyme in DNA synthesis
@@ -700,7 +699,7 @@ treatment
         follow
           LFT
           FBC
-          @ 0, 2, 4, & q 8/52
+          @ 0, 2, 4, & q 8 weeks
       cyclosporine
         mechanism
           calcineurin inhibitor that blocks IL2 synthesis
@@ -719,7 +718,7 @@ treatment
           BP
           UEC
           FBC
-          @ 0, 2, 4, & q 8/52
+          @ 0, 2, 4, & q 8 weeks
       TNFI
         good for JIA failing MTX
         side effects
@@ -735,15 +734,15 @@ treatment
               need to discuss it with the patient
         infliximab
           the TNFI we have the most experience with
-          3-10 mg/kg SC q 2/52
-            can start as low as 20 mg SC q 2/52 in kids
+          3-10 mg/kg SC q 2 weeks
+            can start as low as 20 mg SC q 2 weeks in kids
           keep the patient on MTX
             it potentiates the effect of infliximab
         adalimumab
           30- kg
-            20 mg IM q 2/52
+            20 mg IM q 2 weeks
           heavier than that
-            40 mg IM q 2/52
+            40 mg IM q 2 weeks
 
 
 //
@@ -821,7 +820,7 @@ endogenous endophthalmitis
         moderate vitreous penetration
           ciprofloxacin
   fungal cause
-    delayed onset 6+/52 after seeding
+    delayed onset 6+ weeks after seeding
     string of pearls
     fluffy subhyaloid infiltrates
     PPV + vitreous biopsy
@@ -834,14 +833,14 @@ endogenous endophthalmitis
         if penicillin allergic
           amikacin 0.4 mg/0.1 mL
           + clindamycin 1 mg/0.1 mL
-    voriconazole 200 mg po q 12/24
+    voriconazole 200 mg po q 12 hours
       also available IV
       excellent against
         Candida
         Aspergillus
       not as good as IV Amphotericin B for empiric coverage of others
         keep this in mind if they aren't responding
-      keep them on po antifungals for 8/52
+      keep them on po antifungals for 8 weeks
         ask for help
           ID consult
   bloods

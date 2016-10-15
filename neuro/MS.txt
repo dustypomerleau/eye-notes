@@ -134,12 +134,12 @@ MS
             central VF loss
               AION is typically altitudinal
             visual recovery is typically faster
-              more improvement in the first 4/52 than AION
+              more improvement in the first 4 weeks than AION
             final VA is typically better
       course
         worse the first week
         then gradually improves
-        expect some vision gains by 4/52
+        expect some vision gains by 4 weeks
           if not
             treat as atypical optic neuritis
         best final vision can take a year
@@ -197,7 +197,7 @@ treatment
     this increases to 3/4 if they have even 1 white-matter lesion on MRI
     oral steroids double the risk of recurrence
     IVMP 1 g daily x 3 d followed by oral prednisone 1 mg/kg x 11 d
-      sped recovery by 1-2/52 but didn't change outcomes
+      sped recovery by 1-2 weeks but didn't change outcomes
 
   systemic drugs for MS
     interferon-beta
@@ -211,7 +211,7 @@ treatment
     atypical findings
       age 50+
         think about GCA
-      no improvement at 4/52
+      no improvement at 4 weeks
         should gain at least 1 line
       no pain on eye movement
       anterior uveitis

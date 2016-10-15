@@ -65,11 +65,11 @@ DES
             Hep [BC]
             syphilis
           100 mL peripheral blood
-            clot for 2/24
+            clot for 2 hours
             spin @ 3000 RPM x 15 minutes
             dilute supernatant to 20% with BSS
             filter
-            store up to 3/12 @ -20˚ C
+            store up to 3 months @ -20˚ C
             refrigerate and use within a week
               don't push it they are easily contaminated
           may inhibit MMPs
@@ -115,9 +115,9 @@ DES
         100% of adults have some on their face
           role in blepharitis is debated
         feed at night on skin and sebum
-        live 2-3/52 total
+        live 2-3 weeks total
           start as larvae in the glands
-          about 1/52 as adults
+          about 1 weeks as adults
         types
           folliculorum
             MG
@@ -135,11 +135,11 @@ DES
           does not burn
         povidone iodine AKA Betadine
         oral
-          ivermectin 200 µg/kg/day x 2/52
-          metronidazole 250 mg tds x 2/52
+          ivermectin 200 µg/kg/day x 2 weeks
+          metronidazole 250 mg tds x 2 weeks
             can combine ivermectin + metronidazole
         treatment is temporary
-          patients recolonize within 6/12
+          patients recolonize within 6 months
 
 vitamin A deficiency
   night blindness
@@ -291,8 +291,8 @@ RCES
     helps rosacea MGD and inhibits MMP
   BCTL
     antibiotic cover with Chlorsig drops
-    wear continuously for 8/52
-    check q 1/52 and replace if lost or protein buildup is seen
+    wear continuously for 8 weeks
+    check q 1 weeks and replace if lost or protein buildup is seen
   debridement
     down to the Bowman layer with a 15 blade
     apply absolute alcohol with a cotton tip

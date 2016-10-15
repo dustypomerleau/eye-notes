@@ -206,7 +206,7 @@ age-appropriate visual acuity testing
   HOTV/SG 3+ YO
   Snellen/ETDRS 5+ YO
 
-=begin
+/*
 
 amblyopia != suppression
   you can have suppression of an eye with 6/6 vision
@@ -219,7 +219,7 @@ good outcome of amblyopia therapy
   by 10 YO
 
 PEDIG summary
-  moderate amblyopes 6/24+
+  moderate amblyopes 6 hours+
     atropine 1% bd 2 days/week OR
     2 h patching
   severe amblyopes 6/30-
@@ -230,11 +230,11 @@ PEDIG summary
       7- YO
         daily atropine = 6 (2002)
         2 = 6 (2003)
-        2/7 (weekend) atropine = daily atropine
+        2 days (weekend) atropine = daily atropine
         3/4 7- YO moderates achieve 6/9 OR gain 3 lines
-          biggest improvement is in the first 6/52
+          biggest improvement is in the first 6 weeks
       7-12 YO
-        2/7 atropine = 2 (2008)
+        2 days atropine = 2 (2008)
           1/5 achieves 6/7.5 in this age group
           size of gain is much smaller
             average gain is a little more than a line
@@ -245,7 +245,7 @@ PEDIG summary
           4/5 gain 3 lines
           1/4 achieve 6/9
       3-12 YO
-        2/7 atropine = 2 (2009)
+        2 days atropine = 2 (2009)
           average gain was 1-2 lines
           nearly all patients were 6/15- despite this
             so better to use 6 hours patching OR daily atropine in 6/30-
@@ -257,7 +257,7 @@ MOTAS amblyopia study (2004)
   treatment age is a major factor in the success of patching
 
 review amblyopes
-  1/12-3/12 depending on
+  1 months-3 months depending on
     amblyopia severity
     age
       see sooner if
@@ -267,7 +267,7 @@ review amblyopes
   stop therapy
     3 visits with no improvement
   expectations
-    3/4 of moderate amblyopes gain 3 lines in 6/12
+    3/4 of moderate amblyopes gain 3 lines in 6 months
       many will be faster than this
     1/4 will have recurrence over the first year
       to prevent recurrence
@@ -291,7 +291,7 @@ review amblyopes
       including behavioral problems
     poor family support
 
-=end
+*/
 
 
 deviation estimate by light reflex
@@ -340,7 +340,7 @@ cover testing
 
   special cover testing for X(T) // XT.txt
 
-=begin
+/*
 look for
   DVD
   oblique dysfunction
@@ -351,7 +351,7 @@ look for
   also often have
     asymmetric OKN
     latent nystagmus
-=end
+*/
 
   (prism + cover)
     quantify only the tropia
@@ -375,7 +375,7 @@ look for
   (prism under cover)-alternate cover
     useful for measuring DVD
 
-=begin
+/*
 prism technique
   hold prisms correctly
     glass
@@ -392,7 +392,7 @@ prism technique
     confirm patient is looking at the target.
   measure intermittent deviations after 45 minutes of patching
     to ensure you get the maximum angle
-=end
+*/
 
 test ductions and versions
 
@@ -430,7 +430,7 @@ test ductions and versions
           in practice this is only done if you go to OT for surgery
     look for oblique dysfunction // see notes on infantile ET above
 
-=begin
+/*
   version patterns
     A pattern 10+ ∆
       SOOA AKA overdepression in adduction
@@ -446,11 +446,11 @@ test ductions and versions
       X
     surgery
       MALE
-=end
+*/
 
 test binocularity
 
-=begin
+/*
 fusion
   motor fusion
     the vergence movement that keeps your eyes straight
@@ -474,7 +474,7 @@ abbreviated binocularity testing in an infant
     4 ∆ BO test
       tests for monofixation syndrome versus bifoveation
       assumes no suppression
-=end
+*/
 
   if the patient has a manifest tropia
     do not do any form of stereopsis testing
@@ -585,7 +585,7 @@ abbreviated binocularity testing in an infant
         AHP present in old photos
         vertical fusional amplitude 3+ ∆
 
-=begin
+/*
 if you suspect a CNP
   test other CN
     facial sensation
@@ -612,7 +612,7 @@ if you suspect a CNP
         lymphoma
         vascular tumours
         other solid tumours
-=end
+*/
 
 cycloplegic refraction
   useful even in adults
@@ -688,14 +688,13 @@ treatment
       NEVER: use BOTOX superiorly
         you will cause ptosis for sure
 
-=begin
+/*
 BOTOX mechanism
   exotoxin derived from Clostridium botulinum
     serotypes A and B used in BOTOX
   blocks extracellular release of acetylcholine at nerve terminals
     paralysis
-      onset 3/7
-      effect 3+/12
+      onset 3 days      effect 3+ months
         resprouting of nerve terminals causes effect to wear off
 BOTOX uses
   strabismus
@@ -719,7 +718,7 @@ BOTOX complications
   tearing
     from lax LL
       e.g. when used for spastic entropion
-=end
+*/
 
     surgery
       anesthetic considerations
@@ -864,7 +863,7 @@ BOTOX complications
         dellen
     occlusion
 
-=begin
+/*
 preoperative counselling for parents of kids with strabismus
   What is the purpose of the surgery?
   What happens if you don't operate?
@@ -903,4 +902,4 @@ preoperative counselling for parents of kids with strabismus
       support network at hime
       accomodations needed at school
         offer to advocate
-=end
+*/
