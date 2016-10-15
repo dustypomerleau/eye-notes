@@ -229,7 +229,7 @@ EUGOGO
           radioactive I
           thyroidectomy
           thyroid replacement
-        eye disease may not track with thyroid normalisation
+        eye disease may not track with thyroid normalization
           still important to treat systemic disease
           counsel the patient
       lubrication

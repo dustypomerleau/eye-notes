@@ -130,5 +130,5 @@ retinal vasculitis DDx
     lymphoproliferative
       PIOL OR PCNSL
     hematologic
-      type 2 mixed cryoglobulinaemia
+      type 2 mixed cryoglobulinemia
         COMMON: 2˚ hep C

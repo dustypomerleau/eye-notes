@@ -1,5 +1,5 @@
 contraindications to MFIOL
-  reacts badly to counselling
+  reacts badly to counseling
     glare
     halos
     glasses
@@ -92,7 +92,7 @@ full arsenal
       DONO
       NAPA
       both go up to 3 D
-      in practise don't try to correct 1.5+ D astigmatism with LRI
+      in practice don't try to correct 1.5+ D astigmatism with LRI
         2 x 60˚ (2 CH) incisions
     online calculator from AMO
       takes cataract wound into account

@@ -152,7 +152,7 @@ systemic testing
       cell culture (primary test)
         intracytoplasmic inclusions
       supplementary tests // serology is not useful
-        nucleic acid probes (hybridisation)
+        nucleic acid probes (hybridization)
         EIA and DFA
   gonorrhea
     urine
@@ -161,7 +161,7 @@ systemic testing
       gram stain
       culture
       supplementary tests
-        nucleic acid probes (hybridisation)
+        nucleic acid probes (hybridization)
 
 
 //

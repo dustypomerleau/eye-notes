@@ -233,7 +233,7 @@ treatment
           Lyme
             Lyme titers
             Lyme is RARE in AU
-              don't emphasise this
+              don't emphasize this
         inflammatory
           sarcoid
             CXR

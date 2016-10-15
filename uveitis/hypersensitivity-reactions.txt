@@ -4,8 +4,9 @@ type 1
   exogenous antigen
   15 minutes
   weal and flare
-  hay fever
-  allergic rhinitis
+  examples
+    hay fever
+    allergic rhinitis
 
 type 2
   cytotoxic
@@ -14,8 +15,9 @@ type 2
   cell surface antigen
   lysis and necrosis
   minutes-hours
-  erythroblastosis fetalis
-  Goodpasture nephritis
+  examples
+    erythroblastosis fetalis
+    Goodpasture nephritis
 
 type 3
   immune complex
@@ -24,8 +26,9 @@ type 3
   soluble antigen
   erythema and edema
   3-8 hours
-  lupus
-  farmer's lung disease
+  examples
+    lupus
+    farmer's lung disease
 
 type 4
   delayed
@@ -34,7 +37,8 @@ type 4
   tissues and organs act as antigen
   2-3 days
   erythema and induration
-  PPD
-  poison ivy
+  examples
+    PPD
+    poison ivy
 
 

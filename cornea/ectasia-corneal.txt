@@ -4,7 +4,7 @@ ectasia-corneal.txt
     // rule out pellucid (lobster claw topography) before diagnosing KCN
     mean clinical onset 40s
       often starts subclinically around puberty
-      tends to stabilise by 50s
+      tends to stabilize by 50s
     usually sporadic
       some genetic predisposition
       lots of potential loci

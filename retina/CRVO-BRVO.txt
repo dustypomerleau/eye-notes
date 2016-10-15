@@ -6,7 +6,7 @@ RVO
       obesity
       HTN
       DM
-      hyperlipidaemia
+      hyperlipidemia
     atherosclerosis
     CVA
     hyperviscosity syndromes
@@ -60,13 +60,13 @@ RVO
         antiphospholipid Ab
         factor 5 Leiden
         antithrombin 3 deficiency
-        dysfibrinogenaemias
+        dysfibrinogenemias
 
     neoplastic
       hematologic
         polycythemia
         multiple myeloma
-        dysproteinaemias
+        dysproteinemias
           COMMON: Waldenstrom
             may also have asymptomatic peripheral hemorhages and occlusions
 
@@ -82,7 +82,7 @@ RVO
       endocrine
         DM
       metabolic
-        hyperlipidaemia
+        hyperlipidemia
         obesity
 
     trauma
@@ -132,7 +132,7 @@ RVO
         SPEP
       DM
         fasting glucose
-      hyperlipidaemia
+      hyperlipidemia
         lipid profile
 
 

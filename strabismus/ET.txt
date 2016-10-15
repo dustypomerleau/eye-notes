@@ -347,7 +347,7 @@ ET DDx
                       meningitis
                       sarcoid
                       infiltration
-                        leukaemia
+                        leukemia
                         lymphoma
                         mets
                 petrous apex syndrome
@@ -403,7 +403,7 @@ ET DDx
                     Horner style
                       proptosis can mask ptosis
                   disc swelling
-                  CN5(1|2)P with anaesthesia
+                  CN5(1|2)P with anesthesia
                   // see orbital-mass.txt
                 isolated CN6P
                   covered above

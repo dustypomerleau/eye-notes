@@ -9,8 +9,8 @@ for testing purposes
 noncontact exam lenses
 
   Volk Digital Wide Field
-    image 0.72
-    laser spot 1.39
+    image 0.72 (x)
+    laser spot 1.39 (x spot size)
 
   Volk 90 D
     image 0.76
@@ -33,8 +33,8 @@ noncontact exam lenses
     laser spot 1
 
   Volk 60 D
-    image 1.15 x
-    laser spot 0.87 x machine spot size
+    image 1.15
+    laser spot 0.87
 
   Volk Digital High Mag
     image 1.3

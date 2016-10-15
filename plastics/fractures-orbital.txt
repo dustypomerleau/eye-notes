@@ -44,7 +44,7 @@ exam
     Hess chart
   saccadic velocity
   lid lag in downgaze
-  infraorbital nerve hypoaesthesia
+  infraorbital nerve hypoesthesia
 
 investigations
   non-con CT

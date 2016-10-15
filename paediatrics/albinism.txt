@@ -89,6 +89,6 @@ albinism
     ALWAYS: refer for low vision rehabilitation
       Royal Society for the Blind
       low vision clinic referral
-      optimise the home environment for low vision safety
+      optimize the home environment for low vision safety
       low vision schooling
         usually for those with complete absence of tyrosinase activity

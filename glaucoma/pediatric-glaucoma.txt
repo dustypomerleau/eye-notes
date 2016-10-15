@@ -49,7 +49,7 @@ pediatric glaucoma
         cupping
           sometimes reversible
     poor response to medical therapy
-      OK to temporise medically
+      OK to temporize medically
       may help clear the cornea
         typically
           start with latanoprost 0.005% OR timolol 0.5% as monotherapy
@@ -145,7 +145,7 @@ pediatric glaucoma
     posterior segment neoplasm
       Rb
       JXG
-      leukaemia
+      leukemia
     neurooculocutaneous syndromes (phakomatoses)
       Sturge-Weber
       NF1

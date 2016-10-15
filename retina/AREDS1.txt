@@ -12,15 +12,15 @@ Formula:
 15 mg ß-carotene
 80 mg Zn
 2 mg Cu
-  to prevent Zn-induced copper deficiency anaemia
+  to prevent Zn-induced copper deficiency anemia
     Zn upregulates metallothionein in enterocytes
     Cu is preferentially bound by metallothionein
     Cu gets trapped in the enterocytes
     enterocytes are later shed into the gut lumen
     the enzymes that transport Fe from the gut to the blood depend on Cu
     Cu deficiency therefore causes Fe deficiency
-    Fe is required to synthesise hemoglobin
-    Fe deficiency causes anaemia
+    Fe is required to synthesize hemoglobin
+    Fe deficiency causes anemia
 
 67% of study participants took centrum multivitamins during the study - i'm not sure this is a trivial amount despite the much lower doses of antioxidants. I would have to look up the exact formulation of Centrum at the time of the study, but currently it contains:
 3500 IU Vitamin A with 29% as ß-carotene (? mg equivalence - hard to convert given that not all the vitamin A is in one form but probably only around 1 mg)

@@ -11,7 +11,7 @@ aetiology of congenital cataract
             crown-shaped permanent teeth
           long face
           prominent nose
-      heriditary hyperferritinaemia-cataract syndrome 6%
+      heriditary hyperferritinemia-cataract syndrome 6%
       simple AR 6%
     4/5 sporadic
       1/2 unilateral
@@ -24,7 +24,7 @@ aetiology of congenital cataract
         aniridia 1%
         JIA 1% // see anterior-and-intermediate-uveitis.txt
         DM 1%
-        galactosaemia 1%
+        galactosemia 1%
         ...other metabolic syndromes collectively 4%
 
 Mackey protocol for approaching congenital cataracts
@@ -41,16 +41,16 @@ Mackey protocol for approaching congenital cataracts
   investigations
     Rubella serology
       the most important of the TORCHES WRT cataract
-      mother is usually from a country without routine immunisation
+      mother is usually from a country without routine immunization
     urine reducing substances
-      galactosaemia
+      galactosemia
     urine amino acids
       Lowe syndrome
     urine RBCs
       Lowe syndrome
       Alport syndrome
     serum ferritin
-      hyperferritinaemia-cataract syndrome
+      hyperferritinemia-cataract syndrome
   expand as needed to cover rare causes below
 
 
@@ -160,10 +160,10 @@ DDx for pediatric cataracts
       DM
         including maternal OR gestational DM
         vacuolar
-      hypocalcaemia
+      hypocalcemia
         COMMON: hypoparathyroidism
     metabolic
-      AR galactosaemia
+      AR galactosemia
       XLR alpha-galactosidase deficiency AKA Fabry disease
         spokelike
       AR Wilson disease
@@ -171,7 +171,7 @@ DDx for pediatric cataracts
         corneal Kayser-Fleischer ring
       AR alpha-mannosidosis
         spokelike
-      AD hyperferritinaemia-cataract syndrome
+      AD hyperferritinemia-cataract syndrome
 
   trauma
     including child abuse
@@ -230,9 +230,9 @@ evaluation
       renal syndromes
         UEC
         urine amino acids
-      galactosaemia
+      galactosemia
         blood GCT
-          galactosaemia reflex test
+          galactosemia reflex test
           gives GALT/Hb
         serum galactose
         urine reducing substances
@@ -241,7 +241,7 @@ evaluation
       hypoparathyroidism
         low calcium
         elevated phosphorous
-      hyperferritinaemia-cataract syndrome
+      hyperferritinemia-cataract syndrome
         serum ferritin
 
 

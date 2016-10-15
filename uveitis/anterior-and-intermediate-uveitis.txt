@@ -134,7 +134,7 @@ anterior and intermediate uveitis DDx
             postop CEIOL
           KP
             granulomatous OR nongranulomatous
-          temporise medically
+          temporize medically
             aggressive topical steroids
             IOP control
           definitive therapy is surgical
@@ -418,7 +418,7 @@ anterior and intermediate uveitis DDx
       Toxoplasma
       rubella
         pigmentary retinopathy without inflammation is more common
-      leukaemia
+      leukemia
         IRH and CWS are more common
       masquerade syndromes
         Rb
@@ -496,7 +496,7 @@ investigations
         BROADLY:
           infection
           lymphoma
-      anaemia
+      anemia
         TINU
       baseline for SSIMT
     UEC
@@ -630,7 +630,7 @@ treatment
       for all systemic steroids
         counsel about side effects
           short term
-            hyperglycaemia
+            hyperglycemia
             weight gain
             depression
           long term

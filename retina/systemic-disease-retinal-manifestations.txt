@@ -44,7 +44,7 @@ angioid streaks
   RARELY:
     inflammatory
       autoimmune
-        acquired hemolytic anaemia
+        acquired hemolytic anemia
     neoplasm
       solid tumours
         pituitary adenoma
@@ -58,11 +58,11 @@ angioid streaks
           NF1
           Sturge-Weber
           tuberous sclerosis
-        AR abetalipoproteinaemia
+        AR abetalipoproteinemia
         AR hereditary hemochromatosis
     endocrine
       endocrine
         DM
         hypercalcinosis
-        hyperphosphataemia
+        hyperphosphatemia
 

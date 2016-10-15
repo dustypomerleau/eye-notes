@@ -76,7 +76,7 @@ TMVL DDx // do not shotgun these tests for the RACE - be appropriate
           atrial myxoma
           metastatic cancer
         septic emboli
-          septicaemia
+          septicemia
           endocarditis
         fat emboli
           long bone fractures
@@ -144,7 +144,7 @@ TMVL DDx // do not shotgun these tests for the RACE - be appropriate
       Waldenstrom
       MGUS
       1˚ amyloidosis
-      type 2 mixed cryoglobulinaemia
+      type 2 mixed cryoglobulinemia
         COMMON: 2˚ hep C
       lupus
         ANA

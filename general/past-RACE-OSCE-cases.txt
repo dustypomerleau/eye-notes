@@ -53,7 +53,7 @@ cornea
   cicatrising conjunctivitis
   conjunctival lymphoma
   conjunctival melanoma
-  corneal anaesthesia
+  corneal anesthesia
   corneal topography
   corneoscleral melt
     post beta radiation

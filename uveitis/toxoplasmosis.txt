@@ -48,7 +48,7 @@ toxoplasmosis
             avoid in sulfa allergy
             RARELY causes SJS
           folinic acid 5 mg 3x/week
-            prevents pyrimethamine-associated anaemia
+            prevents pyrimethamine-associated anemia
           ± clindamycin 300 mg qid
             risk of C. dificile colitis
             liver toxicity

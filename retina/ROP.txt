@@ -1,7 +1,7 @@
 ROP
 
   etiology
-    increased O2 exposure in the setting of incomplete retinal vascularisation
+    increased O2 exposure in the setting of incomplete retinal vascularization
     2˚ vasoconstriction
     VEGF
     NV

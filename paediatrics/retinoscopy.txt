@@ -1,12 +1,12 @@
 retinoscopy
   go minus until you have 'with' in all directions
   line up your streak with the reflex to get the axis
-  neutralise that axis or the one 90˚ away by adding plus
+  neutralize that axis or the one 90˚ away by adding plus
     whichever is first
   make your power cross
     label the ˚ of both meridians
     label the power of the meridian you just neutralised
-  neutralise 90˚ away
+  neutralize 90˚ away
     label the power of that meridian
       in absolute terms
   write out the Rx

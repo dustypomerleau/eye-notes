@@ -171,7 +171,7 @@ nystagmus DDx
     MRI for rostral midbrain or parasellar lesion
     COMMON: craniopharyngioma
   pendular
-    doesn't localise well
+    doesn't localize well
     infantile is possible but RARE
     look for MS in adults
     MRI
@@ -410,10 +410,10 @@ supranuclear motility disorders
             polydactyly
             liver and kidney disease
             endocrine abnormalities
-        AR abetalipoproteinaemia AKA Bassen-Kornzweig syndrome
+        AR abetalipoproteinemia AKA Bassen-Kornzweig syndrome
           beta-lipoprotein deficiency
           inability to absorb dietary fats & fat-soluble ADEK vitamins
-          diarrhoea
+          diarrhea
           fatty stools
           ataxia
           nystagmus

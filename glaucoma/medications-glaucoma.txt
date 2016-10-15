@@ -19,7 +19,7 @@ glaucoma medications in pregnancy and breastfeeding
       should be avoided when nursing
         in children
           CNS depression
-          apnoea
+          apnea
     beta blockers
       category C
       cross placenta
@@ -47,7 +47,7 @@ glaucoma medications in pregnancy and breastfeeding
 
   avoid glaucoma surgery in pregnancy
     particularly 1st trimester
-    anaesthetics and antimetabolites can be teratogenic
+    anesthetics and antimetabolites can be teratogenic
 
   other medications in pregnancy
     // you may want to break this out into its own .txt
@@ -79,8 +79,8 @@ toxicity issues not specific to pregnancy
     induces sickling in S(S|T|C)
     Diamox
       metabolic acidosis
-      hyponatraemia
-      hypokalaemia
+      hyponatremia
+      hypokalemia
   prostaglandins
     thicker lashes
     longer lashes

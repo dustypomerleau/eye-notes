@@ -12,7 +12,7 @@ preseptal and orbital cellulitis:
       very few situations call for empirical steroids without a diagnosis
         obvious TED
         sight-threatening orbital apex disease
-          to temporise while you arrange biopsy
+          to temporize while you arrange biopsy
       COMMON: women
         but men are harder to treat and have more recurrences
     IgG4-ROD // much of what used to be called NSOI
@@ -57,7 +57,7 @@ preseptal and orbital cellulitis:
     GPA
     PAN
     lymphoma
-    leukaemia
+    leukemia
     rhabdo in kids
     metastatic tumours
       neuroblastoma
@@ -287,7 +287,7 @@ preseptal and orbital cellulitis:
             Burkitt lymphoma
             NHL
           hematologic
-            BROADLY: leukaemia
+            BROADLY: leukemia
           metastatic
             melanoma
             lung

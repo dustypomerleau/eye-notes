@@ -142,7 +142,7 @@ CN3P
         MR allows you to follow the course of CN3 for other causes
     if the results are uncertain OR suggest PCA aneurysm
       catheter angiography
-        often done at the time of planned embolisation for PCA aneurysm
+        often done at the time of planned embolization for PCA aneurysm
         not risk-free
           can have CVA during balloon occlusion
           morbidity 1/100
@@ -196,7 +196,7 @@ CN3P
             limited upgaze
   adults
     if aneurysm present on MRI + MRA
-      need clipping or embolisation ASAP
+      need clipping or embolization ASAP
 
   7 syndromes of CN3P
     nuclear CN3P
@@ -476,7 +476,7 @@ orbital fracture // see also fractures-orbital.txt
         affected eye hypotropic in 1˚
       downgaze is limited by weakening of the entrapped muscle
         leads to the so-called "double diplopia"
-    infraorbital anaesthesia
+    infraorbital anesthesia
   exam
     oculocardiac reflex
       bradycardia
@@ -515,7 +515,7 @@ orbital fracture // see also fractures-orbital.txt
     saccadic velocity
     lag in downgaze
     Hess chart
-    infraorbital nerve hypoaesthesia
+    infraorbital nerve hypoesthesia
   non-con CT
     fractures
     orbital apex syndrome

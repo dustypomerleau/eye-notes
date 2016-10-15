@@ -163,7 +163,7 @@ observation
       usually accomodative ET
     minus
       usually intermittent XT
-  visual behaviour
+  visual behavior
     interest
   head posture
     stand them up straight
@@ -288,7 +288,7 @@ review amblyopes
     dense amblyopia at diagnosis
     treatment started late
     not compliant
-      including behavioural problems
+      including behavioral problems
     poor family support
 
 =end
@@ -427,7 +427,7 @@ test ductions and versions
       forced ductions
         ALWAYS: mention forced ductions if you suspect Brown syndrome
           technically required to diagnose a Brown
-          in practise this is only done if you go to OT for surgery
+          in practice this is only done if you go to OT for surgery
     look for oblique dysfunction // see notes on infantile ET above
 
 =begin
@@ -576,7 +576,7 @@ abbreviated binocularity testing in an infant
     synoptophore
   prism fusion range
     usually in CN4P
-    neutralise the HT with BD ∆
+    neutralize the HT with BD ∆
     run the prism bar with BU ∆ until they can't maintain the phoria
       in practice
         just reduce the BD ∆
@@ -722,7 +722,7 @@ BOTOX complications
 =end
 
     surgery
-      anaesthetic considerations
+      anesthetic considerations
         GA
           all children
           most adults
@@ -738,7 +738,7 @@ BOTOX complications
           adults not fit for GA
           topical
             Minims Benoxinate AKA oxybuprocaine
-          + local anaesthetic infiltration
+          + local anesthetic infiltration
             lidocaine + marcaine (bupivicaine)
       bigger surgical correction
         high hyperopes
@@ -881,7 +881,7 @@ preoperative counselling for parents of kids with strabismus
       lost OR slipped muscle
       need for additional surgery
       amblyopia
-    anaesthetic risks
+    anesthetic risks
       GA
         cardiac
         pulmonary

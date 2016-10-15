@@ -363,7 +363,7 @@ The problem with using HLA typing diagnostically is illustrated in the case of B
                   HTN
                   sickle cell
                   migraine HA
-                  hypovolaemia
+                  hypovolemia
                   viral URI
                 medications
                   amphetamines

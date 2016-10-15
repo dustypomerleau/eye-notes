@@ -162,7 +162,7 @@ glaucoma classification
     uveitic glaucoma
     lens-associated glaucoma
       topical steroids
-      temporise medically
+      temporize medically
       urgent CEIOL
     PXF glaucoma
       Sampaolesi line
@@ -427,7 +427,7 @@ causes of unilateral glaucoma
         Rb
           AC seeding
           2˚ NVG
-        leukaemia
+        leukemia
       metastatic
     DAMS
       medications

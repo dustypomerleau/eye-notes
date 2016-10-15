@@ -156,14 +156,14 @@ peripheral retinal NV DDx
           RARELY: angioid streaks
         avoid CAI
           promotes sickling
-      aplastic anaemia
+      aplastic anemia
         MAs
         telangiectasias
         exudative RD
         peripheral NP
           ± NV
   neoplasia
-    BROADLY: leukaemia
+    BROADLY: leukemia
       COMMON: CML
   iatrogenic
     surgical
@@ -184,7 +184,7 @@ retinal hemorrhages with low platelets
   ITP
   TTP
     low platelets
-    hemolytic anaemia
+    hemolytic anemia
     fever
     renal dysfunction
     altered mental status

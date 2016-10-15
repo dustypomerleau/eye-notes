@@ -91,11 +91,11 @@ immune keratoconjunctivitis
       HSV
     severe atopic KC
       chronic epithelial defects
-      corneal vascularisation
+      corneal vascularization
       MMP-like features
         symblepharon
         forniceal shortening
-        keratinisation of the caruncle
+        keratinization of the caruncle
     treatment
       topical
         lubrication
@@ -239,7 +239,7 @@ immune keratitis
 
       neoplastic
         hematologic
-          BROADLY: leukaemia
+          BROADLY: leukemia
 
       degeneration
         degeneration

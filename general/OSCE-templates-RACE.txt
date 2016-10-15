@@ -175,7 +175,7 @@ anterior segment
       rejection line
       edema
       failure
-      vascularisation
+      vascularization
       sutures
         loose
         infected
@@ -925,7 +925,7 @@ motility // see strabismus.txt for more detail
       CN3P
 
     STOP
-      summarise your findings before discussing binocularity + cyclorefraction
+      summarize your findings before discussing binocularity + cyclorefraction
 
     binocularity testing
       manifest tropia

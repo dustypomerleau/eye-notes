@@ -89,7 +89,7 @@ abbreviated DDx
           start with MRI + MRA
           if not definitive
             catheter angiography
-              embolisation can be performed after confirming diagnosis
+              embolization can be performed after confirming diagnosis
               not risk-free
                 can have CVA during balloon occlusion
                 morbidity 1/100
@@ -111,7 +111,7 @@ abbreviated DDx
     lymphoproliferative
       lymphoma
     hematologic
-      leukaemia
+      leukemia
     metastases
       neuroblastoma
       lung
@@ -316,7 +316,7 @@ orbital mass DDx:
             intralesional steroid
           multiple foci
             behaves more like a true cancer
-      leukaemia
+      leukemia
         COMMON: metastatic ALL
     metastatic tumours
       neuroblastoma
@@ -528,7 +528,7 @@ neoplastic
     VM OR AVM
       usually you can see vascular channels
       can't really resect or biopsy
-      sometimes you can embolise them or embolise and then resect
+      sometimes you can embolize them or embolize and then resect
   lymphoproliferative
     LH OR lymphoma
       usually B-cell NHL

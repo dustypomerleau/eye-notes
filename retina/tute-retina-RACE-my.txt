@@ -108,7 +108,7 @@ Sue Spann
           progressive
           moves centrally from the periphery
         nephropathy in juveniles
-          renal disease can cause 2˚ anaemia
+          renal disease can cause 2˚ anemia
         topical and oral cysteamine
       Sjogren-Larrson syndrome
         congenital iccthyosis
@@ -390,7 +390,7 @@ Jodie Jacobs
     RARELY:
       inflammatory
         autoimmune
-          acquired hemolytic anaemia
+          acquired hemolytic anemia
       neoplasm
         solid tumours
           pituitary adenoma
@@ -404,13 +404,13 @@ Jodie Jacobs
             NF1
             Sturge-Weber
             tuberous sclerosis
-          AR abetalipoproteinaemia
+          AR abetalipoproteinemia
           AR hereditary hemochromatosis
       endocrine
         endocrine
           DM
           hypercalcinosis
-          hyperphosphataemia
+          hyperphosphatemia
 
 
 Cameron Clark

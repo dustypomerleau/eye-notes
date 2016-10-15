@@ -384,7 +384,7 @@ ptosis exam
           apraclonidine OR (dilute) phenylephrine
             will only dilate a Horner pupil
             flips the anisocoria if positive
-        and for Horner localisation
+        and for Horner localization
           hydroxyamphetamine will only dilate if the 3rd-order neuron is intact
             i.e. Horner is 1st or 2nd order
         all the agents except cocaine are 1%
@@ -477,11 +477,11 @@ surgical treatment
       patients with 4+ mm ptosis often have poor levator function
         in that case you need a sling anyway
     allows you to adjust the height on the table
-      much more predictable under local anaesthesia
+      much more predictable under local anesthesia
     allows concurrent blepharoplasty
       aponeurotic ptosis repair (anterior approach):
         mark the skin to show the lid apex and a mini-blepharoplasty
-        local anaesthetic infiltration front and back
+        local anesthetic infiltration front and back
         excise the mini-bleph
         clear OOM off the tarsus
         ask patient to look up
@@ -502,7 +502,7 @@ surgical treatment
           check the lid position to make sure you're happy before locking
         goal is to have the lid margin in line with the superior limbus
           lid will sit a touch higher than the actual postoperative result
-            2˚ epinephrine in the anaesthetic
+            2˚ epinephrine in the anesthetic
         trim off excess levator in front of the sutures
         close the OOM
           capture a small bite of the levator to re-form the lid crease
@@ -587,7 +587,7 @@ from http://www.drdresner.com/ptosis-management/
 
 From an article contributed by Dr. Dresner to the medical textbook Oculoplasty Surgery: The Essentials, edited by William P. Chen. New York: Thieme Medical Publishers, 2001.
 
-Ptosis of the upper eyelid is a condition in which the upper eyelid margin is in an abnormal inferiorly displaced position.  It may cover a significant portion of the cornea and pupillary aperture so as to cause visual impairment.  The treatment of ptosis requires accurate and consistent evaluation and measurement as well as skillful use of surgical techniques to implement a functional and aesthetic correction.
+Ptosis of the upper eyelid is a condition in which the upper eyelid margin is in an abnormal inferiorly displaced position.  It may cover a significant portion of the cornea and pupillary aperture so as to cause visual impairment.  The treatment of ptosis requires accurate and consistent evaluation and measurement as well as skillful use of surgical techniques to implement a functional and esthetic correction.
 
 This article describes evaluation and measurement of ptosis, the corrections for minimal ptosis (Mülllerectomy, Fasanella-Servat procedure), and levator aponeurotic repair for patients with involutional changes.  Frontalis suspension and Whitnall's sling are presented.
 

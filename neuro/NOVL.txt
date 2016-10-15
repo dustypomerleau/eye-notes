@@ -98,7 +98,7 @@ nonorganic visual loss
           I'm going to do a short color test.
       polarised eye charts
         polarised glasses with vertical and horizontal axes
-        same as red-green charts with alternating axes of polarisation
+        same as red-green charts with alternating axes of polarization
     tests useful for monocular OR binocular NOVL
       // cover the good eye as needed in monocular NOVL
       reverse reading of the VA chart

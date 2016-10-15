@@ -101,7 +101,7 @@ iris tumours
       lymphoma
 
     hematologic
-      RARELY: leukaemia
+      RARELY: leukemia
 
     metastatic
       can simulate granulomatous iritis

@@ -113,7 +113,7 @@ ocular surface neoplasia
       induction of visually significant astigmatism
       premalignant changes
         CIN
-        keratinisation
+        keratinization
     surgical technique
       conj autograft
         recommended

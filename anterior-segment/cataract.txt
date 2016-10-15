@@ -16,7 +16,7 @@ preop
     epilepsy
     dementia
     young patient
-  anaesthetic risk
+  anesthetic risk
     neuromuscular dystrophies
       especially myotonic dystrophy
         higher risk of respiratory depression
@@ -39,7 +39,7 @@ preop
           use VB
           Argentinean flag risk
       capsular scar or posterior polar
-        minimise hydrodissection
+        minimize hydrodissection
     CSDME
     LD
     high myopia
@@ -221,7 +221,7 @@ IOL formulas
     Haigis
       treats ACD independently of AL
         entire curve shifts based on ACD
-      only works well if you personalise your 3 constants
+      only works well if you personalize your 3 constants
         Warren Hill will do this if you send him a spreadsheet of your outcomes
     Holladay 2
       use requires purchase via the Holladay IOL Consultant software
@@ -378,7 +378,7 @@ for RACE purposes
       high risk of suprachoroidal hemorrhage with hypotony
     microincision capsulorhexis if possible
       helps keep the chamber deep and stable
-      rhexis tend to radialise due to lens shape in nanophthalmos
+      rhexis tend to radialize due to lens shape in nanophthalmos
     if AC is very shallow
       limited 1-port PPV
       PP anatomy is not normal
@@ -572,7 +572,7 @@ postop
     approach chronologically
       preop
         gloves
-        topical anaesthetics
+        topical anesthetics
         steroids OR NSAIDs
         dilating drops
         surgical prep gloves
@@ -580,7 +580,7 @@ postop
           betadine
           chlorhexidine
           saline flush
-        instrument sterilisation equipment & process
+        instrument sterilization equipment & process
       intraop
         instruments
           speculum
@@ -620,7 +620,7 @@ postop
         tape
     full disclosure to the patient
     stop operating until cause is known
-    inform the medical defence union
+    inform the medical defense union
     inform your indemnity provider
     inform colleagues operating at the same site
     inform OT administraton and staff
@@ -765,7 +765,7 @@ XLR Fabry disease
   alpha galactosidase deficiency
   cornea verticillata
   spokelike cataract
-  paresthaesias
+  paresthesias
   angiokeratomas
   decreased sweating
   renal failure

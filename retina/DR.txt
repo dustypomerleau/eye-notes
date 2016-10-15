@@ -10,7 +10,7 @@ DR pathogenesis
     edema
   eventually
     AV shunts
-    neovascularisation
+    neovascularization
 
 DR grading (ETDRS)
   no apparent retinopathy
@@ -532,7 +532,7 @@ cataract surgery in DR
         VH
         TRD
     in PDR
-      maximise PRP
+      maximize PRP
         preop slitlamp
         intraop indirect
     pretreat

@@ -126,7 +126,7 @@ history
             anticoagulation
               usually heparin
               if neurologic decompensation on heparin
-                endovascular recanalisation
+                endovascular recanalization
                   rarely needed
           if the MRI + MRV are negative
             LP with opening pressure and CSF analysis
@@ -139,7 +139,7 @@ history
                         lethargy
                         altered taste
                         dehydration
-                        hypokalaemia
+                        hypokalemia
                           monitor UEC
                         ALWAYS: counsel the patient about these
                       debate about use of Diamox in pregnancy
@@ -310,7 +310,7 @@ optic neuropathy DDx
               lift the edge of the incision
                 use scissors to cut the full thickness of the skin
                 blunt dissect beneath the skin to make a pocket as you go
-              cauterise to obtain hemostasis
+              cauterize to obtain hemostasis
               stretch the incision with 2 rakes
               lift the fascial layer and open it with scissors
                 TA is immediately below the fascia
@@ -451,7 +451,7 @@ optic neuropathy DDx
       lymphoma infiltrative ON
       orbital lymphoma compressive ON
     hematologic
-      leukaemia
+      leukemia
         infiltrative ON
           COMMON: retrolaminar infiltration
             disc swelling is variable
@@ -464,7 +464,7 @@ optic neuropathy DDx
             fluffy, white infiltrate in the substance of the disc
             vision loss is mild
           ALWAYS: confirm that the patient does not have papilledema
-            leukaemia can infiltrate the meninges and increase ICP
+            leukemia can infiltrate the meninges and increase ICP
               LP would show WBC
           treatment for infiltrative ON
             oncology consult
@@ -538,7 +538,7 @@ optic neuropathy DDx
 //
 
 
-// long lists for reference (please don't try and memorise this)
+// long lists for reference (please don't try and memorize this)
 
 Infectious causes: There are case reports linking viruses to direct damage of the optic nerve. These include measles, mumps, rubella; chickenpox, chikungunya, coxsackie B5, cytomegalovirus, dengue fever (hemorrhagic), echovirus type 5, Epstein-Barr virus, hepatitis A and B, herpes zoster, human herpes virus-6B, HIV, HTLV-1, infectious mononucleosis, parvovirus, varicella, and variola (Farris and Pickard 1990; Chan 2002). West Nile virus can sometimes cause bilateral optic neuritis, but the predominant lesions are hemorrhage, vitreitis, chorioretinitis, uveitis, and occlusive retinal vasculitis. Some cases of optic neuritis follow the virus infection by a month, suggesting a postinfectious encephalomyelitis or virus-induced optic neuritis. Influenza infections are associated with optic neuritis in individual reports. Direct damage can be caused by tuberculosis, sarcoidosis, fungus such as aspergillus, cryptococcus, mucor (mucormycosis), Toxoplasma gondii; Lyme disease, Lyme disease (Borrelia burgdorferi), syphilis (Lesser et al 1990; Jacobson et al 1991), mycoplasma pneumonia (Nadkarni and Lisak 1993); cysticercosis, toxocariasis; anthrax, bartonellosis, borreliosis, brucellosis, cat-scratch disease (Bartonella henslae), Coxiella burnetii (Q fever), ehrlichiosis, familial Mediterranean fever, leprosy, malaria, meningococcal infection, purulent leptomeningitis, tularemia, typhoid, or Whipple disease (Tropheryma whipplei).
 

@@ -58,7 +58,7 @@ DES
         AT
         punctal
           occlusion
-          cauterisation
+          cauterization
         autologous serum drops
           first test
             HIV
@@ -139,7 +139,7 @@ DES
           metronidazole 250 mg tds x 2/52
             can combine ivermectin + metronidazole
         treatment is temporary
-          patients recolonise within 6/12
+          patients recolonize within 6/12
 
 vitamin A deficiency
   night blindness
@@ -154,7 +154,7 @@ band keratopathy
   inflammation e.g. uveitis
   medication toxicity
     pilocarpine
-  hypercalcaemia
+  hypercalcemia
   silicone oil in the AC
   trauma
   exposure K
@@ -205,7 +205,7 @@ neurotrophic keratopathy DDx
 
   DAMS
     drugs
-      anaesthetic abuse
+      anesthetic abuse
     medications
       beta blockers
       CAI
@@ -215,7 +215,7 @@ neurotrophic keratopathy DDx
   congenital
     congenital
       sporadic mobius syndrome
-      RARELY: congenital trigeminal anaesthesia
+      RARELY: congenital trigeminal anesthesia
         only a couple reported cases
 
   genetic
@@ -224,7 +224,7 @@ neurotrophic keratopathy DDx
         lattice
         granular
       familial dysautonomia AKA Riley-Day syndrome
-      RARELY: familial corneal hypoaesthesia
+      RARELY: familial corneal hypoesthesia
         only a couple reported cases
 
   endocrine
@@ -304,7 +304,7 @@ RCES
         glare
     27 g needle
       through intact epithelium and the Bowman layer
-        you need them to epithelialise first
+        you need them to epithelialize first
       avoid the visual axis
     BCTL
     Chlorsig x 3 d

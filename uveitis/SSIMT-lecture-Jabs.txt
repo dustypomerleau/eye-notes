@@ -34,7 +34,7 @@ Jabs prednis(ol)one regimen
     most sources I read say MI risk is slightly increased ± vitamin D
   weigh your patients
     Hawthorne effect
-      measure behaviour is modified behaviour
+      measured behavior is modified behavior
   taper
     60-40 -10 mg/(week OR 2/7 if rapid)
     40-20 -5 mg
@@ -63,7 +63,7 @@ choice of agent
 mycophenolate
   2-3 g daily
     divided bd
-  diarrhoea
+  diarrhea
     less if you ramp up slowly
   in children // see Doycheva, BJO 2016
     225 mg/m2 bd x 1/52

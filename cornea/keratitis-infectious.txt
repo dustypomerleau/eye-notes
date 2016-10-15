@@ -187,7 +187,7 @@ infectious keratitis DDx
 
   culture
     cornea
-      anaesthesia
+      anesthesia
         PF benoxinate minims
       speculum
       ALWAYS: do viral swabs for PCR

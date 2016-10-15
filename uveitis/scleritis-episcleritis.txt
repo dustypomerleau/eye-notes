@@ -91,7 +91,7 @@ scleritis
       ischemic scleritis
         2/2 paraneoplastic vasculitis
       hematologic
-        type 2 mixed cryoglobulinaemia
+        type 2 mixed cryoglobulinemia
           COMMON: 2˚ hep C
 
     DAMS

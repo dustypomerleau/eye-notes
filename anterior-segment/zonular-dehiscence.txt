@@ -4,7 +4,7 @@ zonular dehiscence
     history of trauma
       NOTE: if the lens is displaced forward into the AC
         trauma is nearly always the cause
-    medical conditions
+    systemic conditions
       COMMON:
         AD OR sporadic Marfan
           myopia
@@ -38,7 +38,7 @@ zonular dehiscence
           kyphoscoliosis
           uterine and intestinal rupture
       RARELY:
-        //... look these up
+        //... add detail
         Conradi syndrome
         Crouzon syndrome
         mandibulofacial dysostosis AKA Treacher Collins syndrome
@@ -164,7 +164,7 @@ zonular dehiscence
     in-the-bag chopping
       avoid sculpting
     Osher-style slow-motion phaco
-      stabilise chamber
+      stabilize chamber
       avoid capsular aspiration
       lower
         infusion pressure

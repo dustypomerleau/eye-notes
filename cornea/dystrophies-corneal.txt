@@ -167,7 +167,7 @@ corneal dystrophies
       XLR alpha galactosidase deficiency
       cornea verticillata
       spokelike cataract
-      paresthaesias
+      paresthesias
       angiokeratomas
       decreased sweating
       renal failure
@@ -182,7 +182,7 @@ corneal dystrophies
         corneal edema
           COMMON: microcystic
         beaten metal
-        epithelialisation of the endothelium
+        epithelialization of the endothelium
       essential iris atrophy
         angle and iris involved
         corectopia
