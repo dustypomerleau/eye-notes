@@ -610,8 +610,8 @@ if you suspect a CNP
       RARELY:
         sarcoid
         lymphoma
-        vascular tumours
-        other solid tumours
+        vascular tumors
+        other solid tumors
 */
 
 cycloplegic refraction

@@ -32,7 +32,7 @@ Jonathan Libby
             vascular
               malignant HTN/eclampsia
               CRVO/hyperviscosity syndromes
-            tumours
+            tumors
               naevus/melanoma
               PIOL/PCNSL
               mets
@@ -42,7 +42,7 @@ Jonathan Libby
             DME
 
 
-Karen Mai (make notes in your tumour sections on this)
+Karen Mai (make notes in your tumor sections on this)
   RPE adenoma
 
   Questions:
@@ -144,7 +144,7 @@ John McGovern
           Coats-like reaction of RP
           VHL
           macroaneurysm
-          tumour/mets
+          tumor/mets
       main distinctions for Rb
         yellow versus white
         vitreous is clear
@@ -233,7 +233,7 @@ Edward Doyle
 
   choroidal folds
     THIN RPE
-      tumours
+      tumors
         including infiltrative hematologic malignancies
       hypotony
       inflammation
@@ -331,7 +331,7 @@ Despina Psaras
       vascular
         malignant HTN/eclampsia
         CRVO/hyperviscosity syndromes
-      tumours
+      tumors
         naevus/melanoma
         PIOL/PCNSL
         mets
@@ -392,7 +392,7 @@ Jodie Jacobs
         autoimmune
           acquired hemolytic anemia
       neoplasm
-        solid tumours
+        solid tumors
           pituitary adenoma
             acromegaly
       genetic

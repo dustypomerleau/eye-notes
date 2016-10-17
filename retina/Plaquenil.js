@@ -1,3 +1,7 @@
+// Plaquenil.js is a node command line utility for determining the risk of Plaquenil toxicity.
+
+// I'm aware of the code redundancy here, but I couldn't get prompt to play nicely with a switch or if...else. If anyone more experienced wants to tidy it up, I'll gladly take a PR.
+
 'use strict'
 
 const prompt = require('/usr/local/lib/node_modules/prompt')

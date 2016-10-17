@@ -59,7 +59,7 @@ preseptal and orbital cellulitis:
     lymphoma
     leukemia
     rhabdo in kids
-    metastatic tumours
+    metastatic tumors
       neuroblastoma
 
   risk factors
@@ -268,7 +268,7 @@ preseptal and orbital cellulitis:
             CC thrombosis
 
         neoplastic
-          solid tumours
+          solid tumors
             SCC
             melanoma
               perineural invasion

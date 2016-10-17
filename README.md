@@ -1,12 +1,14 @@
 Welcome to **eye-notes**! If you just want a copy of the notes, use the `Clone or download` button to download a zip file.
 
-If you want to be certain that you're always looking at the latest version of the notes, the easiest way to do that is to view them on GitHub, or to use a mobile GitHub client like [iOctocat][].
+If you want to be certain that you're always looking at the latest version of the notes, the easiest way to do that is to view them on GitHub (desktop or mobile), or to use a mobile GitHub client like [iOctocat][].
 
-Similarly, you can help keep everyone else up-to-date by sharing a link to this GitHub repository (rather than directly sharing the files).
+You can help keep everyone else up to date by sharing a link to this GitHub repository (rather than directly sharing the files).
 
 # What is this?
 
-For the purposes of a recent examination, I had to merge my old ophthalmology notes from training days (which were horribly out-of-date) with a lot of new information. The resulting text files were terse, opinionated, and specific about details (sutures, medication doses) that I had previously neglected. I found them helpful even after the exam, and continued to update them. I started bringing my laptop to work, and used the notes while seeing patients. I found it made me a better doctor. A combination of ego and old-school thinking tends to make doctors believe that we should keep everything in our heads, despite an exponentially increasing quantity of information. That's absurd. Other fields don't try to do this. Having information at your fingertips while you work should be a way of life, not a sign of weakness. So here are some **eye-notes**. I hope they help you. The project is young, and will only get better with time.
+For the purposes of a recent examination, I had to merge my old ophthalmology notes from training days (which were out of date) with a lot of new information. The resulting text files were terse, opinionated, and specific about details that I had previously neglected (sutures, medication doses). I found them helpful even after the exam, and continued to update them. I added content from material I reviewed while preparing lectures. I started bringing my laptop to work, and used the notes while seeing patients. I found it made me a better doctor.
+
+A combination of ego and old-school thinking tends to make doctors believe that we should keep everything in our heads, despite an exponentially increasing quantity of information. That's absurd. Other fields don't try to do this. Having information at your fingertips while you work should be a way of life, not a sign of weakness. So here are some **eye-notes**. I hope they help you. The project is young, and will only get better with time.
 
 If you know nothing about ophthalmology, this probably isn't the place to start. The notes aren't comprehensive. They may never be comprehensive, because they are primarily driven by my clinical experience and needs. The terse style is intended to jog your memory. If you have never seen a picture of the disease, or a patient with the disease, you'll be asking yourself to memorize a host of meaningless words. Don't do that. Take your time with the basics. We'll still be here when you come back.
 
@@ -18,11 +20,15 @@ GitHub is optimized for what programmers call 'version control.' Version control
 
 # Why are you using plain text files instead of Word documents or PDFs?
 
-Text files are tiny. This entire repository is smaller than your favorite Technotronic song (I know, it's hard to pick a favorite). Text files are easily indexed, which means you won't have any trouble searching the entire repository for a given keyword. We all love our formatting (and hate everyone else's formatting), but ultimately it ends up being a distraction. Text files keep you focused on content. They also work great with Git's version control. If you want to perform version control on binary blobs like Microsoft Word files, you have to keep a new copy of the file every time you modify it. This quickly gets out of hand. If you need to modify the files, using plain text gives you access to powerful text editors (see below).
+Text files are tiny. This entire repository is smaller than your favorite Technotronic song (I know, it's hard to pick a favorite). Text files are easily indexed, which means you won't have any trouble searching within the files for a given keyword. We all love our formatting (and hate everyone else's formatting), but ultimately it ends up being a distraction. Text files keep you focused on content. They also work great with Git's version control. If you want to perform version control on binary blobs like Microsoft Word files, you have to keep a new copy of the file every time you modify it. This quickly gets out of hand. If you need to search or modify the files, using plain text gives you access to powerful text editors (see below).
 
 # How should I view the files?
 
-The beauty of plain text is that you can open it anywhere (even in your web browser). Having said that, if you use Microsoft Notepad to view the files, you probably won't fall in love with plain text. As mentioned above, if you just want to read the notes, use the GitHub web interface or the iOctocat mobile app. If you really want to see the power of text files, you should download a decent text editor. A good text editor will let you store all the files in an organized project, enabling you to perform actions (like search, or find and replace) across all of the files at the same time. [Atom][] is an excellent free text editor. I use [Sublime Text][], which is also great (but not free). **NOTE:** Some built-in file viewers, like the one in the Dropbox mobile app, don't properly display the level of indentation, and can make **eye-notes** nearly unreadable.
+The beauty of plain text is that you can open it anywhere (even in your web browser). Having said that, if you use Microsoft Notepad to view the files, you probably won't fall in love with plain text. As mentioned above, if you just want to read the notes, use the GitHub web interface or the iOctocat mobile app. The desktop version of GitHub has a `search this repository` field at the top, which you can use to find keywords across all documents.
+
+If you really want to see the power of text files, you should download a decent text editor. A good text editor will let you store all the files in an organized project, enabling you to perform actions (edits, search, find and replace) across all of the files at the same time. [Atom][] is an excellent free text editor. I use [Sublime Text][], which is also great (but not free).
+
+**NOTE:** Some built-in file viewers, like the one in the Dropbox mobile app, don't properly display the level of indentation, and can make **eye-notes** nearly unreadable.
 
 # How do I know when you've pushed an update?
 
@@ -32,19 +38,23 @@ If you want to be notified whenever I push changes, create a GitHub account and 
 
 Maybe. If you think I've got something wrong, you should create a GitHub account and post your concern as an [issue][]. Posting an issue ensures that everyone tracking the repository can follow and participate in the discussion. When you post your issue, provide PubMed links to the references that support your point. In ophthalmology, differences of opinion are the *rule*, not the exception. If you submit an issue that amounts to: 'my unsubstantiated opinion is better than your unsubstantiated opinion,' it will be ignored. Name-dropping ${highlyRespectedOphthalmologist} does not change the rules.
 
-# What do the ALL-CAPS terms mean?
+# I don't understand your abbreviations.
+
+Check out `abbreviations.txt` for an explanation.
+
+# What do the ALL-CAPS keywords mean?
 
 * **COMMON:** A *relatively* common diagnosis/treatment compared to others.
 * **ALSO:** Not as commmon as COMMON, but still worth considering.
 * **RARELY:** A very unlikely diagnosis, or an extremely uncommon treatment.
 
-* **ALWAYS:** Nothing is absolute, but it's shorter than ALMOST-ALWAYS.
-* **NEVER:** Nothing is absolute, but it's shorter than ALMOST-NEVER.
+* **ALWAYS:** Nothing is absolute, but it's clearer than ALMOST-ALWAYS.
+* **NEVER:** Nothing is absolute, but it's clearer than ALMOST-NEVER.
 
 * **BROADLY:** Used to indicate an umbrella term without listing every member.
 * **NOTE:** Used to highlight an exception, pitfall, or pearl.
 
-# What do all the forward-slashes mean?
+# What do the forward-slashes mean?
 
 **//** This is a comment. Think of it like a side note.
 
@@ -52,7 +62,7 @@ Maybe. If you think I've got something wrong, you should create a GitHub account
 This
 is a
 multi-line
-comment
+comment.
 **\*/**
 
 **//...** This is something unfinished that I may come back to.
@@ -60,7 +70,7 @@ comment
 
 # What is 4IVN-2DC-GETN?
 
-I've tried a lot of *universal differential diagnosis* mnemonics over the years. When I use mnemonics like VINDICATE, I always miss potential diagnoses because the mnemonic categories are too broad. In order to avoid that pitfall in these notes, I created a universal differential that met my needs. I pronounce it something like 'For Ivan to D.C. gettin.' It doesn't mean much, but it sticks in my head. Differentials in **eye-notes** are always presented in this order, regardless of how many categories are represented. The template can be found in `eye-notes/general/DDx-template-4IVN2DCGETN.txt`.
+I've tried a lot of *universal differential diagnosis* mnemonics over the years. When I use mnemonics like VINDICATE, I always miss potential diagnoses because the categories are too broad. In order to avoid that pitfall in these notes, I created a universal differential that met my needs. I pronounce it something like 'For Ivan to D.C. gettin,' which is silly, but sticks in my head. Differentials in **eye-notes** are always presented in this order, regardless of how many categories are represented. The categories in the template can be found in `DDx-template-4IVN2DCGETN.txt`.
 
 # Can I contribute to the notes?
 

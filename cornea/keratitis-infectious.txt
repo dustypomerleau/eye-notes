@@ -226,7 +226,7 @@ neurotrophic ulcers OR neurotrophic overlay
     CVA
     MS
     aneurysm
-    tumour
+    tumor
     DM
   congenital CN5 dysfunction
     familial dysautonomia AKA Riley-Day syndrome

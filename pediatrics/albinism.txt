@@ -15,7 +15,7 @@ albinism
     reduced stereopsis
       over-decussation at the chiasm
       confirmed by asymmetric VEP
-    iris TI defects
+    iris TID
     fundus hypopigmentation
     foveal hypoplasia
       ± ON hypoplasia
@@ -23,7 +23,7 @@ albinism
   AR OCA "he's A ROCkAh"
     7 types primarily based on mutation
     spectrum of tyrosinase activity
-    the term "tyrosinase negative" has been abandoned in favour of a continuum
+    the term "tyrosinase negative" has been abandoned in favor of a continuum
       generally
         more tyrosinase activity (previously tyrosinase positive)
           better VA

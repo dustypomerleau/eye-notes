@@ -24,7 +24,7 @@ ocular surface neoplasia
       won't tell if you if it's invasive
     biopsy
       overall practice pattern at RVEEH
-        favours direct excision over incisional biopsy
+        favors direct excision over incisional biopsy
       large lesions 4+ CH
         incisional biopsy if unsure OR
         straight to chemoreduction + excision if fairly certain
@@ -96,7 +96,7 @@ ocular surface neoplasia
 
   oncocytoma
     reddish-brown nodule on the caruncle
-    slow-growing tumour of the accessory lacrimal glands
+    slow-growing tumor of the accessory lacrimal glands
 
   conjunctival lymphoma
     biopsy

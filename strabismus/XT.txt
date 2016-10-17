@@ -33,7 +33,7 @@ XT DDx
               spontaneous recovery (0)
               recovers after blink OR refixation (2)
               manifests spontaneously OR no recovery (3)
-        grade (best control (0)) to (worst control (9))
+        grade: best control (0) to worst control (9)
     measure angle // see types below
       distance
       far distance

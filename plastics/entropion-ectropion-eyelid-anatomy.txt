@@ -192,7 +192,7 @@ ectropion:
         3-snip punctoplasty
       punctal malposition
         thermal cautery to the conjunctiva
-          not favoured due to high recurrence rate
+          not favored due to high recurrence rate
         medial spindle procedure with inverting sutures
       generalised horizontal laxity
         LTS
@@ -338,7 +338,7 @@ ectropion:
             can be given even if they've had chicken pox in the past
     surgical CN7P
     CVA
-    invasive tumour
+    invasive tumor
       parotid
       skin CA
     exam
@@ -349,7 +349,7 @@ ectropion:
       ocular surface
       check other CN
         CN[578]P
-          CPA tumours // see strabismus.txt for CPA tumour DDx
+          CPA tumors // see strabismus.txt for CPA tumor DDx
             COMMON: CN8 schwannoma ± NF2
         CN(6+7)P
           Moebius syndrome
@@ -402,7 +402,7 @@ lagophthalmos
       VZV CN7P AKA Ramsay-Hunt
       TED
       CVA
-      CPA tumour
+      CPA tumor
       trauma
         blunt
         surgical

@@ -86,7 +86,7 @@ KRS complications
       stromal haze // use MMC
       sterile infiltrates
       epi defects
-      LSC deficiency
+      LSCD
     refractive error
     ectasia
     infectious keratitis

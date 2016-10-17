@@ -41,9 +41,9 @@ DDx
     molluscum
     xanthelasma
     syringomas
-      most common of many benign tumours of sweat glands
+      most common of many benign tumors of sweat glands
     trichoepithelioma
-      most common of many benign tumours of hair follicles
+      most common of many benign tumors of hair follicles
     naevi
     oculodermal melanocytosis AKA naevus of Ota
       RARELY: develops uveal melanoma
@@ -68,7 +68,7 @@ DDx
     for large OR aggressive lesions
       involve the GP ± oncologist
     excision with margins
-      MOHS OR frozen sections
+      Mohs OR frozen sections
     BCC (3 mm)
       if young patient
         rule out
@@ -78,7 +78,7 @@ DDx
         structures near the lateral canthus
           CN7 & CN5
             palsies
-            perineural tumour spread
+            perineural tumor spread
           lymphatics from the eyelids to the preauricular nodes
           LCT
           TA

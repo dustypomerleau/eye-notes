@@ -98,7 +98,7 @@ NR DDx
       DM papillopathy
   neoplastic
     solid
-      juxtapapillary tumours
+      juxtapapillary tumors
         hemangioma
         melanoma
 

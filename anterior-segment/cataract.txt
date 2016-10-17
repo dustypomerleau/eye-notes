@@ -267,7 +267,7 @@ biometry platforms
 intraoperative aberrometry
   most promising
     Holos Clarity
-  ALSO
+  ALSO:
     Wavetec
 
 adjustments when moving from bag to sulcus
@@ -833,7 +833,7 @@ management of intraoperative iris prolapse
 corneal edema after CEIOL
   fragile endothelium
     FED
-      general AU philosophy tends to favour CEIOL alone rather than triple
+      general AU philosophy tends to favor CEIOL alone rather than triple
       subsequent DSEK if the cornea still limits VA
     low ECD
   surgical trauma

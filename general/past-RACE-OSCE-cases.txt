@@ -28,7 +28,7 @@ plastics
   ectropion
     tarsal
   myotonic dystrophy
-  orbital apex tumour
+  orbital apex tumor
   orbital apex cavernous hemangioma
   retrobulbar hemorrhage management
   TED

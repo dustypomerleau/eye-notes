@@ -249,7 +249,7 @@ anterior and intermediate uveitis DDx
           most patients don't need treatment
           for patients with severe floaters
             OFT for vitritis is an option
-              short lived and not favoured
+              short lived and not favored
             floaterectomy for noninflammatory vitreous debris
           cataract surgery
             Amsler sign
@@ -372,7 +372,7 @@ anterior and intermediate uveitis DDx
 //
 
 
-  When the uveitis is predominantly intermediate, favour:
+  When the uveitis is predominantly intermediate, favor:
     HTLV-1
     syphilis
     Lyme
@@ -405,7 +405,7 @@ anterior and intermediate uveitis DDx
 //
 
 
-  When the uveitis is in a child, favour:
+  When the uveitis is in a child, favor:
     HSV
     VZV
     CMV
@@ -429,7 +429,7 @@ anterior and intermediate uveitis DDx
 
 
   short DDx for diffuse OR stellate KP
-  // LL says stellate is specific to FUS but several sources list:
+  // some say stellate is specific to FUS but several sources list:
     HSV
     VZV
     CMV-GCC

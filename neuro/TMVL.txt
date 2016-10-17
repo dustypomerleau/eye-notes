@@ -72,7 +72,7 @@ TMVL DDx // do not shotgun these tests for the RACE - be appropriate
         COMMON: heart valve
         ALSO: aorta
       rare emboli
-        tumour cells
+        tumor cells
           atrial myxoma
           metastatic cancer
         septic emboli
@@ -162,7 +162,7 @@ TMVL DDx // do not shotgun these tests for the RACE - be appropriate
         also true with very high IOP
     gaze-evoked
       FB
-      orbital tumour
+      orbital tumor
         COMMON: ON sheath meningioma
   vascular
     occlusive vasculitis

@@ -91,7 +91,7 @@ enophthalmos DDx
       hypoglobus
       diplopia
     CT is diagnostic
-  sclerosing orbital tumour
+  sclerosing orbital tumor
     COMMON: breast CA
   bony erosion
     orbital varix

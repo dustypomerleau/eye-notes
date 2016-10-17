@@ -1,8 +1,4 @@
-//... clean up this whole thing and finish it
-DRCR important trials
-antivegf trials
-score and such
-
+//... work in progress - mesh with, for example, the DME data in DR.txt
 
 DME
   Eylea

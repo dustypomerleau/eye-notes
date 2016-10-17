@@ -63,11 +63,11 @@ choroidal melanoma
         ultimately clinician judgement based on full picture
 
   COMS study
-    medium tumours
+    medium tumors
       2.5-10 mm thick
       5-16 mm in diameter
       equal survival rates for I125 and enucleation
-    large tumours
+    large tumors
       equal survival rates whether you radiated before enucleation or not
 
 combined hamartoma of the retina and RPE
@@ -90,7 +90,7 @@ choroidal mets
 
 choroidal folds
   THIN RPE
-    tumours
+    tumors
     hypotony
     inflammation
     idiopathic
@@ -114,7 +114,7 @@ choroidal folds
 choroidal osteoma
   usually PP
   orange-red => yellow white as overlying RPE loses pigment
-  look for small vascular networks on the tumour surface
+  look for small vascular networks on the tumor surface
   BSUS
     highly reflective
   if SRF

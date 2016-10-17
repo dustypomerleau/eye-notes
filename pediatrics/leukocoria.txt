@@ -12,7 +12,7 @@ leukocoria DDx
     hemorrhagic
       VH
   neoplastic
-    solid tumours
+    solid tumors
       Rb
       medulloepithelioma
       astrocytic hamartoma
@@ -79,7 +79,7 @@ Coats disease vs retinoblastoma
       cholesterol
         yellow
     Rb
-      tumour
+      tumor
         grey
         white
   RV calibre
@@ -113,25 +113,25 @@ Rb
         3+ mm OR
         3- mm from fovea OR
         1.5- mm from disc OR
-        SRF 3- mm from the tumour
+        SRF 3- mm from the tumor
       C
         focal seeds
           C1
-            SR seeds 3- mm from the tumour
+            SR seeds 3- mm from the tumor
           C2
-            vitreous seed 3- mm from the tumour
+            vitreous seed 3- mm from the tumor
           C3
             SR + vitreous seeds
-              both 3- mm from the tumour
+              both 3- mm from the tumor
       D
         diffuse seeds
           D1
-            SR seeds 3+ mm from the tumour
+            SR seeds 3+ mm from the tumor
           D2
-            vitreous seed 3+ mm from the tumour
+            vitreous seed 3+ mm from the tumor
           D3
             SR + vitreous seeds
-              both 3+ mm from the tumour
+              both 3+ mm from the tumor
       E
         extensive Rb
           50+% of the globe OR
@@ -149,13 +149,13 @@ Rb
 
   Rb treatment
     ALWAYS: oncology referral
-    small tumours (A) // in AU they might do SALT on a B
+    small tumors (A) // in AU they might do SALT on a B
       systemic chemotherapy
       TTT
       PBT
       laser
       cryo
-    large unilateral tumours
+    large unilateral tumors
       usually enucleation
         enucleation
           try for 15+ mm of optic nerve
@@ -164,7 +164,7 @@ Rb
             +
               high-dose chemo
               EBRT
-    large bilateral tumours
+    large bilateral tumors
       systemic chemoreduction
         vincristine
         etoposide
@@ -193,7 +193,7 @@ Rb
     no FH
       unilateral Rb
         15% germline
-          multiple *distinct* tumours in 1 eye strongly suggest germline
+          multiple *distinct* tumors in 1 eye strongly suggest germline
       bilateral Rb
         98% germline
           assumed to be 100% for counselling purposes

@@ -63,7 +63,7 @@ VF patterns by lesion location
   optic nerve
     PMB
       central
-      caecocentral
+      cecocentral
         connects to blind spot
       paracentral
     temporal fibres

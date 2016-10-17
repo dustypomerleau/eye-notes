@@ -95,7 +95,7 @@ abbreviated DDx
                 morbidity 1/100
                 mortality 1/1000
   neoplastic
-    solid tumours
+    solid tumors
       lacrimal gland
         pleomorphic adenoma
         adenoid cystic carcinoma
@@ -106,7 +106,7 @@ abbreviated DDx
         meningioma
       soft tissue
         rhabdo
-    vascular tumours
+    vascular tumors
       hemangioma
     lymphoproliferative
       lymphoma
@@ -148,12 +148,12 @@ the 7 ages of the orbit DDx // remember these are shortlists
       histiocytic lesions
       primary granulocytic sarcoma AKA chloroma
     ALSO:
-      ON tumours
+      ON tumors
         ON sheath meningioma
         ON glioma
-      lacrimal gland tumours
+      lacrimal gland tumors
         adenoid cystic carcinoma
-      primitive neuroectodermal tumour (PNET)
+      primitive neuroectodermal tumor (PNET)
       dermoid cyst
   13-19
     COMMON: fibrous dysplasia OR ossifying fibroma
@@ -173,7 +173,7 @@ the 7 ages of the orbit DDx // remember these are shortlists
       GPA
       ON sheath meningioma
       sphenoid wing meningioma
-      lacrimal gland tumours
+      lacrimal gland tumors
         pleomorphic adenoma
         adenoid cystic carcinoma
   40-65
@@ -190,7 +190,7 @@ the 7 ages of the orbit DDx // remember these are shortlists
       lymphoma
       mets
     ALSO:
-      extension of local tumours
+      extension of local tumors
         SCC
         BCC
 
@@ -249,7 +249,7 @@ orbital mass DDx:
       CC fistula
 
   neoplastic
-    solid tumours
+    solid tumors
       rhabdomyosarcoma
       meningioma
       optic meningioma
@@ -268,7 +268,7 @@ orbital mass DDx:
         soft tissue sarcoma
           with calcifications
         teratoma
-    vascular tumours
+    vascular tumors
       cavernous hemangioma
         most common in adults
         RARELY: PHACES syndrome
@@ -284,11 +284,11 @@ orbital mass DDx:
             CR coloboma
           sternal clefting
       capillary hemangioma
-        most common orbital tumour in children
+        most common orbital tumor in children
         grows rapidly for 1- y and then regresses
         use beta blockers and treat amblyopia
       hemangiopericytoma
-    lymphoproliferative tumours
+    lymphoproliferative tumors
       lymphoma
         COMMON: B-cell NHL
         biopsy
@@ -318,7 +318,7 @@ orbital mass DDx:
             behaves more like a true cancer
       leukemia
         COMMON: metastatic ALL
-    metastatic tumours
+    metastatic tumors
       neuroblastoma
       lung CA
       breast CA
@@ -376,7 +376,7 @@ treatment // consider reordering
       conjunctival - low
       orbit - intermediate
       eyelid - high
-  lacrimal gland tumours
+  lacrimal gland tumors
     benign
       remove if encapsulated
     malignant
@@ -397,7 +397,7 @@ treatment // consider reordering
       immediate biopsy to rule out rhabdo
         ± anterior orbitotomy
     complete removal if possible
-    infiltrating tumours
+    infiltrating tumors
       chemo
       radiation
       ± debulking
@@ -477,10 +477,10 @@ lateral orbitotomy
   cut the orbital rim with a bone saw or drill
     remove with good hemostasis
     protect the eye with a retractor
-  lacrimal tumours
+  lacrimal tumors
     blunt dissection to define entire mass
       without violating the lacrimal capsule
-  posterior tumours
+  posterior tumors
     hook, isolate, suture and disinsert the LR
     dissect posteriorly
     cryo probe can be used to place traction on the mass while dissecting

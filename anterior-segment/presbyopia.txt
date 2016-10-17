@@ -7,7 +7,7 @@ presbyopia
 options
   ASLA/PRK
   LASIK
-  SMILE
+  SmILE
   presbyLASIK
   monovision
   MFIOL

@@ -210,7 +210,7 @@ EUGOGO
       treat systemic disease
         endocrine
         ± ENT
-        ± psychiatry OR counselling
+        ± psychiatry OR counseling
       once everything is quiet
         orbital surgery "Orbit is One"
         strabismus surgery

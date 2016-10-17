@@ -180,12 +180,12 @@ ptosis
 
     neoplastic
       solid
-        BROADLY: any compressive tumour CN3P
-        Horner due to a solid tumour
-          medullary tumour
-          apical lung tumour
+        BROADLY: any compressive tumor CN3P
+        Horner due to a solid tumor
+          medullary tumor
+          apical lung tumor
           neck mass
-        BROADLY: any solid tumour mechanical ptosis
+        BROADLY: any solid tumor mechanical ptosis
           plexiform neurofibroma
       vascular
         capillary hemangioma mechanical ptosis
@@ -304,7 +304,7 @@ ptosis
       Horner syndrome
         dedicated DDx, but the main concerns
           1st OR 2nd order neuron Horner syndrome
-            medullary tumour OR infarct
+            medullary tumor OR infarct
               Wallenberg syndrome AKA lateral medullary syndrome
                 Horner
                 loss of pain and temperature sensation
@@ -314,8 +314,8 @@ ptosis
                 ataxia
                   damage to spinocerebellar tracts
                     loss of proprioceptive input to the cerebellum
-            apical lung tumour
-              Pancoast tumour
+            apical lung tumor
+              Pancoast tumor
               metastatic neuroblastoma
             C spine trauma
           3rd order neuron Horner syndrome
@@ -393,7 +393,7 @@ ptosis exam
             you don't have time to do this pharmacologic testing before imaging
             ALWAYS: MRI + MRA to exclude carotid dissection first
               brain
-                medullary tumour OR infarct
+                medullary tumor OR infarct
                   Wallenberg syndrome AKA lateral medullary syndrome
               C + T spine
               neck
@@ -401,7 +401,7 @@ ptosis exam
                   look for high-intensity T1 crescent in the carotid
                     easiest to see in axial views
               apical chest
-                Pancoast tumour
+                Pancoast tumor
                 metastatic neuroblastoma
             most institutions have a Horner protocol for imaging these areas
               RVEEH uses CT + CTA instead of MRI + MRA

@@ -88,7 +88,7 @@ MS
       light-near dissociation
       DMS DDx
         COMMON:
-          tumours
+          tumors
             AV malformation
             pinealoma
           hydrocephalus

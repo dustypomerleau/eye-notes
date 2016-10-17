@@ -21,7 +21,7 @@ nystagmus
 
   short DDx of a child with bilateral nystagmus
     infantile nystagmus
-      sensory // AAA LCA
+      sensory // mnemonic: AAA LCA
         albinism
         AR achromatopsia AKA rod monochromatism
         aniridia
@@ -33,7 +33,7 @@ nystagmus
     latent nystagmus + infantile ET
     spasmus nutans ± head nodding and torticollis
       benign
-        but chiasmal tumours can masquerade as SN
+        but chiasmal tumors can masquerade as SN
     opsoclonus ± cerebellar ataxia
       metastatic neuroblastoma
     convergence-retraction nystagmus
@@ -60,7 +60,7 @@ nystagmus
       MRI for pons or cerebellar lesion
     convergence retraction nystagmus in DMS
       MS
-      dorsal midbrain CVA OR tumour
+      dorsal midbrain CVA OR tumor
     PAN
       look for albinism
       MRI for cerebellar lesion
@@ -77,7 +77,7 @@ nystagmus
       MRI for ipsilateral brainstem lesion
         CVA
         MS
-        tumour
+        tumor
       Wernicke syndrome from thiamine deficiency
     vestibular nystagmus
       vertigo
@@ -120,7 +120,7 @@ nystagmus DDx
     starts 3+ mo and resolves at 3+ y
     head nodding
     torticollis
-    MRI to rule out a chiasmal or suprachiasmal tumour masquerading as SN
+    MRI to rule out a chiasmal or suprachiasmal tumor masquerading as SN
   opsoclonus
     look for cerebellar ataxia
       "dancing eyes and dancing feet"
@@ -161,7 +161,7 @@ nystagmus DDx
         pause
     MS
     Chiari malformation
-    cerebellar tumour
+    cerebellar tumor
     CVA
     albinism
     PAN is often missed in the clinic
@@ -185,7 +185,7 @@ nystagmus DDx
     asymmetric gaze-evoked nystagmus
       CVA
       demyelination
-      tumour
+      tumor
       MRI for ipsilateral brainstem lesion
     Wernicke syndrome AKA Wernicke encephalopathy
       downbeat OR gaze-evoked horizontal jerk nystagmus
@@ -412,7 +412,7 @@ supranuclear motility disorders
             endocrine abnormalities
         AR abetalipoproteinemia AKA Bassen-Kornzweig syndrome
           beta-lipoprotein deficiency
-          inability to absorb dietary fats & fat-soluble ADEK vitamins
+          inability to absorb dietary fats & fat-soluble vitamin [ADEK]
           diarrhea
           fatty stools
           ataxia

@@ -30,8 +30,8 @@
 
   Neoplastic
     benign & malignant
-      solid tumours
-      vascular tumours
+      solid tumors
+      vascular tumors
       lymphoproliferative
       hematologic
       metastatic

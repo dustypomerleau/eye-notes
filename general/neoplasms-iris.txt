@@ -1,4 +1,4 @@
-iris tumours
+iris tumors
 
 // see images from Jerry Shields' talk
 
@@ -43,7 +43,7 @@ iris tumours
           cataract
           NVI
             child with NVI
-              intraocular tumour until proven otherwise
+              intraocular tumor until proven otherwise
           glaucoma
           RARELY: mets
       surface epithelial cyst

@@ -16,18 +16,18 @@ DES
       Sjogren testing
         traditional
           not sensitive or specific
-          SS-A (Ro) + SS-B (La)
+          antibodies to
+            ENAs
+              SS-A (Ro)
+              SS-B (La)
           ANA
-          RF
-            Ig[AGM]
+          RF Ig[AGM]
         newer (Sjo test)
           may be more specific
-          salivary protein 1
-            Ig[AGM]
-          carbonic anhydrase 6
-            Ig[AGM]
-          parotid secretory protein
-            Ig[AGM]
+          Ig[AGM] to
+            salivary protein 1
+            carbonic anhydrase 6
+            parotid secretory protein
     imaging
       tear film stability
         tear film interfermometry
@@ -201,7 +201,7 @@ neurotrophic keratopathy DDx
     // see CN5 CVA below
 
   neoplastic
-    // see CN5 compressive CPA tumour below
+    // see CN5 compressive CPA tumor below
 
   DAMS
     drugs
@@ -238,8 +238,8 @@ neurotrophic keratopathy DDx
 
   neurologic
     CN5 damage
-      compressive tumour
-        CPA tumours // see strabismus.txt for CPA tumour DDx
+      compressive tumor
+        CPA tumors // see strabismus.txt for CPA tumor DDx
         COMMON: CN8 schwannoma AKA acoustic neuroma ± NF2
       vascular CN5 damage
         ischemic CN5P

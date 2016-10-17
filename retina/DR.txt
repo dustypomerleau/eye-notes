@@ -443,7 +443,7 @@ asymmetric DR
     10/250 patients assessed had 2+ 'stages' of difference in DR
       classification was Ballantyne (1946)
         remember this predates the DRS
-        stages 3-5 are all PDR!
+        stages 3-5 are all PDR (!)
 
 /*
 "Based upon the retinal changes in 178 diabetics, BALLANTYNE (1946) divided the retinopathy into 5 stages according to their relation to the development of retinopathy. The first stage included microaneurysms with or without punctate hemorrhages and punctate exudates. The second, dot and blot hemorrhages and waxy exudates. The third, periphlebitis and phlebosclerosis, new-formed intra and preretinal vessels, increasing hemorrhages in the retina and vitreous, massive exudates, retinitis proliferans and detachment of the retina. The fourth, further advance in vessel changes, increase in vitreous hemorrhage and exudates, destruction of the retina. The fifth, a  mixed form, included most of the above-mentioned changes and hypertensive changes."

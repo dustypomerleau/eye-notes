@@ -28,7 +28,7 @@ CSC
     COMMON: solid organ transplant recipients
   Cushing syndrome
     pregnancy
-    adrenal tumour
+    adrenal tumor
       e.g. phaeochromocytoma
     ACTH-secreting pituitary adenoma
   chronic CSC associated with polyps

@@ -398,14 +398,14 @@ optic neuropathy DDx
       aneurysmal compressive ON
 
   neoplastic
-    solid tumours
+    solid tumors
       compressive ON
         COMMON:
           meningioma
             COMMON: sphenoid wing meningioma
               hyperostosis on CT
-                can also be seen with bony tumours below
-                AOT malignant lacrimal tumours and mets
+                can also be seen with bony tumors below
+                AOT malignant lacrimal tumors and mets
                   can be lytic or hyperostotic
               typically middle-aged women
               grow 1-3 mm/y
@@ -423,13 +423,13 @@ optic neuropathy DDx
                     stereotactic radiosurgery
           pituitary adenoma
         ALSO:
-          other bony tumours of the sphenoid ridge
+          other bony tumors of the sphenoid ridge
             osteoma
             fibrous dysplasia
             ossifying fibroma
-            malignant lacrimal gland tumour
+            malignant lacrimal gland tumor
             mets
-      intrinsic tumours of the ON
+      intrinsic tumors of the ON
         COMMON:
           optic glioma
           optic nerve sheath meningioma (ONSM)

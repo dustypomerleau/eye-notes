@@ -309,7 +309,7 @@ glaucoma classification
       posterior pushing
         suprachoroidal effusion or hemorrhage
         scleral buckle
-        posterior segment tumour
+        posterior segment tumor
       anterior pulling
         NVI
         inflammation with PAS

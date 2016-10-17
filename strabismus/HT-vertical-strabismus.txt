@@ -37,7 +37,7 @@ CN4P
     negative BHTT does not rule out CN4P
     CN4P is THE cause of vertical strabismus
   CN4P DDx
-    COMMON: congenital >> traumatic > ALSO: microvascular > RARELY: tumour
+    COMMON: congenital >> traumatic > ALSO: microvascular > RARELY: tumor
     prism fusion range can help distinguish // see OSCE notes
   bilateral CN4P
     complain of difficulty reading more than diplopia
@@ -336,7 +336,7 @@ CN3P
             ruptured PCA aneurysm
 
     neoplastic
-      solid tumours
+      solid tumors
         by region
           brainstem
           interpeduncular
@@ -346,7 +346,7 @@ CN3P
           schwannoma
           chordoma
           invasive nasopharyngeal carcinoma
-      vascular tumours
+      vascular tumors
         cavernous hemangioma
         (A|AV|L)M
       lymphoproliferative
@@ -602,7 +602,7 @@ skew deviation
       abscess
       MS
       neurosurgical injury
-      brainstem tumour
+      brainstem tumor
     RARELY:
       PML
       elevated ICP
