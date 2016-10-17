@@ -4,7 +4,7 @@ The notes are updated frequently. The easiest way to ensure you're seeing the la
 
 You can help keep everyone else up to date by sharing a link to this GitHub repository (rather than directly sharing the files).
   
-
+  
 ### What is this?
 
 For the purposes of a recent examination, I had to merge my old ophthalmology notes from training days (which were out of date) with a lot of new information. The resulting text files were terse, opinionated, and specific about details that I had previously neglected (sutures, medication doses). I found them helpful even after the exam, and continued to update them. I added content from material I reviewed while preparing lectures. I started bringing my laptop to work, and used the notes while seeing patients. I found it made me a better doctor.
@@ -13,19 +13,19 @@ A combination of ego and old-school thinking tends to make doctors believe that 
 
 If you know nothing about ophthalmology, this probably isn't the place to start. The notes aren't comprehensive. They may never be comprehensive, because they are primarily driven by my clinical experience and needs. The terse style is intended to jog your memory. If you have never seen a picture of the disease, or a patient with the disease, you'll be asking yourself to memorize a host of meaningless words. Don't do that. Take your time with the basics. We'll still be here when you come back.
   
-
+  
 ### Why are you using GitHub to share ophthalmology notes?
 
 Even with the help of services like Dropbox, shared medical notes are a trainwreck. The files quickly become out of date, then become disorganized. The folder membership moves on, and no new members move in. The next generation starts the process from scratch. If they're lucky they inherit the old pile of information, but it's almost as much work to tune it up as it would be to write the notes anew with current information. The sheer volume of *stuff* in these shared folders makes it hard to share without inviting people to a new shared folder, and so on. The disorganized nature of the *stuff* means that only a small percentage of the available knowledge gets passed on, and the 'members only' culture of shared folders means that only a few people benefit from that knowledge. One nice solution would be to build a website that could host the files and also provide a forum for discussion. Fortunately for us, GitHub has already built such a website :)
 
 GitHub is optimized for what programmers call 'version control.' Version control makes it easy for me to push changes to the master version of the notes whenever I want, and for others to pull those changes into their copy of the notes. It allows others to easily create parallel/alternate versions for their own use, and it provides a system that prevents collaborators from stepping on others' changes. If you want to learn more about version control with Git, I strongly recommend [Pro Git][].
   
-
+  
 ### Why are you using plain text files instead of Word documents or PDFs?
 
 Text files are tiny. This entire repository is smaller than your favorite Technotronic song (I know, it's hard to pick a favorite). Text files are easily indexed, which means you won't have any trouble searching within the files for a given keyword. We all love our formatting (and hate everyone else's formatting), but ultimately it ends up being a distraction. Text files keep you focused on content. They also work great with Git's version control. If you want to perform version control on binary blobs like Microsoft Word files, you have to keep a new copy of the file every time you modify it. This quickly gets out of hand. If you need to search or modify the files, using plain text gives you access to powerful text editors (see below).
   
-
+  
 ### How should I view the files?
 
 The beauty of plain text is that you can open it anywhere (even in your web browser). Having said that, if you use Microsoft Notepad to view the files, you probably won't fall in love with plain text. As mentioned above, if you just want to read the notes, use the GitHub web interface or the iOctocat mobile app. The desktop version of GitHub has a `search this repository` field at the top, which you can use to find keywords across all documents.
@@ -34,22 +34,22 @@ If you really want to see the power of text files, you should download a decent 
 
 **NOTE:** Some built-in file viewers, like the one in the Dropbox mobile app, don't properly display the level of indentation, and can make **eye-notes** nearly unreadable.
   
-
+  
 ### How do I know when you've pushed an update?
 
 If you want to be notified whenever I push changes, create a GitHub account and star the repository. Your preferences will determine what type of notifications you receive.
   
-
+  
 ### I disagree with something in your notes. Will you change it?
 
-Maybe. If you think I've got something wrong, you should create a GitHub account and post your concern as an [issue][]. Posting an issue ensures that everyone tracking the repository can follow and participate in the discussion. When you post your issue, provide PubMed links to the references that support your point. In ophthalmology, differences of opinion are the *rule*, not the exception. If you submit an issue that amounts to: 'my unsubstantiated opinion is better than your unsubstantiated opinion,' it will be ignored. Name-dropping ${highlyRespectedOphthalmologist} does not change the rules.
+Maybe. If you think I've got something wrong, you should create a GitHub account and post your concern as an [issue][]. Posting an issue ensures that everyone tracking the repository can follow and participate in the discussion. When you post your issue, provide PubMed links to the references that support your point. In ophthalmology, differences of opinion are the *rule*, not the exception. If you submit an issue that amounts to: 'my unsubstantiated opinion is better than your unsubstantiated opinion,' it will be ignored. Name-dropping `${highlyRespectedOphthalmologist}` does not change the rules.
   
-
+  
 ### I don't understand your abbreviations.
 
 Check out `abbreviations.txt` for an explanation.
   
-
+  
 ### What do the ALL-CAPS keywords mean?
 
 * **COMMON:** A *relatively* common diagnosis/treatment compared to others.  
@@ -73,7 +73,7 @@ comment.
 **\*/**  
 
 **//...** This is something unfinished that I may come back to.  
-  
+
 **...** This means that there are more examples than I've listed.  
   
   
@@ -86,9 +86,9 @@ I've tried a lot of *universal differential diagnosis* mnemonics over the years.
 
 If you understand how to use Git and you'd like to send a pull request, I recommend that you [get in touch][] first to make sure we're on the same page. Indents are 2 spaces, and the style should be similar to what is already posted. General feedback can be posted as an [issue][].
 
-[Atom](https://atom.io/)
-[get in touch](mailto:dustypomerleau@users.noreply.github.com)
-[iOctocat](https://itunes.apple.com/au/app/ioctocat-mobile-client-for/id669642611?mt=8)
-[issue](https://github.com/dustypomerleau/eye-notes/issues)
-[Pro Git](https://www.amazon.com/Pro-Git-Scott-Chacon-ebook/dp/B00LPDVAX2/ref=sr_1_1_twi_kin_2?ie=UTF8&qid=1476669956&sr=8-1&keywords=pro+git)
-[Sublime Text](http://www.sublimetext.com/)
+[Atom](https://atom.io/)  
+[get in touch](mailto:dustypomerleau@users.noreply.github.com)  
+[iOctocat](https://itunes.apple.com/au/app/ioctocat-mobile-client-for/id669642611?mt=8)  
+[issue](https://github.com/dustypomerleau/eye-notes/issues)  
+[Pro Git](https://www.amazon.com/Pro-Git-Scott-Chacon-ebook/dp/B00LPDVAX2/ref=sr_1_1_twi_kin_2?ie=UTF8&qid=1476669956&sr=8-1&keywords=pro+git)  
+[Sublime Text](http://www.sublimetext.com/)  
