@@ -2,62 +2,59 @@
 (-) - preferred over (<), e.g. 'vision 6/12-,' not 'vision < 6/12'
 (V|AV|L)M - venous, arteriovenous, or lymphatic malformation
 (˚) - degrees, OR after a number: primary (1˚), secondary (2˚), and so on
-5FU
-AACG
-AAION
-AAK
-AAO
-Ab
+5FU - 5-fluorouracil
+AACG - acute angle closure glaucoma
+AAION - arteriti anterior ischemic optic neuropathy
+AAK - aniridia-associated keratitis
+AAO - American Academy of Ophthalmology
+Ab - antibody
 ABG - arterial blood gas
-AC
-AC/A
-ACCORD
-ACCS
-ACD
-ACE
-ACG
-ACIOL
-ACR
-ACTH
-ACV
-AD
-ADL
-AGIS
-AHP
-AIDS
-AION
-AKA
-AKC
-AL
-ALL
-ALPI
-ALT
-AMD
-AML
-AMN
-ANA
-ANCA
+AC - anterior chamber
+AC/A - accomodative convergence to accomodation ratio
+ACCS - anterior capsule contraction syndrome
+ACD - anterior chamber depth
+ACE - angiotensin converting enzyme
+ACG - angle closure glaucoma
+ACIOL - anterior chamber intraocular lens
+ACR - American College of Rheumatology
+ACTH - adrenocorticotropic hormone
+ACV - aciclovir
+AD - autosomal dominant
+ADL - activities of daily living
+AGIS - Advanced Glaucoma Intervention Study
+AHP - abnormal head position
+AIDS - acquired immune deficiency syndrome
+AION - anterior ischemic optic neuropathy
+AKA - also known as
+AKC - atopic keratoconjunctivitis
+AL - axial length
+ALL - acute lymphoblastic leukemia
+ALPI -argon laser peripheral iridoplasty
+ALT - argon laser trabeculoplasty
+AMD - age-related macular degeneration
+AML - acute myelogenous leukemia
+AMN - acute macular neuroretinopathy
+ANA - anti-nuclear antibody
+ANCA - anti-neutrophil cytoplasmic antibody
 AO - adaptive optics, Archives of Ophthalmology
-AOFPED
-AOT
-APAC
-APACRS
-APD
-AR
-ARC
+AOFPED - adult-onset foveal pigment epithelial dystrophy
+AOT - as opposed to
+APAC - acute primary angle closure
+APACRS - Asia Pacific Association of Cataract and Refractive Surgeons
+APD - afferent pupillary defect
+AR - autosomal recessive
 ARC - abnormal retinal correspondence
-ARDS
-AREDS
-ARN
-ARPE
-ARR
+ARDS - acute respiratory distress syndrome
+AREDS - Age-Related Eye Disease Study
+ARN - acute retinal necrosis
+ARPE - acute retinal pigment epitheliitis
+ARR - absolute relative risk
 AS - ankylosing spondylitis
-ASA
-ASAP
-ASCRS
-ASCRS
-ASD
-ASE
+ASA - acetyl-salicylic acid
+ASAP - as soon as possible
+ASCRS - American Society of Cataract and Refractive Surgeons
+ASD - anterior segment dysgenesis
+ASE -
 ASI - anterior segment ischemia
 ASRS
 ASUS

@@ -308,7 +308,7 @@ anterior and intermediate uveitis DDx
             melanoma // see neoplasms-iris.txt
             prostaglandins // see medications-glaucoma.txt
             oculodermal melanocytosis AKA naevus of Ota
-              // see pediatric-glaucoma.txt
+              // see glaucoma-pediatric.txt
             Sturge Weber syndrome AKA encephalotrigeminal angiomatosis
               // see phakomatoses.txt
             siderosis // see PEI-IOFB.txt

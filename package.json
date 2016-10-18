@@ -1,0 +1,16 @@
+{
+  "name": "eye-notes",
+  "version": "1.0.0",
+  "description": "terse and opinionated ophthalmology notes",
+  "main": "index.js",
+  "repository": {
+    "url": "github:dustypomerleau/eye-notes",
+    "type": "git"
+  },
+  "author": "Dusty Pomerleau <dustypomerleau@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "prompt": "^1.0.0"
+  }
+}

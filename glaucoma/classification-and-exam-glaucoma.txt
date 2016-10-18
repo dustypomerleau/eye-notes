@@ -175,7 +175,7 @@ glaucoma classification
     in a patient with apparent disc damage and normal pressure
       ALWAYS: consider the possibility of a previously elevated IOP
 
-  PACD // based on Walland (2012) because that's the AU standard
+  PACD // based on Walland (2012), the AU standard
     in general
       treat 3+ quads of ATM or less (PACS, PAC ± G)
         LPI
@@ -335,7 +335,7 @@ glaucoma classification
 
   PCG
   glaucoma 2˚ congenital anomalies or diseases
-    // see pediatric-glaucoma.txt
+    // see glaucoma-pediatric.txt
     anterior segment dysgenesis including aniridia
     Sturge-Weber
     NF1
