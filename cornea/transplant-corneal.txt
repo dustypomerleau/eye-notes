@@ -63,7 +63,7 @@ likely graft rejection
   uveitis
   glaucoma
   ACIOL
-  low ECT in donor
+  low CD in donor
   high antigen load in donor
   poor donor match
   treatment

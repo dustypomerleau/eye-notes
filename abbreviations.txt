@@ -54,202 +54,180 @@ ASA - acetyl-salicylic acid
 ASAP - as soon as possible
 ASCRS - American Society of Cataract and Refractive Surgeons
 ASD - anterior segment dysgenesis
-ASE -
 ASI - anterior segment ischemia
-ASRS
-ASUS
-AT
-AT
-ATD
-ATD
-ATM
-ATT
-AU
-AUNGAU
-AV
-AVE
-AVED
-AVENUE
-AVL
-AVM
-BAC
-BAF
-BAM
-BCC
-BCM
-BCSC
-BCTL
-BCVA
-BD
-BDES
-BDUMP
-BHID
-BHTT
-BI
-BIO
+ASRS - American Society of Retina Specialists
+ASUS - A-scan ultrasound
+AT - artificial tears
+ATD - aqueous tear deficiency
+ATM - anterior trabecular meshwork
+ATT  - ALT, trabeculectomy, trabeculectomy
+AU - Australia
+AUNGAU - acute unilateral nongranulomatous anterior uveitis
+AV - anterior vitreous
+AVE - average cell area
+AVED - ataxia with isolated vitamin E deficiency
+AVL - adult vitelliform lesion
+AVM - arteriovenous malformation
+BAC - benzalkonium chloride
+BAF - blue autofluorescence
+BAM - benign acquired melanosis
+BCC - basal cell carcinoma
+BCM - blue-cone monochromatism
+BCSC - AAO Basic and Clinical Science Course
+BCTL - bandage contact lens
+BCVA - best corrected visual acuity
+BD - base down
+BDES - Beaver Dam Eye Study
+BDUMP - bilateral diffuse uveal melanocytic precipitates
+BHID - benign hereditary intraepithelial dyskeratosis
+BHTT - Bielkowsky head tilt test
+BI - base in
+BIO - binocular indirect ophthalmoscope
 BL - bilateral
-BLamD
-BLinD
-BMES
-BO
-BOLT
-BOULEVARD
-BP
-BRAF
-BRAFI
-BRAO
-BRAVO
-BRVO
+BLamD - basal laminar deposit
+BLinD - basal linear deposit
+BMES - Blue Mountains Eye Study
+BO - base out
+BP - blood pressure
+BRAF - the proto-oncogene encoding B-raf protein
+BRAFI - BRAF inhibitors (vemurafenib, dabrafenib)
+BRAO - branch retinal artery occlusion
+BRVO - branch retinal vein occlusion
 BSCR - birdshot chorioretinopathy
-BSS
-BSUS
-BU
-BVN
-CA
-CABG
-CACD
-CACG
-CAD
-CAI
-CAR
-CAS
-CAS
-CB
+BSS - balanced saline solution
+BSUS - B-scan ultrasound
+BU - base up
+BVN - branching vascular network
+CA - cancer, carcinoma
+CABG - coronary artery bypass graft
+CACD - central areolar choroidal dystrophy
+CACG - chronic angle closure glaucoma
+CAD - coronary artery disease
+CAI - carbonic anhydrase inhibitor
+CAR - cancer-associated retinopathy
+CAS - clinical activity score
+CB - ciliary body
 CC - carotid-cavernous, corpus callosum
-CCC
-CCDD
+CCC - continuous curvilinear capsulorrhexis
+CCDD - congenital cranial dysinnervation disorders
 CCP - cyclic citrullinated peptide
-CCT
-CCT
-CD
-CDB
-CDCR
-CEI-OHSU
-CEIOL
-CEIOL
-CF mult
-CFEOM
-CFH
+CCT - central corneal thickness
+CD - cell density
+CDB - corneal dystrophy of the Bowman layer
+CDCR - conjunctivodacryocystorhinostomy
+CEIOL - cataract extraction with intraocular lens placement
+CF - counting fingers
+CFEOM - congenital fibrosis of the extraocular muscles
+CFH - complement factor H
 CH - clock hours, Chediak-Higashi
-CHAMPS
-CHARGE
-CHED
-CHRPE
-CIN
-CME
-CML
-CMM
-CMV
-CN[2345(1|2|3)678PS](P)
-CNS
-CNTGS
-CNV
-COMA
-COMS
-CON
-COPD
-CPA
-CPEO
-CPF
-CPL
-CPMC
-CR mult?
-CRA
-CRAO
-CRP
-CRP
-CRUISE
-CRVO
-CSA
-CSC
+CHED - congenital hereditary endothelial dystrophy
+CHRPE - congenital hypertrophy of the retinal pigment epithelium
+CIN - conjunctival intraepithelial neoplasia
+CME - cystoid macular edema
+CML - chronic myelogenous leukemia
+CMM - choroidal malignant melanoma
+CMV - cytomegalovirus
+CN[2345(1|2|3)678PS](P) - cranial nerve [possible nerves (possible CN5 branches) parasympathetics, sympathetics] palsy
+CNS - central nervous system
+CNTGS - Collaborative Normal Tension Glaucoma Study
+CNV - choroidal neovascularization
+COMA - congenital oculomotor apraxia
+COMS - Collaborative Ocular Melanoma Study
+CON - compressive optic neuropathy
+COPD - chronic obstructive pulmonary disease
+CPA - cerebellopontine angle
+CPEO - chronic progressive external ophthalmoplegia
+CPF - capsulopalpebral fascia
+CPL - chloramphenicol
+CPMC - California Pacific Medical Center
+CR - chorioretinal, chorioretinitis
+CRA - chorioretinal atrophy
+CRAO - central retinal artery occlusion
+CRP - C-reactive protein
+CRVO - central retinal vein occlusion
+CSC - central serous chorioretinopathy
 CSCB - ciliospinal center of Budge
-CSCD
-CSDME
-CSDME
-CSF
-CSM
-CSNB
-CST
-CT
-CT-DCG
-CTL
-CTR
-CTS
-CV
-CVA
-CVF
-CWS
-CXR
-DA VINCI
-DALK
-DCCT
-DCG
-DCR
-DDT
-DDx
-DES
-DF
-DFA
-DFE
-DHA
-DIC
-DKA
-DLK
-DLS
-DM
-DMEK
-DMS
-DMS
-DNA
+CSCD - congenital stromal corneal dystrophy
+CSDME - clinically significant diabetic macular edema
+CSF - cerebrospinal fluid
+CSM - central, steady, and maintained
+CSNB - congenital stationary night blindness
+CST - central subfield thickness
+CT - computed tomography
+CT-DCG - computed tomography dacryocystogram
+CTL - contact lens
+CTR - capsular tension ring
+CTS - capsular tension segment
+CV - coefficient of variation
+CVA - cerebrovascular accident
+CVF - confrontational visual fields
+CWS - cotton wool spots
+CXR - chest X-ray
+DALK - deep anterior lamellar keratoplasty
+DCCT - Diabetes Control and Complications Trial
+DCG - dacryocystogram
+DCR - dacryocystorhinostomy
+DDT - dye disappearance test
+DDx - differential diagnosis
+DES - dry eye syndrome
+DFA - direct fluorescent antibody
+DFE - dilated fundus exam
+DHA - docosahexanoic acid
+DIC - disseminated intravascular coagulation
+DKA - diabetic ketoacidosis
+DLK - diffuse lamellar keratitis
+DLS - double layer sign
+DM - diabetes mellitus
+DMEK - Descemet membrane endothelial keratoplasty
+DMS - dorsal midbrain syndrome
+DNA - deoxyribonucleic acid
 DR - diabetic retinopathy
-DRCR
-DRIL
-DRS
-DRSS
-DS-DCG
-DSEK
-DSG
-DUSN
-DVD
-DVST
-DWI
-E
-E'
-E(T)
-EBMD
-EBRT
-EBV
-ECA
-ECCE
-ECT
-ED
-EffRP
-EGF
-EGS
-EIA
-EKC
-ELP
-EM
-EMG
-EMGT
+DRCR - Diabetic Retinopathy Clinical Research Network
+DRIL - disorganization of the retinal inner layers
+DRS - Diabetic Retinopathy Study
+DRSS - diabetic retinopathy severity score
+DS-DCG - digital subtraction dacryocystography
+DSEK - Descemet stripping endothelial keratoplasty
+DSG - radionucleotide dacryoscintigraphy
+DUSN - diffuse unilateral subacute neuroretinitis
+DVD - dissociated vertical deviation
+DVST - dural venous sinus thrombosis
+DWI - diffusion-weighted imaging
+E - esophoria
+E' - esophoria at near
+E(T) - intermittent esotropia
+EBMD - epithelial basement membrane dystrophy
+EBRT - external beam radiotherapy
+EBV - Epstein-Barr virus
+ECA - external carotid arter
+ECCE - extracapsular cataract extraction
+ED - epithelial defect
+EffRP - effective refractive power
+EGF - epidermal growth factor
+EGS - European Glaucoma Society
+EIA - enzyme immunoassay
+EKC - epidemic keratoconjunctivitis
+ELP - effective lens position
+EM - erythema multiforme
+EMG - electromyelogram
+EMGT - Early Manifest Glaucoma Trial
 ENA - extractable nuclear antigen
-ENT
-EOG
-EOM
-EPA
+ENT - ear, nose, and throat
+EOG - electrooculogram
+EOM - extraocular movements
+EPA - eicosapentanoic acid
 ERD - exudative retinal detachment
-ERG
-ERM
-ESCRS
-ESCS
-ESR
-ESR
-ET
-ETDRS
-ETOMS
-ETROP
-EUA
-EUGOGO
+ERG - electroretinogram
+ERM - epiretinal membrane
+ESCRS - European Society of Cataract and Refractive Surgeons
+ESCS - enhanced S-cone syndrome
+ESR - erythrocyte sedimentation rate
+ET - esotropia
+ETDRS - Early Treatment of Diabetic Retinopathy Study
+ETOMS - Early Treatment of Multiple Sclerosis Study
+ETROP - Early Treatment of Retinopathy of Prematurity Study
+EUA - examination under anesthesia
+EUGOGO - European Group on Graves Orbitopathy
 EW - Edinger-Westphal
 EZ - ellipsoid zone
 FAF
@@ -316,7 +294,7 @@ HR - hyperreflective
 HRA
 HSM
 HSV
-HT
+HT - hypertropia
 HTLV
 HTN
 HVF
@@ -419,8 +397,8 @@ MCE
 MCT
 MEAD
 MED
-MEK
-MEKI
+MEK - the set of genes encoding mitogen-activated protein kinase kinase
+MEKI - MEK inhibitors (trametinib, cobimetinib)
 MELAS
 MEN
 mETDRS
@@ -502,7 +480,7 @@ ODEMS
 ODM
 OFT
 OHS
-OHSU
+OHSU - Oregon Health Sciences University
 OHTN
 OHTS
 OI
@@ -599,7 +577,7 @@ PST
 PTK
 PTM
 PUK
-PUVA
+PUVA - phototherapy with topical psoralens + ultraviolet A
 PVD
 PWS
 PXE

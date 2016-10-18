@@ -49,7 +49,7 @@ RVO
 
     vascular
       vascular
-        HT
+        HTN
       hypercoagulable
         pregnancy
         hormonal contraceptives
@@ -100,7 +100,7 @@ RVO
       trauma
 
     rule out by vital signs
-      HT
+      HTN
       obesity
 
     possible testing

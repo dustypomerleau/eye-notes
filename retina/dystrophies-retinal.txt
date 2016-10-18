@@ -554,7 +554,9 @@ options for end-stage dystrophies
 //
 
 
-CEI-OHSU gene array testing
+Molecular Vision Laboratory gene array testing
+http://www.mvisionlab.com/
+(previously housed by the Casey Eye Institute @ OHSU but was spun off)
 
 retinal dystrophy panel (NGS)
   2500 USD

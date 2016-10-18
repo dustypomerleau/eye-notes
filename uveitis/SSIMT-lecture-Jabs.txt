@@ -76,8 +76,8 @@ mycophenolate
 
 cyclosporine
   avoid in psoriasis
-    these patients are often on PUVA OR CSA
-    cyclosporine potentiates PUVA and CSA skin cancer risks
+    these patients are often on PUVA OR topical cyclosporine
+    po cyclosporine potentiates PUVA and topical cyclosporine skin cancer risks
 
 alkylating agents
   cyclophosphamide
