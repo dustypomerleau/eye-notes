@@ -63,18 +63,18 @@ Check out `abbreviations.txt` for an explanation.
   
 ### What do the forward-slashes mean?
 
-**//** This is a comment. Think of it like a side note.  
+// This is a comment. Think of it like a side note.  
 
-**/***  
+/*  
 This  
 is a  
 multi-line  
 comment.  
-**\*/**  
+*/  
 
-**//...** This is something unfinished that I may come back to.  
+//... This is something unfinished that I may come back to.  
 
-**...** This means that there are more examples than I've listed.  
+... This means that there are more examples than I've listed.  
   
   
 ### What is 4IVN-2DC-GETN?
@@ -84,10 +84,9 @@ I've tried a lot of *universal differential diagnosis* mnemonics over the years.
   
 ### Can I contribute to the notes?
 
-If you understand how to use Git and you'd like to send a pull request, I recommend that you [get in touch][] first to make sure we're on the same page. Indents are 2 spaces, and the style should be similar to what is already posted. General feedback can be posted as an [issue][].
+If you understand how to use Git and you'd like to send a pull request, I recommend that you post an [issue][] describing your planned contribution first. Indents are 2 spaces, and the style should be similar to what is already posted. General feedback can also be posted as an [issue][].
 
 [Atom]: https://atom.io/
-[get in touch]: mailto:dustypomerleau@users.noreply.github.com
 [iOctocat]: https://itunes.apple.com/au/app/ioctocat-mobile-client-for/id669642611?mt=8
 [issue]: https://github.com/dustypomerleau/eye-notes/issues
 [Pro Git]: https://www.amazon.com/Pro-Git-Scott-Chacon-ebook/dp/B00LPDVAX2/ref=sr_1_1_twi_kin_2?ie=UTF8&qid=1476669956&sr=8-1&keywords=pro+git
