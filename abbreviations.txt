@@ -230,39 +230,36 @@ EUA - examination under anesthesia
 EUGOGO - European Group on Graves Orbitopathy
 EW - Edinger-Westphal
 EZ - ellipsoid zone
-FAF
-FAZ
-FB
-FBC
-FECD
-FED
-FES
-FEVR
-FFA
-FH
-FIELD
-FISH
-FL
-FML
-FN
-FNA
-FP
-FSHD
-FSRT
-FTA-ABS
-FTSG
-FU
-FUS
-G6PD
+FAF - fundus autofluorescence
+FAZ - foveal avascular zone
+FB - foreign body
+FBC - full blood count
+FECD - Fuchs endothelial corneal dystrophy
+FED - Fuchs endothelial dystrophy
+FES - floppy eyelid syndrome
+FEVR - familial exudative vitreoretinopathy
+FFA - fundus fluorescein angiography
+FH - family history
+FISH - fluorescence in-situ hybridization
+FL - fixation losses
+FML - fluorometholone
+FN - false negatives
+FNA - fine needle aspiration
+FP - false positives
+FSHD - facioscapulohumeral dystrophy
+FSRT - fractionated stereotactic radiotherapy
+FTA-ABS - fluorescent treponemal antibody absorption
+FTSG - full-thickness skin graft
+FU - follow-up
+FUS - Fuchs uveitis syndrome
+G6PD - glucose-6-phosphate dehydrogenase
 GA - general anesthesia, geographic atrophy
-GALILEO
-GCA
-GCC
-GCL
-GCP
-GCT
-GDX
-GETA
+GCA - giant cell arteritis
+GCC - glaucomatocyclitic crisis
+GCL - ganglion cell layer
+GCP - glaucoma change probability
+GCT - galactosemia reflex test
+GDx - (brand name scanning laser polarimetry glaucoma diagnosis device)
 GFR
 GH
 GHT
@@ -291,9 +288,9 @@ HP
 HPF - high power field
 HPV
 HR - hyperreflective
-HRA
-HSM
-HSV
+HRA - Heidelberg Retina Angiograph
+HSM - hepatosplenomegaly
+HSV - herpes simplex virus
 HT - hypertropia
 HTLV
 HTN

@@ -43,10 +43,10 @@ scleritis
           Pseudomonas
           Nocardia
         ALSO:
-        TB
-        syphilis
-        Bartonella
-        Lyme
+          TB
+          syphilis
+          Bartonella
+          Lyme
       fungal
         COMMON:
           aspergillus

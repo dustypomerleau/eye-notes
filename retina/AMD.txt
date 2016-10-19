@@ -73,6 +73,14 @@ PCV
               demographics
   ICG
     BVN
+  treatment
+    antiVEGF
+    PDT
+      early EVEREST 2 trial results suggest
+        PDT + antiVEGF is superior to antiVEGF alone
+        not published yet
+        presentation: Adrian Koh, AAO 2016
+    thermal laser
 
 
 //

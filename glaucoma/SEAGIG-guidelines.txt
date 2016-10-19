@@ -155,7 +155,7 @@ SEAGIG guidelines
       at diagnosis
       when changes are suspected OR annually
     NFL OCT
-    HRA OR GDX if available // see ON-imaging-and-VFs.txt
+    HRA OR GDx if available // see ON-imaging-and-VFs.txt
     HVF // see ON-imaging-and-VFs.txt
 
   treatment goals

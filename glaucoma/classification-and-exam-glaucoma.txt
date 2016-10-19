@@ -110,7 +110,7 @@ glaucoma classification
       imaging
         red free photographs of the NFL
         stereo disc photos
-        ± HRA OR GDX
+        ± HRA OR GDx
       automated perimetry
         VF defect should correlate with structure
         repeatable

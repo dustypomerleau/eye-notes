@@ -4,7 +4,7 @@ optic nerve and RNFL imaging
     surface map
     estimates NFL thickness based on chosen floor
     tracks progression
-  GDX
+  GDx
     SLP
     measures phase shift of light by NFL
     good relative measurements

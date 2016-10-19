@@ -1,6 +1,6 @@
 Welcome to **eye-notes**! If you just want a copy of the notes, use the `Clone or download` button to download a zip file.
 
-The notes are updated frequently. The easiest way to ensure you're seeing the latest version is to view them on GitHub (desktop or mobile), or to use a mobile GitHub client, like [iOctocat][].
+The notes are updated frequently. The easiest way to ensure you're seeing the latest version is to view them on GitHub (desktop or mobile), or use a mobile GitHub client, like [iOctocat][].
 
 You can help keep everyone else up to date by sharing a link to this GitHub repository (rather than directly sharing the files).
   
