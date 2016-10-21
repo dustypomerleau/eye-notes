@@ -1,17 +1,17 @@
 Welcome to **eye-notes**! If you just want a copy of the notes, use the `Clone or download` button to download a zip file.
 
-The notes are updated frequently. The easiest way to ensure you're seeing the latest version is to view them on GitHub (desktop or mobile), or use a mobile GitHub client, like [iOctocat][].
+The notes are updated frequently. The easiest way to ensure you're seeing the latest version is to view them on GitHub (desktop or mobile), or use a mobile app, like [iOctocat][].
 
 You can help keep everyone else up to date by sharing a link to this GitHub repository (rather than directly sharing the files).
   
   
 ### What is this?
 
-For the purposes of a recent examination, I had to merge my old ophthalmology notes from training days (which were out of date) with a lot of new information. The resulting text files were terse, opinionated, and specific about details that I had previously neglected (sutures, medication doses). I found them helpful even after the exam, and continued to update them. I added content from material I reviewed while preparing lectures. I started bringing my laptop to work, and used the notes while seeing patients. I found it made me a better doctor.
+For the purposes of a recent credentialing examination, I had to merge my old ophthalmology notes with a lot of new information. The resulting text files were terse, opinionated, and specific about details that I had previously neglected (sutures, medication doses). I found them helpful even after the exam, and continued to update them. I added content from material I reviewed while preparing lectures. I started bringing my laptop to work, and used the notes while seeing patients. I found it made me a better doctor.
 
-A combination of ego and old-school thinking tends to make doctors believe that we should keep everything in our heads, despite an exponentially increasing quantity of information. That's absurd. Other fields don't try to do this. Having information at your fingertips while you work should be a way of life, not a sign of weakness. So here are some **eye-notes**. I hope they help you. The project is young, and will only get better with time.
+A combination of ego and old-school thinking tends to make doctors believe that we should keep everything in our heads, despite an exponentially increasing quantity of information. That's absurd. Other fields don't try to do this. Having information at your fingertips while you work should be a way of life, not a sign of weakness. So here are some **eye-notes**. I hope they help you.
 
-If you know nothing about ophthalmology, this probably isn't the place to start. The notes aren't comprehensive. They may never be comprehensive, because they are primarily driven by my clinical experience and needs. The terse style is intended to jog your memory. If you have never seen a picture of the disease, or a patient with the disease, you'll be asking yourself to memorize a host of meaningless words. Don't do that. Take your time with the basics. We'll still be here when you come back.
+If you know nothing about ophthalmology, this probably isn't the place to start. If you have never seen a picture of the disease, or a patient with the disease, you'll be asking yourself to memorize a host of meaningless words. Don't do that. Take your time with the basics. We'll still be here when you come back.
   
   
 ### Why are you using GitHub to share ophthalmology notes?
@@ -23,7 +23,7 @@ GitHub is optimized for what programmers call 'version control.' Version control
   
 ### Why are you using plain text files instead of Word documents or PDFs?
 
-Text files are tiny. This entire repository is smaller than your favorite Technotronic song (I know, it's hard to pick a favorite). Text files are easily indexed, which means you won't have any trouble searching within the files for a given keyword. We all love our formatting (and hate everyone else's formatting), but ultimately it ends up being a distraction. Text files keep you focused on content. They also work great with Git's version control. If you want to perform version control on binary blobs like Microsoft Word files, you have to keep a new copy of the file every time you modify it. This quickly gets out of hand. If you need to search or modify the files, using plain text gives you access to powerful text editors (see below).
+Text files are tiny. This entire repository is currently under 5 MB. Text files are easily indexed, which means you won't have any trouble searching within the files for a given keyword. We all love our formatting (and hate everyone else's formatting), but ultimately it ends up being a distraction. Text files keep you focused on content. They also work great with Git's version control. If you want to perform version control on binary blobs like Microsoft Word files, you have to keep a new copy of the file every time you modify it. This quickly gets out of hand. If you need to search or modify the files, using plain text gives you access to powerful text editors (see below).
   
   
 ### How should I view the files?
@@ -74,12 +74,12 @@ comment.
 
 //... This is something unfinished that I may come back to.  
 
-... This means that there are more examples than I've listed.  
+... This means there are more examples than I've listed.  
   
   
 ### What is 4IVN-2DC-GETN?
 
-I've tried a lot of *universal differential diagnosis* mnemonics over the years. When I use mnemonics like VINDICATE, I always miss potential diagnoses because the categories are too broad. In order to avoid that pitfall in these notes, I created a universal differential that met my needs. I pronounce it something like 'For Ivan to D.C. gettin,' which is silly, but sticks in my head. Differentials in **eye-notes** are always presented in this order, regardless of how many categories are represented. The categories in the template can be found in `DDx-template-4IVN2DCGETN.txt`.
+I've tried a lot of *universal differential diagnosis* mnemonics over the years. When I use mnemonics like VINDICATE, I always miss potential diagnoses because the categories are too broad. In order to avoid that pitfall in these notes, I created a universal differential that met my needs. I pronounce it 'For Ivan to D.C. gettin,' which is silly, but sticks in my head. Differentials in **eye-notes** are always presented in this order, regardless of how many categories are represented. The categories in the template can be found in `DDx-template-4IVN2DCGETN.txt`.
   
   
 ### Can I contribute to the notes?

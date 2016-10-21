@@ -1,4 +1,4 @@
-antibiotics and susceptibilities
+antibiotic susceptibilities
 
   cephalosporins
     1st generation

@@ -92,7 +92,7 @@ toxicity issues not specific to pregnancy
 //
 
 
-glaucoma drops in AU
+glaucoma drops (AU)
 
 combination drops
   Xalacom
@@ -113,6 +113,9 @@ combination drops
   Cosopt
     dorzolamide
     timolol
+  Simbrinza
+    brimonidine
+    brinzolamide
 
 preservative free
   Saflutan
@@ -126,19 +129,20 @@ preservative free
 single agents
   Alphagan
   Alphagan P
-  Iopidine
+    brimonidine
   Azopt
     brinzolamide
-  Trusopt
-    dorzolamide
   Betoptic
   Betoptic S
     betaxolol
+  Iopidine
+  Lumigan
+    bimatoprost
   Timoptol
   Timoptol XE
     timolol
-  Lumigan
-    bimatoprost
+  Trusopt
+    dorzolamide
   Travatan
     travoprost
   Xalatan

@@ -1,3 +1,7 @@
+steroid-sparing immunomodulatory therapy
+
+// Thanks to Doug Jabs, who provided most of this information in his lecture.
+
 anterior uveitis
   risk of visual impairment doubles @ SUN 0.5+ WBC versus SUN 0
 
@@ -143,4 +147,4 @@ review articles (see papers)
 
   Guidelines for the Use of Immunosuppressive Drugs in Patients With Ocular Inflammatory Disorders: Recommendations of an Expert Panel
 
-  Expert Panel Recommendations for the Use of AntieTumor Necrosis Factor Biologic Agents in Patients with Ocular Inflammatory Disorders
+  Expert Panel Recommendations for the Use of Anti-Tumor Necrosis Factor Biologic Agents in Patients with Ocular Inflammatory Disorders
