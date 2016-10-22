@@ -237,7 +237,7 @@ ectropion:
     full thickness skin graft
 
     Z-plasty
-      mark your Z with the centre line along ridge of greatest tension
+      mark your Z with the center line along ridge of greatest tension
       local anesthetic
       cut the flaps with a blade
       undermine with spring scissors to remove all tension
@@ -264,7 +264,7 @@ ectropion:
         take only skin
       close the donor site
         running 6-0 nylon
-        a locking centre bite helps with tension
+        a locking center bite helps with tension
       place 6-0 vicryl cardinal sutures at the graft corners
         graft-to-host
       run the 6-0 vicryl around the whole graft

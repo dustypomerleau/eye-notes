@@ -174,7 +174,7 @@ ectasia-corneal.txt
       new and not widespread
 
   Pentacam
-    rotating Scheimpflug images using a common centrepoint for registration
+    rotating Scheimpflug images using a common centerpoint for registration
     anterior and posterior surfaces measured
     common registration point
       better at locating the posterior corneal surface
@@ -211,7 +211,7 @@ cataract surgery in corneal ectasia
         you have some control when you do the graft
           oversize 0.25 mm for 45
           oversize 0.5 mm for 47
-    if the ectasia is off-centre
+    if the ectasia is off-center
       ALSO: central 2-3 mm of IOLMaster OR Lenstar Ks
   toric IOL
     should not be your default

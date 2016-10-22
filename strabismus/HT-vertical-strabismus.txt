@@ -408,7 +408,7 @@ CCDD
     MRI
       cerebrovascular abnormalities
       absent CN nuclei
-    genetic counselling
+    genetic counseling
     additional treatment similar to other forms of strabismus
       refract
       treat amblyopia

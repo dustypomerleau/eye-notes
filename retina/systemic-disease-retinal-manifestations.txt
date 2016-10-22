@@ -7,7 +7,7 @@ angioid streaks
           ATP binding cassette protein
           300+ mutations described
           soft tissue calcification
-          abnormal elastic fibre formation
+          abnormal elastic fiber formation
         COMMON:
           plucked chicken skin changes
             folds of the neck

@@ -82,7 +82,7 @@ Coats disease vs retinoblastoma
       tumor
         grey
         white
-  RV calibre
+  RV caliber
     Coats
       irregular dilation
     Rb
@@ -196,7 +196,7 @@ Rb
           multiple *distinct* tumors in 1 eye strongly suggest germline
       bilateral Rb
         98% germline
-          assumed to be 100% for counselling purposes
+          assumed to be 100% for counseling purposes
         1/3 of sporadic Rb are bilateral
           presumed sporadic germline mutations
 
@@ -213,7 +213,7 @@ Rb
         why?
           parent could be a carrier but unaffected
             remember that penetrance of germline mutations is only 90%
-          doesn't make much difference to counselling
+          doesn't make much difference to counseling
 
     if you know it is germline
       parent has Rb OR

@@ -159,7 +159,7 @@ for exam purposes
           converts central topography to central keratometry
           K1 = central power
             Zeiss Humphrey Atlas
-              value in diopters when cursor is placed at the exact corneal centre
+              value in diopters when cursor is placed at the exact corneal center
           K2 = 1.114(K1) - 6.1
             plug K2 into your IOL formula
 
@@ -389,7 +389,7 @@ for RACE purposes
     suture the wound to prevent hypotony
 
 cataract surgery with a trabeculectomy in place
-  counselling about risk of trab failure
+  counseling about risk of trab failure
   wait 6 months after trab before doing the cataract
   5FU 0.1 mL of 50 mg/mL at the time of surgery
   increased postoperative steroids to q 2 h
@@ -857,7 +857,7 @@ corneal edema after CEIOL
   persistent inflammation
   epithelial downgrowth
   Brown-Mclean syndrome
-    peripheral MCE sparing the centre
+    peripheral MCE sparing the center
     months to years after CEIOL
     patients are usually asymptomatic
     if they become symptomatic

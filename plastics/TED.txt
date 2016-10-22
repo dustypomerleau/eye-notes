@@ -223,7 +223,7 @@ EUGOGO
       achieve a euthyroid state
         endocrine consult
         ± ENT consult
-        ± psychiatry OR counselling
+        ± psychiatry OR counseling
         options
           radioactive I
           thyroidectomy
@@ -246,7 +246,7 @@ EUGOGO
       rituximab
       RARELY: EBRT
         results have not been impressive
-        some centres use EBRT as an adjunct in acute ON compromise
+        some centers use EBRT as an adjunct in acute ON compromise
       prism rarely helps
         max tolerance 10 ∆ V and 20+ ∆ H
       surgery

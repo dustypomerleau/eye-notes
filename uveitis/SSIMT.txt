@@ -124,7 +124,7 @@ biologic names
     chimeric
       infliximab
   -zumab
-    humanised
+    humanized
       daclizumab
       (bevacizumab
       ranibizumab)

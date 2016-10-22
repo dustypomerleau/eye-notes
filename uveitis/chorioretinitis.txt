@@ -99,7 +99,7 @@ shortlist
                   can achieve nearly the same by doubling the usual dose
                   not usually necessary to do this
                   certainly OK for peripheral disease
-                most centres still give IV induction and then switch to po
+                most centers still give IV induction and then switch to po
                 valaciclovir 1 g po tds x 3+ months
                   assuming good renal function
                   in poor renal function
@@ -432,7 +432,7 @@ The problem with using HLA typing diagnostically is illustrated in the case of B
             testing to rule out clinically suspected DDx above
           vitreous biopsy
             only perform if MRI + LP is not definitive
-            exact analysis techniques depend on your centre
+            exact analysis techniques depend on your center
               cytology
               immunohistochemistry
               flow cytometry

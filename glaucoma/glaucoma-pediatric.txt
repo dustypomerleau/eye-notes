@@ -97,7 +97,7 @@ pediatric glaucoma
     end stage
       lens subluxation
       blindness
-    counselling parents about genetics
+    counseling parents about genetics
       when 1 child is affected
         1/20 subsequent siblings will have PCG
       when 2 children are affected

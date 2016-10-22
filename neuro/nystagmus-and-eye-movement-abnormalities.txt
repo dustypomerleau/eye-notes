@@ -358,7 +358,7 @@ supranuclear motility disorders
   supranuclear disorders
     congenital ocular motor apraxia
       unable to initiate saccades
-        use head thrusts + VOR to foveate and then rotate back to centre
+        use head thrusts + VOR to foveate and then rotate back to center
       congenital OR early-onset OMA DDx
         isolated COMA
         lysosomal storage diseases

@@ -45,7 +45,7 @@ NLDO
       hypersecretion
         OSD
         any inflammatory or infectious KC
-        unanesthetised Schirmer1 helps rule out excessive tearing
+        unanesthetized Schirmer1 helps rule out excessive tearing
       poor lacrimal drainage
         worse in the windy cold
         causes
@@ -74,7 +74,7 @@ NLDO
                 high false positive rate
                   but if the dye disappears it helps you
                 if the dye doesn't disappear
-                  do a Jones1 with an anesthetised swab in the nose
+                  do a Jones1 with an anesthetized swab in the nose
                     below the inferior turbinate
                     if you get dye the system is patent
                       reassess for hypersecretion
@@ -90,7 +90,7 @@ NLDO
                   irrigate
                 if irrigation is successful
                   including from the sac // see below
-                  do a Jones2 with an anesthetised swab in the nose
+                  do a Jones2 with an anesthetized swab in the nose
                     below the inferior turbinate
                     if you retrieve dye it means it entered the sac before
                       the patient probably has a partial obstruction/stenosis
@@ -268,7 +268,7 @@ dacryocystitis
       SA
       pneumococcus
       H. flu
-        in nonimmunised
+        in nonimmunized
     Augmentin 22.5 mg + 3.2 mg/kg up to 875/125 po x 10 d
     or if severe
       flucloxacillin 50 mg/kg up to 2 g q 6 hours

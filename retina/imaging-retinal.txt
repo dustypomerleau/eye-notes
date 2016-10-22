@@ -54,7 +54,7 @@ wavelengths for retinal imaging
       605-715 BP filter
     ICG // not sure of exact wavelengths for any given product
       excite ~ 805
-      BP filter centred ~ 835
+      BP filter centerd ~ 835
 
 
 //

@@ -57,8 +57,8 @@ contraindications to MFIOL
     mild amblyopia can be revealed after MFIOL
       acuity gets worse when you reduce contrast
   intraop
-    decentred rhexis
-    decentred bag
+    decenterd rhexis
+    decenterd bag
       zonular loss
     PC tear
       not an absolute contraindication
@@ -173,7 +173,7 @@ reducing unhappy toric patients
         corneal topography
         autorefractor
         wavefront aberrometry
-      can analyse the toric position in place and give residual astigmatism
+      can analyze the toric position in place and give residual astigmatism
     ASCRS online calculator
       http://www.ascrs.org/toric-results-analyzer
       input

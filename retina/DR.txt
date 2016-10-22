@@ -88,7 +88,7 @@ DME
   intravitreal triamcinolone
     Martidis (2002)
   DRCR-B (2008)
-    693 patients with centre-involving DME
+    693 patients with center-involving DME
     laser versus 2 doses of PF triamcinolone
       actually Allergan's product (Trivaris)
       we assume Alcon's Triesence to be equivalent or better
@@ -108,7 +108,7 @@ DME
     Avastin versus laser
     80 patients
       lost 15
-    3 centres
+    3 centers
       London
       Sydney
     prior treatment OK
@@ -129,7 +129,7 @@ DME
       Avastin none (!)
       laser 14%
   DRCR-I (2010)
-    361 patients with centre-involving DME
+    361 patients with center-involving DME
     excluded
       any treatment in the last 4 months
     protocol was COMPLICATED
@@ -155,7 +155,7 @@ DME
       deferred laser did slightly better
       3/4 needed no laser at all (!)
   RESTORE (2011 P3)
-    345 patients with centre-involving DME
+    345 patients with center-involving DME
       Australia
       Canada
       Europe
@@ -182,7 +182,7 @@ DME
       USA
     RIDE
       South America
-    750 patients with centre-involving DME
+    750 patients with center-involving DME
     q 4 weeks
       sham
       0.3 mg Lucentis
@@ -216,7 +216,7 @@ DME
     3/4 showed 2 step DRSS improvement (!)
     adding laser or steroids did not improve outcomes over antiVEGF alone
   DA VINCI (2012 P2)
-    221 patients with centre-involving DME
+    221 patients with center-involving DME
     Eylea versus laser
       rescue laser allowed
         CSDME by ETDRS criteria
@@ -238,7 +238,7 @@ DME
       prn group got 7 injections in the first year
         similar to the Eylea 2 mg q 8 weeks group
   MEAD (2014 P3)
-    1048 patients with centre-involving DME
+    1048 patients with center-involving DME
       2 trials over 3 years
     most previously treated
     excluded
@@ -278,7 +278,7 @@ DME
             low birth weight
             cleft lip and palate
   VIVID + VISTA (2014 P3)
-    872 patients with centre-involving DME
+    872 patients with center-involving DME
       VIVID (Europe, Japan, Australia)
       VISTA (USA)
     3 groups
@@ -306,7 +306,7 @@ DME
       Eylea q 4 weeks x 5 then q 8 weeks 0%/1%
       2-year results were similar
   DRCR-T
-    660 patients with centre-involving DME
+    660 patients with center-involving DME
     3 groups
       Avastin 1.25 mg
       Eylea 2 mg
@@ -410,12 +410,12 @@ medical therapy
       dyslipidemic group
         includes members of standard and intensive
         all got simvastatin
-        randomised to fenofibrate or placebo
+        randomized to fenofibrate or placebo
         fenofibrate 7%
         placebo 10%
       BP group
         those not included in the dyslipidemic group
-        randomised to intensive BP control or standard
+        randomized to intensive BP control or standard
         no benefit was seen to intensive BP control WRT retinopathy
   FIELD and ACCORD don't seem to agree on fenofibrate value for DR progression
     FIELD treated laser separately
@@ -523,7 +523,7 @@ cataract surgery in DR
     endophthalmitis
   preop
     GP evaluation
-    counselling
+    counseling
       DM control
       surgical risks as above
     biometry

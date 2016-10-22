@@ -156,7 +156,7 @@ observation
     + or -
     direction of any prism
       align paper edge for V
-      centre and then align paper edge for H
+      center and then align paper edge for H
     bifocal
       usually high AC/A
     high +
@@ -864,7 +864,7 @@ BOTOX complications
     occlusion
 
 /*
-preoperative counselling for parents of kids with strabismus
+preoperative counseling for parents of kids with strabismus
   What is the purpose of the surgery?
   What happens if you don't operate?
   What happens if there is an overcorrection or undercorrection?
