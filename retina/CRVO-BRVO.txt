@@ -30,6 +30,7 @@ RVO
 
 //
 
+
   DDx for a young patient with CRVO
 
     infectious
@@ -166,6 +167,7 @@ RVO
         scatter to NP does not reduce injections for CME
           similar data for DME in other studies
           BROADLY: scatter only for NV ± VH
+
 
 //
 

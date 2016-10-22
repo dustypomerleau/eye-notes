@@ -47,6 +47,7 @@ preop
 
 //
 
+
 if a patient has thin corneas on biometry
   ask about prior KRS
 
@@ -708,6 +709,7 @@ postop
         supplements above
         less popular than before
         alternative to KRS or toric
+
 
 //
 

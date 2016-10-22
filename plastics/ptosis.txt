@@ -583,6 +583,7 @@ terminology
 
 //
 
+
 from http://www.drdresner.com/ptosis-management/
 
 From an article contributed by Dr. Dresner to the medical textbook Oculoplasty Surgery: The Essentials, edited by William P. Chen. New York: Thieme Medical Publishers, 2001.
