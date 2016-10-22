@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 contraindications to MFIOL
   reacts badly to counseling
     glare
@@ -10,7 +12,7 @@ contraindications to MFIOL
   unrealistic patient expectations
     picky
     type A
-    neurotic OCD freak
+    OCD personality
   happy to wear glasses
   primary concern is sharp, clear vision
   heavy dependence on intermediate vision
@@ -64,7 +66,7 @@ contraindications to MFIOL
       not an absolute contraindication
       can sometimes be saved with a posterior rhexis
 
-multifocal IOL options
+multifocal IOL options // AU
   ReSTOR diffractive ± toric (Alcon)
   Tecnis diffractive ± toric (AMO)
   AT LISA trifocal diffractive ± toric (Zeiss)
@@ -73,7 +75,7 @@ multifocal IOL options
     hard to remove or rotate
   M-flex refractive ± toric (Rayner)
 
-toric IOL options
+toric IOL options // AU
   AcrySof toric (Alcon)
     ~ 1-4 D at the corneal plane
   Tecnis toric (AMO)

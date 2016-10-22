@@ -1,17 +1,13 @@
-presbyopia
+// https://github.com/dustypomerleau/eye-notes
 
-//...
-
-// Abi Tenen spoke on this at VIC RANZCO
-
-options
+options for correcting presbyopia
   ASLA/PRK
   LASIK
   SmILE
   presbyLASIK
   monovision
   MFIOL
-  intracor (not using much now)
+  intracor // has fallen out of favor
   K inlays
     usually in non-dominant eye
       Kamra

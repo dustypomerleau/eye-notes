@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 Finding the retinal hole – Lincoff – AO 1971
 
 Purpose – to formulate a method for finding a retinal hole based on the shape of the detachment.

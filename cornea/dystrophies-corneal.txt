@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 // see corneal-opacity-infantile-and-anterior-segment-dysgenesis.txt
 
 corneal dystrophies

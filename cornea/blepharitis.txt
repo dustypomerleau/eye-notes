@@ -1,6 +1,7 @@
-blepharitis.txt
-//... use aao ppp here
-and from papers The International Workshop on Meibomian Gland Dysfunction: Executive Summary
+// https://github.com/dustypomerleau/eye-notes
+
+//... update with AAO PPP
+//... update with The International Workshop on Meibomian Gland Dysfunction: Executive Summary
 
 
 blepharitis

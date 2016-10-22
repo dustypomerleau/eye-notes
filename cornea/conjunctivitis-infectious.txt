@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 infectious conjunctivitis
 
   hyperacute
@@ -75,7 +77,7 @@ infectious conjunctivitis
         GP FU
           gonorrhea testing
           test partners
-      trachoma // see conjunctivitis-cicatrising.txt
+      trachoma // see conjunctivitis-cicatrizing.txt
     medication toxicity OR hypersensitivity reaction
     canaliculitis
 

@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 // Plaquenil.js
 // a node command line utility for determining the risk of Plaquenil toxicity
 

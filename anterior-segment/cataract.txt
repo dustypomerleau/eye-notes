@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 cataract surgery
 
 preop
@@ -714,8 +716,7 @@ postop
 //
 
 
-// from VSAQ
-//... organize
+//... consider reorganizing the snippets below this point
 
 drugs that cause cataract "Seriously, People? Cataract Quizzing? Hello???"
   steroids
@@ -784,53 +785,54 @@ ESCRS endophthalmitis study 2006 "intracameral rocks prevent endophthalmitis?"
     silicone IOL
     intraop complication
 
-causes of intraoperative iris prolapse
-  Flomax
-    IFIS
-      Chang instructions for IFIS
-        2x epinephrine in the bottle
-          1 mL intracardiac 1:1000 epinephrine (1 mg/mL) in 500 mL BSS
-            standard dose is 0.5 mL in 500 mL BSS
-        modify incision
-          long
-          tight
-        intracameral lidocaine
-          wait 1 minute
-        intracameral phenylephrine
-          options
-            Moorfields 0.6% intracameral phenylephrine OR
-            intracameral minims
-              // for exam purposes: some docs don't like intracameral minims
-              mix
-                dilute a 10% phenylephrine minim in 5 mL BSS
-                  5 mL BSS + 0.3 mL 10% phenylephrine (1 minim) = 0.57% phenylephrine
-              inject
-                0.1-0.2 mL immediately after lidocaine
-                same volume again under OVD
-  DM
-  HSV
-  VZV
-  PXF
-management of intraoperative iris prolapse
-  take a good history on your cataract patients
-    tamsulosin AKA Flomax
-    terazosin
-    doxazosin
-  anterior incisions
-  longer tunnels
-  viscodilation
-  Malyugin
-    use 7 mm size here
-  low flow parameters
-    drop bottle height
-    vacuum 200- mm Hg
-    aspiration 26- mL/minute
-  if the iris prolapses
-    first release the pressure gradient
-      rocking the nucleus
-        for prolapse after hydrodissection
-      releasing OVD
-    then reposit the iris
+intraoperative iris prolapse
+  causes
+    Flomax
+      IFIS
+        Chang instructions for IFIS
+          2x epinephrine in the bottle
+            1 mL intracardiac 1:1000 epinephrine (1 mg/mL) in 500 mL BSS
+              standard dose is 0.5 mL in 500 mL BSS
+          modify incision
+            long
+            tight
+          intracameral lidocaine
+            wait 1 minute
+          intracameral phenylephrine
+            options
+              Moorfields 0.6% intracameral phenylephrine OR
+              intracameral minims
+                // for exam purposes: some docs don't like intracameral minims
+                mix
+                  dilute a 10% phenylephrine minim in 5 mL BSS
+                    5 mL BSS + 0.3 mL 10% phenylephrine (1 minim) = 0.57% phenylephrine
+                inject
+                  0.1-0.2 mL immediately after lidocaine
+                  same volume again under OVD
+    DM
+    HSV
+    VZV
+    PXF
+  management
+    take a good history on your cataract patients
+      tamsulosin AKA Flomax
+      terazosin
+      doxazosin
+    anterior incisions
+    longer tunnels
+    viscodilation
+    Malyugin
+      use 7 mm size here
+    low flow parameters
+      drop bottle height
+      vacuum 200- mm Hg
+      aspiration 26- mL/minute
+    if the iris prolapses
+      first release the pressure gradient
+        rocking the nucleus
+          for prolapse after hydrodissection
+        releasing OVD
+      then reposit the iris
 
 corneal edema after CEIOL
   fragile endothelium

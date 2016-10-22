@@ -1,4 +1,6 @@
-aetiology of congenital cataract
+// https://github.com/dustypomerleau/eye-notes
+
+etiology of congenital cataract
   from 2005 David Mackey Gregg lecture
     1/5 familial
       simple AD more than half the time

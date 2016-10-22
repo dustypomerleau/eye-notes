@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 wavelengths for retinal imaging
 
 //... work in progress - still some unanswered questions

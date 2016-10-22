@@ -1,4 +1,6 @@
-revamped method for sutured IOL:
+// https://github.com/dustypomerleau/eye-notes
+
+current method for sutured IOL:
 
 GoreTex CV-8 (7-0 equivalent)
   46 cm length

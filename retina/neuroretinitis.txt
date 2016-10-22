@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 neuroretinitis
   probably more accurate to say ODEMS
     optic disc edema with a macular star

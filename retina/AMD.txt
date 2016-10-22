@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 AMD
   high IR iron levels may generate more free radicals
     some doctors recommend avoiding supplements with iron in AMD patients

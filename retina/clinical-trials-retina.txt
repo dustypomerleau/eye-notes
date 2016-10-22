@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 //... work in progress - mesh with, for example, the DME data in DR.txt
 
 DME

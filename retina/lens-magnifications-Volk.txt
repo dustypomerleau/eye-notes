@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 for most Volk lenses
   laser spot size = 1/(image magnification)
 

@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 zonular dehiscence
 
   preoperative
@@ -153,7 +155,7 @@ zonular dehiscence
       ± superviscous OVD to expand pupil for rhexis
     VisionBlue
     center rhexis relative to lens
-      even if lens is decenterd
+      even if lens is decentered
     capsular hooks OR
     repurposed iris hooks
       placed where zonules are absent

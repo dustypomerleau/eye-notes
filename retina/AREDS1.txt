@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 1. no drusen or < 15 small drusen with no pigment change.
 2. > 15 small drusen or pigment change regardless of drusen.
 3. vision 20/32 or better unless vision decline is not due to AMD.

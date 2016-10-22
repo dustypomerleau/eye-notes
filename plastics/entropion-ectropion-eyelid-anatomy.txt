@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 eyelid anatomy
 
 // see fig. 9-4 AAO BCSC
@@ -134,14 +136,14 @@ entropion
     COMMON:
       history of ocular surgery
       trauma
-      cicatrising conjunctivitis
-        // see cicatrising-conjunctivitis-DDx.txt
+      cicatrizing conjunctivitis
+        // see cicatrizing-conjunctivitis-DDx.txt
 
     treatment ladder
       lubrication
       BCTL
       treat the underlying disease
-        don't operate on the lids if there is active cicatrising conjunctivitis
+        don't operate on the lids if there is active cicatrizing conjunctivitis
       tarsal fracture with everting sutures
       tarsoconjunctival or mucosal grafts
         ear cartilage

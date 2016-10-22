@@ -1,4 +1,6 @@
-cicatrising conjunctivitis DDx
+// https://github.com/dustypomerleau/eye-notes
+
+cicatrizing conjunctivitis DDx
 
 /*
 SJS is used here to represent the full continuum
@@ -96,7 +98,7 @@ SJS is used here to represent the full continuum
         BROADLY: any BAC-preserved drop
         ALSO: copanlisib
           new lymphoma drug
-          SJS-like cicatrising conjunctivitis plus dermal reaction
+          SJS-like cicatrizing conjunctivitis plus dermal reaction
             chemical-like burns
 
   genetic

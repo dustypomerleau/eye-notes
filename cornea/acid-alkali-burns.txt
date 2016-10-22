@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 acid and alkali burns
 
   goals
@@ -24,10 +26,10 @@ acid and alkali burns
     rapid penetration of AC
       lipophilic
       denature collagen
+      direct damage to TM after penetration
       strongly activate proteolytic enzymes
         MMPs
         NEVER: use NSAIDs in a melting cornea
-      direct damage to TM after penetration
 
   severity (grade)
     Roper-Hall (1965) // for exam purposes, this is the most recognized
@@ -49,7 +51,7 @@ acid and alkali burns
         4-
         6-
         6+
-      if you can't see the iris it's 3+
+      if you can't see the iris the grade is Roper-Hall 3+
     Dua (2001) // my preferred system given better modern era prognostic value
       document as
         CH limbal involvement / % bulbar conj involvement (limbus to fornix)
@@ -95,12 +97,11 @@ acid and alkali burns
         superinfection
         symblepharon
     If not completely epithelialized in 2 weeks
+      tarsorrhaphy OR
       cover the cornea in amniotic membrane
         limbal purse-string suture
-      probably say tarsorrhaphy because you haven't done the amnio
     late options
       limbal stem cell autograft
       limbal stem cell allograft for bilateral cases
       corneal transplant (high failure rate)
-      keratoprosthesis
-        not used in AU
+      keratoprosthesis // USA

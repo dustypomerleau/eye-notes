@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 Complement factor H and AMD
 
 Age related macular degeneration is a disease process characterized by chronic progressive degeneration of photoreceptors, RPE, Bruch’s membrane, and possibly the choriocapillaris in the macula. Its etiology is still not understood. The result is that photoreceptors atrophy, RPE degenerates, Bruch’s membrane thickens, drusen form, and choroidal neovascularization sometimes follows.  A variety of single nucleotide polymorphisms (SNPs) have been found to be associated with AMD:

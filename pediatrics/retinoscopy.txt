@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 retinoscopy
   go minus until you have 'with' in all directions
   line up your streak with the reflex to get the axis

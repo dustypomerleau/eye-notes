@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 // see ET-DDx.txt
 // see vertical-strabismus-HT-DDx.txt
 // see XT-DDx.txt

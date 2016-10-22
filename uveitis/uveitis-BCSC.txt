@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 // These are my notes on the 2006 edition of the AAO BCSC uveitis textbook.
 // They contain some useful information, but are not current and will not be updated.
 

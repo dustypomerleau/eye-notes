@@ -1,3 +1,9 @@
+// https://github.com/dustypomerleau/eye-notes
+
+/*
+This file is specific to the Australian RACE exam. Duplicate cases have been left in place to emphasize frequency. Cases cover approximately 5 years of the exam, ending in 2015. I don't currently plan to update this file, but would take a PR if someone else has recent data.
+*/
+
 past RACE OSCE cases:
 
 
@@ -50,7 +56,7 @@ cornea
   anterior segment dysgenesis
     with chemical injury
   chemical burn
-  cicatrising conjunctivitis
+  cicatrizing conjunctivitis
   conjunctival lymphoma
   conjunctival melanoma
   corneal anesthesia

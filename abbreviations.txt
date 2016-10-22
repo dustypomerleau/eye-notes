@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 (+) - preferred over (>), e.g. 'age 40+,' not 'age > 40'
 (-) - preferred over (<), e.g. 'vision 6/12-,' not 'vision < 6/12'
 (V|AV|L)M - venous, arteriovenous, or lymphatic malformation
@@ -380,7 +382,8 @@ LP
 LPI
 LR
 LRI
-LSCD
+LSC - limbal stem cells
+LSCD - limbal stem cell deficiency
 LT
 LTP
 LTS

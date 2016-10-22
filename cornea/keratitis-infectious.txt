@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 infectious keratitis
   ALWAYS: scrape even if intact epithelium
     e.g. infectious crystalline keratopathy

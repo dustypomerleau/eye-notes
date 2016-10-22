@@ -1,3 +1,5 @@
+// https://github.com/dustypomerleau/eye-notes
+
 vision loss in pregnancy
   infectious
     //... you need to finish this! toxop etc.
