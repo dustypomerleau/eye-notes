@@ -39,7 +39,7 @@ shortlist
             ID consult
           treatment
           // similar discussion of IV versus po as below with ARN
-          // for RACE purposes say 1 weeks IV then po
+          // for exam purposes say 1 week IV then po
             IV ganciclovir 5 mg/kg q 12 hours
             IV foscarnet 90 mg/kg q 12 hours
             po valganciclovir 900 mg po bd x 3+ months
@@ -92,7 +92,7 @@ shortlist
                   sarcoid
                   lymphoma
               classic regimen
-                IV aciclovir 10-15 mg/kg q 8 hours x 1 weeks
+                IV aciclovir 10-15 mg/kg q 8 hours x 1 week
                 then switch to orals at therapeutic dose x 3+ months
               there is significant evidence for po only
                 plasma concentration not quite as high as IV aciclovir
@@ -111,7 +111,7 @@ shortlist
               po prednisolone is debateable but widely used
                 for exam purposes start 0.5-1 mg/kg 2 days after antivirals
                 duration not well defined
-                probably taper after 1 weeks if disease quiescent
+                probably taper after 1 week if disease quiescent
               aspirin also debateable
                 not usually used
               topical steroids

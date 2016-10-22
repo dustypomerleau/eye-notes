@@ -292,7 +292,7 @@ IOL calcs in 26+ mm long eyes
 
 IOL calcs in 22- mm short eyes
   Haigis consistently best
-  Hoffer Q also good // most common in AU for RACE purposes
+  Hoffer Q also good // most common in AU
 
 cataract surgery in very short eyes
   nanophthalmos
@@ -348,12 +348,13 @@ cataract surgery in very short eyes
     Holladay IOL Consultant software can make this easier
       Holladay 2 for main IOL
       Holladay R formula for piggyback
+
 /*
-for RACE purposes
+for exam purposes
   given that you have to pay for the Holladay software
   probably best to say you would use Rayner's online piggyback calculator
-  you don't want to be asked if you actually own it
 */
+
   intraoperatively
     topical is better
       retrobulbar blocks increase
@@ -795,9 +796,9 @@ causes of intraoperative iris prolapse
           wait 1 minute
         intracameral phenylephrine
           options
-            Moorfields 0.6% intracameral phenylephrine
-            // careful AU docs don't like intracameral minims
-            // don't say this in the RACE, but another option is
+            Moorfields 0.6% intracameral phenylephrine OR
+            intracameral minims
+              // for exam purposes: some docs don't like intracameral minims
               mix
                 dilute a 10% phenylephrine minim in 5 mL BSS
                   5 mL BSS + 0.3 mL 10% phenylephrine (1 minim) = 0.57% phenylephrine

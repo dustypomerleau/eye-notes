@@ -30,8 +30,7 @@ acid and alkali burns
       direct damage to TM after penetration
 
   severity (grade)
-
-    Roper-Hall (1965) // this is what they use in AU so say this on RACE
+    Roper-Hall (1965) // for exam purposes, this is the most recognized
       1
         epi defect only
       2
@@ -51,9 +50,6 @@ acid and alkali burns
         6-
         6+
       if you can't see the iris it's 3+
-
-/*
-but for your personal reference
     Dua (2001) // my preferred system given better modern era prognostic value
       document as
         CH limbal involvement / % bulbar conj involvement (limbus to fornix)
@@ -67,7 +63,6 @@ but for your personal reference
       6+ CH / 50+% (4)
       9+ CH / 75+% (5)
       12 CH / 100% (6)
-*/
 
   treatment
     irrigate with saline to pH 7.0-7.2

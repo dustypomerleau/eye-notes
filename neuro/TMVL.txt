@@ -46,7 +46,7 @@ many different symptom patterns
       then they do not have true TMVL
         ADMIT and treat as TIA/CVA
 
-TMVL DDx // do not shotgun these tests for the RACE - be appropriate
+TMVL DDx // do not shotgun these tests on exams - be appropriate
   embolic
     visible embolus in CRAO OR BRAO
       true RAO is not usually transient but there is a continuum

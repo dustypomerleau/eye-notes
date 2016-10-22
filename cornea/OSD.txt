@@ -117,7 +117,7 @@ DES
         feed at night on skin and sebum
         live 2-3 weeks total
           start as larvae in the glands
-          about 1 weeks as adults
+          about 1 week as adults
         types
           folliculorum
             MG
@@ -292,7 +292,7 @@ RCES
   BCTL
     antibiotic cover with Chlorsig drops
     wear continuously for 8 weeks
-    check q 1 weeks and replace if lost or protein buildup is seen
+    check q 1 week and replace if lost or protein buildup is seen
   debridement
     down to the Bowman layer with a 15 blade
     apply absolute alcohol with a cotton tip

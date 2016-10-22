@@ -119,7 +119,7 @@ CN4P
 
 
 CN3P
-  // a very important RACE topic
+  // a very important exam topic
   // four rules don't apply here
   //   because there is (usually) a significant horizontal component also
   for all CNP
@@ -156,7 +156,7 @@ CN3P
       no signs of aberrant regeneration // see below
     do not rely on pain
       ischemic and aneurysmal palsies can both hurt
-    check the pupil again in 1 weeks
+    check the pupil again in 1 week
       to ensure the CN3P is not progressive
   ALWAYS: screen for GCA if they are old
   look for aberrant regeneration

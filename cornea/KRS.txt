@@ -35,7 +35,7 @@ refractive surgery options
       endothelial cell loss
       glaucoma
         pupil block
-          ALWAYS: perform LPI x 2 (usually 1100 & 0100) 1 weeks before surgery
+          ALWAYS: perform LPI x 2 (usually 1100 & 0100) 1 week before surgery
         pigmentary
       cataract
     but these aspects are improving with better lens design

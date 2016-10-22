@@ -159,8 +159,8 @@ EUGOGO
           COMMON: IVMP
             3/4 respond
             many different regimens
-              500 mg q 1 weeks x 6 weeks
-              250 mg q 1 weeks x 6 weeks
+              500 mg q 1 week x 6 weeks
+              250 mg q 1 week x 6 weeks
               stop at 12 weeks and evaluate response
             regardless of regimen
               total dose should be 8- g
@@ -168,7 +168,7 @@ EUGOGO
               but they should not prevent you from treating TED with steroids
           ALSO: po prednisolone
             1/2 respond
-            100 mg tapered 10 mg q 1 weeks x 12 weeks (10 mg plateau at the end)
+            100 mg tapered 10 mg q 1 week x 12 weeks (10 mg plateau at the end)
           RARELY: orbital radiation
             combine with IVMP
             best for diplopia + restriction
