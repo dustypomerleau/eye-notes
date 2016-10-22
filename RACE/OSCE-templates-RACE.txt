@@ -35,11 +35,11 @@ tools
   paper
 
 
-you are allowed to retract a statement if made in error
-if you are flailing you can ask to quickly look at the patient again
-presentations are usually chronic but treat them as new
+You are allowed to retract a statement if made in error.
+If you are flailing you can ask to quickly look at the patient again.
+Presentations are usually chronic but treat them as new.
   e.g. glaucoma testing
-comment on how the fellow eye influences your management
+Comment on how the fellow eye influences your management.
 
 'I prefer...'
 'My preferred technique is...'
@@ -69,7 +69,7 @@ anterior segment
     suggest DFE if appropriate
 
   introduction
-    'Hi, my name is Dustin. Thanks for coming in today.'
+    `Hi, my name is ${name}. Thanks for coming in today.`
     shake hands
     'May I please have the visual acuity and IOP?'
   look at the patient
@@ -99,7 +99,6 @@ anterior segment
       if the lids are lax
         distract
   // slitlamp
-  // DF
     misdirected lashes AKA trichiasis
     lash loss AKA madarosis
     long lashes AKA trichomegaly
@@ -168,7 +167,6 @@ anterior segment
           guttae
           dystrophy
           ectasia
-  // CB
     guttae
     folds
     KP
@@ -229,7 +227,6 @@ anterior segment
       PC
         PCO
         open
-  // SB
     cornea
       ectasia
       level of scarring
@@ -243,7 +240,7 @@ anterior segment
   'I would perform a DFE of both eyes...'
   'I would perform IOP phasing at 2-hour intervals...'
   'I would perform biometry in preparation for cataract surgery...'
-    // ask for the biometry on every cataract station
+    ALWAYS: ask for the biometry on a cataract station
   for any cataract
     preop
     intraop
@@ -272,7 +269,7 @@ posterior segment (pole + full peripheral exam including BIO)
     periphery
 
   introduction
-    'Hi, my name is Dustin. Thanks for coming in today.'
+    `Hi, my name is ${name}. Thanks for coming in today.`
     shake hands
     'May I please have the visual acuity and IOP?'
     'Was there an APD present prior to dilation?'
@@ -290,7 +287,6 @@ posterior segment (pole + full peripheral exam including BIO)
     you can do this before you commit to a diagnosis
 */
   // slitlamp
-  // DF
   anterior segment // quickly
     'Look down, please'
     'Look up, please'
@@ -305,7 +301,6 @@ posterior segment (pole + full peripheral exam including BIO)
       pigment cells
       post PPV
       SO
-  // CF 90
   PVD
   disc
     color
@@ -375,7 +370,7 @@ posterior segment (pole + full peripheral exam including BIO)
 //
 
 
-orbit // correct detailed to match summary below this point
+orbit //... not all detailed exam orders match their summary below this point
 
   intro
   look
@@ -429,7 +424,7 @@ orbit // correct detailed to match summary below this point
       venous congestion
 
   introduction
-    'Hi, my name is Dustin, thanks for coming in today.'
+    `Hi, my name is ${name}, thanks for coming in today.`
     shake hands
     'May I please have the visual acuity and IOP?'
   look at the patient
@@ -584,7 +579,7 @@ lids
     slitlamp
 
   introduction
-    'Hi, my name is Dustin, thanks for coming in today.'
+    `Hi, my name is ${name}, thanks for coming in today.`
     shake hands
     'May I please have the visual acuity?'
   look at the patient
@@ -736,7 +731,7 @@ motility // see strabismus.txt for more detail
     DFE
 
     introduction
-      'Hi, my name is Dustin. Thanks for coming in today.'
+      `Hi, my name is ${name}. Thanks for coming in today.`
       shake hands
       'May I please have the visual acuity?'
     sit
