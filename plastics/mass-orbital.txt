@@ -28,7 +28,8 @@ orbital mass
     look for bony destruction
     this should make you think of CA or histiocytic disorder
   labs based on relevant DDx
-
+  if you find cancer in the orbit
+    complete staging with an oncologist
 
 //
 
@@ -332,7 +333,7 @@ orbital mass DDx:
 //
 
 
-treatment // consider reordering
+treatment //... order
   cavernous hemangioma
     observe if they are small
     complete excision for
@@ -348,10 +349,10 @@ treatment // consider reordering
       extensive hemorrhage
       integration of normal structures
     observe
-    embolise
+    embolize
   CC fistula
     observe
-    embolise
+    embolize
   meningioma
     observe
     radiation
@@ -432,7 +433,7 @@ treatment // consider reordering
         radiation
         chemo
       RARELY: debulk
-        // assume surgery will cause permanent visual loss
+        NOTE: assume surgery will cause permanent visual loss
   plexiform neurofibroma
     observe
     excise for
@@ -498,53 +499,53 @@ lateral orbitotomy
 //
 
 
-2014 semester 2 paper 1A question 4 DDx:
+Sample RACE DDx: 2014 semester 2 paper 1A
 
-infectious
-  TB
-    most other infectious causes would have injection, pain
+  infectious
+    TB
+      most other infectious causes would have injection, pain
 
-inflammatory
   inflammatory
-    sarcoid
-    possibly NSOI
-      unlikely without pain
-  autoimmune
-    TED
+    inflammatory
+      sarcoid
+      possibly NSOI
+        unlikely without pain
+    autoimmune
+      TED
 
-neoplastic
-  solid
-    SCC
-      from adjacent NPC
-    RARELY: plasmacytoma
-    RARELY: soft tissue sarcoma
-      usually has calcifications
-  vascular
-    cavernous hemangioma
-    hemangiopericytoma
-    LM
-      usually has a fluid level
-      try to avoid resection or do subtotal resection
-    VM OR AVM
-      usually you can see vascular channels
-      can't really resect or biopsy
-      sometimes you can embolize them or embolize and then resect
-  lymphoproliferative
-    LH OR lymphoma
-      usually B-cell NHL
-        send some of the tissue fresh
-          test for monoclonal surface cell markers
-            flow cytometry
-            immunoassay
-          molecular genetic studies
-            FISH
-            PCR
-        concurrent systemic lymphoma
-          eyelid has greatest risk
-          orbit has intermediate risk
-          conjunctiva has lowest risk
-          treat with radiation
-  metastatic
-    lung
-    prostate (men)
-    breast (women)
+  neoplastic
+    solid
+      SCC
+        from adjacent NPC
+      RARELY: plasmacytoma
+      RARELY: soft tissue sarcoma
+        usually has calcifications
+    vascular
+      cavernous hemangioma
+      hemangiopericytoma
+      LM
+        usually has a fluid level
+        try to avoid resection or do subtotal resection
+      VM OR AVM
+        usually you can see vascular channels
+        can't really resect or biopsy
+        sometimes you can embolize them or embolize and then resect
+    lymphoproliferative
+      LH OR lymphoma
+        usually B-cell NHL
+          send some of the tissue fresh
+            test for monoclonal surface cell markers
+              flow cytometry
+              immunoassay
+            molecular genetic studies
+              FISH
+              PCR
+          concurrent systemic lymphoma
+            eyelid has greatest risk
+            orbit has intermediate risk
+            conjunctiva has lowest risk
+            treat with radiation
+    metastatic
+      lung
+      prostate (men)
+      breast (women)

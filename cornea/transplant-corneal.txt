@@ -15,7 +15,7 @@ graft rejection
     KP
     diffuse graft edema
     Khodadoust line
-      near the vascularised edge of the graft
+      near the vascularized edge of the graft
     AC cell
     5+ KP + Khodadoust = severe rejection
     for endothelial rejection
@@ -31,7 +31,7 @@ graft rejection
       rejection persists 3 months
       vision is compromised by edema
     HSV recurrence in a corneal graft
-      delay topical steroids until (nearly) epithelialised
+      delay topical steroids until (nearly) epithelialized
       if HSV recurs in a graft while on aciclovir
         aciclovir resistance testing
 
@@ -68,7 +68,7 @@ likely graft rejection
   poor donor match
   treatment
     ADMIT
-    remove vascularised sutures
+    remove vascularized sutures
     culture any suspicious infiltrate
     hourly PF
     IV or oral steroids

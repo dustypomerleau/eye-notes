@@ -33,7 +33,7 @@ DDx
   IOP measurement error
     not really 'normal' tension
     due to CCT or human/testing error
-  prior glaucoma with normalised IOP
+  prior glaucoma with normalized IOP
     steroid response
     intermittent ACG
 

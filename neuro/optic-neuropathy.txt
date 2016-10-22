@@ -252,7 +252,7 @@ optic neuropathy DDx
     vasculitis
       GCA
         symptoms
-          localised HA
+          localized HA
           jaw claudication
             by far the most specific for GCA
             maxillary artery ischemia to the masseter muscle
@@ -274,7 +274,7 @@ optic neuropathy DDx
               swollen, spongy knees or elbows
         1990 ACR GCA criteria (3+/5)
           age 50+
-          new onset localised HA
+          new onset localized HA
           abnormal superficial temporal artery
             tenderness
             reduced pulsation
@@ -363,7 +363,7 @@ optic neuropathy DDx
             value of IV steroids isn't clear
               with severe vision loss
                 ADMIT for IVMP
-                  1 g daily until stabilised
+                  1 g daily until stabilized
             ASA OK
               common practice
                 because platelet levels tend to be elevated

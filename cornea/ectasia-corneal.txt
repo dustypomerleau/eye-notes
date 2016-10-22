@@ -139,7 +139,7 @@ ectasia-corneal.txt
         best candidates are 400+ µm at thinnest point
           risk of endothelial failure with 400- µm thickness
       links between tyrosines on collagen fibrils
-      tyrosine is oxidised to dityrosine
+      tyrosine is oxidized to dityrosine
       UVA causes the oxidation
       riboflavin potentiates the effect of UVA
       avoid crosslinking
@@ -160,7 +160,7 @@ ectasia-corneal.txt
         epi off using alcohol
         (0.1% riboflavin + 20% dextran) x 30 minutes
         UVA @ 3 mW/cm2 x 30 minutes
-        BCTL until epithelialised
+        BCTL until epithelialized
         Chlorsig + FML qid
         exams at (1, 3, 7, 30) days    DALK
       only if no history of hydrops

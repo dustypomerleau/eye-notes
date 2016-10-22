@@ -1,6 +1,6 @@
 nystagmus
 
-  nystagmus may take time to characterise
+  nystagmus may take time to characterize
     approach systematically
       monocular or binocular
       horizontal, vertical, or rotary

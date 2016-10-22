@@ -1,5 +1,19 @@
 eyelid neoplasms
 
+/*
+with any skin or orbit lesion
+  first goal is establish the diagnosis
+    biopsy if it's uncertain
+  with skin cancer the key is margin control
+    Mohs is generally best if available
+    24 h paraffin probably second
+      wait until day 2 to repair the defect
+        that way you can do further excision if necessary
+    routine frozen section can miss things but is better than nothing
+  for cancer in the orbit the patient needs complete staging
+    i.e. is it confined to the orbit or not?
+*/
+
 history
   pace of onset
   sun exposure
@@ -32,7 +46,7 @@ DDx
     generally observe
     if cystic
       shave
-      marsupialise
+      marsupialize
     if viral
       cryo
     squamous papilloma
@@ -136,7 +150,7 @@ DDx
       perineural invasion of SCC can affect the orbit and cavernous sinus
       if there is a CNP associated with SCC
         thin cut MRI ± gad of orbit and cavernous sinus
-      anytime you can't see the whole lesion
+      if you can't see the whole lesion
         scan
     sebaceous cell carcinoma (4+ mm)
       very aggressive
@@ -144,7 +158,7 @@ DDx
         Muir-Torre syndrome
           colon CA
           genitourinary CA
-      ideally if localised you would perform full-thickness excision
+      ideally if localized you would perform full-thickness excision
         need excellent margin control
       if there is pagetoid spread into the orbit
         exenteration

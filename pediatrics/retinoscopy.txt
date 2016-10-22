@@ -5,7 +5,7 @@ retinoscopy
     whichever is first
   make your power cross
     label the ˚ of both meridians
-    label the power of the meridian you just neutralised
+    label the power of the meridian you just neutralized
   neutralize 90˚ away
     label the power of that meridian
       in absolute terms
@@ -13,5 +13,5 @@ retinoscopy
     use the difference between the two absolute powers for the cyl
     picture the direction the streak is oriented for that meridian
       that's your axis
-      90˚ away
-  -1.5 working distance from the sphere for final Rx
+      90˚ away from the meridian
+  -1.5 D working distance from the sphere for final Rx

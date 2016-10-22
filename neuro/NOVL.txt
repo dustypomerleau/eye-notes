@@ -96,8 +96,8 @@ nonorganic visual loss
         red-green glasses ensure that each letter can only be read by one eye
         say
           I'm going to do a short color test.
-      polarised eye charts
-        polarised glasses with vertical and horizontal axes
+      polarized eye charts
+        polarized glasses with vertical and horizontal axes
         same as red-green charts with alternating axes of polarization
     tests useful for monocular OR binocular NOVL
       // cover the good eye as needed in monocular NOVL

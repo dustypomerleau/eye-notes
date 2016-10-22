@@ -13,7 +13,7 @@ TED
         peaks and plateaus
         gradually improves over 1-2 years
       static phase
-        stabilises
+        stabilizes
     effects of poorly managed TED can last a lifetime
       TALK to the patient
       tell them what to expect

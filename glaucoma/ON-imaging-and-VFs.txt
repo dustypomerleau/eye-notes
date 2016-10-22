@@ -36,7 +36,7 @@ perimetry
       FP
       FN
     mean difference map measures average sensitivity loss
-    PSD highlights localised loss
+    PSD highlights localized loss
       very complex formula but the concept is not complex
         BROADLY: involves the SD of the set of numbers resulting from
         (threshold at each point - value in age-matched controls)

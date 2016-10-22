@@ -338,7 +338,7 @@ low IOP after trabeculectomy
       limits bleb size
     transconjunctival scleral flap sutures
     autologous blood patch
-    AC OVD (to temporise)
+    AC OVD (to temporize)
     bleb revision with new flap sutures
   bleb leak
     2% fluorescein minims to identify
@@ -353,7 +353,7 @@ low IOP after trabeculectomy
     scleral CTL
     fibrin glue
     autologous blood patch
-    AC OVD (to temporise)
+    AC OVD (to temporize)
     conjunctival graft OR
     full bleb revision
   wound leak

@@ -248,7 +248,7 @@ glaucoma classification
       treatment
         LPI is the definitive therapy
         debate about miotics as you know
-        topical antihypertensives to temporise
+        topical antihypertensives to temporize
         mannitol
           hang 500 mL 20% mannitol
           give 1 g/kg over 1 hour
@@ -290,7 +290,7 @@ glaucoma classification
         hang 500 mL 20% mannitol
         give 1 g/kg over 1 hour
           (100 g if you give the whole bag)
-      topical antihypertensives to temporise
+      topical antihypertensives to temporize
     SACG AKA intermittent ACG
       frontal or bifrontal HA
       blurred vision

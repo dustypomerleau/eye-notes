@@ -38,8 +38,8 @@ For each question, start with a template
       when studying
         don't waste your time on extensive lists
           if you are a naturally thorough person, this will require discipline
-        a memorised, organised, instantly accessible shortlist will pass
-        a half-forgotten, disorganised, long list will fail (and eat up time)
+        a memorized, organized, instantly accessible shortlist will pass
+        a half-forgotten, disorganized, long list will fail (and eat up time)
       any type of list on the RACE scores better if
         you only list the 3 things the examiner is thinking of
         AOT
@@ -125,20 +125,3 @@ A pass grade for the exam is therefore 37/46 for the writtens and 15/18 for the 
 
 OSCE
   avoid 'of course,' 'obviously'
-
-
-//
-
-
-plastics tute
-  with any skin or orbit lesion
-    first goal is establish the diagnosis
-    biopsy if it's uncertain
-  mention "margin control" methods when excising skin cancer
-    Mohs is generally best if available
-    24 h paraffin probably second
-      wait until day 2 to repair the defect
-        that way you can do further excision if necessary
-    routine frozen section can miss things but is better than nothing
-  for neoplastic disease of the orbit mention "patient needs complete staging"
-    i.e. is it confined to the orbit

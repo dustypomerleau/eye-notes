@@ -178,7 +178,7 @@ observation
     ptosis
     fissure symmetry
   nystagmus
-    may take time to characterise
+    may take time to characterize
     approach simply
       uniocular or binocular
       horizontal, vertical, or rotary
@@ -496,13 +496,13 @@ abbreviated binocularity testing in an infant
         X -> A = XT
     stereo tests
       Titmus stereo fly
-        polarised glasses
+        polarized glasses
         3000+" of arc @ 40 cm
           people tend to do these tests too close
           instructions give a range of arcs
             depending on which part of the fly you look at
       Titmus animals
-        polarised glasses
+        polarized glasses
         400-100"
           400
           200
@@ -512,7 +512,7 @@ abbreviated binocularity testing in an infant
         shapes seen
         200"
       Titmus circle test
-        polarised glasses
+        polarized glasses
         800-40"
           800
           400

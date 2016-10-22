@@ -37,16 +37,16 @@ toxoplasmosis
       options
         Bactrim DS (trimethoprim/sulfamethoxazole 160/800) bd x 4-6 weeks
           avoid in sulfa allergy
-          RARELY causes SJS
+          RARELY: causes SJS
         atovaquone 750 mg qid
           expensive
           may cause nausea
-        triple therapy (PSF 25(2) 1(4) 5(1/2))
+        triple therapy (PSF 25(2) 1(4) 5(EOD))
           pyrimethamine 25 mg bd
             may cause bone marrow suppression and any type of pancytopenia
           sulfadiazine 1 g qid
             avoid in sulfa allergy
-            RARELY causes SJS
+            RARELY: causes SJS
           folinic acid 5 mg 3x/week
             prevents pyrimethamine-associated anemia
           ± clindamycin 300 mg qid

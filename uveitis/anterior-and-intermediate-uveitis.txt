@@ -2,10 +2,10 @@ anterior and intermediate uveitis
 
 /*
 see also
-  toxoplasmosis-treatment.txt
-  chorioretinitis-DDx.txt
-  scleritis-DDx.txt
-  retinal-vasculitis-DDx.png // change to your text file
+  toxoplasmosis.txt
+  chorioretinitis.txt
+  scleritis-episcleritis.txt
+  vasculitis-retinal.txt
 
 conditions here may overlap
   panuveitis

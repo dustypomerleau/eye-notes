@@ -1,7 +1,0 @@
-genetics.txt
-
-HLA
-  B27 - SS & anterior uveitis
-  A29 - birdshot
-  B51 - Behcet
-  DR4 & DRB1 - VKH

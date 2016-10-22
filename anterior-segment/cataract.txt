@@ -61,10 +61,8 @@ determining true corneal power and proper IOL power after KRS
   ELP calcs are usually based on corneal power
     post-KRS ELP is more posterior than the calcs would indicate
 
-  summary of post-KRS options for calculating IOL
-
 /*
-for RACE purposes
+for exam purposes
   just say
     if I have sufficient data I would use the ASCRS online calculator
     if I don't have good preop data
@@ -72,6 +70,7 @@ for RACE purposes
       Haigis-L on the IOL Master
 */
 
+  summary of post-KRS options for calculating IOL
     post-myopic-KRS
       clinical history
       corneal bypass
@@ -274,7 +273,7 @@ adjustments when moving from bag to sulcus
   ideally this is pre-calculated
   in an emergency
     Pomerleau simplification of Dubey (2012) and others
-      +10+ D
+      +10+ D // read as 'above plus ten diopters'
         subtract 0.5 D
       +18+ D
         subtract 1 D
@@ -285,11 +284,11 @@ IOL calcs in 26+ mm long eyes
   Warren Hill's interpretation of data from Doug Koch and Li Wang
     // http://www.doctor-hill.com/iol-main/extreme_axial_myopia.htm
     target moderate myopia
-    Holladay 1 formula using an optimised optical biometry AL:
+    Holladay 1 formula using an optimized optical biometry AL:
       AL = (0.8289 * measured AL) + 4.2663
       no need to adjust the A-constant when using this method
       not for use in prior KRS
-        KRS formulas above are already optimised for long eyes
+        KRS formulas above are already optimized for long eyes
 
 IOL calcs in 22- mm short eyes
   Haigis consistently best
@@ -713,7 +712,7 @@ postop
 
 
 // from VSAQ
-//... organise
+//... organize
 
 drugs that cause cataract "Seriously, People? Cataract Quizzing? Hello???"
   steroids

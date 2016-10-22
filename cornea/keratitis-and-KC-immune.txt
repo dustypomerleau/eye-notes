@@ -14,7 +14,7 @@ immune keratoconjunctivitis
     lubrication
     topical
       antihistamines
-      mast cell stabilisers
+      mast cell stabilizers
       NSAIDs
       steroids
     systemic antihistamines
@@ -46,7 +46,7 @@ immune keratoconjunctivitis
       topical
         antihistamines
           olopatadine
-        mast cell stabilisers
+        mast cell stabilizers
           cromolyn
         steroids
           good for acute exacerbation
@@ -100,7 +100,7 @@ immune keratoconjunctivitis
       topical
         lubrication
         antihistamines
-        mast cell stabilisers
+        mast cell stabilizers
         topical steroids
         cyclosporine
         tacrolimus ointment
@@ -302,7 +302,7 @@ immune keratitis
       reconstructive keratoplasty
         only once the underlying disease is well controlled
         or emergently for perforation with flat chamber
-        cyanoacrylate for small holes or to temporise
+        cyanoacrylate for small holes or to temporize
         lamellar keratoplasty is definitive
           mark the region and cut a template from plastic sheeting
           cut the outline partial thickness
