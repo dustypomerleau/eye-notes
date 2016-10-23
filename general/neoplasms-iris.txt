@@ -1,8 +1,8 @@
 // https://github.com/dustypomerleau/eye-notes
 
-iris tumors
+// Thanks to Jerry Shields, who covered much of this information in a lecture.
 
-// see images from Jerry Shields' talk
+iris tumors
 
   neoplasm
 

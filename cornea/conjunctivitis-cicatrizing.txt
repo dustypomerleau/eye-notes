@@ -17,7 +17,7 @@ SJS is used here to represent the full continuum
         usually HIV + pneumocystis jiroveci
         HIV + PJ => SJS
     bacterial
-      HIV + PJ => SJS as above
+      HIV + PJ => SJS (as above)
       trachoma
       Streptococcus
         usually beta-hemolytic
@@ -241,8 +241,8 @@ treatment
 //
 
 
-  trachoma //... to be completed
-    grading (T-FIST-CO)
+  trachoma //...
+    grading (T[FIST]-CO)
       follicular conjunctival inflammation (TF)
         5+ UL
         necrotic limbal follicles

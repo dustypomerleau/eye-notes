@@ -1,8 +1,7 @@
 // https://github.com/dustypomerleau/eye-notes
 
 //... update with AAO PPP
-//... update with The International Workshop on Meibomian Gland Dysfunction: Executive Summary
-
+//... update with The International Workshop on Meibomian Gland Dysfunction Executive Summary
 
 blepharitis
   may coexist with

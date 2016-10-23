@@ -1,8 +1,8 @@
 // https://github.com/dustypomerleau/eye-notes
 
-// These are my notes on the 2006 edition of the AAO BCSC uveitis textbook.
-// They contain some useful information, but are not current and will not be updated.
-
+/*
+These are my notes on the 2006 edition of the AAO BCSC uveitis textbook. I do not plan to edit or update these notes, but they do contain helpful information, so I've left them in.
+*/
 
 Acute nongranulomatous anterior uveitis (pain, redness, photophobia). More often unilateral, attack over days to weeks, can alternate eyes.
 

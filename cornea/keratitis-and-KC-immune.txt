@@ -2,11 +2,13 @@
 
 immune keratoconjunctivitis
 
-// atopic-allergic is a continuum rather than binary
+// atopic-allergic is a continuum, not binary
 
   allergic KC
     COMMON: seasonal
-    ALSO: perennial (IgE AOT atopic KC)
+    ALSO: perennial
+    IgE mediated
+      AOT atopic KC
     allergic rhinitis
     asthma
     severe itch
@@ -71,7 +73,8 @@ immune keratoconjunctivitis
 
   atopic KC
     year-round
-      cell-mediated AOT perennial allergic KC
+      cell-mediated
+        AOT perennial allergic KC
     older
       peak 30-50 YO
     systemic associations
@@ -79,7 +82,8 @@ immune keratoconjunctivitis
       asthma
     small papillae
     upper and lower lids
-      lower lids usually worse AOT VKC
+      lower lids usually worse
+        AOT VKC
     milky, subepithelial fibrosis of the tarsus
     madarosis
       eyelashes
@@ -155,8 +159,7 @@ immune keratitis
       Chlorsig ointment qhs
       omega 3 LCPUFA
 
-  interstitial keratitis
-    // see keratitis-infectious.txt for DDx
+  interstitial keratitis // see keratitis-infectious.txt for DDx
 
   PUK
     true PUK is autoimmune by definition
@@ -181,8 +184,7 @@ immune keratitis
             HIV
             Hep. C
         bacterial
-          BROADLY: infectious keratitis
-            // see  keratitis-infectious.txt
+          BROADLY: infectious keratitis // see keratitis-infectious.txt
           systemic
             TB
             syphilis
@@ -222,7 +224,7 @@ immune keratitis
                     true PUK
               painful
                 but no adjacent scleritis
-                AOT infection OR PUK
+                  AOT infection OR PUK
               limbus is involved
                 AOT Terrien marginal degeneration
               epi defect
@@ -285,7 +287,7 @@ immune keratitis
           FTA-ABS
           genital swab
             gonorrhea
-            chlamydia
+            Chlamydia
         RF
         ANCA
         ESR
@@ -302,8 +304,8 @@ immune keratitis
           the 1˚ treatment of PUK is systemic
           topical steroids are just an adjunct
       reconstructive keratoplasty
-        only once the underlying disease is well controlled
-        or emergently for perforation with flat chamber
+        only once the underlying disease is well controlled OR
+        emergently for perforation with flat chamber
         cyanoacrylate for small holes or to temporize
         lamellar keratoplasty is definitive
           mark the region and cut a template from plastic sheeting

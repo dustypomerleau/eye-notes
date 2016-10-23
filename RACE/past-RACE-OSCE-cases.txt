@@ -177,8 +177,8 @@ uveitis
   MC
   MEWDS
     broad WDS questioning
-  necrotising scleritis
-  necrotising scleritis
+  necrotizing scleritis
+  necrotizing scleritis
   neuroretinitis
   occlusive retinal vasculitis
   postoperative endophthalmitis
@@ -194,7 +194,7 @@ uveitis
     CMV retinitis
     JIA
     MC
-    necrotising scleritis
+    necrotizing scleritis
     sarcoid
 
 

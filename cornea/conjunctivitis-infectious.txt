@@ -5,7 +5,7 @@ infectious conjunctivitis
   hyperacute
     gonococcus
       gram stain
-        g- intracellular diplococci
+        gram- intracellular diplococci
       Thayer-Martin
       PCR
       ceftriaxone 250 mg IV OR IM
@@ -14,7 +14,7 @@ infectious conjunctivitis
         can perforate quickly
         use quinolones
           gonococcus may be CPL resistant
-      treat chlamydia
+      treat Chlamydia
         azithromycin 1 g
       treat partners
     meningococcus
@@ -30,7 +30,7 @@ infectious conjunctivitis
 
 
   neonatal conjunctivitis
-    COMMON: chlamydia
+    COMMON: Chlamydia
       pseudomembranes
       pus
       fewer follicles than adults
@@ -62,7 +62,7 @@ infectious conjunctivitis
     HSV
     molluscum
       umbilicated nodules at the lid margin
-    chlamydia
+    Chlamydia
       preauricular adenopathy
       can mimic adenovirus
         history
@@ -97,7 +97,7 @@ infectious conjunctivitis
       ALSO:
         TB
         syphilis
-        chlamydia
+        Chlamydia
         M. leprae
         Francisella tularensis
         Yersinia pseudotuberculosis
@@ -109,7 +109,9 @@ PCR options
   CMV
   Chlamydia
   gonorrhea
-  (toxoplasma)
+  RARELY: toxoplasma
+    best lab for toxoplasma is in Palo Alto
+    http://www.pamf.org/serology/
 
 
 //
@@ -147,7 +149,7 @@ pseudomembranes
 
 systemic testing
   sexual health referral in all cases
-  chlamydia
+  Chlamydia
     urine
       PCR
     urethral or cervical swab
@@ -170,15 +172,9 @@ systemic testing
 
 
 herpes viruses
-  HHV 1
-    HSV
-  HHV 2
-    HSV
-  HHV 3
-    VZV
-  HHV 4
-    EBV
-  HHV 5
-    CMV
-  HHV 8
-    Kaposi sarcoma
+  HHV 1: HSV 1
+  HHV 2: HSV 2
+  HHV 3: VZV
+  HHV 4: EBV
+  HHV 5: CMV
+  HHV 8: Kaposi sarcoma

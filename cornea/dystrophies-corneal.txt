@@ -25,7 +25,7 @@ corneal dystrophies
       treatment
         debridement
           may cause RCES
-          micropuncture
+          micropuncture // out of favor - see details in OSD.txt
           diamond burr polishing
             debride epithelium with a blade or weck first
             go 1 direction 10-15 seconds total across whole corneal surface
@@ -116,7 +116,7 @@ corneal dystrophies
       dandruff opacities in an infant
       not VS
     AD central cloudy dystrophy of Francois
-      AD inherited posterior crocodile shagreen appearance
+      posterior crocodile shagreen appearance with AD inheritance
 
   endothelial
     sporadic FECD

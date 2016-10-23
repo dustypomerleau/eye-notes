@@ -1,6 +1,6 @@
 // https://github.com/dustypomerleau/eye-notes
 
-ectasia-corneal.txt
+corneal ectasia
 
   KCN
     // rule out pellucid (lobster claw topography) before diagnosing KCN
@@ -158,13 +158,14 @@ ectasia-corneal.txt
         stromal haze
         persistent epi defect
         pain to be expected
-      Dresden (2008) protocol used in AU
+      Dresden protocol (2008) // used in AU
         epi off using alcohol
         (0.1% riboflavin + 20% dextran) x 30 minutes
         UVA @ 3 mW/cm2 x 30 minutes
         BCTL until epithelialized
         Chlorsig + FML qid
-        exams at (1, 3, 7, 30) days    DALK
+        exams at (1, 3, 7, 30) days
+    DALK
       only if no history of hydrops
       pros
         low risk of rejection
@@ -182,9 +183,10 @@ ectasia-corneal.txt
       better at locating the posterior corneal surface
       more accurately measures thickness
     tomography only
-      "topography" is generated
+      'topography' is generated
       less sensitive to topographic contours than a placido system
-      Galilei is better - it has Placido topography + Scheimpflug tomography
+      Galilei is better // see below
+        Placido topography + Scheimpflug tomography
   Orbscan
     horizontal slit-beam images of the anterior and posterior cornea
     combined with Placido-based topography of the anterior cornea

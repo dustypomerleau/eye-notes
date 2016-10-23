@@ -22,7 +22,7 @@ refractive surgery options
 
     calculating maximum possible ablation in diopters
       plan to leave minimum 300 µm base
-      flap thickness ~ 110 µm
+      LASIK flap thickness ~ 110 µm
         less in LASEK and epi-LASIK
       ablation ~ 15 µm/D
       so maximum ablation in D = (CCT - 110 - 300)/15
@@ -37,7 +37,7 @@ refractive surgery options
       endothelial cell loss
       glaucoma
         pupil block
-          ALWAYS: perform LPI x 2 (usually 1100 & 0100) 1 week before surgery
+          ALWAYS: perform LPI x 2 (usually @ 11 & 1) 1 week before surgery
         pigmentary
       cataract
     but these aspects are improving with better lens design
@@ -85,7 +85,8 @@ KRS complications
         aggressive topical steroids
           ± lift flap and irrigate
     PRK
-      stromal haze // use MMC
+      stromal haze
+        MMC reduces haze
       sterile infiltrates
       epi defects
       LSCD

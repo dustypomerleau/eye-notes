@@ -64,7 +64,7 @@ DES
         autologous serum drops
           first test
             HIV
-            Hep [BC]
+            Hep. [BC]
             syphilis
           100 mL peripheral blood
             clot for 2 hours
@@ -105,7 +105,7 @@ DES
             patient can apply at home
         topical acetylcysteine
         antiinflammatory
-          topicalsteroids
+          topical steroids
           cyclosporine A
           T-cell inhibitors
             lifitegrast
@@ -159,7 +159,7 @@ band keratopathy
   hypercalcemia
   silicone oil in the AC
   trauma
-  exposure K
+  exposure keratopathy
 
 LSCD
   MMP
@@ -299,7 +299,7 @@ RCES
     down to the Bowman layer with a 15 blade
     apply absolute alcohol with a cotton tip
       causes mild inflammation so the epithelium will stick
-  stromal micropuncture
+  stromal micropuncture // out of favor given success with PTK
     80% effective
       complications
         blurred vision from visual axis scarring

@@ -1,9 +1,16 @@
 // https://github.com/dustypomerleau/eye-notes
 
 infectious keratitis
+
+/*
+for exam purposes
   ALWAYS: scrape even if intact epithelium
     e.g. infectious crystalline keratopathy
     always establish the diagnosis
+in practice
+  some cases may be treated presumptively under close monitoring
+  e.g. CTL-associated infectious keratitis with a tiny ED
+*/
 
 infectious keratitis DDx
 
@@ -11,7 +18,7 @@ infectious keratitis DDx
     HSV OR VZV
       epithelial keratitis
         dendritic
-          NEVER put steroids on a dendrite
+          NEVER: put steroids on a dendrite
           zoster dendrites
             stain less
             blunt ends instead of bulbs
@@ -20,7 +27,7 @@ infectious keratitis DDx
             uveitis
             Olmsted data
         geographic
-        HEDS does not address recurrent epithelial keratitis
+        NOTE: HEDS does not address recurrent epithelial keratitis
 
       stromal keratitis
         interstitial keratitis // see below for details
@@ -31,7 +38,7 @@ infectious keratitis DDx
           stromal edema is 2˚
           AC reaction is mild
             AOT AUNGAU
-        necrotising stromal keratitis
+        necrotizing stromal keratitis
           can mimic bacterial OR fungal keratitis
         HEDS
           stromal keratitis
@@ -39,7 +46,7 @@ infectious keratitis DDx
               q 2 hours
               taper weekly based on response
             oral aciclovir 400 bd cuts recurrence in half
-              cost of Valtrex 500 daily ~= aciclovir 400 bd in AU
+              cost of Valtrex 500 daily ~= aciclovir 400 bd // in AU
               if kidney function is poor
                 avoid long term aciclovir OR Valtrex
         stromal scarring
@@ -48,9 +55,10 @@ infectious keratitis DDx
         use preoperative antivirals before CEIOL OR PK
           aciclovir 800 mg bd 3 days before
           valaciclovir 500 mg bd 2 days before
-          famcyclovir 250 bd 2 days before
+          famciclovir 250 bd 2 days before
           when to stop?
-            1 week to 1 year depending on the severity/number of previous events
+            1 week to 1 year
+              depending on the severity/number of previous events
       ± concurrent
         blepharoconjunctivitis
         NVK
@@ -89,7 +97,6 @@ infectious keratitis DDx
               3rd or 4th generation quinolone OR
               fortified cefazolin 50 mg/mL OR
               fortified vancomycin 50 mg/mL
-
     nocardia
     Pseudomonas
       CTL wearers
@@ -138,8 +145,8 @@ infectious keratitis DDx
             KCN
             FED
             MM
-            PPMD
-            MEN 2[ab]
+            PPCD
+            MEN2[ab]
             NF1
             familial dysautonomia AKA Riley-Day syndrome
             Refsum disease
@@ -164,8 +171,8 @@ infectious keratitis DDx
           take epithelium and anterior stroma
           3 mm site is standard
       do not confuse with HSV
-        more painful
-        infiltrates are multifocal
+        Acanthamoeba is more painful
+        Acanthamoeba infiltrates are multifocal
       treatment
         biguanides
           chlorhexidine 0.02%
@@ -177,15 +184,15 @@ infectious keratitis DDx
             not used first line
             not used as monotherapy
           hexamidine 0.1%
-        minimum of 2 weeks biguanide therapy before considering topical steroids
+        before considering topical steroids
+          minimum of 2 weeks biguanide therapy
         4th gen. quinolone
           prophylaxis
-          they probably use oflox in AU
+          // they probably use oflox in AU
         PK OR DALK
           only if quiet for 6 months
 
-  PUK
-    // see keratitis-and-KC-immune.txt for PUK DDx
+  PUK // see keratitis-and-KC-immune.txt for PUK DDx
 
   culture
     cornea
@@ -193,27 +200,27 @@ infectious keratitis DDx
         PF benoxinate minims
       speculum
       ALWAYS: do viral swabs for PCR
-        it's easy
         helps eliminate herpetic infection
       scrape ulcer base and edges
-        21 g needle
-        new needle for each medium (6)
-          slide 1
-            1 drop methanol
-          slide 2
-            1 drop methanol
-          sheep blood agar
-          chocolate agar
-          fungal slope
-            Sabouraud dextrose agar
-          Acanthamoeba slope
-            non-nutrient agar with E. coli overlay
-        alginate swab
-          break into thioglycollate broth
-        label agar-side of plates
-        label slides in pencil
-    eyelid margin
-      for significant blepharitis
+        RVEEH method
+          21 g needle
+          new needle for each medium (6)
+            slide 1
+              1 drop methanol
+            slide 2
+              1 drop methanol
+            sheep blood agar
+            chocolate agar
+            fungal slope
+              Sabouraud dextrose agar
+            Acanthamoeba slope
+              non-nutrient agar with E. coli overlay
+          alginate swab
+            break into thioglycollate broth
+          label agar-side of plates
+          label slides in pencil
+    if there is significant blepharitis
+      culture the eyelid margin
     CTLs
     CTL case
 
@@ -263,7 +270,6 @@ neurotrophic ulcers OR neurotrophic overlay
       urgent PK is sometimes required
       innervation is still poor after a transplant
       may need to add partial tarsorrhaphy over the PK
-
 
 
 //

@@ -2,6 +2,7 @@
 
 primary graft failure
   graft never clears after surgery
+
 graft rejection
   graft was clear after surgery for at least 2 weeks
   epithelial rejection
@@ -74,8 +75,9 @@ likely graft rejection
     culture any suspicious infiltrate
     hourly PF
     IV or oral steroids
-      no evidence for IVMP over po prednisolone
-      //... revisit this Elsie says no evidence for systemic
+      optional
+        no real evidence systemic steroids help
+        no evidence for IVMP over po prednisolone
     Chlorsig prophylaxis
 
 specular microscopy report
@@ -93,7 +95,7 @@ specular microscopy report
     measures polymegathism
     i.e. How variable are the cell areas?
     0.4+ is abnormal
-  percentage of 6-sided cells (6P)
+  percentage of 6-sided cells (6A)
     measures pleomorphism
     50-% is abnormal
   abnormal specular microscopy
@@ -103,7 +105,7 @@ specular microscopy report
         hypertonic saline
     PBK
       Chlorsig prophylaxis if ruptured bullae
-    ICE
+    ICE syndrome
     CTL
     anterior uveitis
     glaucoma
@@ -112,11 +114,9 @@ specular microscopy report
 
 when combining or staging DSEK + CEIOL
   DSEK may induce hyperopia
-  aim more myopic than usual
-    ~ -2
-  DMEK would significantly reduce this concern
-    still mostly DSEK in AU
-    so mention hyperopic shift
+    aim more myopic than usual
+      ~ -2
+    DMEK significantly reduces this concern
   DSEK + CEIOL
     higher failure rate of DSEK
     perform CEIOL first unless
@@ -143,4 +143,4 @@ pain after DSEK OR DMEK
         medically
         in an emergency
           burp air out the wound
-  epi defect
+  ED

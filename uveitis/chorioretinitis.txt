@@ -62,7 +62,7 @@ shortlist
             ARN is a clinical triad
               vitritis
                 usually with anterior uveitis
-              necrotising retinitis
+              necrotizing retinitis
                 circumferential spread
               occlusive vasculitis
             untreated

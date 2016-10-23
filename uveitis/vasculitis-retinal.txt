@@ -72,6 +72,7 @@ retinal vasculitis DDx
         RARELY: serpiginous
       dermatomyositis
       anti-Ro/SSA Ab
+      Cogan syndrome // see keratitis-infectious.txt
     vasculitis
       Behcet
         Middle East
