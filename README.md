@@ -48,6 +48,11 @@ Maybe. If you think I've got something wrong, you should create a GitHub account
 ### I don't understand your abbreviations.
 
 Check out `abbreviations.txt` for an explanation.
+
+
+### I see files/folders that don't look like notes about the eye.
+
+They do serve a purpose, but you can ignore them.
   
   
 ### What do the ALL-CAPS keywords mean?
