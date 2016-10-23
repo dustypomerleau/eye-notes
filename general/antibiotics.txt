@@ -1,6 +1,6 @@
 // https://github.com/dustypomerleau/eye-notes
 
-antibiotic susceptibilities
+antibiotic susceptibilities // ideally you would know these for your region
 
   cephalosporins
     1st generation
@@ -31,24 +31,24 @@ antibiotic susceptibilities
 
   fluoroquinolones
     2nd generation
+      moderate gram-positive coverage
+        covers SA but not pneumococcus
       good gram-negative coverage
         including Pseudomonas
-      poor gram-positive coverage
-        covers SA but not pneumococcus
       ciprofloxacin
       ofloxacin
     3rd generation
       better gram-positive coverage than 2nd generation
         including pneumococcus
-        better atypical coverage
+      better atypical coverage than 2nd generation
       nearly as good gram-negative coverage as 2nd generation
       levofloxacin
     4th generation
       better gram-positive coverage than 3rd generation
-        still need vancomycin if patient has MRSA
+        for MRSA you still need vancomycin
       similar gram-negative coverage to 3rd generation
       broad anaerobic coverage
-      cover atypical mycobacteria
+      good coverage of atypical mycobacteria
         common in post-LASIK infections
           M. fortuitum
           M. chelonae

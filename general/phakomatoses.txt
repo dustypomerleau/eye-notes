@@ -5,32 +5,31 @@ phakomatoses AKA neurooculocutaneous syndromes
   NF1
     1/2 AD
     1/2 sporadic
-    melanocytic lesions:
-      melanocytic lesions
-        skin
-          cafe au lait spots
-        uveal tract
-          Lisch nodules
-            commonly visible at 5+ YO
-            a few patients don't get them until their teens
-          choroidal nodules
-      glial cell lesions
-        skin
-          nodular neurofibromas
-          plexiform neurofibromas
-            can cause amblyopia
-            difficult to remove
-            can be debulked
-              ± frontalis sling
-            increases risk of glaucoma on the affected side
-        CNS
-          optic nerve gliomas
-          chiasmal gliomas
-            try to watch them
-              if significant proptosis OR
-              elevated ICP
-                debulking
-                ± chemo and radiation
+    melanocytic lesions
+      skin
+        cafe au lait spots
+      uveal tract
+        Lisch nodules
+          commonly visible at 5+ YO
+          a few patients don't get them until their teens
+        choroidal nodules
+    glial cell lesions
+      skin
+        nodular neurofibromas
+        plexiform neurofibromas
+          can cause amblyopia
+          difficult to remove
+          can be debulked
+            ± frontalis sling
+          increases risk of glaucoma on the affected side
+      CNS
+        optic nerve gliomas
+        chiasmal gliomas
+          try to watch them
+            if significant proptosis OR
+            elevated ICP
+              debulking
+              ± chemo and radiation
     glaucoma
       especially in eyes with plexiform neurofibromas
     increased risk of secondary tumors
@@ -51,7 +50,7 @@ phakomatoses AKA neurooculocutaneous syndromes
         optic pathway glioma
         osseous dysplasia
           COMMON: sphenoid dysplasia
-    // MRI is not necessary at baseline with good VA and a normal nerve
+    NOTE: MRI is not necessary at baseline with good VA and a normal nerve
 
   NF2
     RARE
@@ -73,14 +72,14 @@ phakomatoses AKA neurooculocutaneous syndromes
   AD VHL
     retinal and CNS capillary hemangioblastomas
       ALWAYS: MRI
+      treatment
+        observation
+        for small lesions
+          laser
+        cryo
+        ± antiVEGF
     renal carcinoma
     pheochromocytoma
-    treatment for retinal capillary hemangioblastomas
-      observation
-      laser
-        for small lesions
-      cryo
-      ± antiVEGF
 
   sporadic Sturge-Weber syndrome AKA encephalotrigeminal angiomatosis
     CNS calcification

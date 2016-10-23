@@ -30,12 +30,13 @@ iris tumors
           cataract
           hyphema
           corneal decompensation
-        aspiration
-          ± cryo
-        absolute-alcohol-induced sclerosis
-        lamellar iridectomy
-        iridogoniectomy
-        iridogoniocyclectomy
+        treatment
+          aspiration
+            ± cryo
+          absolute-alcohol-induced sclerosis
+          lamellar iridectomy
+          iridogoniectomy
+          iridogoniocyclectomy
         recurrence is common
       IPE adenoma AKA epithelioma
       medulloepithelioma
@@ -64,7 +65,7 @@ iris tumors
             ABCDEF
               age 40-
               blood
-              CH inferior (c'mon guys)
+              CH inferior (a stretch, but it keeps the alphabet going)
               diffuse
               ectropion uveae
               feathery margin
@@ -110,11 +111,3 @@ iris tumors
         small cell lung CA
         gastric carcinoma
         ...
-
-
-
-
-
-
-
-

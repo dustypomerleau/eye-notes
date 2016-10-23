@@ -3,7 +3,7 @@
 // see also fractures-orbital.txt
 
 hyphema
-  in blacks
+  in at risk groups
     ALWAYS:
       screen for sickle cell
         molecular genetic methods now standard
@@ -20,11 +20,13 @@ hyphema
     in sickle cell
       IOP 25+ x 1 day despite MMT
     in non-sickle cell
-      IOP 25+ + total hyphema x 5 days        to prevent corneal blood staining
-      IOP 50+ x 2 days        to prevent optic atrophy
+      IOP 25+ + total hyphema x 5 days
+        to prevent corneal blood staining
+      IOP 50+ x 2 days
+        to prevent optic atrophy
       clinical signs of blood staining
         regardless of IOP OR duration
-        mechanism
+        mechanism of corneal blood staining
           hemoglobin from the AC is forced into the corneal stroma
           keratocytes phagocytose hemoglobin and store hemosiderin
           keratocytes die and release hemosiderin
@@ -37,8 +39,7 @@ hyphema
         flat AC
           to prevent rebleeding intraoperatively
       if they do bleed
-        OVD tamponade
-        some surgeons use air
+        OVD OR air tamponade
       2 paracenteses
         BSS irrigation through 1
         depress lip so blood exits through 2
@@ -46,29 +47,31 @@ hyphema
         Simcoe cannula
         bimanual I/A
         25 g PPV handpiece
-        adjunctive tPA for fibrinous hyphemas
-      no need to clear *all* blood
+      for fibrinous hyphemas
+        adjunctive tPA
+      you don't need to clear 100% of the blood
         being aggressive risks a rebleed or damage to the iris
       suture all wounds
     first 5 days are the most critical period for a rebleed
 
-elevated IOP in the wake of trauma
+elevated IOP in the wake of trauma DDx
   angle recession
   lens-associated uveitis
   secondary angle closure
+    PS with pupillary block
     subluxed lens
       zonular dialysis
       phacodonesis
       lens tilt
       IOP improves when supine
       UBM helpful to show lens malposition
-      dilation may help temporize
-      urgent CEIOL
-        may require
-          PPV
-          sutured IOL
-          ACIOL
-    PS with pupillary block
+      treatment
+        dilation may help temporize
+        urgent CEIOL
+          may require
+            PPV
+            sutured IOL
+            ACIOL
   aqueous misdirection
   PACG
     may have a phacomorphic component
@@ -82,8 +85,9 @@ NAI
   diffuse retinal hemorrhages
     too many to count
       extent of hemorrhages is important
-      document that they are extensive if so
-      less extensive hemorrhages are nonspecific
+        if they are extensive
+          document this
+        less extensive hemorrhages are nonspecific
     multilayered
       preretinal
       intraretinal
@@ -120,7 +124,7 @@ if there is blunt trauma to the eye
 diplopia after trauma
   orbital fractures
     CT and exam will rule this out
-  CN[346]P // see appropriate strabismus notes
+  CN[346]P // see strabismus notes
     face turn
     head tilt
     chin down
@@ -137,14 +141,14 @@ thermal burns
   eyelid skin is thin
     burns will be relatively deeper than classified elsewhere on the body
   severity
-    epidermal AKA 1st˚
-    partial-thickness AKA 2nd˚
+    epidermal AKA 1st degree
+    partial-thickness AKA 2nd degree
       includes some dermis
       usually heals without scarring
-    full-thickness AKA 3rd˚
+    full-thickness AKA 3rd degree
       all of the dermis
       heals with scarring
-    deep burns AKA 4th˚
+    deep burns AKA 4th degree
       underlying soft tissue is destroyed
   exam
     ALWAYS: check burn victims for a CTL or other FB
