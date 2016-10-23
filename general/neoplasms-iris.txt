@@ -58,7 +58,7 @@ iris tumors
         NF1
       JXG
       pigmented
-        iris naevus
+        iris nevus
           low malignant potential
           risk factors for transformation to melanoma (Shields)
             ABCDEF

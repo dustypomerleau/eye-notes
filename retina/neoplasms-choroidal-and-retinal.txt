@@ -6,7 +6,7 @@ pigmented fundus lesion DDx
   RPE hypertrophy
   CHRPE
   hemorrhage
-  naevus
+  nevus
   melanoma
   melanocytoma
   simple RPE hamartoma
@@ -28,7 +28,7 @@ choroidal melanoma
     freckled skin
       marker of sun exposure
     light eyes
-    iris naevi
+    iris nevi
     uv exposure
       outdoor activities
       arc welding
@@ -42,9 +42,9 @@ choroidal melanoma
     SRF
     BSUS
       acoustic hollowness
-        naevus is homogeneous
+        nevus is homogeneous
       low-medium IR
-        naevus medium+ IR
+        nevus medium+ IR
       choroidal excavation
       orbital shadowing
       spontaneous vascular pulsations

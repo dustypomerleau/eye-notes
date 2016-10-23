@@ -60,8 +60,8 @@ DDx
       most common of many benign tumors of sweat glands
     trichoepithelioma
       most common of many benign tumors of hair follicles
-    naevi
-    oculodermal melanocytosis AKA naevus of Ota
+    nevi
+    oculodermal melanocytosis AKA nevus of Ota
       RARELY: develops uveal melanoma
 
   potentially premalignant
@@ -89,7 +89,7 @@ DDx
       if young patient
         rule out
           AR xeroderma pigmentosum
-          AD basal cell naevus syndrome
+          AD basal cell nevus syndrome
       BCC in the lateral canthus is a unique case
         structures near the lateral canthus
           CN7 & CN5

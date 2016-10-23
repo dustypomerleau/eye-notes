@@ -65,7 +65,7 @@ non-rhegmatogenous SRF
       hyperviscosity syndromes
   neoplastic
     solid tumors
-      naevus
+      nevus
       melanoma
     lymphoproliferative
       PIOL

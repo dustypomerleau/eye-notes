@@ -10,8 +10,6 @@ tools
     adult target
       snellen stick
         with ruler
-          snellen up
-          measure up from the bottom
     red pin for macular sparing
   red desaturation target
     drop bottle
@@ -21,7 +19,7 @@ tools
   good torch (2)
   prism bars
   retinoscopy racks
-  retinoscope battery (charge)
+  retinoscope battery (charged)
   retinoscope head
   direct ophthalmoscope head
   lenses
@@ -29,7 +27,7 @@ tools
     66
     20
   BIO
-  BIO battery (charge)
+  BIO battery (charged)
   scleral depressor
   pen (2)
   paper
@@ -200,7 +198,7 @@ anterior segment
         malignant
           'I would examine regional lymph nodes...'
       ICE
-        naevi
+        nevi
         holes
         membranes
       ASD
@@ -355,7 +353,7 @@ posterior segment (pole + full peripheral exam including BIO)
     LD
     holes
     mass
-      naevus
+      nevus
       melanoma
       hemangioma
       ...

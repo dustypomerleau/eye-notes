@@ -306,10 +306,10 @@ anterior and intermediate uveitis DDx
             congenital Horner syndrome // see ptosis.txt
             Waardenburg syndrome // see albinism.txt
           gain of pigment
-            diffuse iris naevus // see neoplasms-iris.txt
+            diffuse iris nevus // see neoplasms-iris.txt
             melanoma // see neoplasms-iris.txt
             prostaglandins // see medications-glaucoma.txt
-            oculodermal melanocytosis AKA naevus of Ota
+            oculodermal melanocytosis AKA nevus of Ota
               // see glaucoma-pediatric.txt
             Sturge Weber syndrome AKA encephalotrigeminal angiomatosis
               // see phakomatoses.txt
