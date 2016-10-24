@@ -68,13 +68,13 @@ VF patterns by lesion location
       cecocentral
         connects to blind spot
       paracentral
-    temporal fibres
+    temporal fibers
       enter at S & I poles of the disc
       extension of the blind spot
         comma shape
       arcuate
       nasal step
-    nasal fibres
+    nasal fibers
       temporal VF wedge
         originates from the blind spot
         spares fixation
@@ -88,7 +88,7 @@ VF patterns by lesion location
       poor vision in one eye
         central scotoma
       ST wedge in the fellow eye
-        from compression of the decussating fibres in Wilbrand's knee
+        from compression of the decussating fibers in Wilbrand's knee
           // no one knows if it actually exists but it helps explain the pattern
 
   // VF defects from this point on originate from fixation
@@ -103,7 +103,7 @@ VF patterns by lesion location
 
   optic tract
     subtle APD in the opposite eye is possible
-      more fibres decussate
+      more fibers decussate
     incongruous homonymous hemianopia
 
   LGB
@@ -119,11 +119,11 @@ VF patterns by lesion location
 
   anterior temporal lobe
     Meyer's loop
-      inferior fibres
+      inferior fibers
     homonymous pie in the sky defect
       more congruous than an optic tract lesion
     usually won't reach fixation
-      macular fibres don't course very far forward
+      macular fibers don't course very far forward
       the larger the temporal lobe lesion, the closer the wedge gets to fixation
 
   parietal lobe

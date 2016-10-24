@@ -24,10 +24,10 @@ pediatric glaucoma
           in practice
             11+ in the first year
             13+ at any age
-            may be easiest to think of both ends in terms of ranges
-              normal
-                birth 9-11
-                1+ years old 10-13
+          may be easiest to think of both ends in terms of ranges
+            normal
+              birth 9-11
+              1+ years old 10-13
         ± corneal clouding
       buphthalmos
         a bluish hue can tip you off if the sclera is stretched thin
@@ -105,7 +105,6 @@ pediatric glaucoma
       when 2 children are affected
         1/4 subsequent siblings will have PCG
 
-
   AD JOAG
     related to MYOC just like adult POAG
     presents older than 4 y
@@ -115,25 +114,29 @@ pediatric glaucoma
       exception: JOAG often requires surgery
       still try medical therapy first
 
-  brimonidine!
+  brimonidine (!)
     can cause CNS + respiratory depression
-    NEVER use brimonidine in kids under 2
+    NEVER: use brimonidine in kids under 2
     use it with caution in older kids
 
   amblyopia
     both PCG AND early-onset JOAG are at risk
-    monitor changing refractive error and any strabismus
+    monitor for
+      changing refractive error
+      strabismus
 
   ocular and systemic diseases to consider in kids with glaucoma
     corneal dysfunction
-      CHED1/PPCD
-      CHED2
+      AD PPCD (formerly CHED1)
+      AR CHED (formerly CHED2)
+      // see corneal-opacity-infantile-and-anterior-segment-dysgenesis.txt
     anterior segment dysgenesis
-      // examiners specifically want to hear you've ruled this out
+      // for exam purposes, specifically state that you've ruled this out
       aniridia ± WAGR
-      Peters anomaly
-      Axenfeld-Rieger syndrome
+      sporadic Peters anomaly
+      AD Axenfeld-Rieger syndrome
       sclerocornea
+      // see corneal-opacity-infantile-and-anterior-segment-dysgenesis.txt
     lens-associated glaucoma
       AD OR sporadic Marfan syndrome
       AR homocystinuria
@@ -143,15 +146,15 @@ pediatric glaucoma
       PFV
       AD FEVR
       ROP
-      Coats disease
+      sporadic Coats disease
     posterior segment neoplasm
       Rb
       JXG
       leukemia
     neurooculocutaneous syndromes (phakomatoses)
-      Sturge-Weber
-      NF1
-      VHL
+      sporadic Sturge-Weber
+      AD OR sporadic NF1
+      AD VHL
     oculodermal melanocytosis AKA nevus of Ota
     XLR oculocerebrorenal syndrome AKA Lowe syndrome
     chromosomal abnormalities
@@ -173,7 +176,7 @@ pediatric glaucoma
             normal
               birth 9-11
               1+ years old 10-13
-        may need lens extraction for CACG
+        may need lens extraction for chronic PACG
           very difficult in a shallow chamber
           may need a posterior approach
 

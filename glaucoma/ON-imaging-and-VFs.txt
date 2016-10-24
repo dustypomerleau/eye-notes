@@ -17,7 +17,7 @@ optic nerve and RNFL imaging
   OCT
     most accurate absolute NFL measurement
     best normative database
-      for whites
+      for whites (!)
     better progression now because of SDOCT tracking via SLO
 
 perimetry
@@ -27,7 +27,7 @@ perimetry
     their receptive fields are large and don't overlap
     short wavelength VF defects can appear after losing a small number of axons
     makes SWAP sensitive for early glaucoma
-    ALWAYS: mention SWAP in questions about glaucoma risk with a normal HVF
+    ALWAYS: consider SWAP in patients with many risk factors and a normal HVF
   FDT
     preferentially activates M cells
     good at catching early glaucoma
@@ -41,7 +41,7 @@ perimetry
     PSD highlights localized loss
       very complex formula but the concept is not complex
         BROADLY: involves the SD of the set of numbers resulting from
-        (threshold at each point - value in age-matched controls)
+          (threshold at each point - value in age-matched controls)
     hemifield analysis points out discrepancies above and below the midline
       common in glaucoma
     total deviation map
@@ -49,7 +49,7 @@ perimetry
     pattern deviation probability map
       (threshold at each point - average threshold for all points) -
         (same calc at that point for age-matched controls)
-      helps compensate for generalised depression
+      helps compensate for generalized depression
         e.g. cataract
     GHT
       good for initial diagnosis of glaucoma

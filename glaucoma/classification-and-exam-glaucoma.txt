@@ -2,14 +2,14 @@
 
 glaucoma exam
 
-  gonioscopy
+ALWAYS: gonio
+  options
     direct Koeppe
     indirect
-      Posner & Zeiss "on a stick"
-      Sussman (yours)
+      Posner & Zeiss 'on a stick'
+      Sussman // my preference
       Goldmann
     compression
-//... you cover much of this in SEAGIG - ALWAYS: gonio
 
 
 //
@@ -113,6 +113,7 @@ glaucoma classification
       imaging
         red free photographs of the NFL
         stereo disc photos
+        OCT RNFL
         ± HRA OR GDx
       automated perimetry
         VF defect should correlate with structure
@@ -178,7 +179,7 @@ glaucoma classification
     in a patient with apparent disc damage and normal pressure
       ALWAYS: consider the possibility of a previously elevated IOP
 
-  PACD // based on Walland (2012), the AU standard
+  PACD // based on Walland (2012)
     in general
       treat 3+ quads of ATM or less (PACS, PAC ± G)
         LPI
@@ -193,7 +194,7 @@ glaucoma classification
           PAS 180+˚
             i.e. don't do CEIOL alone with PAS 180+˚
             even if the IOP is OK
-    PACS // AKA occludable angles
+    PACS AKA occludable angles
       3+ quads of ATM or less
         some use 180˚ of ATM or less but wouldn't treat until 3+ quads
       no PAS
@@ -248,6 +249,13 @@ glaucoma classification
         MCE
         shallow AC
         mid-dilated NR pupil
+      may be intermittent
+        patients complain of
+          frontal or bifrontal HA
+          blurred vision
+          halos
+          worse in the dark
+            or brought on by a dark room
       treatment
         LPI is the definitive therapy
         debate about miotics as you know
@@ -285,23 +293,6 @@ glaucoma classification
       if VS cataract OR very shallow AC
         trabeculectomy + CEIOL
 
-  PACD // based on AAO guidelines
-    AACG
-      LPI is the definitive therapy
-      debate about miotics as you know
-      mannitol
-        hang 500 mL 20% mannitol
-        give 1 g/kg over 1 hour
-          (100 g if you give the whole bag)
-      topical antihypertensives to temporize
-    SACG AKA intermittent ACG
-      frontal or bifrontal HA
-      blurred vision
-      halos
-      worse in the dark
-        or brought on by a dark room
-    CACG (usually 2˚ from PAS - see below)
-
   2˚ ACG // based on the AAO guidelines
     with pupillary block
       intumescent lens
@@ -337,18 +328,23 @@ glaucoma classification
         avoid areas of PAS
 
   PCG
-  glaucoma 2˚ congenital anomalies or diseases
-    // see glaucoma-pediatric.txt
-    anterior segment dysgenesis including aniridia
-    Sturge-Weber
-    NF1
-  2˚ OAG or ACG similar to causes above
+    glaucoma 2˚ congenital anomalies or diseases
+      // see glaucoma-pediatric.txt
+      anterior segment dysgenesis including aniridia
+      Sturge-Weber
+      NF1
+  children may have 2˚ OAG or ACG similar to causes above
     inflammation
     retinoblastoma
     trauma
+    ...
 
 
-causes of unilateral glaucoma
+//
+
+
+unilateral glaucoma
+
   shortlist
     infectious
       herpetic
@@ -378,7 +374,7 @@ causes of unilateral glaucoma
       angle recession
       subluxed lens
 
-  unilateral glaucoma full DDx
+  unilateral glaucoma DDx
     infectious
       BROADLY: anterior uveitis
         // see anterior-and-intermediate-uveitis
@@ -461,4 +457,3 @@ causes of unilateral glaucoma
     trauma
       angle recession
       chemical burns
-

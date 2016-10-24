@@ -155,7 +155,7 @@ infantile corneal opacity (clouding)
     AR CHED
       formerly CHED2
       presents with nystagmus
-      RARELY deafness
+      RARELY: deafness
       increased corneal thickness
       corneal edema
       distinguishing CHED from PCG

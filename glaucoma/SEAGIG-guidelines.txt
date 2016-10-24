@@ -1,6 +1,6 @@
 // https://github.com/dustypomerleau/eye-notes
 
-SEAGIG guidelines
+SEAGIG guidelines // full guidelines are very detailed and not covered here
 
   history
     FH
@@ -10,7 +10,8 @@ SEAGIG guidelines
     previous treatment
       meds
         glaucoma drops
-          failed drops OR intolerance
+          failed drops OR
+          intolerance
         steroid response
       lasers
       surgeries
@@ -62,12 +63,16 @@ SEAGIG guidelines
     VA
     CVF
     IOP
-      treat Goldmann as the standard
-      3-6 mm is normal diurnal variation
-        peak 10s
+      for exam purposes
+        treat Goldmann as the standard
+      in reality
+        pneumotonometry is probably superior
+          but not widely available
+      3-6 mm Hg is the normal diurnal variation
+        peaks on the 10s
           1000
           2200
-        trough 4s
+        troughs on the 4s
           0400
           1600
       variable IOP?
@@ -83,7 +88,7 @@ SEAGIG guidelines
       depth
         Van Herick
           0 contact
-          1 1/4- corneal thickness AKA occludable
+          1 1/4- corneal thickness
           2 1/4+
           3 1/2+
       inflammation
@@ -105,14 +110,14 @@ SEAGIG guidelines
         high mag
         short slit
         dim slit if possible
-        45˚ slit angle for I, S angles
-        then on axis with horizontal slit for T, N angles
+        45˚ slit angle for I + S angles
+        then on axis with horizontal slit for T + N angles
       grade
         modified Shaffer
           0 closed
             indent
               document
-                PACS (normal IOP despite apposition)
+                PACS (requires normal IOP despite apposition)
                 PAC
                 PAC + PAS and number of quads of PAS
           1 SL
@@ -131,8 +136,7 @@ SEAGIG guidelines
       CDR
         vertical
       disc hemorrhage
-      NFL defects
-        red-free filter
+      NFL defects // best seen with the green filter
       PPA
         beta zone
           next to the disc
@@ -162,9 +166,9 @@ SEAGIG guidelines
 
   treatment goals
     30% IOP reduction
-        moderate+ VF loss
-        perfect treatment would match episcleral venous pressure
-          7-12 mm Hg
+      moderate+ VF loss
+      perfect treatment would match episcleral venous pressure
+        7-12 mm Hg
     20% IOP reduction
       early VF loss
       OHTN 30+ mm Hg + suspicious disc
@@ -195,5 +199,3 @@ SEAGIG guidelines
             migraine
             Raynaud
           OSA
-
-// SEAGIG guidelines are much more extensive than this - see PDF.

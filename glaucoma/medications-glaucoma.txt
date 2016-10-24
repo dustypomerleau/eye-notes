@@ -19,7 +19,7 @@ glaucoma medications in pregnancy and breastfeeding
       category B
       safest early in the pregnancy
       should be avoided when nursing
-        in children
+        in children it causes
           CNS depression
           apnea
     beta blockers
@@ -27,20 +27,20 @@ glaucoma medications in pregnancy and breastfeeding
       cross placenta
       enter breast milk
       low doses can be used throughout
-      monitor foetal heart rate
+      monitor fetal heart rate
     CAI
       category C
-        low foetal body weight in animal studies
+        low fetal body weight in animal studies
         unclear if breastmilk affected
       low doses can be used throughout
-      monitor foetal body weight
+      monitor fetal body weight
     prostaglandins
       category C
       miscarriages and uterine contractions in animal studies
       most docs don't use at all
       definitely avoid in 3rd trimester
 
-  ways to avoid systemic toxicity:
+  ways to avoid systemic toxicity
     lowest drug concentration
     least frequent dosing
     closed eyelids after administration
@@ -51,8 +51,11 @@ glaucoma medications in pregnancy and breastfeeding
     particularly 1st trimester
     anesthetics and antimetabolites can be teratogenic
 
-  other medications in pregnancy
-    // you may want to break this out into its own .txt
+
+//
+
+
+  other medications in pregnancy //...
     oral antibiotics
       avoid
         tetracyclines
@@ -97,57 +100,56 @@ toxicity issues not specific to pregnancy
 
 glaucoma drops (AU)
 
-combination drops
-  Xalacom
-    latanoprost
-    timolol
-  Duotrav
-    travoprost
-    timolol
-  Ganfort
-    bimatoprost
-    timolol
-  Combigan
-    brimonidine
-    timolol
-  Azarga
-    brinzolamide
-    timolol
-  Cosopt
-    dorzolamide
-    timolol
-  Simbrinza
-    brimonidine
-    brinzolamide
+  combination drops
+    Xalacom
+      latanoprost
+      timolol
+    Duotrav
+      travoprost
+      timolol
+    Ganfort
+      bimatoprost
+      timolol
+    Combigan
+      brimonidine
+      timolol
+    Azarga
+      brinzolamide
+      timolol
+    Cosopt
+      dorzolamide
+      timolol
+    Simbrinza
+      brimonidine
+      brinzolamide
 
-preservative free
-  Saflutan
-    tafluprost
-  Lumigan PF
-    bimatoprost
-  Ganfort PF
-    bimatoprost
-    timolol
+  preservative free
+    Saflutan
+      tafluprost
+    Lumigan PF
+      bimatoprost
+    Ganfort PF
+      bimatoprost
+      timolol
 
-single agents
-  Alphagan
-  Alphagan P
-    brimonidine
-  Azopt
-    brinzolamide
-  Betoptic
-  Betoptic S
-    betaxolol
-  Iopidine
-  Lumigan
-    bimatoprost
-  Timoptol
-  Timoptol XE
-    timolol
-  Trusopt
-    dorzolamide
-  Travatan
-    travoprost
-  Xalatan
-    latanoprost
-
+  single agents
+    Alphagan
+    Alphagan P
+      brimonidine
+    Azopt
+      brinzolamide
+    Betoptic
+    Betoptic S
+      betaxolol
+    Iopidine
+    Lumigan
+      bimatoprost
+    Timoptol
+    Timoptol XE
+      timolol
+    Trusopt
+      dorzolamide
+    Travatan
+      travoprost
+    Xalatan
+      latanoprost

@@ -242,10 +242,10 @@ CN3P
             MR
             IR
             IO
-            parasympathetic fibres
+            parasympathetic fibers
               EW via cavernous sinus => ciliary ganglion => short ciliary Ns
                 pupillary constrictors
-                fibres to CB for accomodation
+                fibers to CB for accomodation
     pupil-sparing isolated CN3P
       usually ischemic // see notes above
 

@@ -7,7 +7,7 @@ classic glaucoma trials
       better control
       better durability
       fewer supplementary drops
-    study predates other drops
+    NOTE: study predates other drops
       prostaglandins
       CAI
       alpha-2 agonists
@@ -19,21 +19,21 @@ classic glaucoma trials
     blacks did better when ALT was used first
     whites did better going straight to trab
     consistent IOP 18- prevented progression
-      "18 and under, blacks @ white tats"
+      '18 and under, blacks @ white tats'
 
   CNTGS (1998)
     lowering IOP 30% helps even in NTG
+      allowed
+        Xalatan (1996+)
+        topical CAIs
+        ALT
+        surgery
       not allowed
         beta blockers
         adrenergic agonists
           concern for confounding cardiovascular effects
         systemic CAI
           would have interfered with the fellow eye control
-      allowed
-        Xalatan (1996+)
-        topical CAIs
-        ALT
-        surgery
     worse prognosis in NTG
       female sex
       migraine OR Raynaud
@@ -75,9 +75,9 @@ classic glaucoma trials
     key stats
       for CCT 555-
         POAG developed over 5 years in
-          1/3 of IOP 26+
-          1/8 of IOP 24+
-          1/4 of VCDR 0.3+
+          1/3 for IOP 26+
+          1/8 for IOP 24+
+          1/4 for VCDR 0.3+
         numbers are much lower in normal CCT
 
   EMGT (2002)
@@ -106,51 +106,52 @@ classic glaucoma trials
       asymmetric VF progression did not match statistically with asymmetric IOP
 
 
-  summary of risk factors and factors influencing progression:
+//
 
-    FH
-      not confirmed by OHTS but smaller studies support this
 
-    age
-    black race
-    sex
-      male sex
-        POAG
-          OHTS
-      female sex
-        NTG
-          CNTGS
+summary of risk factors and factors influencing progression:
 
-    ischemic heart disease
-    vasospasm
-      migraine
-      Raynaud
-    OSA
+  FH
+    not confirmed by OHTS but smaller studies support this
 
-    CCT 555-
-      ± low hysteresis
-        thin corneas correlate with low hysteresis
-        unclear whether low hysteresis is a separate risk factor from thinness
-        hysteresis is a measure of elasticity and ability to absorb energy
-          higher hysteresis means greater ability to dissipate an applied load
-        normal hysteresis is about 10 mm Hg
-          studies have shown patients with progressive GON averaging in the 7s
-          too early to really say what's pathologic
-        low hysteresis patients *seem* to get greater % IOP reduction per drop
-          probably an artifact
-        patients with high hysteresis
-          probably responding better than we can measure
-    IOP 24+
-    PXF
-    VCDR > HCDR
-    disc hemorrhage
-    bilateral disease
+  age
+  black race
+  sex
+    male sex
+      POAG (OHTS)
+    female sex
+      NTG (CNTGS)
 
-    higher HVF PSD
+  ischemic heart disease
+  vasospasm
+    migraine
+    Raynaud
+  OSA
 
-    genetics
-      CYP1B1
-        PCG
-      MYOC
-        JOAG
-        POAG
+  CCT 555-
+    ± low hysteresis
+      thin corneas correlate with low hysteresis
+      unclear whether low hysteresis is a separate risk factor from thinness
+      hysteresis is a measure of elasticity and ability to absorb energy
+        higher hysteresis means greater ability to dissipate an applied load
+      normal hysteresis is about 10 mm Hg
+        studies have shown patients with progressive GON averaging in the 7s
+        too early to really say what's pathologic
+      low hysteresis patients *seem* to get greater % IOP reduction per drop
+        probably an artifact
+      patients with high hysteresis
+        probably responding better than we can measure
+  IOP 24+
+  PXF
+  VCDR > HCDR
+  disc hemorrhage
+  bilateral disease
+
+  higher HVF PSD
+
+  genetics
+    CYP1B1
+      PCG
+    MYOC
+      JOAG
+      POAG
