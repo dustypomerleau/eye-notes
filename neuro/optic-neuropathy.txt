@@ -5,8 +5,7 @@ history
     compressive
     toxic
     hereditary
-      very slow
-      years
+      very slow (years)
   TVOs
     seconds long
     with change in body position
@@ -55,12 +54,12 @@ history
       disc drusen
         ALWAYS: confirm suspected disc drusen by BSUS
           high reflectivity persists even at low gain
-        exposed drusen are fluorescent on RF photos
+        exposed drusen are fluorescent on RF photos and FAF
           usually not exposed in young patients
           FAF better than RF
             may pick up drusen slightly deeper
         bilateral disc swelling in the setting of disc drusen
-          does *not* preclude intracranial pathology
+          does NOT preclude intracranial pathology
           if there is disc edema
             scan them
       high hyperopia
@@ -99,7 +98,7 @@ history
       if the MR studies are normal
         LP
           IIH
-            opening pressure!
+            NOTE: specifically request opening pressure
             can be 2˚
               DAMS
                 excessive vitamin A
@@ -117,7 +116,7 @@ history
         medication-induced IIH as above
       Are there risk factors for DVST?
         trauma
-        hypercoagulable states as above
+        hypercoagulable states // see above
       Do they fit the demographic for IIH?
         young, obese female
         neurologic findings can be explained by elevated ICP alone
@@ -127,9 +126,8 @@ history
             neurology consultation
             anticoagulation
               usually heparin
-              if neurologic decompensation on heparin
-                endovascular recanalization
-                  rarely needed
+              if there is neurologic decompensation on heparin
+                RARELY: endovascular recanalization
           if the MRI + MRV are negative
             LP with opening pressure and CSF analysis
               if CSF normal and high opening pressure
@@ -156,12 +154,12 @@ history
                       HA is the major quality of life issue in IIH
                         topiramate is helpful
                     refractory cases
-                      HA is the 1˚ issue
+                      if HA is the 1˚ issue
                       ± worsening VF
                         CSF diversion procedures
                         VS stenting OR angioplasty
                           despite lack of true DVST in IIH
-                      vision loss is the 1˚ issue
+                      if vision loss is the 1˚ issue
                         VF constriction
                         central acuity loss
                         as a general rule
@@ -193,9 +191,7 @@ history
 //
 
 
-optic neuropathy DDx
-
-  // lengthy list of rare causes below
+optic neuropathy DDx // lengthy list of rare causes below
 
   infectious
     viral
@@ -228,8 +224,9 @@ optic neuropathy DDx
       TED compressive ON
       MS
       NMO
-        ± lupus
-        ± Sjogren syndrome
+        ±
+          lupus
+          Sjogren syndrome
       postinfectious demyelinating disease
         usually post-viral
       IBD
@@ -537,12 +534,11 @@ optic neuropathy DDx
     glaucoma
 
 
-//
-
-
-// long lists for reference (please don't try and memorize this)
+/*
+long lists for reference (please don't try and memorize this)
 
 Infectious causes: There are case reports linking viruses to direct damage of the optic nerve. These include measles, mumps, rubella; chickenpox, chikungunya, coxsackie B5, cytomegalovirus, dengue fever (hemorrhagic), echovirus type 5, Epstein-Barr virus, hepatitis A and B, herpes zoster, human herpes virus-6B, HIV, HTLV-1, infectious mononucleosis, parvovirus, varicella, and variola (Farris and Pickard 1990; Chan 2002). West Nile virus can sometimes cause bilateral optic neuritis, but the predominant lesions are hemorrhage, vitreitis, chorioretinitis, uveitis, and occlusive retinal vasculitis. Some cases of optic neuritis follow the virus infection by a month, suggesting a postinfectious encephalomyelitis or virus-induced optic neuritis. Influenza infections are associated with optic neuritis in individual reports. Direct damage can be caused by tuberculosis, sarcoidosis, fungus such as aspergillus, cryptococcus, mucor (mucormycosis), Toxoplasma gondii; Lyme disease, Lyme disease (Borrelia burgdorferi), syphilis (Lesser et al 1990; Jacobson et al 1991), mycoplasma pneumonia (Nadkarni and Lisak 1993); cysticercosis, toxocariasis; anthrax, bartonellosis, borreliosis, brucellosis, cat-scratch disease (Bartonella henslae), Coxiella burnetii (Q fever), ehrlichiosis, familial Mediterranean fever, leprosy, malaria, meningococcal infection, purulent leptomeningitis, tularemia, typhoid, or Whipple disease (Tropheryma whipplei).
 
 
 Meds: These include antineoplastic agents (Ara-C, carboplatin, cisplatin, 5-fluorouracil, nitrosourea, paclitaxel, vincristine), amiodarone, carbon monoxide, chloramphenicol, chlorpropamide, cimetidine, clioquinol, cyanide (cassava roots), cyclosporine, dapsone, desferrioxamine, disulfiram, linezolid (oxazolidinone antibiotic), ethambutol, ethylene glycol (antifreeze), isoniazid, methanol, phenothiazines, possibly quinolone antibiotics, sildenafil (transient blue vision, but also anterior ischemic optic neuropathy), styrene vapor, tacrolimus (FK-506), trichloroethylene, and toluene (from glue sniffing, solvent abuse) (Kerrison 2004). One case was seen with imatinib, a tyrosine kinase inhibitor. Soluble tumor necrosis factor receptor-immunoglobulin fusion protein that captures tumor necrosis factor (etanercept) and antibodies to tumor necrosis factor (adalimumab, infliximab) may trigger optic neuritis, as well as multiple sclerosis.
+*/

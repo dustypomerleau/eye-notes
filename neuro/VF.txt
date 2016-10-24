@@ -9,10 +9,10 @@ visual fields
 
   before you try to localize a VF defect
     describe what you see in a way that will trigger keywords
-      "This is an incongruous, homonymous VF defect involving fixation"
-      "This is a bitemporal hemianopia restricted to the central vision"
+      'This is an incongruous, homonymous VF defect involving fixation'
+      'This is a bitemporal hemianopia restricted to the central vision'
 
-  "hemianopia" doesn't necessarily mean the whole hemifield is missing
+  'hemianopia' doesn't necessarily mean the whole hemifield is missing
     tends to be used for anything bigger than a quadrantanopia
 
   From the chiasm forward you are more likely to see:
@@ -28,15 +28,17 @@ visual fields
         110˚ horizontally
           within that 110˚
             must not have a scotoma within 20˚ of fixation
-            in practice
-              must not have 2 contiguous missed points
-              must not miss more than 3 points
-              reevaluate this - fitness to drive does not specify any of it
         20˚ vertically
+        /*
+        some docs say
+          must not have 2 contiguous missed points
+          must not miss more than 3 points
+          but Fitness to Drive does not specify either of these
+        */
       no diplopia in the central 20˚
 
     conditional private license
-      6 hours+
+      6/24+
       VF 110˚ x 20˚
       diplopia managed with corrective lenses or an occluder
       subject to periodic review
@@ -80,7 +82,7 @@ VF patterns by lesion location
         spares fixation
           AOT lesions behind the chiasm that originate from fixation
     ON drusen can cause any pattern of VF loss
-      unexplained VF defect leaving you stumped
+      if an unexplained VF defect is leaving you stumped
         ALWAYS: BSUS for disc drusen
 
   junction of ON and chiasm
@@ -89,7 +91,7 @@ VF patterns by lesion location
         central scotoma
       ST wedge in the fellow eye
         from compression of the decussating fibers in Wilbrand's knee
-          // no one knows if it actually exists but it helps explain the pattern
+          // no one knows if it exists but it helps explain the pattern
 
   // VF defects from this point on originate from fixation
 
@@ -110,12 +112,14 @@ VF patterns by lesion location
     lesions here are RARE in real life
     relatively congruous homonymous hemianopia or wedge
 
-  // temporal and parietal lobe lesions can cause almost anything congruous
-  //   small wedge to a nearly complete hemianopia
-  //   depends on how big the lesion is and how far back
-  //   usually temporal OR parietal lobe lesions have other neurologic signs
-  //   homonymous defect in isolation
-  //     COMMON: occipital lobe lesions
+  /*
+  temporal and parietal lobe lesions can cause almost anything congruous
+    small wedge to a nearly complete hemianopia
+    depends on how big the lesion is and how far back
+    usually temporal OR parietal lobe lesions have other neurologic signs
+    homonymous defect in isolation
+      COMMON: occipital lobe lesions
+  */
 
   anterior temporal lobe
     Meyer's loop
@@ -175,9 +179,9 @@ Goldmann VF
       a-e in 1 dB increments
     dB are a relative measurement
       1 dB is the brightest light the machine can produce
-        1 dB = (1/10^0) * the brightest light the machine can produce
-      10 dB = (1/10^1) * the brightest light the machine can produce
-      20 dB = (1/10^2) * the brightest light the machine can produce
+        1 dB = (1/10^0)(the brightest light the machine can produce)
+      10 dB = (1/10^1)(the brightest light the machine can produce)
+      20 dB = (1/10^2)(the brightest light the machine can produce)
     to clarify
       lower (1-4) OR (a-e) values are brighter lights
       4 and e are the brightest lights in their groups

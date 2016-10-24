@@ -1,175 +1,186 @@
 // https://github.com/dustypomerleau/eye-notes
 
 nonorganic visual loss
-  malingering implies intentional and willful misleading
-    usually for 2˚ gain
-  somatoform disorders occur without the patient's knowledge
-  factitious disorders involve intentionally producing symptoms
-    lying about symptoms
-    self injury
-    altering tests e.g. contaminating a urine sample
-    not done for 2˚ gain
-  don't bother trying to subclassify NOVL
-    determining secondary gains and motivations is difficult
-    best to simply say nonorganic and be done with it
-  children
-    COMMON: adolescents
-      90+% girls in some series
-    most of the time parents are not the problem but
-      ALWAYS: consider
-        child abuse
-        negative home OR school situation
-    COMMON: symmetric, bilateral symptoms
-      COMMON:
-        visual acuity loss
-          any level is possible
-          COMMON: 6/36+
-        visual field loss
-      ALSO:
-        positive visual phenomena
-          dots
-          lines
-          colors
-          shapes
-        HA
-        eye pain
-  approach to NOVL
-    confirm that the exam doesn't fit known patterns of organic disease
-    use tests below to prove that the patient sees better than claimed
-      NOVL is NEVER a diagnosis of exclusion
-      you must show evidence that they can see
-      organic causes can mimic psychiatric conditions and NOVL
-        CVAs
-        CNS tumors
-    consider 2˚ causes of NOVL
-      physical OR sexual abuse
-      specific stressful life events
-      undiagnosed psychiatric illness
-        refer patients to a psychiatrist if you aren't sure
-          psychiatric disease in NOVL is actually not that prevalent
-          don't refer them just because they have NOVL
-            this is very low yield and wastes everyone's time
-    for adults
-        reassure them that it isn't serious and they will get better
-    for children
-      allow the child to leave the room
-      provide evidence of NOVL to the parents and reassure them
-      ask for their assistance in recovering the child
-        scolding children for NOVL usually makes it worse
-      bring the child back
-        reassure them that it isn't serious and they will get better
-  testing
-    be systematic
-    trust the tests
-      your opinion of the patient is irrelevant
-    tests useful for monocular NOVL
-      pupil testing
-        RAPD should be present if the patient claims profound monocular VA loss
-      fogging the unaffected eye progressively while testing VA
-        not the best technique
-        can alert the patient that you are suspicious
-        smart patients will squint to check both eyes before answering
-      vertical prism dissociation test
-        tell the patient
-          I'm going to split the image and you will see double
-          I'm going to test the good eye first
-        show them a letter that's small but easy to read for the normal eye
-          6/12 letter is good if one eye measures 6/6+
-        4 ∆ BD in front of the eye with no complaint
-        ask the patient
-          What do you see?
-            if they see 2 of the letter in question
-              the eye with the complaint is 6/12+
-      stereo testing
-        say
-          This is a test of how the eyes work together.
-        9 months Titmus circles is considered normal
-        12 months Titmus circles requires 6/6+ bilaterally & 40" stereo
-        any stereopsis is helpful if the visual complaint is severe
-      color testing
-        Ishihara plates require relatively good acuity
-          6/36+
-        you can also perform Ishihara testing with red-green glasses
-          put the green filter over the good eye (Green Good)
-          the green filter makes Ishiharas unreadable
-          any correctly identified plates must be read with the red filter eye
-      red-green eye charts
-        alternating red and green letters
-        red-green glasses ensure that each letter can only be read by one eye
-        say
-          I'm going to do a short color test.
-      polarized eye charts
-        polarized glasses with vertical and horizontal axes
-        same as red-green charts with alternating axes of polarization
-    tests useful for monocular OR binocular NOVL
-      // cover the good eye as needed in monocular NOVL
-      reverse reading of the VA chart
-        start at 6/4 and go slowly
-        really push them at each line
-      plano lenses
-        say
-          This lens will help magnify the chart a little.
-        you can also use combinations of lenses that cancel
-          patient blurs when you put a +3 in place
-          then you put a -3 on top of it to give them plano again
-      near VA testing
-        near and distance acuity should be similar
-          exceptions
-            near VA is worse
-              presbyopia
-              PSC
-            distance VA is worse
-              NSC
-              Adie tonic pupil
-                near response is normal
-                blurry when they switch back to distance
-                  but they slowly adjust
-        NOVL patients will often read much better at near
-      standard VA testing @ 1 & 2 m
-        in a normal patient
-          6/12 line @ 2 m can read 6/6 line @ 1 m
-        NOVL will often read the same line at both distances
-      magic drop OR magic lens may improve NOVL in kids
-      proprioception testing
-        should be normal even with poor vision
-        have them touch their fingertips with outstretched arms + open eyes
-      mirror test
-        only useful for severe vision loss
-          patient complaining of LP OR NPL
-        occlude the better eye if the complaint is monocular
-        rock the mirror side to side
-        following the image proves HM+ VA
-      OKN drum
-        only useful for severe vision loss
-        normal OKN response proves CF+ VA
-        not as reliable as the mirror test
-      electrophysiology
-        pattern VEP
-          more helpful than flash VEP
-          tests a specific level of VA
-            determined by pattern size
-          helpful in cases with NOVL overlay on organic disease
-          patients can sometimes trick the test by intentionally tuning out
-          MFVEP
-            best for sussing out subtle ON dysfunction
-            not useful in NOVL
-        ERG OR MFERG
-          useful for excluding retinal pathology
-          not generally useful for proving NOVL
-      VF patterns typical of NOVL
-        spiral field
-          tangent screen OR Goldmann
-          move clockwise systematically but go past your starting point
-          patient brings field in further on the 2nd pass
-        tunnel field
-          test VF @ 1 & 2 m
-          normal patients have a funnel field
-            larger @ 2 m
-          NOVL may give the same field at both distances
-        monocular hemianopia that persists with bilateral testing
-          assumes a normal eye exam without RAPD
-          testing with both eyes open should eliminate the hemianopia
-        saccade testing
-          a patient with true VF loss has trouble accurately saccading
-            place 1 finger in 1˚ and another in the area of field loss
-            the patient with NOVL will saccade accurately to finger 2
+
+malingering implies intentional and willful misleading
+  usually for 2˚ gain
+somatoform disorders occur without the patient's knowledge
+factitious disorders involve intentionally producing symptoms
+  lying about symptoms
+  self injury
+  altering tests e.g. contaminating a urine sample
+  not done for 2˚ gain
+don't bother trying to subclassify NOVL
+  determining secondary gains and motivations is difficult
+  best to simply say nonorganic and be done with it
+children
+  COMMON: adolescents
+    90+% girls in some series
+  most of the time parents are not the problem but
+    ALWAYS: consider
+      child abuse
+      negative home OR school situation
+  COMMON: symmetric, bilateral symptoms
+    COMMON:
+      visual acuity loss
+        any level is possible
+        COMMON: 6/36+
+      visual field loss
+    ALSO:
+      positive visual phenomena
+        dots
+        lines
+        colors
+        shapes
+      HA
+      eye pain
+
+
+//
+
+
+approach to NOVL
+  confirm that the exam doesn't fit known patterns of organic disease
+  use tests below to prove that the patient sees better than claimed
+    NOVL is NEVER a diagnosis of exclusion
+    you must show evidence that they can see
+    organic causes can mimic psychiatric conditions and NOVL
+      CVAs
+      CNS tumors
+  consider 2˚ causes of NOVL
+    physical OR sexual abuse
+    specific stressful life events
+    undiagnosed psychiatric illness
+      refer patients to a psychiatrist if you aren't sure
+        psychiatric disease in NOVL is actually not that prevalent
+        don't refer them just because they have NOVL
+          this is very low yield and wastes everyone's time
+  for adults
+      reassure them that it isn't serious and they will get better
+  for children
+    allow the child to leave the room
+    provide evidence of NOVL to the parents and reassure them
+    ask for their assistance in recovering the child
+      scolding children for NOVL usually makes it worse
+    bring the child back
+      reassure them that it isn't serious and they will get better
+
+
+//
+
+
+testing
+  be systematic
+  trust the tests
+    your opinion of the patient is irrelevant
+  tests useful for monocular NOVL
+    pupil testing
+      RAPD should be present if the patient claims profound monocular VA loss
+    fogging the unaffected eye progressively while testing VA
+      not the best technique
+      can alert the patient that you are suspicious
+      smart patients will squint to check both eyes before answering
+    vertical prism dissociation test
+      tell the patient
+        I'm going to split the image and you will see double
+        I'm going to test the good eye first
+      show them a letter that's small but easy to read for the normal eye
+        6/12 letter is good if one eye measures 6/6+
+      4 ∆ BD in front of the eye with no complaint
+      ask the patient
+        What do you see?
+          if they see 2 of the letter in question
+            the eye with the complaint is 6/12+
+    stereo testing
+      say
+        This is a test of how the eyes work together.
+      9/12 Titmus circles is considered normal
+      12/12 Titmus circles requires 6/6+ bilaterally & 40" stereo
+      any stereopsis is helpful if the visual complaint is severe
+    color testing
+      Ishihara plates require relatively good acuity
+        6/36+
+      you can also perform Ishihara testing with red-green glasses
+        put the green filter over the good eye (Green Good)
+        the green filter makes Ishiharas unreadable
+        any correctly identified plates must be read with the red filter eye
+    red-green eye charts
+      alternating red and green letters
+      red-green glasses ensure that each letter can only be read by one eye
+      say
+        I'm going to do a short color test.
+    polarized eye charts
+      polarized glasses with vertical and horizontal axes
+      same as red-green charts with alternating axes of polarization
+  tests useful for monocular OR binocular NOVL
+    // cover the good eye as needed in monocular NOVL
+    reverse reading of the VA chart
+      start at 6/4 and go slowly
+      really push them at each line
+    plano lenses
+      say
+        This lens will help magnify the chart a little.
+      you can also use combinations of lenses that cancel
+        patient blurs when you put a +3 in place
+        then you put a -3 on top of it to give them plano again
+    near VA testing
+      near and distance acuity should be similar
+        exceptions
+          near VA is worse
+            presbyopia
+            PSC
+          distance VA is worse
+            NSC
+            Adie tonic pupil
+              near response is normal
+              blurry when they switch back to distance
+                but they slowly adjust
+      NOVL patients will often read much better at near
+    standard VA testing @ 1 & 2 m
+      in a normal patient
+        6/12 line @ 2 m can read 6/6 line @ 1 m
+      NOVL will often read the same line at both distances
+    magic drop OR magic lens may improve NOVL in kids
+    proprioception testing
+      should be normal even with poor vision
+      have them touch their fingertips with outstretched arms + open eyes
+    mirror test
+      only useful for severe vision loss
+        patient complaining of LP OR NPL
+      occlude the better eye if the complaint is monocular
+      rock the mirror side to side
+      following the image proves HM+ VA
+    OKN drum
+      only useful for severe vision loss
+      normal OKN response proves CF+ VA
+      not as reliable as the mirror test
+    electrophysiology
+      pattern VEP
+        more helpful than flash VEP
+        tests a specific level of VA
+          determined by pattern size
+        helpful in cases with NOVL overlay on organic disease
+        patients can sometimes trick the test by intentionally tuning out
+        MFVEP
+          best for sussing out subtle ON dysfunction
+          not useful in NOVL
+      ERG OR MFERG
+        useful for excluding retinal pathology
+        not generally useful for proving NOVL
+    VF patterns typical of NOVL
+      spiral field
+        tangent screen OR Goldmann
+        move clockwise systematically but go past your starting point
+        patient brings field in further on the 2nd pass
+      tunnel field
+        test VF @ 1 & 2 m
+        normal patients have a funnel field
+          larger @ 2 m
+        NOVL may give the same field at both distances
+      monocular hemianopia that persists with bilateral testing
+        assumes a normal eye exam without RAPD
+        testing with both eyes open should eliminate the hemianopia
+      saccade testing
+        a patient with true VF loss has trouble accurately saccading
+          place 1 finger in 1˚ and another in the area of field loss
+          the patient with NOVL will saccade accurately to finger 2

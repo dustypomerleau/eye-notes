@@ -20,11 +20,10 @@ aberrant regeneration
         excess OOM tone
 
   aberrant regeneration of CN3 after CN3P
-    lid elevation in downgaze
-      lid-gaze dyskinesis
-    pupil constriction with eye movement
-      pupil-gaze dyskinesis
-    not ischemic
+    lid elevation in downgaze AKA lid-gaze dyskinesis
+    pupil constriction with eye movement AKA pupil-gaze dyskinesis
+    if you see these things
+      the palsy is not ischemic
       ALWAYS: MRI
 
   aberrant regeneration of CN3 without CN3P

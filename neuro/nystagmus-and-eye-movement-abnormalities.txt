@@ -2,89 +2,92 @@
 
 nystagmus
 
-  nystagmus may take time to characterize
-    approach systematically
-      monocular or binocular
-      horizontal, vertical, or rotary
-      jerk or pendular
-      presence of a null point
+nystagmus may take time to characterize
+  approach systematically
+    monocular or binocular
+    horizontal, vertical, or rotary
+    jerk or pendular
+    presence of a null point
 
-  checking VA with fixation-induced nystagmus
-    fog the fellow eye
-      +3 is enough
-    full occlusion will make the nystagmus worse
+checking VA with fixation-induced nystagmus
+  fog the fellow eye
+    +3 D is enough
+  full occlusion will make the nystagmus worse
 
-  regardless of pattern, examine the eyes for a sensory cause
+regardless of pattern, examine the eyes for a sensory cause
 
-  when don't you need an MRI?
-    infantile motor nystagmus with a clear FH
-    latent nystagmus with an infantile ET
-    sensory cause on exam
+when don't you need an MRI?
+  infantile motor nystagmus with a clear FH
+  latent nystagmus with an infantile ET
+  sensory cause on exam
 
-  short DDx of a child with bilateral nystagmus
-    infantile nystagmus
-      sensory // mnemonic: AAA LCA
-        albinism
-        AR achromatopsia AKA rod monochromatism
-        aniridia
-        LCA
-        cataract
-        corneal opacity
-        ...
-      motor
-    latent nystagmus + infantile ET
-    spasmus nutans ± head nodding and torticollis
-      benign
-        but chiasmal tumors can masquerade as SN
-    opsoclonus ± cerebellar ataxia
-      metastatic neuroblastoma
-    convergence-retraction nystagmus
-      essentially pediatric dorsal midbrain syndrome
-        aqueductal stenosis
-        pinealoma
-    downbeat nystagmus
-      Chiari malformation
-      spinocerebellar degeneration
-    PAN
-      look for albinism
-      MRI for cerebellar lesion
-    seesaw nystagmus
-      craniopharyngioma
+short DDx of a child with bilateral nystagmus
+  infantile nystagmus
+    sensory // mnemonic: AAA LCA
+      albinism
+      AR achromatopsia AKA rod monochromatism
+      aniridia
+      LCA
+      cataract
+      corneal opacity
+      ...
+    motor
+  latent nystagmus + infantile ET
+  spasmus nutans ± head nodding and torticollis
+    benign
+      but chiasmal tumors can masquerade as SN
+  opsoclonus ± cerebellar ataxia
+    metastatic neuroblastoma
+  convergence-retraction nystagmus
+    essentially pediatric dorsal midbrain syndrome
+      aqueductal stenosis
+      pinealoma
+  downbeat nystagmus
+    Chiari malformation
+    spinocerebellar degeneration
+  PAN
+    look for albinism
+    MRI for cerebellar lesion
+  seesaw nystagmus
+    craniopharyngioma
 
-  short DDx of an adult with bilateral nystagmus
-    latent nystagmus with a history of infantile ET
-    opsoclonus
-      paraneoplastic opsoclonus
-        lung OR breast CA
-      nonparaneoplastic opsoclonus
-        MS
-        lithium toxicity
-      MRI for pons or cerebellar lesion
-    convergence retraction nystagmus in DMS
+short DDx of an adult with bilateral nystagmus
+  latent nystagmus with a history of infantile ET
+  opsoclonus
+    paraneoplastic opsoclonus
+      lung OR breast CA
+    nonparaneoplastic opsoclonus
       MS
-      dorsal midbrain CVA OR tumor
-    PAN
-      look for albinism
-      MRI for cerebellar lesion
-    seesaw nystagmus with a parasellar mass
-    pendular nystagmus in MS
-      not very specific
-      MRI for other causes
-    vertical downbeat nystagmus
-      spinocerebellar degeneration
-        include the spine in your MRI
-      Wernicke syndrome from thiamine deficiency
       lithium toxicity
-    asymmetric gaze-evoked nystagmus
-      MRI for ipsilateral brainstem lesion
-        CVA
-        MS
-        tumor
-      Wernicke syndrome from thiamine deficiency
-    vestibular nystagmus
-      vertigo
-      nausea
-      better with fixation
+    MRI for pons or cerebellar lesion
+  convergence retraction nystagmus in DMS
+    MS
+    dorsal midbrain CVA OR tumor
+  PAN
+    look for albinism
+    MRI for cerebellar lesion
+  seesaw nystagmus with a parasellar mass
+  pendular nystagmus in MS
+    not very specific
+    MRI for other causes
+  vertical downbeat nystagmus
+    spinocerebellar degeneration
+      include the spine in your MRI
+    Wernicke syndrome from thiamine deficiency
+    lithium toxicity
+  asymmetric gaze-evoked nystagmus
+    MRI for ipsilateral brainstem lesion
+      CVA
+      MS
+      tumor
+    Wernicke syndrome from thiamine deficiency
+  vestibular nystagmus
+    vertigo
+    nausea
+    better with fixation
+
+
+//
 
 
 nystagmus DDx
@@ -100,6 +103,7 @@ nystagmus DDx
       AKA Heimann-Bielschowsky phenomenon
     vertical
       MRI for ON or chiasmal glioma
+
   infantile
     sensory
     motor AKA congenital motor nystagmus
@@ -125,7 +129,7 @@ nystagmus DDx
     MRI to rule out a chiasmal or suprachiasmal tumor masquerading as SN
   opsoclonus
     look for cerebellar ataxia
-      "dancing eyes and dancing feet"
+      'dancing eyes and dancing feet'
     COMMON:
       in a child
         neuroblastoma
@@ -227,6 +231,16 @@ nystagmus DDx
     better with fixation
     pattern varies with gaze direction
 
+/*
+comatose patients look
+  toward cerebral lesions
+  away from brainstem lesions
+*/
+
+
+//
+
+
 treatment
   baclofen
   gabapentin
@@ -242,8 +256,6 @@ treatment
     if there is no null point
       Dell'Osso
         bilateral MR + LR tenotomies and resuture the muscles in place
-
-comatose patients look toward cerebral lesions and away from brainstem lesions
 
 
 //
@@ -326,7 +338,7 @@ supranuclear motility disorders
       dorsal LGN
       pulvinar
     brainstem centers
-      bridge supranuclear and nuclear + infranuclear function
+      bridge supranuclear and (nuclear + infranuclear) function
         vestibular nuclei
         PPRF
           controls horizontal aspects of
@@ -430,7 +442,7 @@ supranuclear motility disorders
           globally slowed saccades
     acquired ocular motor apraxia
       // true supranuclear apraxias
-      //   restrictive diseases with loss of motility are not included here
+      // restrictive diseases with loss of motility are not included here
       bilateral damage to supranuclear gaze pathways
         usually frontal + parietal lobes
       acquired OMA DDx

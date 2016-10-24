@@ -107,7 +107,7 @@ XT DDx
               convergence weakness // not specifically looked at by Kushner
                 MR resections
               for exam purposes
-                do *not* overcorrect
+                do NOT overcorrect
           // not for exam purposes - RF preferences
             LR recessions
               operate on the largest deviation you find

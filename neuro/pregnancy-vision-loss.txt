@@ -2,13 +2,13 @@
 
 vision loss in pregnancy
   infectious
-    //... you need to finish this! toxop etc.
+    //... incomplete - you need to address toxoplasma, etc.
   gestational DM OR
   worsening of preexisting DM
     DME
     VH
     PSC
-    // conditions also caused by HTN/eclampsia not duplicated here
+    // conditions also caused by HTN/eclampsia are not duplicated here
   eclampsia
     serous RD
     NAION
@@ -63,6 +63,7 @@ pregnancy exacerbates preexisting
 medications in pregnancy
   // see medications-glaucoma.txt
   // see DR.txt
+  //...
   antiVEGF
     Lucentis and Eylea are both category C
       animal studies have shown skeletal abnormalities

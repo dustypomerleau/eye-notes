@@ -2,6 +2,8 @@
 
 headache
 
+//...
+
 cluster headache
   cyclical patterns, daily for a few weeks followed by months off
   most painful headache
@@ -33,4 +35,3 @@ IIH
       ventriculoatrial shunt
       lumboperitoneal shunt
     transverse sinus stenting
-

@@ -37,7 +37,7 @@ anisocoria
     direct
     consensual
     swinging
-      RAPD
+      RAPD?
     near reflex
       make sure you start them on a distant target and then switch
   Is there sectoral weakness?
@@ -73,7 +73,7 @@ DDx anisocoria
   Adie tonic pupil
     local ciliary ganglion or short ciliary nerve damage
     vermiform sectoral weakness
-    denervation hypersensitivity to 0.1% pilocarpine
+    denervation hypersensitivity to dilute 0.1% pilocarpine
     despite sluggish pupil response in the light
       near response is usually normal
       blurry when they switch back to distance

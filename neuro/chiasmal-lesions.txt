@@ -2,7 +2,7 @@
 
 chiasmal lesions
 
-  DDx
+  chiasmal lesion DDx
     COMMON:
       pituitary adenoma
         if the onset of a bitemporal hemianopia is acute
@@ -31,9 +31,9 @@ chiasmal lesions
               may need transsphenoidal decompression
                 progressive vision loss OR VF loss despite medical therapy
     ALSO:
+      suprasellar ICA aneurysm
       meningioma
       craniopharyngioma
-      suprasellar ICA aneurysm
     RARELY:
       TB
       lyme
@@ -65,14 +65,14 @@ chiasmal lesions
       causes atrophy at 0300 & 0900
       results in a bowtie or band atrophy pattern
     if the optic tract is involved
-      there may be bowtie atrophy on the contralateral side AND
-      diffuse atrophy OR vertical bowtie atrophy on the ipsilateral side
+      there may be band atrophy on the contralateral side AND
+      diffuse atrophy OR vertical band atrophy on the ipsilateral side
 
   VF patterns
     COMMON: bitemporal hemianopia
     ALSO:
       bitemporal superior quadrantanopia
-      bitemporal inferior quadrantanopias
+      bitemporal inferior quadrantanopia
       unilateral temporal hemianopia
       junctional scotoma
         compression at the junction of the nerve and chiasm

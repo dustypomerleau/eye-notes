@@ -1,7 +1,5 @@
 // https://github.com/dustypomerleau/eye-notes
 
-//... work in progress
-
 tools
   // Choose a place/pocket for each tool.
   // Practice with the tools in those locations.

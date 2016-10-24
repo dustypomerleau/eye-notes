@@ -1,6 +1,6 @@
 Welcome to **eye-notes**! If you just want a copy of the notes, use the `Clone or download` button to download a zip file.
 
-The notes are updated frequently. The easiest way to ensure you're seeing the latest version is to view them here on GitHub (desktop or mobile), or use a mobile app, like [iOctocat][].
+The notes are updated periodically. The easiest way to ensure you're seeing the latest version is to view them here on GitHub (desktop or mobile), or use a mobile app, like [iOctocat][].
 
 You can help keep everyone else up to date by sharing a link to this GitHub repository (rather than directly sharing the files).
   
@@ -31,6 +31,8 @@ Text files are tiny. This entire repository is currently under 5 MB. Text files 
 The beauty of plain text is that you can open it anywhere (even in your web browser). Having said that, if you use Microsoft Notepad to view the files, you probably won't fall in love with plain text. As mentioned above, if you just want to read the notes, use the GitHub web interface or the iOctocat mobile app. The desktop version of GitHub has a `search this repository` field at the top, which you can use to find keywords across all documents.
 
 If you really want to see the power of text files, you should download a decent text editor. A good text editor will let you store all the files in an organized project, enabling you to perform actions (edits, search, find and replace) across all of the files at the same time. [Atom][] is an excellent free text editor. I use [Sublime Text][], which is also great (but not free).
+
+Pay attention to the level of indentation when reading the notes. Indented items provide more information about the item they follow, with the main list continuing further down. The outline may have several levels of indentation.
 
 **NOTE:** Some built-in file viewers, like the one in the Dropbox mobile app, don't properly display the level of indentation, and can make **eye-notes** nearly unreadable.
   

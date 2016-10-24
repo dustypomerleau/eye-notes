@@ -180,7 +180,7 @@ TMVL DDx // do not shotgun these tests on exams - be appropriate
         migraine mechanism is not vasospasm-related
       1˚
       2˚
-        long list of conditions // see Petzold 2013
+        long list of conditions // see Petzold (2013)
       episode starts with arteriolar attenuation
         but this can be subtle
       progresses to venous and then arteriolar boxcarring

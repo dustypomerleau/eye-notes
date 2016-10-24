@@ -221,7 +221,7 @@ good outcome of amblyopia therapy
   by 10 YO
 
 PEDIG summary
-  moderate amblyopes 6 hours+
+  moderate amblyopes 6/24+
     atropine 1% bd 2 days/week OR
     2 h patching
   severe amblyopes 6/30-
@@ -769,7 +769,7 @@ BOTOX complications
           synoptophore gives some indication of binocular potential
           true postop diplopia test is a better predictor
             key point about the postop diplopia test
-              it's for patients that do *not* have diplopia preop
+              it's for patients that do NOT have diplopia preop
             allows more adaptation time
             methods for postop diplopia test
               fresnel prisms

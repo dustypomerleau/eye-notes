@@ -63,10 +63,11 @@ MS
         WEBINO
     facial myokymia
       eyelid myokymia DDx
-        idiopathic
-        MS
-        Meige syndrome
-        precursor to hemifacial spasm or blepharospasm
+        COMMON: idiopathic
+        ALSO:
+          MS
+          Meige syndrome
+          precursor to hemifacial spasm or blepharospasm
 
   other neuro abnormalities
     cerebellar disease
@@ -175,7 +176,9 @@ MS
       MRI may not be indicated
       neurology referral if there are neurologic symptoms
         they can decide on a scan
-        (see Petrushkin H, Kidd D, Pavesio C. Intermediate uveitis and multiple sclerosis: to scan or not to scan. Br J Ophthalmol. 2015;99(12):1591-1593. doi:10.1136/bjophthalmol-2015-307269)
+        /*
+        see Petrushkin H et al. Intermediate uveitis and multiple sclerosis: to scan or not to scan. Br J Ophthalmol. 2015;99(12):1591-1593.
+        */
     ALSO:
       pattern VEP
         shows slowing of the P100 in optic neuritis
@@ -197,7 +200,7 @@ treatment
 
   ONTT
     all-comers, half will get MS over 15 y
-    this increases to 3/4 if they have even 1 white-matter lesion on MRI
+    this increases to 3/4 if they have 1+ white-matter lesions on MRI
     oral steroids double the risk of recurrence
     IVMP 1 g daily x 3 d followed by oral prednisone 1 mg/kg x 11 d
       sped recovery by 1-2 weeks but didn't change outcomes
@@ -233,10 +236,8 @@ treatment
             LP with RPR/FTA
           bartonella
             bartonella titers
-          Lyme
+          Lyme // RARE in AU
             Lyme titers
-            Lyme is RARE in AU
-              don't emphasize this
         inflammatory
           sarcoid
             CXR
