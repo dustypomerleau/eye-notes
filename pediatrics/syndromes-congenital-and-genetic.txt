@@ -125,32 +125,36 @@ systemic associations of CR colobomas
     Patau (13)
     Edward (18)
     cat eye syndrome (partial 22)
-//... add information for syndromes associated with CR coloboma below
-//... reformat
-  Basal cell nevus (carcinoma) syndrome
-  Congenital contractural arachnodactyly
-  Sjogren-Larsson syndrome
-  Humeroradial synostosis
-  Oral-facial-digital syndrome (type VIII)
-  Walker-Warburg syndrome
-  Aicardi syndrome
-  MIDAS syndrome
-  Catel-Manzke syndrome
-  13q deletion syndrome
-  Wolf-Hirschhorn syndrome
-  Linear sebaceous nevus syndrome
-  Kabuki syndrome
-  Association with other eye abnormalities or features:
-    Difference in eye color between the two eyes (heterochromia)
-    Small eye (microphthalmia)
-    Increased thickness of the cornea
-    Cataract
-    glaucoma
-    Retinal malformation (retinal dysplasia)
-    Nearsightedness (myopia) or farsightedness (hyperopia)
-    Involuntary eye movements (nystagmus)
-    posterior staphyloma
-    Eyelid coloboma are usually found in the upper lid and are often isolated with the exception of an association with Goldenhar syndrome. In contrast, lower eyelid coloboma are often associated with Treacher-Collins Syndrome.
+  RARELY:
+  //...
+    13q deletion syndrome
+    AD basal cell nevus syndrome
+    Aicardi syndrome // see above
+    Catel-Manzke syndrome
+    congenital contractural arachnodactyly
+    humeroradial synostosis
+    Kabuki syndrome
+    linear sebaceous nevus syndrome
+    MIDAS syndrome
+    oral-facial-digital syndrome type 8
+    Sjogren-Larsson syndrome
+    Walker-Warburg syndrome
+    Wolf-Hirschhorn syndrome
+
+coloboma associations with other eye findings
+  upper eyelid coloboma
+    Goldenhar
+  lower eyelid coloboma
+    Treacher-Collins
+  nystagmus
+  microphthalmia
+  myopia
+  thick CCT
+  iris heterochromia
+  cataract
+  glaucoma
+  posterior staphyloma
+  retinal dysplasia
 
 Klinefelter syndrome
   high myopia
