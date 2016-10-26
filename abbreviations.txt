@@ -195,6 +195,7 @@ DSG - radionucleotide dacryoscintigraphy
 DUSN - diffuse unilateral subacute neuroretinitis
 DVD - dissociated vertical deviation
 DVST - dural venous sinus thrombosis
+DW - Dandy-Walker
 DWI - diffusion-weighted imaging
 E - esophoria
 E' - esophoria at near

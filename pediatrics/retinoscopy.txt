@@ -1,19 +1,35 @@
 // https://github.com/dustypomerleau/eye-notes
 
-retinoscopy
-  go minus until you have 'with' in all directions
+/*
+The term 'axis' is fraught with ambiguity. You need to discipline yourself not to use it loosely (even though everyone around you is doing it).
+
+The cornea has meridians. It could be said that the eye as a whole has meridians.
+
+Astigmatic prescriptions have an axis.
+
+The power of cylindrical lenses is applied to the meridian 90˚ away from the prescribed axis.
+
+When discussing corneal topography, you should discuss the meridian affected by steepening/flattening.
+
+When discussing toric IOLs, for example, you mark the meridian on the cornea that aligns with the axis of the IOL you're implanting. The power of the IOL is actually applied to the meridian 90˚ away from the one you've marked.
+*/
+
+retinoscopy technique
+  add minus until you have 'with' in all directions
   line up your streak with the reflex to get the axis
-  neutralize that axis or the one 90˚ away by adding plus
-    whichever is first
-  make your power cross
+  add plus to neutralize the meridian perpendicular to that axis
+    or the one 90˚ away
+    whichever neutralizes first
+  draw your power cross
     label the ˚ of both meridians
     label the power of the meridian you just neutralized
   neutralize 90˚ away
     label the power of that meridian
       in absolute terms
   write out the Rx
-    use the difference between the two absolute powers for the cyl
-    picture the direction the streak is oriented for that meridian
+    write the lower plus power
+    use the difference between the two absolute powers for the cylinder
+    picture the streak orientation for the higher powered meridian
       that's your axis
       90˚ away from the meridian
   -1.5 D working distance from the sphere for final Rx

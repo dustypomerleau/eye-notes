@@ -30,7 +30,7 @@ Text files are tiny. This entire repository is currently under 5 MB. Text files 
 
 The beauty of plain text is that you can open it anywhere (even in your web browser). Having said that, if you use Microsoft Notepad to view the files, you probably won't fall in love with plain text. As mentioned above, if you just want to read the notes, use the GitHub site (desktop or mobile) or a mobile app, like iOctocat. The desktop version of GitHub has a `search this repository` field at the top, which you can use to find keywords across all documents.
 
-If you really want to see the power of text files, you should download a decent text editor. A good text editor will let you store all the files in an organized project, enabling you to perform actions (edit, search, find and replace) across all of the files at the same time. [Atom][] is an excellent free text editor. I use [Sublime Text][], which is also great (but not free).
+If you really want to see the power of text files, you should download a decent text editor. A text editor will let you store all the files in an organized project, enabling you to perform actions (edit, search, find and replace) across all of the files at the same time. [Atom][] is an excellent free text editor. I use [Sublime Text][], which is also great (but not free).
 
 Pay attention to the level of indentation when reading the notes. Indented items provide more information about the item they follow, with the main list continuing further down. The outline may have several levels of indentation.
 

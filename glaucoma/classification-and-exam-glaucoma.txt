@@ -407,10 +407,11 @@ unilateral glaucoma
           Rb
           PFV
           ...
+        CC fistula
+      aneurysmal
         Coats
           AC cholesterolosis
           2˚ NVG
-        CC fistula
       hemorrhagic
         ghost cell glaucoma
     neoplastic

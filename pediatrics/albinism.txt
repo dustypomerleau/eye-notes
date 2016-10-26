@@ -22,10 +22,10 @@ albinism
     foveal hypoplasia
       ± ON hypoplasia
 
-  AR OCA "he's A ROCkAh"
+  AR OCA // mnemonic: 'he's A ROCkAh'
     7 types primarily based on mutation
     spectrum of tyrosinase activity
-    the term "tyrosinase negative" has been abandoned in favor of a continuum
+    the term 'tyrosinase negative' has been abandoned in favor of a continuum
       generally
         more tyrosinase activity (previously tyrosinase positive)
           better VA
@@ -46,7 +46,7 @@ albinism
       lung disease
       colitis
       Swiss or Puerto Ricans
-        H[PPP] [Pudlak Platelets Puerto Ricans]
+        H[PPP] [Pudlak, Platelets, Puerto Ricans]
 
     Chediak-Higashi
       AR OCA
@@ -89,7 +89,7 @@ albinism
       amblyopia
     ALWAYS: refer to a geneticist
     ALWAYS: refer for low vision rehabilitation
-      Royal Society for the Blind
+      // Royal Society for the Blind in AU
       low vision clinic referral
       optimize the home environment for low vision safety
       low vision schooling

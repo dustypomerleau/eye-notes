@@ -1,26 +1,31 @@
 // https://github.com/dustypomerleau/eye-notes
 
 leukocoria DDx
+
   infectious
+    BROADLY: endophthalmitis
     helminthic
       toxocara
-    BROADLY: endophthalmitis
+
   inflammatory
     inflammatory
       BROADLY: uveitis
-  idiopathic
-    Coats disease
+
   vascular
+    aneurysmal
+      Coats disease
     hemorrhagic
       VH
+
   neoplastic
     solid tumors
       Rb
       medulloepithelioma
       astrocytic hamartoma
+
   congenital
     congenital
-      cataract // see pediatric-cataract.txt
+      cataract // see cataract-pediatric.txt
     developmental
       PFV
         usually sporadic
@@ -39,8 +44,9 @@ leukocoria DDx
           posterior
             overlying the disc
       ROP
-      coloboma
+      ON OR CR coloboma
       myelinated nerve
+
   genetic
     genetic
       retinal dysplasia
@@ -48,9 +54,12 @@ leukocoria DDx
     inherited
       XLD incontinentia pigmenti // see phakomatoses.txt
       XLR Norrie disease
+
   trauma
 
-//...
+
+//
+
 
 short DDx of presumed Rb
   toxocara
@@ -65,11 +74,9 @@ Coats disease vs retinoblastoma
     either
       NVI
     Coats
-      cholesterol
-        yellow
+      yellow AC cholesterol
     Rb
-      pseudohypopyon
-        white
+      white pseudohypopyon
   vitreous
     Coats
       clear
@@ -78,12 +85,9 @@ Coats disease vs retinoblastoma
         cloudy
   subretinal material
     Coats
-      cholesterol
-        yellow
+      yellow cholesterol
     Rb
-      tumor
-        grey
-        white
+      gray-white tumor
   RV caliber
     Coats
       irregular dilation
@@ -96,7 +100,7 @@ Coats disease vs retinoblastoma
       abruptly disappear
   FFA
     Coats
-      telangiectasia
+      telangiectasias
     Rb
       uniform distribution
   BSUS
@@ -104,6 +108,10 @@ Coats disease vs retinoblastoma
       retinal detachment
     Rb
       mass with calcium
+
+
+//
+
 
 Rb
 
@@ -171,10 +179,10 @@ Rb
         vincristine
         etoposide
         carboplatin
-        chemoreduction failures
-          EBRT
-          subTenon chemo
-            carboplatin
+      if they fail chemoreduction
+        EBRT
+        subTenon chemo
+          carboplatin
       sequential aggressive local therapy (SALT)
         chemoreduction followed by
           laser
@@ -224,7 +232,7 @@ Rb
           45% chance each child will be affected
             85% of those affected will be bilateral
       future siblings of bilateral patient with unaffected parents?
-        higher risk that parent is an unaffected carrier // see above
+        higher likelihood that the parent is an unaffected carrier // see above
         risk to future siblings is ~5%
 
     genetic testing can help determine if the mutation is germline
@@ -236,13 +244,13 @@ Rb
         RNA analysis
       most new mutations will be picked up
         about 1/20 will be missed
-          so positives are helpful
+          positives are helpful
           negatives should be viewed with caution
 
 Coats disease
   unilateral
   usually males
-  classification
+  classification // not particularly important
     telangiectasias (1)
     exudation (2)
       2B involves the fovea

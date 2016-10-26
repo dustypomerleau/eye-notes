@@ -280,11 +280,13 @@ shortlist
               HVF
               ERG
               ± ICG
+
 /*
 From Katherine Zamecki & Doug Jabs (2010) RE: the value of A29 in diagnosing Birdshot:
 
 The problem with using HLA typing diagnostically is illustrated in the case of BSCR. BSCR is associated with HLA-A29, and 85% to 95% of patients with BSCR possess HLA-A29, with an overall estimate of 90%. HLA-A29 is present in approximately 7.7% of the general population, and BSCR has among the highest relative odds of any HLA-associated disease. BSCR accounts for approximately 7% of posterior uveitis, and some clinicians advocate screening patients with posterior uveitis with HLA-A29 to diagnose BSCR. The problem with this approach is illustrated by Table 2, which shows the results of this strategy applied to 1000 patients with posterior uveitis. Despite the tight association of BSCR with HLA-A29, the positive predictive value of HLA-A29 is less than 50%, which means that diagnosing BSCR based on HLA-A29 results is wrong more often than it is right. If all uveitis patients were screened (as opposed to just posterior uveitis), the positive predictive value would be even lower, because the prevalence of BSCR is even lower among all patients with uveitis than it is among those with posterior uveitis. One could improve the positive predictive value of HLA-A29 testing by using it only in those situations where the patient had a multifocal choroiditis with yellow-orange ovoid spots, vitreous cells, no anterior chamber cells, and no evidence for syphilis, Lyme disease, or sarcoid. However, regardless of the HLA-A29 result, that patient would be diagnosed with BSCR (5% to 15% of patients with BSCR are HLA-A29 negative), so the test adds little to the diagnosis in this situation, either.
 */
+
           MEWDS
             COMMON:
               mildly myopic women

@@ -1,35 +1,34 @@
 // https://github.com/dustypomerleau/eye-notes
 
-etiology of congenital cataract
-  from 2005 David Mackey Gregg lecture
-    1/5 familial
-      simple AD more than half the time
-      aniridia 10%
-      XLR 10%
-        including Nance-Horan syndrome
-          XLR congenital cataracts
-          dental anomalies
-            supernumary incisors
-            crown-shaped permanent teeth
-          long face
-          prominent nose
-      heriditary hyperferritinemia-cataract syndrome 6%
-      simple AR 6%
-    4/5 sporadic
-      1/2 unilateral
-      16% with a systemic disease
-        cerebral palsy OR developmental delay 6%
-          low birth weight is a risk factor
-        PFV 6%
-        Down syndrome 5%
-        Rubella 3%
-        aniridia 1%
-        JIA 1% // see anterior-and-intermediate-uveitis.txt
-        DM 1%
-        galactosemia 1%
-        ...other metabolic syndromes collectively 4%
+etiology of congenital cataract // David Mackey (2005 Gregg lecture)
+  1/5 familial
+    simple AD 50+%
+    aniridia 10%
+    XLR 10%
+      including Nance-Horan syndrome
+        XLR congenital cataracts
+        dental anomalies
+          supernumary incisors
+          crown-shaped permanent teeth
+        long face
+        prominent nose
+    heriditary hyperferritinemia-cataract syndrome 6%
+    simple AR 6%
+  4/5 sporadic
+    1/2 unilateral
+    16% with a systemic disease
+      cerebral palsy OR developmental delay 6%
+        low birth weight is a risk factor
+      PFV 6%
+      Down syndrome 5%
+      Rubella 3%
+      aniridia 1%
+      JIA 1%
+      DM 1%
+      galactosemia 1%
+      other metabolic syndromes (collectively) 4%
 
-Mackey protocol for approaching congenital cataracts
+Mackey approach to congenital cataracts
   Does the child have a known syndrome or systemic illness?
     Are they dysmorphic or unwell?
   Does the anterior segment give you the diagnosis?
@@ -98,6 +97,11 @@ DDx for pediatric cataracts
     surgical
       surgical trauma
 
+  vascular
+    aneurysmal
+      sporadic Coats disease
+        usually unilateral
+
   neoplastic
     solid tumors
       RARELY: retinoblastoma
@@ -105,11 +109,6 @@ DDx for pediatric cataracts
   DAMS
     medications
       corticosteroids
-
-  degenerative
-    dysfunction
-      sporadic Coats disease
-        usually unilateral
 
   congenital
     congenital
@@ -149,7 +148,7 @@ DDx for pediatric cataracts
         polychromatic AKA Christmas tree
       sporadic polyostotic fibrous dysplasia AKA Albright syndrome
       XLR oculocerebrorenal dystrophy AKA Lowe syndrome
-        RRR
+        mnemonic: RRR
           mental Retardation
           Rickets
           Renal acidosis
@@ -208,21 +207,21 @@ evaluation
       highly amblyogenic
 
   measure VA
-    // with glare testing if they are old enough
     interest, bright objects
     CSM, 20 ∆ BD, base-to-base ∆ test: do they alternate?
     PL/grating
     Kay/Allen/Lea
     HOTV/SG
     Snellen/ETDRS
+    if they are old enough
+      test with glare
 
   ALWAYS: refract
 
   eye exam
     including DFE
 
-  labs
-    // not needed with a clear FH or syndrome
+  labs // not needed with a clear FH or syndrome
     TORCH titers
     genetic testing for any suspected syndrome
     endocrine testing for any suspected syndrome
@@ -256,23 +255,23 @@ treatment
 
   remove the cataract if it is visually significant
     unilateral or asymmetric
-      remove before 6 w of age
+      remove before 6 weeks of age
     bilateral and symmetric
-      remove before 10 w of age
+      remove before 10 weeks of age
     consider a modified capsulorrhexis
       2-incision push-pull technique
         helps control the highly elastic capsule
     primary posterior capsulotomy
     primary anterior vitrectomy
-    older than 1 y
+    older than 1 year
       implant an acrylic IOL
       aim +1-2 D
       make sure eyes are matched with postop MRx
-    younger than 1 y
+    younger than 1 year
       sequential surgery
       aphakic spectacles at first
       subsequent IOL implantation
-        after 1 y of age
+        after 1 year of age
 
   treat any amblyopia
     starting immediately after surgery

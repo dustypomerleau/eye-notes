@@ -11,8 +11,7 @@ learning disorders
     environment
       abuse
         ALWAYS: report suspicion of abuse to local authorities
-          in VIC
-            Department of Human Services
+          // Department of Human Services in AU
       social instability
     genetics
       affected parents OR siblings

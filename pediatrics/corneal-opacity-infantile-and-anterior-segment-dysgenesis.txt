@@ -9,8 +9,8 @@ anterior segment dysgenesis
     corneal opacity
     posterior corneal defect
     iridocorneal OR lenticulocorneal adhesions
-    bilateral Peters
-      work up
+    if Peters anomaly is bilateral
+      work up for
         brain defects
         heart defects
         genetic syndromes
@@ -30,8 +30,8 @@ anterior segment dysgenesis
           shortage of bile ducts
     iris adhesions
     iris stromal hypoplasia
-    corectopia
-    pseudopolycoria
+    eccentric pupils AKA corectopia
+    iris holes AKA pseudopolycoria
     systemic findings
       small teeth AKA microdontia
       broad nasal bridge
@@ -41,10 +41,10 @@ anterior segment dysgenesis
     glaucoma is a major concern
 
   aniridia ± WAGR
-    PAX6
+    PAX6 mutations
       2/3 AD
       1/3 sporadic
-      PAX6 predisposes to Wilms tumor even without full WAGR
+      PAX6 mutations predispose to Wilms tumor even without full WAGR
         Wilms tumor is most often seen in sporadic aniridia
         1/3 of sporadic aniridia develops Wilms tumor
       RARELY: Gillespie syndrome
@@ -70,7 +70,7 @@ anterior segment dysgenesis
     lens abnormalities
       COMMON: cataract
         1/2 of cases
-        ALWAYS: mention amblyopia prevention
+        ALWAYS: consider amblyopia prevention
           in practice
             usually not dense enough to require pediatric CEIOL
       ALSO:
@@ -147,13 +147,11 @@ infantile corneal opacity (clouding)
       glaucoma
       uveitis
   primary corneal opacity
-    AD infantile-onset PPCD
-      formerly CHED1
+    AD infantile-onset PPCD (formerly CHED1)
       RARE
       increased corneal thickness
       corneal edema
-    AR CHED
-      formerly CHED2
+    AR CHED (formerly CHED2)
       presents with nystagmus
       RARELY: deafness
       increased corneal thickness
@@ -180,7 +178,6 @@ infantile corneal opacity (clouding)
     breaks in the Descemet membrane
       forceps trauma
     metabolic causes
-      MPS1
-        formerly Hurler/Scheie
+      MPS1 (formerly Hurler/Scheie)
     infectious
       COMMON: TORCH
