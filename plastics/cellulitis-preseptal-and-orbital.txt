@@ -161,9 +161,11 @@ preseptal and orbital cellulitis:
   treatment
     preseptal
       adults: oral Augmentin 875/125 bd x 10 days // 500/125 tds in AU
-      kids: 22.5 + 3.2 mg/kg up to 875/125 bd x 10 days // OR divide tds
-        for simplicity
-          think of this as 23 + 3 bd x 10 days
+        kids: 22.5 + 3.2 mg/kg up to 875/125 bd x 10 days
+          roughly 23 + 3 bd x 10 days
+          AU variant
+            15 + 2.1 up to 500/125 tds x 10 days
+            roughly 15 + 2 tds x 10 days
     orbital
       ADMIT
       orbital apex syndrome?

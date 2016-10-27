@@ -230,6 +230,7 @@ IOL formulas
       7 variables
       disadvantage
         estimates LT rather than measuring
+  3rd+ generation
     Barrett 2
       http://www.apacrs.org/barrett_universal2/
       APACRS website also include Barrett formulas for
@@ -252,11 +253,11 @@ IOL formulas
                 big advantage if Ks are atypical
           accounts for both anterior and posterior corneal curvature
         paraxial ray tracing formula improves ELP
-    summary
-      you should be using Barrett 2 OR Olsen
-        both are excellent
-      Barrett 2 is free online
-      Olsen is only available on certain machines or in paid software
+  summary
+    you should be using Barrett 2 OR Olsen
+      both are excellent
+    Barrett 2 is free online
+    Olsen is only available on certain machines or in paid software
 
 biometry factors by importance
   AL
