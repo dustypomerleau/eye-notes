@@ -231,12 +231,13 @@ IOL formulas
       disadvantage
         estimates LT rather than measuring
     Barrett 2
-      APACRS universal formula
-        http://www.apacrs.org/apacrsbiometry/IOLSuite.aspx
-      APACRS website also include Barrett formulas for
-        post-KRS
-        toric
-        piggyback OR IOL exchange
+      http://www.apacrs.org/barrett_universal2/
+    APACRS universal formula
+      http://www.apacrs.org/apacrsbiometry/IOLSuite.aspx
+    APACRS website also include Barrett formulas for
+      post-KRS
+      toric
+      piggyback OR IOL exchange
 
     Olsen // papers in 2006 and 2009
       Gaussian optics

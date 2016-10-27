@@ -266,7 +266,7 @@ glaucoma classification
             (100 g if you give the whole bag)
         LPI
         RARELY: ALPI to improve success at LPI creation
-          technically hard because of peripheral MCE
+          technically difficult because of peripheral MCE
         RARELY: tap the AC to break an attack
           use a 30 g needle rather than a paracentesis
         surgery
