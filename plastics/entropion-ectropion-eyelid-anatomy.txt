@@ -136,8 +136,7 @@ entropion
     COMMON:
       history of ocular surgery
       trauma
-      cicatrizing conjunctivitis
-        // see cicatrizing-conjunctivitis-DDx.txt
+      cicatrizing conjunctivitis // see cicatrizing-conjunctivitis-DDx.txt
 
     treatment ladder
       lubrication

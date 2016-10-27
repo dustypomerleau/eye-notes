@@ -166,6 +166,7 @@ preseptal and orbital cellulitis:
           AU variant
             15 + 2.1 up to 500/125 tds x 10 days
             roughly 15 + 2 tds x 10 days
+        NOTE: these formulas calculate the dose of amox, not clav
     orbital
       ADMIT
       orbital apex syndrome?
@@ -212,123 +213,128 @@ preseptal and orbital cellulitis:
                 neurosurgery
     young kids
       swollen lids?
-        mention amblyopia risk
+        consider amblyopia risk
         not an issue with the normal course
           improvement over 5 days
-  signs of extension
-    orbital apex syndrome
-      CN[345(1)6]P
-        if 5(2) OR PS are involved think cavernous sinus
 
-      DDx OAS
 
-        infectious
-          viral
-            VZV
-          bacterial
-            TB
-            syphilis
-            Strep.
-            Staph.
-            Actinomyces
-            BROADlY:
-              GNR
-              anaerobes
-          fungal
-            Aspergillus
-            Mucor
+ //
 
+
+signs of orbital cellulitis extension
+  orbital apex syndrome
+    CN[345(1)6]P
+      if 5(2) OR PS are involved think cavernous sinus
+
+    DDx OAS
+
+      infectious
+        viral
+          VZV
+        bacterial
+          TB
+          syphilis
+          Strep.
+          Staph.
+          Actinomyces
+          BROADlY:
+            GNR
+            anaerobes
+        fungal
+          Aspergillus
+          Mucor
+
+      inflammatory
+        // definitive diagnosis may require biopsy
         inflammatory
-          // definitive diagnosis may require biopsy
-          inflammatory
-            sarcoid
-            NSOI
-            Tolosa-Hunt // see CN3P DDx in HT-vertical-strabismus.txt
-              diagnosis of exclusion
-              MRI can look like
-                sarcoid
-                meningioma
-                lymphoma
-          autoimmune
-            lupus
-            TED
-          vasculitis
-            GPA
-            GCA
-            Churg Strauss AKA eosinophilic GPA
-              eosinophilia
-              elevated ESR
-              elevated pANCA
-              late stages are life threatening
-                abdominal pain
-                bowel infarction OR perforation
-                inflammatory heart disease
+          sarcoid
+          NSOI
+          Tolosa-Hunt // see CN3P DDx in HT-vertical-strabismus.txt
+            diagnosis of exclusion
+            MRI can look like
+              sarcoid
+              meningioma
+              lymphoma
+        autoimmune
+          lupus
+          TED
+        vasculitis
+          GPA
+          GCA
+          Churg Strauss AKA eosinophilic GPA
+            eosinophilia
+            elevated ESR
+            elevated pANCA
+            late stages are life threatening
+              abdominal pain
+              bowel infarction OR perforation
+              inflammatory heart disease
 
-        iatrogenic
-          surgical
-            orbital surgery
-            sinus surgery
+      iatrogenic
+        surgical
+          orbital surgery
+          sinus surgery
 
+      vascular
         vascular
-          vascular
-            CC fistula
-              ask about head trauma
-          vasoocclusive
-            sickle cell
-          aneurysm
-            CC aneurysm
-          hypercoagulable
-            CC thrombosis
+          CC fistula
+            ask about head trauma
+        vasoocclusive
+          sickle cell
+        aneurysm
+          CC aneurysm
+        hypercoagulable
+          CC thrombosis
 
-        neoplastic
-          solid tumors
-            SCC
-            melanoma
-              perineural invasion
-            nasopharyngeal carcinoma
-            adenoid cystic carcinoma
-            neurofibroma
-            meningioma
-            schwannoma
-            pituitary adenoma
-              usually cavernous sinus syndrome
-          lymphoproliferative
-            Burkitt lymphoma
-            NHL
-          hematologic
-            BROADLY: leukemia
-          metastatic
-            melanoma
-            lung
-            breast
-            renal cell carcinoma
+      neoplastic
+        solid tumors
+          SCC
+          melanoma
+            perineural invasion
+          nasopharyngeal carcinoma
+          adenoid cystic carcinoma
+          neurofibroma
+          meningioma
+          schwannoma
+          pituitary adenoma
+            usually cavernous sinus syndrome
+        lymphoproliferative
+          Burkitt lymphoma
+          NHL
+        hematologic
+          BROADLY: leukemia
+        metastatic
+          melanoma
+          lung
+          breast
+          renal cell carcinoma
 
-        DAMS
-          medications
-            pamidronate
-              prostate CA treatment
-              can cause 2˚ orbital inflammation
+      DAMS
+        medications
+          pamidronate
+            prostate CA treatment
+            can cause 2˚ orbital inflammation
 
-        degeneration
-          dysfunction
-            mucocele
+      degeneration
+        dysfunction
+          mucocele
 
+      endocrine
         endocrine
-          endocrine
-            DM
-              predisposes to infectious OAS
-          metabolic
-            orbital amyloidosis
+          DM
+            predisposes to infectious OAS
+        metabolic
+          orbital amyloidosis
 
-        trauma
-          orbital apex fracture
-            orbital hemorrhage
-          penetrating orbital injury
-          orbital FB
+      trauma
+        orbital apex fracture
+          orbital hemorrhage
+        penetrating orbital injury
+        orbital FB
 
-    cavernous sinus syndrome/thrombosis
-      extension of orbital apex syndrome
-      may have CN5(2) deficit also
-      may become bilateral
-    meningitis
-    encephalitis
+  cavernous sinus syndrome/thrombosis
+    extension of orbital apex syndrome
+    may have CN5(2) deficit also
+    may become bilateral
+  meningitis
+  encephalitis

@@ -205,8 +205,8 @@ for exam purposes
     ASCRS online calculator (iolcalc.org)
       chooses the best method for the data you have available
 
-    APACRS Barrett online calculator
-      http://www.apacrs.org/Barrett_True_K_Universal_2104/
+    APACRS Barrett post-KRS online calculator
+      http://www.apacrs.org/Barrett_True_K_Universal_2105/
 
 
 //
@@ -231,7 +231,8 @@ IOL formulas
       disadvantage
         estimates LT rather than measuring
   3rd+ generation
-    Barrett 2
+    Barrett 2 universal
+      thick lens formula
       http://www.apacrs.org/barrett_universal2/
       APACRS website also include Barrett formulas for
         post-KRS
@@ -244,7 +245,7 @@ IOL formulas
         Lenstar
         IOLMaster 700
       Gaussian optics
-        thick lens rather than thin lens like other formulas
+        thick lens formula
           uses measured LT
             an advantage over Holladay 2
             uses a C constant
