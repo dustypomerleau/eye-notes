@@ -33,7 +33,7 @@ SJS is used here to represent the full continuum
       dermatitis herpetiformis
         blistering rash on the extremities, back, and buttocks
         gluten intolerance
-        coeliac disease
+        celiac disease
           small bowel CA
         skin biopsy
         dapsone

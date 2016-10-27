@@ -232,14 +232,16 @@ IOL formulas
         estimates LT rather than measuring
     Barrett 2
       http://www.apacrs.org/barrett_universal2/
-    APACRS universal formula
-      http://www.apacrs.org/apacrsbiometry/IOLSuite.aspx
-    APACRS website also include Barrett formulas for
-      post-KRS
-      toric
-      piggyback OR IOL exchange
-
+      APACRS website also include Barrett formulas for
+        post-KRS
+        toric
+        piggyback OR IOL exchange
     Olsen // papers in 2006 and 2009
+      available in
+        standalone PhacoOptics IOL software
+          http://phacooptics.net
+        Lenstar
+        IOLMaster 700
       Gaussian optics
         thick lens rather than thin lens like other formulas
           uses measured LT
@@ -250,6 +252,11 @@ IOL formulas
                 big advantage if Ks are atypical
           accounts for both anterior and posterior corneal curvature
         paraxial ray tracing formula improves ELP
+    summary
+      you should be using Barrett 2 OR Olsen
+        both are excellent
+      Barrett 2 is free online
+      Olsen is only available on certain machines or in paid software
 
 biometry factors by importance
   AL

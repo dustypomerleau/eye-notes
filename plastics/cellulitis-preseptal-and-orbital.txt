@@ -3,7 +3,9 @@
 preseptal and orbital cellulitis:
 
   DDx to consider
-    RARELY: HSV, VZV
+    RARELY:
+      HSV
+      VZV
     lacrimal gland inflammation
       infectious
       inflammatory
@@ -38,7 +40,7 @@ preseptal and orbital cellulitis:
             lupus
             scleroderma
             IBD
-            coeliac disease
+            celiac disease
             Churg Strauss
             GPA
             RARELY: paraneoplastic
@@ -102,7 +104,7 @@ preseptal and orbital cellulitis:
     conjunctival injection
     gaze restriction
       motility
-      evaluate for CN[3456]P
+      evaluate for CN[3-6]P
     fever
     leukocytosis
 
@@ -123,23 +125,25 @@ preseptal and orbital cellulitis:
       unvaccinated kids
     GNR
       after trauma
-    mixed including anaerobes
+    mixed (including anaerobes)
       dental abscess
     fungal
       DM
       immunosuppressed
-      aspergillus
-      mucor
-        painful ophthalmoplegia
-        dark hue of the periorbital skin
-        black nasal discharge
-        high risk of DIC
-          crossmatch and be ready to transfuse
+      COMMON:
+        aspergillus
+        mucor
+          painful ophthalmoplegia
+          dark hue of the periorbital skin
+          black nasal discharge
+          high risk of DIC
+            crossmatch and be ready to transfuse
 
   culture
     nasal drainage
     skin wound
-    abscess contents if surgery performed
+    if surgery is performed
+      abscess contents
     media
       gram stain
       blood
@@ -156,20 +160,25 @@ preseptal and orbital cellulitis:
 
   treatment
     preseptal
-      oral Augmentin 875/125 (kids: 22.5 + 3.2 mg/kg up to 875/125) bd x 10 days        for simplicity
-          think of this as 23 + 3 bd x 10 days        AU dose is usually 500/125 tds
+      adults: oral Augmentin 875/125 bd x 10 days // 500/125 tds in AU
+      kids: 22.5 + 3.2 mg/kg up to 875/125 bd x 10 days // OR divide tds
+        for simplicity
+          think of this as 23 + 3 bd x 10 days
     orbital
       ADMIT
       orbital apex syndrome?
         consider canthotomy + cantholysis
       IV antibiotics
-        flucloxacillin 2 g (kids: 50 mg/kg up to 2 g) q 6 hours for SA AND
-        ceftriaxone 2 g (kids: 50 mg/kg up to 2 g) q 8 hours for strep. and H. flu.
-          followed by Augmentin as for preseptal
-        if not improving rapidly over 2 days          consider MRSA
+        adults: flucloxacillin 2 g q 6 hours for SA AND
+          kids: 50 mg/kg up to 2 g q 6 hours
+        adults: ceftriaxone 2 g q 8 hours for strep. and H. flu.
+          kids: 50 mg/kg up to 2 g q 8 hours
+        if not improving rapidly over 2 days
+          consider MRSA
           start IV vancomycin
             40 mg/kg/d up to 2 g in 2 divided doses
             reduce for renal insufficiency
+      followed by Augmentin as for preseptal
       pain medication
       ± debridement
         persistent subperiosteal abscess
