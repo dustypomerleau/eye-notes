@@ -1,8 +1,14 @@
 // https://github.com/dustypomerleau/eye-notes
 
+// Thanks to all the previous RACErs who have contributed to these templates.
+
+/*
+This file is specific to the Australian RACE exam, but may be helpful for considering the order of examination in the clinic as well.
+*/
+
 tools
-  // Choose a place/pocket for each tool.
-  // Practice with the tools in those locations.
+  // choose a place/pocket for each tool
+  // practice with the tools in those locations
   fixation target
     child target
     adult target
@@ -273,10 +279,11 @@ posterior segment (pole + full peripheral exam including BIO)
     hearing aid
 /*
   they may tell you to put on your indirect right away
-    clear media or not
-    nerve and vessels look normal or not
-      'The disc is pink and doesn't appear cupped'
-    'There is no obvious abnormality of the macula'
+    comment
+      clear media or not
+      nerve and vessels look normal or not
+        'The disc is pink and doesn't appear cupped'
+      'There is no obvious abnormality of the macula'
     then start your peripheral exam
   turn around and state your findings
     'I would like to examine the other eye'
@@ -366,7 +373,7 @@ posterior segment (pole + full peripheral exam including BIO)
 //
 
 
-orbit //... not all detailed exam orders match their summary below this point
+orbit
 
   intro
   look
@@ -822,7 +829,7 @@ motility // see strabismus.txt for more detail
         'Would you like me to measure the deviation?'
     versions // near target
       standard pattern
-        2 horizontal passes // SISASIF
+        2 horizontal passes
           left hand first
             'Right eye aBduction is preserved.'
           passing to right hand
@@ -839,11 +846,11 @@ motility // see strabismus.txt for more detail
             'There is no A or V pattern.'
         4 out and back diagonal corners
           left hand
-            UR
-            DR
+            up and right
+            down and right
           right hand
-            UL
-            DL
+            up and left
+            down and left
           'There is no oblique overaction.'
           repeat for left eye
       if there is ptosis + incomitant strabismus
