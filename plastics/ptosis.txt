@@ -98,7 +98,7 @@ ptosis
             Tensilon (edrophonium) test
               dose
                 adults
-                  take your baseline measurements for comparison
+                  take baseline measurements for comparison
                   have atropine ready and monitor vitals
                     bradycardia
                     hypotension
@@ -132,7 +132,7 @@ ptosis
                 easier to measure a positive
           AChR-Ab
             helpful if positive
-            positive less than 1/2 the time
+            but positive less than 1/2 the time
           chest CT
             rule out thymoma
             present in 5-%
@@ -220,22 +220,21 @@ ptosis
               look for a hypotropia
           treatment
             observe
-            strabismus surgery before lids if needed
+            if surgery is really needed
+              strabismus surgery before lids
             COMMON:
               *bilateral* levator transection
                 remove a 10 mm section
                   above the Whitnall ligament
-                  transconjunctival approach
-                    described by Bowyer in 2004
+                  transconjunctival approach // described by Bowyer in 2004
                     when isolating the levator
                       avoid the SR!
                   anterior approach via lid crease incision is also possible
               + *bilateral* frontalis sling
                 Bowyer technique
                   Crawford triangles
-                  autogenous fascia lata
-                  silicone is also an option
-                    my preference
+                    silicone OR // my preference
+                    autogenous fascia lata
                   lid height should just clear the visual axis
             ALSO:
               levator advancement
@@ -406,7 +405,7 @@ ptosis exam
                 Pancoast tumor
                 metastatic neuroblastoma
             most institutions have a Horner protocol for imaging these areas
-              RVEEH uses CT + CTA instead of MRI + MRA
+              many use CT + CTA instead of MRI + MRA
             if there is a dissection
               ADMIT to neurology
                 they will dictate anticoagulation versus antiplatelet therapy
@@ -527,10 +526,10 @@ surgical treatment
       classic pentagon pattern
         mark skin
           3 sites along lid margin
-            some docs e.g. RC incise across the full lid
+            some docs incise across the full lid
               this allows direct suturing of the tubing to the tarsus
-              // see alternative by RC here
-              //   https://www.youtube.com/watch?v=vXsmprEMkbw
+              // see alternative by RC
+              // https://www.youtube.com/watch?v=vXsmprEMkbw
           3 sites along brow
         local infiltration
         incise lid margin through OOM
@@ -547,7 +546,7 @@ surgical treatment
           6-0 Vicryl
         pass the Silastic from the outer brow incisions to the central one
         secure the rod with a silicone sleeve
-          you can tie the sleeve if you want
+          you can tie the rod if you want
           harder to adjust later
         adjust height
           adult acquired ptosis
@@ -583,10 +582,8 @@ terminology
       fold running from the eyebrow to the lacrimal sac
 
 
-//
-
-
-from http://www.drdresner.com/ptosis-management/
+/*
+additional information from http://www.drdresner.com/ptosis-management/
 
 From an article contributed by Dr. Dresner to the medical textbook Oculoplasty Surgery: The Essentials, edited by William P. Chen. New York: Thieme Medical Publishers, 2001.
 
@@ -708,3 +705,4 @@ Surgical Technique
 The surgery can be done under general anesthesia or local anesthesia; however local anesthesia is preferred to fine-tune the eyelid level and contour intraoperatively.  A simple pentangular design similar to what is used for the fascial frontalis suspension works well for this procedure.  A lid crease incision, however, is more appropriate in this case to attach the silicone rod directly to the tarsal plate.
 
 One percent Xylocaine with epinephrine and hyaluronidase is injected under the lid crease incision and just above the eyebrow centrally, medially, and laterally.  The lid crease incision is made and the tarsal plate is exposed by dissection through the orbicularis.  The silicone rod is sewn onto the tarsal plate with three to five interrupted 6-0 braided nylon or polypropylene .  The rod is then pulled up to the eyebrow to mark the medial and lateral brow incisions.  This will help to optimize the contour of the upper eyelid margin.  Incisions are made down to the periosteum.  With the globe protected, the rods are passed through the preaponeurotic space to the medial and lateral brow incisions with the passing needles .  The medial and lateral ends of the Silastic rod are then pulled up and crossed centrally to mark the central incision.  This is usually above the pupil or just medial to the pupil.  The two ends of the rod are passed through a small Silastic sleeve to secure them at an optimum length and tension.  The lid level is set between 1 and 3 mm above the pupil, depending on the condition being treated.  (One should not elevate these lids to the limbus, as one does with congenital ptosis.)  The rods are trimmed and left with 5 to 8 mm of length on either end for possible future adjustment.  The ends of these rods are then tucked into the wound.  A 6-0 braided nylon or polypropylene suture is sewn around the sleeve, which is then sewn superiorly to the deeper frontalis muscle .  The brow incisions are closed and the lid crease incision is closed, usually with supratarsal fixation every other bite to create a defined lid crease.  One can adjust the lid level and contour postoperatively in the office by exposing the Silastic sleeve under the central suprabrow incision.  This is best done within the first few weeks after surgery because once a pseudocapsule forms around the rods, adjustment may be more difficult.  If indicated, the rod can be entirely removed at any time postoperatively.  The Silastic rod offers the extra advantage and flexibility of adjustability, and comparable results to fascia lata techniques can be obtained.
+*/

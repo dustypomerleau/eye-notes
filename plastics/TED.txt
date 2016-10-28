@@ -5,8 +5,7 @@ TED
   COMMON: Graves disease
     nearly 1/2 of Graves patients get TED
   more common in women
-  worst prognosis
-    older men
+  but older men have the worst prognosis
 
   clinical course
     the Rundle curve
@@ -27,7 +26,7 @@ TED
 
   TED symptoms
     dull, deep, orbital pain
-    exposure
+    exposure keratopathy
       blurry vision
       tearing
       FB sensation
@@ -53,9 +52,7 @@ TED
     dilated conj vessels
       sparing the limbus
       AOT CC fistula which reaches the limbus
-        Charlie Chaplin goes all the way girl
-          Who wouldn't want Charlie Chaplin to go all the way with them?
-          I mean, I certainly would.
+        mnemonic: Charlie Chaplin goes all the way girl
     SLK
     proptosis
       Hertel 22+ mm OR ∆ 2+ mm
@@ -178,7 +175,7 @@ EUGOGO
               try to avoid orbital radiation even in DM without DR
         inactive
           wait 6 months
-          surgery in the correct order (OSL 'OZil')
+          surgery in the correct order (OSL) // 'OZil'
             orbit
             strabismus
             lids
@@ -214,9 +211,9 @@ EUGOGO
         ± ENT
         ± psychiatry OR counseling
       once everything is quiet
-        orbital surgery "Orbit is One"
+        orbital surgery // 'Orbit is One'
         strabismus surgery
-        lid surgery "Lids are Last"
+        lid surgery // 'Lids are Last'
 
     in more detail
       smoking cessation
@@ -240,9 +237,10 @@ EUGOGO
       oral steroids
         short-term
         compressive optic neuropathy
-        when you mention systemic steroids in an answer
-          ALWAYS: mention side effects
-            counsel the patient
+        when you consider systemic steroids
+          ALWAYS:
+            document side effects
+            counsel the patient about side effectss
       IVMP
         acute optic nerve compression
       rituximab
@@ -253,7 +251,7 @@ EUGOGO
         max tolerance 10 ∆ V and 20+ ∆ H
       surgery
         euthyroid x 6 months
-        order matters
+        order matters (OSL)
           orbital decompression
             diplopia in 1˚
             severe proptosis despite other treatments
@@ -276,7 +274,7 @@ EUGOGO
             tables unreliable
             undercorrect
             only recessions
-              COMMON: IR & MR recessions
+              COMMON: IR + MR recessions
               NEVER: do unilateral IR recession in TED
                 even with adjustables results are unpredictable
                 yoke muscle contracture
@@ -296,7 +294,7 @@ EUGOGO
 //
 
 
-stupid TED eponyms
+ridiculous TED eponyms // for exam purposes only
   Dalrymple sign
     lid retraction
   Kocher sign

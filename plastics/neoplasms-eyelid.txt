@@ -12,8 +12,8 @@ with any skin or orbit lesion
       wait until day 2 to repair the defect
         that way you can do further excision if necessary
     routine frozen section can miss things but is better than nothing
-  for cancer in the orbit the patient needs complete staging
-    i.e. is it confined to the orbit or not?
+  for cancer in the orbit the patient needs complete staging with an oncologist
+    i.e. is it confined to the orbit or not? // see mass-orbital.txt
 */
 
 history
@@ -24,7 +24,7 @@ history
   radiation
   immunosuppression
 
-exam (in addition to complete eye exam)
+exam
   ulceration
   bleeding
   telangiectasias
@@ -36,6 +36,7 @@ exam (in addition to complete eye exam)
   palpate regional lymph nodes
   punctal or canalicular involvement
   masquerading as chronic chalazia or blepharitis
+  ALWAYS: perform a complete eye exam
 
 DDx
   size influences biopsy type
@@ -49,18 +50,37 @@ DDx
     if cystic
       shave
       marsupialize
-    if viral
+    if viral OR small/multifocal
+      electrocautery
       cryo
     squamous papilloma
     seborrheic keratosis
     epidermal inclusion cysts
+      contains yellow-white laminated keratin
+    milia
+      multiple
+      keratin filled
+    sweat gland cysts
+      COMMON: syringomas
+        multifocal bumps
+        clear contents (not yellow like xanthelasma)
+      ALSO: sudoriforous cyst AKA hidrocystoma AKA cyst of Moll
+        transilluminates
+        can be apocrine or eccrine in origin
+        apocrine hidrocystoma can be multiple
+          often near the eyelid margin
     molluscum
     xanthelasma
-    syringomas
-      most common of many benign tumors of sweat glands
     trichoepithelioma
       most common of many benign tumors of hair follicles
     nevi
+      can be pearly and nonpigmented like a BCC
+      but
+        conform to the globe
+        no ulceration
+        lashes and lid architecture are not disturbed
+      if nonpigmented
+        vessels may be prominent
     oculodermal melanocytosis AKA nevus of Ota
       RARELY: develops uveal melanoma
 
@@ -80,7 +100,7 @@ DDx
 
   malignant
     incisional biopsy
-      usually a 3 mm punch in AU
+      usually a 3 mm punch // in AU
     for large or aggressive lesions
       involve the GP ± oncologist
     excision with margins
@@ -92,7 +112,7 @@ DDx
           AD basal cell nevus syndrome
       BCC in the lateral canthus is a unique case
         structures near the lateral canthus
-          CN7 & CN5
+          CN[57]
             palsies
             perineural tumor spread
           lymphatics from the eyelids to the preauricular nodes
@@ -118,7 +138,7 @@ DDx
           mobility
           lid involvement
           spread into the orbit
-        ALWAYS: STATE your method of margin control
+        ALWAYS: consider and document your method of margin control
           Mohs
           24 hour paraffin
             requires a delay in repair until you have results
@@ -151,7 +171,8 @@ DDx
     SCC (4 mm)
       perineural invasion of SCC can affect the orbit and cavernous sinus
       if there is a CNP associated with SCC
-        thin cut MRI ± gad of orbit and cavernous sinus
+        scan
+          thin cut MRI ± gad of orbit and cavernous sinus
       if you can't see the whole lesion
         scan
     sebaceous cell carcinoma (4+ mm)
@@ -160,7 +181,8 @@ DDx
         Muir-Torre syndrome
           colon CA
           genitourinary CA
-      ideally if localized you would perform full-thickness excision
+      if localized
+        full-thickness excision
         need excellent margin control
       if there is pagetoid spread into the orbit
         exenteration
@@ -188,7 +210,7 @@ lid reconstruction
             muscle to levator
             skin to skin
           other option is to attach conj at the top of the defect
-            then put hard palate or similar
+            then add hard palate or similar
             like a sandwich
     lower lid:
       adjacent tarsoconjunctival flap

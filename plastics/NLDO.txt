@@ -7,7 +7,7 @@ NLDO
     sac distention with digital pressure
     watch for a year and massage the sac
     probe and irrigate in OT
-      ALWAYS: prove patency after probing
+      ALWAYS: irrigate to prove patency after probing
     if recurrent
       intubate with Crawford tubing
         ± turbinate infracture if URI-associated
@@ -16,6 +16,7 @@ NLDO
     watch for dacryocystitis // treatment below
 
   acquired NLDO
+
     DDx acquired NLDO with epiphora
       prior infection
         canaliculitis
@@ -34,8 +35,7 @@ NLDO
         bluish mass below the medial canthus
         an acquired version of dacryocystocele
         can get superinfected
-          dacryocystitis
-            see bugs below
+          dacryocystitis // see bugs below
         can cause local bony erosion in the lacrimal fossa
         blockage will be in the canaliculus OR common
         treatment
@@ -43,6 +43,7 @@ NLDO
           ALSO: polyurethane stent
       congenital dacryocystocele
       trauma
+
     approach to the patient with epiphora
       hypersecretion
         OSD
@@ -129,9 +130,9 @@ NLDO
         radionucleotide dacryoscintigraphy (DSG)
           instill Technetium 99 drops and track with a gamma camera
     investigations
-      culture
+      culture for
         purulent reflux
-      MRI
+      MRI for
         palpable mass
           neoplasm
           mucocele
@@ -154,7 +155,7 @@ NLDO
         LTS
       partial occlusion
         intubate
-      canalicular or common occlusion
+      canalicular OR common occlusion
         COMMON: endoscopic CDCR with a Pyrex Jones tube
           ± partial middle turbinectomy
           can dislodge
@@ -174,7 +175,7 @@ NLDO
           repeat your testing
             DDT
             Jones1
-              below middle turbinate this time
+              below middle turbinate in the postop setting
             probe + irrigate
               be gentle the anatomy is altered
           blockage after DCR
@@ -247,8 +248,9 @@ canaliculitis (particularly common after punctal plugs)
   treatment
     massage and express
     Chlorsig ointment
-    severe cases could add Augmentin
-      usually this is more appropriate in dacryocystitis
+    severe cases
+      could add Augmentin
+        usually this is more appropriate in dacryocystitis
     curettage of actinomyces stones
       ± canaliculotomy if needed
       syringe with cefazolin solution after clearing stones
@@ -271,7 +273,8 @@ dacryocystitis
       pneumococcus
       H. flu
         in nonimmunized
-    Augmentin 22.5 mg + 3.2 mg/kg up to 875/125 po x 10 d
+    Augmentin 22.5 mg + 3.2 mg/kg up to 875/125 po bd x 10 d
+      // for alternate dosing see cellulitis-preseptal-and-orbital.txt
     or if severe
       flucloxacillin 50 mg/kg up to 2 g q 6 hours
       ceftriaxone 50 mg/kg up to 2 g q 8 hours

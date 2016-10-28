@@ -10,7 +10,7 @@ orbital implants:
   good tissue integration and movement transfer
     hydroxyapatite
     porous polyethylene
-      prevent extrusion
+      to prevent extrusion
         cover with sclera OR fascia
         close Tenon fully
         suture EOMs to sclera
@@ -45,8 +45,8 @@ post-enucleation socket syndrome
       yes
         orbital floor implant
           e.g. Medpor
-          if persistent volume deficit
-            dermis fat graft
+        if persistent volume deficit
+          dermis fat graft
 
     LL laxity
       LTS
