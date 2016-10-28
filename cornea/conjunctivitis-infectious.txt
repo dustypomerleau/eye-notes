@@ -37,7 +37,7 @@ infectious conjunctivitis
       azithromycin
     WORST: gonococcus
       ceftriaxone
-    strep. viridans
+    Strep. viridans
     SA
     H. flu
     HSV

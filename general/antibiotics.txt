@@ -4,7 +4,7 @@ antibiotic susceptibilities // ideally you would know these for your region
 
   cephalosporins
     1st generation
-      staph and strep but no MRSA
+      Staphand Strep but no MRSA
       minimal gram-negative coverage
       cephalexin
       cefazolin

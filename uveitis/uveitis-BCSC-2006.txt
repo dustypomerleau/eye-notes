@@ -223,7 +223,7 @@ Postoperative
 
 1.  Acute onset postoperative endophthalmitis
 
-1.1.  Mild acute postop cases may present as late as 7-14 days postop – usually caused by Staphylococcus epidermidis or other coagulase negative staph.
+1.1.  Mild acute postop cases may present as late as 7-14 days postop – usually caused by Staphylococcus epidermidis or other coagulase negative Staph
 1.2.  Severe acute postop cases (20/400 or worse with significant pain) usually presents within 4 days of surgery (marked vitritis often obscures fundus details) – usually Staphylococcus aureus, Streptococcus, and gram negatives like Serratia Marcescens, Proteus, and Pseudomonas.
 
 2.  Chronic or delayed onset postoperative endophthalmitis (minimal pain, mild vitritis, decent vision – at least 4 weeks postop).

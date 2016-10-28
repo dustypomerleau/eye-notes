@@ -87,8 +87,7 @@ scleritis
           ALSO:
             atypical mycobacteria
             MRSA
-            coag. negative staph
-
+            coag. negative Staph
     neoplastic
       ischemic scleritis
         2/2 paraneoplastic vasculitis

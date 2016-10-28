@@ -174,7 +174,7 @@ preseptal and orbital cellulitis:
       IV antibiotics
         adults: flucloxacillin 2 g q 6 hours for SA AND
           kids: 50 mg/kg up to 2 g q 6 hours
-        adults: ceftriaxone 2 g q 8 hours for strep. and H. flu.
+        adults: ceftriaxone 2 g q 8 hours for Strep. and H. flu.
           kids: 50 mg/kg up to 2 g q 8 hours
         if not improving rapidly over 2 days
           consider MRSA

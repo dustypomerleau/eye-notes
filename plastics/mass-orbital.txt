@@ -23,12 +23,14 @@ orbital mass
     VA
     color VA
     APD
-    disc swelling or pallor
+    disc swelling OR pallor
   lymph node enlargement
     metastases
   MRI OR CT
     look for bony destruction
-    this should make you think of CA or histiocytic disorder
+    COMMON:
+      CA
+      histiocytic disorder
   labs based on relevant DDx
   if you find cancer in the orbit
     complete staging with an oncologist
@@ -45,7 +47,7 @@ abbreviated DDx
   inflammatory
     inflammatory
       sarcoid
-      NSOI // see notes in preseptal-and-orbital-cellulitis.txt
+      NSOI // see cellulitis-preseptal-and-orbital.txt
     autoimmune
       IgG4-ROD
       TED
@@ -54,7 +56,7 @@ abbreviated DDx
   vascular
     vascular
       (V|AV|L)M
-        per Alan McNab for AU purposes
+        for exam purposes
           just say 'vascular malformation'
             high flow
             low flow
@@ -79,7 +81,7 @@ abbreviated DDx
           blood in Schlemm canal
           glaucoma
             from elevated episcleral venous pressure
-            ALWAYS: mention glaucoma assessment in CC fistula workup
+            ALWAYS: include glaucoma assessment in CC fistula workup
           venous stasis retinopathy
             sometimes progressing to frank CRVO
             CME
@@ -126,7 +128,7 @@ abbreviated DDx
 //
 
 
-the 7 ages of the orbit DDx // remember these are shortlists
+the 7 ages of the orbit DDx // these are shortlists and not exhaustive
   ALWAYS: consider infectious causes
     orbital cellulitis
   birth
@@ -218,12 +220,12 @@ orbital mass DDx:
       BROADLY: orbital cellulitis
       bacterial infectious dacryoadenitis
         COMMON:
-          staph
-          strep
+          Staph
+          Strep
           gonococcus
         ALSO:
           H. flu
-          moraxella
+          Moraxella
           Pseudomonas
           TB
           syphilis

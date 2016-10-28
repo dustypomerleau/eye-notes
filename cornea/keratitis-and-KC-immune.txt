@@ -93,8 +93,7 @@ immune keratoconjunctivitis
       KCN
       PUK
     superinfection
-      staph
-      HSV
+      Staph      HSV
     severe atopic KC
       chronic epithelial defects
       corneal vascularization
