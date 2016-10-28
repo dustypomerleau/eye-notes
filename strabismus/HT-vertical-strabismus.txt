@@ -518,7 +518,7 @@ orbital fracture // see also fractures-orbital.txt
     lag in downgaze
     Hess chart
     infraorbital nerve hypoesthesia
-  non-con CT
+  non-contrast CT
     fractures
     orbital apex syndrome
     orbital emphysema

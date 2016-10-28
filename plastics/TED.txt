@@ -86,7 +86,7 @@ TED
 
   ancillary testing & investigations
     HVF
-    non-con CT OR MRI
+    non-contrast CT OR MRI
       fusiform enlargement
       tendon sparing
       IMSLO

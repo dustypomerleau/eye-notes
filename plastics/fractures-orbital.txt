@@ -49,7 +49,7 @@ exam
   infraorbital nerve hypoesthesia
 
 investigations
-  non-con CT
+  non-contrast CT
     fractures
     orbital apex syndrome
     orbital emphysema
@@ -59,9 +59,10 @@ treatment
   canthotomy and cantholysis for orbital compartment syndrome
   urgent repair
     bradycardia
-  repair 1-2 weeks (no later than 4 weeks)
+  repair 1-2 weeks (max 4 weeks)
     diplopia in 1˚ + positive forced ductions
-    large fracture 1/2+ the orbital floor
+    large fracture
+      1/2+ the orbital floor
     enophthalmos 2+ mm
   surgery
     infraciliary OR conjunctival
