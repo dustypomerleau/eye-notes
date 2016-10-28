@@ -233,7 +233,7 @@ orbital mass DDx:
     fungal
       BROADLY: orbital cellulitis
         COMMON:
-          aspergillus
+          Aspergillus
           mucor
 
   inflammatory
@@ -338,138 +338,146 @@ orbital mass DDx:
 //
 
 
-treatment //... order
-  cavernous hemangioma
-    observe if they are small
-    complete excision for
-      hyperopia
-      choroidal OR retinal folds
-      optic nerve compression
-      strabismus
-      proptosis
-      may require orbitotomy
-  (A|AV|L)M
-    biopsy is dangerous
-    complete excision is difficult or impossible
-      extensive hemorrhage
-      integration of normal structures
-    observe
-    embolize
-  CC fistula
-    observe
-    embolize
-  meningioma
-    observe
-    radiation
-    subtotal excision for
-      proptosis
-      compressive ON
-      cerebral edema
-      // assume excision will result in permanent visual loss
-  NHL
-    oncology referral
-    CBC
-    bone marrow biopsy
-    chest and abdominal imaging
-    liver scan
-    SPEP
-    observe
-      low-grade lymphoid lesions
-    radiation
-      ± chemo
-      aggressive lymphoma
-    risk of systemic NHL with eye lesions
-      conjunctival - low
-      orbit - intermediate
-      eyelid - high
-  lacrimal gland tumors
-    benign
-      remove if encapsulated
-    malignant
-      e.g. adenoid cystic carcinoma
-      high dose radiation
-      debulking
-      intracarotid chemo
-      ± exenteration
-  mets
-    oncology workup if 1˚ not known
-    observe
-    treat systemic CA
-      hormonal therapy
-      chemo
-    palliative debulking OR radiation as needed
-  rhabdomyosarcoma
-    any rapidly growing mass in a child
-      immediate biopsy to rule out rhabdo
-        ± anterior orbitotomy
-    complete removal if possible
-    infiltrating tumors
-      chemo
-      radiation
-      ± debulking
-    metastatic workup
-      chest imaging
-      bone marrow biopsy
-      lumbar puncture
-  capillary hemangioma
-    observe
-      spontaneous resolution is common
-    treat
-      amblyopia
-      strabismus
-      refractive error
-    if persistent
-      oral propranolol
-      topical timolol
-      pulsed-dye laser for dermal component
-      RARELY: systemic steroids
-        long-term side effects
-  glioma
-    intracranial
-      consultation to monitor ICP
-      pituitary labs
-      hypothalamic labs
-      ± resection
-        aggressive lesions
-        neurosurgical assistance
-    optic pathway
+treatment
+  solid tumors
+    plexiform neurofibroma
       observe
-      adjuncts
-        radiation
+      excise for
+        cosmesis
+        astigmatism
+        amblyopia
+    lacrimal gland tumors
+      benign
+        remove if encapsulated
+      malignant
+        e.g. adenoid cystic carcinoma
+        high dose radiation
+        debulking
+        intracarotid chemo
+        ± exenteration
+    dermoid or epidermoid cysts
+      if intraorbital dumbell expansion
+        excise
+        minimal trauma to the cyst wall
+          rupture is very inflammatory
+    congenital dermolipoma
+      observe
+      mass effect
+        conservative debulking
+          avoid lacrimal system
+          avoid EOMs
+    congenital teratoma
+      excision
+      if pathology shows malignant infiltration
+        exenteration
+    glioma
+      intracranial
+        consultation to monitor ICP
+        pituitary labs
+        hypothalamic labs
+        ± resection
+          aggressive lesions
+          neurosurgical assistance
+      optic pathway
+        observe
+        adjuncts
+          radiation
+          chemo
+        RARELY: debulk
+          NOTE: assume surgery will cause permanent visual loss
+    histiocytic lesions
+      oncology consultation
+      debulk
+        ± chemo
+    rhabdomyosarcoma
+      any rapidly growing mass in a child
+        immediate biopsy to rule out rhabdo
+          ± anterior orbitotomy
+      complete removal if possible
+      infiltrating tumors
         chemo
-      RARELY: debulk
-        NOTE: assume surgery will cause permanent visual loss
-  plexiform neurofibroma
-    observe
-    excise for
-      cosmesis
-      astigmatism
-      amblyopia
-  histiocytic lesions
-    oncology consultation
-    debulk
-      ± chemo
+        radiation
+        ± debulking
+      metastatic workup
+        chest imaging
+        bone marrow biopsy
+        lumbar puncture
+  vascular
+    capillary hemangioma
+      observe
+        spontaneous resolution is common
+      treat
+        amblyopia
+        strabismus
+        refractive error
+      if persistent
+        oral propranolol
+        topical timolol
+        pulsed-dye laser for dermal component
+        RARELY: systemic steroids
+          long-term side effects
+    cavernous hemangioma
+      observe if they are small
+      complete excision for
+        hyperopia
+        choroidal OR retinal folds
+        optic nerve compression
+        strabismus
+        proptosis
+        may require orbitotomy
+    (A|AV|L)M
+      biopsy is dangerous
+      complete excision is difficult or impossible
+        extensive hemorrhage
+        integration of normal structures
+      observe
+      embolize
+    CC fistula
+      observe
+      embolize
+    meningioma
+      observe
+      radiation
+      subtotal excision for
+        proptosis
+        compressive ON
+        cerebral edema
+        // assume excision will result in permanent visual loss
+  lymphoproliferative
+    NHL
+      oncology referral
+      CBC
+      bone marrow biopsy
+      chest and abdominal imaging
+      liver scan
+      SPEP
+      observe
+        low-grade lymphoid lesions
+      radiation
+        ± chemo
+        aggressive lymphoma
+      risk of systemic NHL with eye lesions
+        conjunctival - low
+        orbit - intermediate
+        eyelid - high
+  metastatic
+    BROADLY:
+      oncology workup if 1˚ not known
+      observe
+      treat systemic CA
+        hormonal therapy
+        chemo
+      palliative debulking OR radiation as needed
   metastatic neuroblastoma
     oncology consultation
     chemo
   metastatic ALL
     oncology consultation
     chemo
-  dermoid or epidermoid cysts
-    if intraorbital dumbell expansion
-      excise
-      minimal trauma to the cyst wall
-        rupture is very inflammatory
-  congenital dermolipoma
-    observe
-    mass effect
-      conservative debulking
-        avoid lacrimal system
-        avoid EOMs
-  congenital teratoma
-    excision
-    if pathology shows malignant infiltration
-      exenteration
+
+
+//
+
 
 lateral orbitotomy
   GA

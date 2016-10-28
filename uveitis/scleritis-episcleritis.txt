@@ -51,9 +51,9 @@ scleritis
           Lyme
       fungal
         COMMON:
-          aspergillus
+          Aspergillus
           fusarium
-          candida
+          Candida
 
     inflammatory
       inflammatory

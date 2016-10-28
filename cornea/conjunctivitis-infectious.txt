@@ -109,8 +109,8 @@ PCR options
   CMV
   Chlamydia
   gonorrhea
-  RARELY: toxoplasma
-    best lab for toxoplasma is in Palo Alto
+  RARELY: Toxoplasma
+    best lab for Toxoplasma is in Palo Alto
     http://www.pamf.org/serology/
 
 

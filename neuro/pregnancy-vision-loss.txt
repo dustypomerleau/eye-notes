@@ -2,7 +2,7 @@
 
 vision loss in pregnancy
   infectious
-    //... incomplete - you need to address toxoplasma, etc.
+    //... incomplete - you need to address Toxoplasma, etc.
   gestational DM OR
   worsening of preexisting DM
     DME

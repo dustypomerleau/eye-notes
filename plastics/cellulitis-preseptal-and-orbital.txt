@@ -131,7 +131,7 @@ preseptal and orbital cellulitis:
       DM
       immunosuppressed
       COMMON:
-        aspergillus
+        Aspergillus
         mucor
           painful ophthalmoplegia
           dark hue of the periorbital skin
@@ -187,7 +187,7 @@ preseptal and orbital cellulitis:
         persistent subperiosteal abscess
         optic neuropathy
       fungal
-        aspergillus & mucor
+        Aspergillus & mucor
           transfer to the ICU
           urgent CT with contrast
             GFR 30-60 mL/minute/1.73 m2

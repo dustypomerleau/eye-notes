@@ -58,7 +58,7 @@ grading inflammation
     VZV
       especially in ARN
     Lyme
-    toxoplasma
+    Toxoplasma
     endophthalmitis
     SO
     lens-associated
@@ -392,15 +392,15 @@ anterior and intermediate uveitis DDx
 
   vitreous string of pearls DDx
     COMMON: fungal endophthalmitis
-      candida
-      aspergillus
-      coccidioides
-      cryptococcus
+      Candida
+      Aspergillus
+      Coccidioides
+      Cryptococcus
     ALSO:
       TB
       syphilis
       sarcoid
-      toxoplasma
+      Toxoplasma
       other causes of intermediate uveitis above
 
 

@@ -34,7 +34,7 @@ shortlist
                 HSV
                 VZV
                 CMV
-                toxoplasma
+                Toxoplasma
                   if available
           medical workup if cause of immunosuppression is not known
           multidisciplinary approach
@@ -79,7 +79,7 @@ shortlist
                     HSV
                     VZV
                     CMV
-                    toxoplasma
+                    Toxoplasma
                       if available
                 check for immunosuppression
                   HIV Ab
@@ -90,7 +90,7 @@ shortlist
                   TB
                   syphilis
                   fungal retinitis
-                  toxoplasma
+                  Toxoplasma
                   sarcoid
                   lymphoma
               classic regimen
