@@ -78,7 +78,7 @@ infectious conjunctivitis
           gonorrhea testing
           test partners
       trachoma // see conjunctivitis-cicatrizing.txt
-    medication toxicity OR hypersensitivity reaction
+    medication toxicity or hypersensitivity reaction
     canaliculitis
 
   granulomatous conunctivitis

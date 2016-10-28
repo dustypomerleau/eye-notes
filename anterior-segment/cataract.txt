@@ -338,7 +338,7 @@ cataract surgery in very short eyes
               can be done at the time of CEIOL
     small ACD + normal AL
       relative anterior microphthalmos
-        still get ACG like nanophthalmos OR microphthalmos
+        still get ACG like nanophthalmos or microphthalmos
         sclera is normal
           no uveal effusions
         COMMON:
@@ -415,7 +415,7 @@ cataract surgery with a trabeculectomy in place
 intraop
 
   poor dilation
-    malyugin ring // or hooks, but mention your preference
+    malyugin ring // or iris hooks
       COMMON: 6.25 mm
       ALSO: 7 mm
     intracameral phenylephrine // see more on IFIS below
@@ -435,7 +435,7 @@ intraop
           continuous irrigation helps here
       excessive phaco power
     once you note wound burn
-      check irrigation line for blockage OR disconnection
+      check irrigation line for blockage or disconnection
       if severe
         close and open a new wound
       reduce phaco power
@@ -461,7 +461,7 @@ intraop
             helps healing to have the blood supply
           fold the flap over and suture it upside-down over the wound
 
-  retrobulbar OR suprachoroidal hemorrhage
+  retrobulbar or suprachoroidal hemorrhage
     50 g IV mannitol over 15 minutes
       faster than AACG protocol but this is an emergency
     500 mg IV Diamox
@@ -585,7 +585,7 @@ postop
       preop
         gloves
         topical anesthetics
-        steroids OR NSAIDs
+        steroids or NSAIDs
         dilating drops
         surgical prep gloves
         surgical prep solutions
@@ -666,7 +666,7 @@ postop
         SB
           ACD is overestimated based on longer AL
           myopic surprise
-      ALSO: Ks wrong due to DES OR OSD
+      ALSO: Ks wrong due to DES or OSD
       ALWAYS: repeat the biometry
     calcs wrong
       bad formula choice
@@ -763,7 +763,7 @@ high IOP after CEIOL
   AC inflammation
   retained lens
   retained OVD
-  pupillary block OR 2˚ angle closure
+  pupillary block or 2˚ angle closure
     e.g. with piggyback lenses
 
 hypotony during cataract surgery
@@ -862,7 +862,7 @@ corneal edema after CEIOL
     IOL
     flat chamber
       wound leak
-      suprachoroidal effusion OR hemorrhage
+      suprachoroidal effusion or hemorrhage
       aqueous misdirection
     iris bombe
     vitreous

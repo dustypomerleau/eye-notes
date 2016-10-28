@@ -52,7 +52,7 @@ vision loss in pregnancy
     pregnancy can unmask undiagnosed MS
     patients with known MS may stop their drugs to protect the fetus
     // see MS.txt for possible ophthalmic manifestations
-  functional OR psychogenic
+  functional or psychogenic
 
 pregnancy exacerbates preexisting
   DM

@@ -18,8 +18,10 @@ corneal dystrophies
         genetic
         degenerative
       associated with Salzmann nodular degeneration
-        elevated grey SE nodules made of epithelium
-        usually idiopathic or associated with DES
+        elevated gray SE nodules made of epithelium
+        COMMON:
+          idiopathic
+          associated with DES
         PTK ± MMC
           fewer recurrences than lamellar keratectomy
       treatment

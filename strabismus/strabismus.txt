@@ -712,7 +712,7 @@ BOTOX uses
   excessive tearing
   HA syndromes
 BOTOX complications
-  bruising OR bleeding
+  bruising or bleeding
   unintended ptosis
   unintended strabismus
     diplopia
@@ -810,7 +810,7 @@ BOTOX complications
           endophthalmitis
           vitreous hemorrhage
           retinal detachment
-          choroidal OR suprachoroidal hemorrhage
+          choroidal or suprachoroidal hemorrhage
         anterior segment ischemia
           ciliary arteries pass through the rectus muscles
           interrupting 3+ muscles can induce ASI
@@ -879,7 +879,7 @@ preoperative counseling for parents of kids with strabismus
         bleeding
         infection
         retinal detachment
-      lost OR slipped muscle
+      lost or slipped muscle
       need for additional surgery
       amblyopia
     anesthetic risks

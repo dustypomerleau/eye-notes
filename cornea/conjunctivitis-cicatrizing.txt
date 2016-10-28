@@ -90,7 +90,7 @@ SJS is used here to represent the full continuum
           lamotrigine AKA Lamictal
         NSAIDs
         allopurinol
-      medication toxicity OR hypersensitivity reaction
+      medication toxicity or hypersensitivity reaction
         COMMON:
           topical beta blockers
           miotics
@@ -232,7 +232,7 @@ treatment
     avoid corneal surgery unless there is excessive thinning or perforation
       high failure rates
     tarsal fracture with everting sutures
-    tarsoconjunctival or mucosal grafts
+    tarsoconjunctival OR mucosal grafts
       ear cartilage
       sclera
       hard palate

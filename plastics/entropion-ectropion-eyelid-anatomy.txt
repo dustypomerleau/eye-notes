@@ -2,7 +2,7 @@
 
 eyelid anatomy
 
-// see fig. 9-4 AAO BCSC
+// see fig. 9-4, AAO BCSC
 
   skin
   SC fat
@@ -81,10 +81,9 @@ entropion
             pass it AP in the strip
             then inner to outer orbital rim
         trim the excess skin and OOM
-        deep tissue 6-0 vicryl
-          // to cover the prolene knot
+        deep tissue 6-0 vicryl // to cover the prolene knot
         reform the canthal angle
-          vicryl suture through the grey line
+          vicryl suture through the gray line
         more deep vicryls as needed
           bring the skin edges into apposition
         close the skin
@@ -144,7 +143,7 @@ entropion
       treat the underlying disease
         don't operate on the lids if there is active cicatrizing conjunctivitis
       tarsal fracture with everting sutures
-      tarsoconjunctival or mucosal grafts
+      tarsoconjunctival OR mucosal grafts
         ear cartilage
         sclera
         hard palate
@@ -274,7 +273,7 @@ ectropion:
       pressure dressing over the graft
       sutures out (including vicryl) in about a week
 
-    in AU you may hear 'tarsal' or 'marginal' ectropion
+    you may hear the term 'tarsal' or 'marginal' ectropion
       eversion is limited to the tarsus
       can have involutional and cicatricial components
       usually a problem with LLR disinsertion
@@ -299,7 +298,7 @@ ectropion:
             if forehead spared
               UMN
               must rule out CVA
-              ALWAYS: mention ruling out UMN CVA in Bell CN7P
+              ALWAYS: consider and rule out UMN CVA in Bell CN7P
             UMN may also involve
               taste from the front of the tongue
               DES from decreased lacrimal innervation
@@ -453,7 +452,7 @@ lagophthalmos
         reapposes lid
         corrects punctal malposition
     LLR recession
-      ± cartilage or palate spacer
+      ± cartilage OR palate spacer
       to raise LL if exposure is refractory
 
 

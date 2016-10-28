@@ -174,5 +174,5 @@ RVO
 //
 
 
-when you are shown a posterior segment with PDR OR RVO
-  mention the risk of NVG
+when you see a posterior segment with PDR OR RVO
+  ALWAYS: consider the risk of NVG

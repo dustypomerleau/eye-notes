@@ -453,7 +453,7 @@ treatment //... order
   metastatic ALL
     oncology consultation
     chemo
-  dermoid OR epidermoid cysts
+  dermoid or epidermoid cysts
     if intraorbital dumbell expansion
       excise
       minimal trauma to the cyst wall
@@ -478,7 +478,7 @@ lateral orbitotomy
   reflect tissue and periosteum off the lateral orbital rim
   mark bone to be removed
   pre-drill holes for replacement
-  cut the orbital rim with a bone saw or drill
+  cut the orbital rim with a bone saw OR drill
     remove with good hemostasis
     protect the eye with a retractor
   lacrimal tumors

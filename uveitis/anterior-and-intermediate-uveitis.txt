@@ -622,7 +622,7 @@ treatment
         e.g. aggressive VKH
           IVMP 1 g daily x 3 days          then switch to prednisolone 1 mg/kg/day po
             ± OFT
-          aggressive disease like VKH OR Behcet with heavy bilateral presentation
+          aggressive disease (VKH, Behcet) with heavy bilateral presentation
             start SSIMT at the same time as steroids
             can even consider combinations
               MTX + infliximab

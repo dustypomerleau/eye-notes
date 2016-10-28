@@ -15,7 +15,7 @@ in practice
 infectious keratitis DDx
 
   viral
-    HSV OR VZV
+    HSV or VZV
       epithelial keratitis
         dendritic
           NEVER: put steroids on a dendrite
@@ -48,11 +48,11 @@ infectious keratitis DDx
             oral aciclovir 400 bd cuts recurrence in half
               cost of Valtrex 500 daily ~= aciclovir 400 bd // in AU
               if kidney function is poor
-                avoid long term aciclovir OR Valtrex
+                avoid long term aciclovir or Valtrex
         stromal scarring
           must be quiet 6 months before considering PK
           continue oral aciclovir to prevent infection of the graft
-        use preoperative antivirals before CEIOL OR PK
+        use preoperative antivirals before CEIOL or PK
           aciclovir 800 mg bd 3 days before
           valaciclovir 500 mg bd 2 days before
           famciclovir 250 bd 2 days before
@@ -131,7 +131,7 @@ infectious keratitis DDx
       CTL wearers
         even more hygiene-related than bacterial keratitis
         biggest risk factor is overnight wear
-      swimming pool OR hot tub
+      swimming pool or hot tub
       nonsuppurative
       clinical findings
         epitheliopathy that stains with rose bengal
@@ -248,7 +248,7 @@ neurotrophic ulcers OR neurotrophic overlay
     viral swab for PCR
     scrape & culture for superinfection
     stop topical medications with preservatives
-      for HSV OR VZV ulcers with a neurotrophic component
+      for HSV or VZV ulcers with a neurotrophic component
         use oral valaciclovir OR aciclovir rather than aciclovir ointment
     PF lubricants
     bandage CTL

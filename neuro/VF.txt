@@ -116,7 +116,7 @@ VF patterns by lesion location
   temporal and parietal lobe lesions can cause almost anything congruous
     small wedge to a nearly complete hemianopia
     depends on how big the lesion is and how far back
-    usually temporal OR parietal lobe lesions have other neurologic signs
+    usually temporal or parietal lobe lesions have other neurologic signs
     homonymous defect in isolation
       COMMON: occipital lobe lesions
   */
@@ -183,7 +183,7 @@ Goldmann VF
       10 dB = (1/10^1)(the brightest light the machine can produce)
       20 dB = (1/10^2)(the brightest light the machine can produce)
     to clarify
-      lower (1-4) OR (a-e) values are brighter lights
+      lower (1-4) or (a-e) values are brighter lights
       4 and e are the brightest lights in their groups
       4 and e have the lowest dB values in their groups
   typical settings

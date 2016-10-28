@@ -162,9 +162,9 @@ NLDO
       Rosenmuller or lacrimal sac occlusion
         external DCR
           higher success rate than endoscopic DCR
-        if a patient has persistent OR recurrent epiphora after DCR
+        if a patient has persistent or recurrent epiphora after DCR
           first run through the exam above
-            look for a missed OR mixed etiology
+            look for a missed or mixed etiology
               hypersecretion
                 allergy
                 spastic entropion

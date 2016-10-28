@@ -55,7 +55,7 @@ short DDx of an adult with bilateral nystagmus
   latent nystagmus with a history of infantile ET
   opsoclonus
     paraneoplastic opsoclonus
-      lung OR breast CA
+      lung or breast CA
     nonparaneoplastic opsoclonus
       MS
       lithium toxicity
@@ -217,7 +217,7 @@ nystagmus DDx
         ALSO:
           malnutrition
           persistent vomiting
-          bariatric OR bowel surgery
+          bariatric or bowel surgery
           eating disorders
         easy to treat even if you aren't sure
           empiric thiamine + Mg has minimal downside
@@ -373,7 +373,7 @@ supranuclear motility disorders
     congenital ocular motor apraxia
       unable to initiate saccades
         use head thrusts + VOR to foveate and then rotate back to center
-      congenital OR early-onset OMA DDx
+      congenital or early-onset OMA DDx
         isolated COMA
         lysosomal storage diseases
           AR Niemann-Pick-C disease // Niemann-Pick-A has the cherry red spot

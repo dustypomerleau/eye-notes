@@ -74,7 +74,7 @@ likely graft rejection
     remove vascularized sutures
     culture any suspicious infiltrate
     hourly PF
-    IV or oral steroids
+    IV OR oral steroids
       optional
         no real evidence systemic steroids help
         no evidence for IVMP over po prednisolone
@@ -86,7 +86,7 @@ specular microscopy report
       5000 @ birth
       3000 @ 40
       2000 @ 70
-      3000+ is acceptable for PK OR DSEK
+      3000+ is acceptable for PK or DSEK
   number of cells analyzed (NUM)
   average cell area (µm2) (AVE)
   standard deviation of the average cell area (SD)
@@ -100,7 +100,7 @@ specular microscopy report
     50-% is abnormal
   abnormal specular microscopy
     FED
-      to delay DMEK in FED OR PBK
+      to delay DMEK in FED or PBK
         hairdryer
         hypertonic saline
     PBK

@@ -114,7 +114,7 @@ EUGOGO
 
   clinical activity score // replaces Mourits, NO SPECS, VISA
     retrobulbar pain (at rest)
-    pain on upgaze OR downgaze
+    pain on upgaze or downgaze
     lid erythema
     lid swelling
     conj injection
@@ -129,7 +129,7 @@ EUGOGO
       constant
       1˚
     restriction
-    exposure keratopathy OR ulceration
+    exposure keratopathy or ulceration
     CON
 
   severity categories
@@ -174,8 +174,8 @@ EUGOGO
           RARELY: orbital radiation
             combine with IVMP
             best for diplopia + restriction
-            NEVER: perform OR in patients with DR OR severe HTN
-              try to avoid OR even in DM without DR
+            NEVER: perform orbital radiation in patients with DR OR severe HTN
+              try to avoid orbital radiation even in DM without DR
         inactive
           wait 6 months
           surgery in the correct order (OSL 'OZil')

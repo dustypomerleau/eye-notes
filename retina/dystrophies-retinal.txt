@@ -451,7 +451,7 @@ types of colorblindness
 photophobia in a child (without epiphora)
   // see overlapping DDx for child with nystagmus in nystagmus...txt
   BROADLY: elevated IOP
-    1˚ OR 2˚
+    1˚ or 2˚
   BROADLY: uveitis
   albinism
   cone dysfunction

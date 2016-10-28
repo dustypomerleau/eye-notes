@@ -498,7 +498,7 @@ OOM
 OP - oscillatory potential
 OPD
 OPL
-OR - or, odds ratio
+OR - or, odds ratio, outer retinal
 OSA
 OSCE
 OSD

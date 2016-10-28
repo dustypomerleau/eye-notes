@@ -81,7 +81,7 @@ DDx
   malignant
     incisional biopsy
       usually a 3 mm punch in AU
-    for large OR aggressive lesions
+    for large or aggressive lesions
       involve the GP ± oncologist
     excision with margins
       Mohs OR frozen sections

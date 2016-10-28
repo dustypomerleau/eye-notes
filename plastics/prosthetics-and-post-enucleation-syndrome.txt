@@ -11,7 +11,7 @@ orbital implants:
     hydroxyapatite
     porous polyethylene
       prevent extrusion
-        cover with sclera or fascia
+        cover with sclera OR fascia
         close Tenon fully
         suture EOMs to sclera
 

@@ -30,7 +30,9 @@ anisocoria
       dorsal midbrain syndrome
       advanced syphilis
       not pathognomonic
-        can be seen in optic neuropathy or advanced retinopathy
+        can be seen in
+          optic neuropathy
+          advanced retinopathy
   be systematic
     measurements in light
     measurements in dark

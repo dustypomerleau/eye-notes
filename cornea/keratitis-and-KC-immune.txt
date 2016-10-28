@@ -128,7 +128,7 @@ immune keratitis
       blurred vision
     corneal epithelial opacities
       bilateral
-      grey
+      gray
       granular
         like chalk tapped on a board
       raised
@@ -224,7 +224,7 @@ immune keratitis
                     true PUK
               painful
                 but no adjacent scleritis
-                  AOT infection OR PUK
+                  AOT infection or PUK
               limbus is involved
                 AOT Terrien marginal degeneration
               epi defect
@@ -256,7 +256,7 @@ immune keratitis
             lipid opacities in the stroma
               fine
               punctate
-              white OR yellow
+              white or yellow
             white and quiet eye
             ATR astigmatism
               treat with CTL

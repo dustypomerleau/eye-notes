@@ -3,7 +3,7 @@
 learning disorders
   risk factors
     developmental delay
-      especially hearing OR speech delay
+      especially hearing or speech delay
     poor general health
       for any reason
     autism spectrum
@@ -14,7 +14,7 @@ learning disorders
           // Department of Human Services in AU
       social instability
     genetics
-      affected parents OR siblings
+      affected parents or siblings
   treatment
     NEVER: delay reading tuition
       you can simulaneously

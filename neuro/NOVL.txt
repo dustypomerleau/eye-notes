@@ -19,7 +19,7 @@ children
   most of the time parents are not the problem but
     ALWAYS: consider
       child abuse
-      negative home OR school situation
+      negative home or school situation
   COMMON: symmetric, bilateral symptoms
     COMMON:
       visual acuity loss
@@ -140,7 +140,7 @@ testing
       in a normal patient
         6/12 line @ 2 m can read 6/6 line @ 1 m
       NOVL will often read the same line at both distances
-    magic drop OR magic lens may improve NOVL in kids
+    magic drop or magic lens may improve NOVL in kids
     proprioception testing
       should be normal even with poor vision
       have them touch their fingertips with outstretched arms + open eyes

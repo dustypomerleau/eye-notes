@@ -214,7 +214,7 @@ ET DDx
         indications for surgery
           large ET
           large abduction deficit
-            one or both MR recessions
+            one OR both MR recessions
               ± vertical recti transpositions
           marked AHP
           loss of binocularity

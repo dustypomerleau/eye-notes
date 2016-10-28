@@ -68,7 +68,7 @@ glaucoma laser
         compared to 180
           drops IOP more
           higher incidence of IOP spikes
-            particularly in pigmentary glaucoma OR heavy pigmented angles
+            particularly in pigmentary glaucoma or heavy pigmented angles
       postoperative
         NSAIDs OR a mild steroid
       25+% reduction @ 3-6 months is an excellent response
@@ -366,7 +366,7 @@ low IOP after trabeculectomy
     medication-induced decrease in aqueous production
     CB shutdown // a vague entity that should be low on your DDx
   counsel the patient
-    hypotony increases the risk of blebitis OR endophthalmitis
+    hypotony increases the risk of blebitis or endophthalmitis
   hypotony maculopathy
     choroidal folds
     OCT helps to distinguish folds from CME

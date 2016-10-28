@@ -32,7 +32,7 @@ many different symptom patterns
     sectors
     positive phenomena
       white
-      grey
+      gray
   HA are COMMON in TMVL
     nearly 1/2 of cases if you ask
     does not automatically mean migraine
@@ -50,7 +50,7 @@ many different symptom patterns
 
 TMVL DDx // do not shotgun these tests on exams - be appropriate
   embolic
-    visible embolus in CRAO OR BRAO
+    visible embolus in CRAO or BRAO
       true RAO is not usually transient but there is a continuum
       cholesterol Hollenhorst plaque
         yellow
@@ -62,7 +62,7 @@ TMVL DDx // do not shotgun these tests on exams - be appropriate
       fibrin-platelet white plaque
         long
         smooth
-        dull white OR grey
+        dull white or gray
         caused by thrombosis
         can be a partner process to atherosclerosis
         COMMON:
@@ -70,7 +70,7 @@ TMVL DDx // do not shotgun these tests on exams - be appropriate
           cardiac
       calcific white plaque
         chalky white
-        oval OR rectangular
+        oval or rectangular
         COMMON: heart valve
         ALSO: aorta
       rare emboli
@@ -156,7 +156,7 @@ TMVL DDx // do not shotgun these tests on exams - be appropriate
     pregnancy
       can be a combination of above hemodynamic mechanisms
     malignant hypertension
-    reduced ophthalmic artery OR CRA perfusion pressure
+    reduced ophthalmic artery or CRA perfusion pressure
       press on the eye at the slitlamp
       CRA will occlude with minimal pressure
         this is true with *any* cause of reduced perfusion pressure

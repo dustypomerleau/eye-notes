@@ -305,7 +305,7 @@ ptosis
     neurologic
       Horner syndrome
         dedicated DDx, but the main concerns
-          1st OR 2nd order neuron Horner syndrome
+          1st or 2nd order neuron Horner syndrome
             medullary tumor OR infarct
               Wallenberg syndrome AKA lateral medullary syndrome
                 Horner
@@ -434,7 +434,7 @@ ptosis exam
       put pressure on the brow if you need to
     4- mm needs a sling
     8+ mm is perfect for levator advancement
-    in between is a grey zone
+    in between is a gray zone
       careful with big levator advancements
       can lift the lid off the cornea and cause OSD
   Muller function
@@ -468,7 +468,7 @@ surgical treatment
     2- mm with a positive phenylephrine test
     avoid epi in the local infiltration to keep measurements accurate
   Fasanella-Servat
-    2- mm with a positive or negative phenylephrine test
+    2- mm with a positive OR negative phenylephrine test
     not quite as predictable as Mullerectomy
     mainly tarsectomy + small mullerectomy
       so still effective even with a negative phenylephrine test

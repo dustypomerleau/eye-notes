@@ -155,7 +155,7 @@ reducing unhappy toric patients
           both the anterior and posterior corneal surfaces start steep @ 90 WTR
           the anterior surface gradually shifts against the rule as we age
           the posterior surface stays the same
-      use Galilei or Pentacam to get good posterior readings
+      use Galilei OR Pentacam to get good posterior readings
       allows more accurate calculation of total corneal astigmatism
   limbal marking
     Osher ThermoDot allows small marks that don't diffuse like ink

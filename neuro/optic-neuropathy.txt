@@ -91,7 +91,7 @@ history
               protein C & S deficiency
               antithrombin 3 deficiency
               antiphospholipid Ab syndrome
-              pregnancy OR postpartum
+              pregnancy or postpartum
               oral contraceptives
             lymphoma
           NEVER: diagnose IIH until you have ruled out DVST
@@ -405,7 +405,7 @@ optic neuropathy DDx // lengthy list of rare causes below
               hyperostosis on CT
                 can also be seen with bony tumors below
                 AOT malignant lacrimal tumors and mets
-                  can be lytic or hyperostotic
+                  can be lytic OR hyperostotic
               typically middle-aged women
               grow 1-3 mm/y
               treatment
