@@ -6,7 +6,7 @@ iris tumors
 
   neoplasm
 
-    solid
+    solid tumors
       congenital lacrimal gland choristoma
       IPE cyst
         can be free floating

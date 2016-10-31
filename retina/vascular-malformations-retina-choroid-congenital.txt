@@ -1,5 +1,7 @@
 // https://github.com/dustypomerleau/eye-notes
 
+//... format to match eye-notes style
+
 congenital vascular malformations of the retina and choroid
 
 1.  retinal hemangioblastoma (aka retinal capillary hemangioma) – can be sporadic or associated with vhl (ad with variable penetrance). first image the belly and the brain because vhl can have cns hemangioblastomas, renal and pancreas cysts, pheochromocytoma, or rcc. treat with laser, cryo, or radiation depending on the size.

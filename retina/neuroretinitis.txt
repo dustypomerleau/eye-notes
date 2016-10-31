@@ -1,17 +1,17 @@
 // https://github.com/dustypomerleau/eye-notes
 
 neuroretinitis
-  probably more accurate to say ODEMS
-    optic disc edema with a macular star
+  probably more accurate to say ODEMS // optic disc edema with a macular star
     the macular star is really a 2˚ effect of disc swelling
     but neuroretinitis is the most recognized term
       some suggest using neuroretinitis only for infectious causes
-        but this hasn't been widely adopted
+        but none of your colleagues will adhere to this
   COMMON: unilateral
     3/4 of cases
     RAPD often present
   1/2 report viral prodrome
   macular star takes 1-2 weeks to develop
+    see your disc swelling patients back in a week
   COMMON: vitreous cells
     90%
 
@@ -62,12 +62,12 @@ NR DDx
     bacterial
       Bartonella spp.
       Lyme
-        azithromycin also covers Lyme
+        NOTE: azithromycin also covers Lyme
       TB
       syphilis
       ALSO:
         RMSF
-          Rickettsia reckettsii
+          Rickettsia rickettsii
           RARELY: CR
         leptospirosis
     fungal
@@ -87,19 +87,20 @@ NR DDx
       IBD
       TINU
       post-vaccination
-        rabies
+        rabies vaccine
     vasculitis
       IRVAN
       PAN
   idiopathic
     idiopathic NR
       sometimes AKA Leber idiopathic stellate neuroretinitis (LISN)
+      best to simply say idiopathic
   vascular
     vasoocclusive
       AION
       DM papillopathy
   neoplastic
-    solid
+    solid tumors
       juxtapapillary tumors
         hemangioma
         melanoma
@@ -107,4 +108,4 @@ NR DDx
 if bilateral think about
   malignant HTN
   papilledema
-  systemic infections (above)
+  systemic infections // above

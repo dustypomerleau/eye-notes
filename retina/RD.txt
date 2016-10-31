@@ -2,7 +2,7 @@
 
 RD
 
- risk factors for pseudophakic RRD
+pseudophakic RRD risk factors
   PC tear OR 20
   zonular dehiscence OR 12
   RRD in fellow eye OR 12
@@ -11,7 +11,7 @@ RD
   AL 23+ mm OR 3
   male sex OR 2
 
-PVR
+PVR risk factors
   VH
   preop PVR
   giant tear
@@ -21,7 +21,7 @@ PVR
   uveitis
   suprachoroidal effusion
 
-non-rhegmatogenous SRF
+non-rhegmatogenous SRF DDx
   inflammatory
     inflammatory
       sarcoid
@@ -33,8 +33,7 @@ non-rhegmatogenous SRF
           hearing loss
           tinnitus
           vitiligo
-            may be perilimbal
-              Sugiura sign
+            may be perilimbal AKA Sugiura sign
           poliosis
           AC cell
           hyperemic disc
@@ -47,7 +46,8 @@ non-rhegmatogenous SRF
             monitor for steroid-related complications
               // see anterior-and-intermediate-uveitis.txt
           start methotrexate OR mycophenolate at the same time as steroids
-            even with SSIMT patients often require 10+ mg prednisolone x 6+ months
+            even with SSIMT
+              patients often require 10+ mg prednisolone x 6+ months
             but try to taper off steroids in 4-8 weeks
               monitor
                 symptoms
@@ -109,18 +109,15 @@ expansile gases
   air
     nonexpansile
     half-life 1 day
-    PR
-      0.5-1 mL
+    PR volume 0.5-1 mL
   SF6
     expands 2-2.5x @ 100%
     isoexpansile @ 18%
-    PR
-      0.5 mL
+    PR volume 0.5 mL
   C3F8
     expands 4x @ 100%
     isoexpansile @ 14%
-    PR
-      0.3 mL
+    PR volume 0.3 mL
   PR arc of contact
     final bubble size
       0.3 mL gives 90˚ contact

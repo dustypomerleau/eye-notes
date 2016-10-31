@@ -29,13 +29,13 @@ choroidal melanoma
       marker of sun exposure
     light eyes
     iris nevi
-    uv exposure
+    UV exposure
       outdoor activities
       arc welding
     symptoms
     growth
     thickness 2+ mm
-    within 3 mm of the nerve
+    3- mm from the disc
     no drusen
     no halo
     orange pigment
@@ -44,12 +44,12 @@ choroidal melanoma
       acoustic hollowness
         nevus is homogeneous
       low-medium IR
-        nevus medium+ IR
+        nevus has medium+ IR
       choroidal excavation
       orbital shadowing
       spontaneous vascular pulsations
     may need to follow several years to distinguish
-    "To Find Small Ocular Melanoma Using Helpful Hints Daily"
+    "To Find Small Ocular Melanoma Using Helpful Hints Daily" // Shields
       Thickness 2+ mm
       Fluid
       Symptoms
@@ -68,7 +68,7 @@ choroidal melanoma
     medium tumors
       2.5-10 mm thick
       5-16 mm in diameter
-      equal survival rates for I125 and enucleation
+      equal survival rates for I125 PBT and enucleation
     large tumors
       equal survival rates whether you radiated before enucleation or not
 
@@ -81,14 +81,19 @@ combined hamartoma of the retina and RPE
       FFA helps to distinguish from melanocytoma
     glial component is rarely seen in melanocytoma
   treatment
-    you can't peel the ERM because it's glial tissue integrated with the retina
+    observe
+    you can't peel the 'ERM' because it isn't an ERM
+      the glial tissue is integrated with the retina
 
 subretinal infiltrates in a leopard skin pattern
-  lymphoma
+  lymphoma // see chorioretinitis.txt
 
 choroidal mets
-  pigment clumping
-    leopard spot appearance
+  leopard spot pigment clumping pattern
+    don't confuse this with the lymphoma pattern
+      an unfortunate coincidence in terminology
+    one is light and one is dark
+    one is a reticular pattern and one is the spots themselves
 
 choroidal folds
   THIN RPE

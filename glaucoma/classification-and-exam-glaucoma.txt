@@ -240,7 +240,7 @@ glaucoma classification
       treatment
         same as PAC except never do CEIOL alone
         if the IOP is too high after LPI ± ALPI + meds
-          trab alone vs phacotrab depending on cataract and AC depth
+          trab alone versus phacotrab depending on cataract and AC depth
     APAC
       PAC + some combination of
         pain
@@ -415,7 +415,7 @@ unilateral glaucoma
       hemorrhagic
         ghost cell glaucoma
     neoplastic
-      solid
+      solid tumors
         melanoma
           iris
           CB

@@ -17,7 +17,8 @@ Purtscher and Purtscher-like retinopathy
     BOTOX
 
 Terson syndrome
-  subarachnoid hemorrhage, usually due to ruptured cerebral aneurysm
+  COMMON: after ruptured cerebral aneurysm
+  subarachnoid hemorrhage
   intraretinal hemorrhage
   sub-ILM hemorrhage
   VH
@@ -31,7 +32,7 @@ CSC
   Cushing syndrome
     pregnancy
     adrenal tumor
-      e.g. phaeochromocytoma
+      e.g. pheochromocytoma
     ACTH-secreting pituitary adenoma
   chronic CSC associated with polyps
   OCT
@@ -41,7 +42,7 @@ CSC
     PED
     choroidal thickening
   FFA
-    ink blot / expansile dot
+    expansile dot AKA ink blot
     smokestack
     RPE ∆
       guttering
@@ -62,17 +63,10 @@ CSC
     thermal laser
     PDT
 
-PCV
-  SHRM overlying a PED
-    suggestive of polyp OR CNV
-  branching vascular network
-    often feeds into PCV
-  laser OR PDT
-    30% bleed rate
+PCV // see AMD.txt
 
 venous dilation as you move away from the disc margin
   generic sign of widespread retinal ischemia
-  look for this
     DM
     RVO
     ...
@@ -135,9 +129,10 @@ peripheral retinal NV DDx
   inflammatory
     inflammatory
       sarcoid
-      BROADLY: intermediate uveitis // see separate DDx
+      BROADLY: intermediate uveitis
+        // see anterior-and-intermediate-uveitis.txt
     vasculitis
-      BROADLY // see separate DDx
+      BROADLY // see vasculitis-retinal.txt
       Eales
   vascular
     vasoocclusive
@@ -176,7 +171,7 @@ peripheral retinal NV DDx
   genetic
     inherited
       XLD incontinentia pigmenti
-      AD VRC
+      AD VRC //...
       AD FEVR
   endocrine
     endocrine

@@ -10,7 +10,7 @@ IOFB
         more likely to have small IOFB that are hard to detect
     composition
       most inflammatory
-        pure aluminium
+        pure aluminum
         copper
         iron
         zinc
@@ -44,22 +44,30 @@ IOFB
       tissue prolapse
       organic IOFB
       delayed primary closure
-        24+ hours
-          4x greater risk of infection
+        24+ hours means 4x greater risk of infection
 
   ocular trauma scoring
     include all of these in your documentation
       can't score unless you've documented all factors
     lose points for
-      rupture
-      RAPD
-      endophthalmitis
-      RRD
-      perforation
+      RAPD (-10)
+      RRD (-11)
+      perforation (-14) // sharp
+      endophthalmitis (-17)
+      rupture (-23) // blunt
     gain points for
       VA
-        up to 100 for 6/12+
+        NPL (+60)
+        HM- (+70)
+        6/63- (+80)
+        6/15- (+90)
+        6/12+ (+100)
     convert total of points into an OTS category
+      44- (1)
+      65- (2)
+      80- (3)
+      91- (4)
+      92+ (5)
       1 is the worst prognosis
         3/4 NPL
       5 is the best prognosis
@@ -76,7 +84,7 @@ IOFB
       IV antibiotics
         IV vancomycin + ceftazidime 1 g each q 12 hours OR
         a 4th generation quinolone such as IV moxifloxacin OR
-        po cipro 500-750 mg bd x 7-10 days (RVEEH protocol)
+        po cipro 500-750 mg bd x 7-10 days // common AU protocol
         ± voriconazole 200 mg IV OR po q 12 hours
       CT scan
         IOFB
@@ -101,18 +109,21 @@ IOFB
     mac-on RRD OR
     progressive VR traction
 
-    removed via PP OR
+  removal technique
+    via PP OR
     tunneled CS incision
       rare-earth magnet
       FB forceps
-    prophylactic antibiotics
-      always consider
-      mandatory for organic matter
-        vancomycin
-        ceftazidime
-        ± amphotericin B
+
+  prophylactic antibiotics
+    consider in every case
+    ALWAYS: use antibiotics in PEI cases with organic matter
+      vancomycin
+      ceftazidime
+      ± amphotericin B
 
   monitor the fellow eye for SO
   leave corneal sutures in ~ 3 months
 
-  serial ERG if any question of retained iron
+  if any question of retained iron
+    serial ERGs

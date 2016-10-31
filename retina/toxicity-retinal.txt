@@ -1,5 +1,7 @@
 // https://github.com/dustypomerleau/eye-notes
 
+//... stub for future expansion
+
 retinal toxicity
 
 quinine retinal toxicity

@@ -21,9 +21,9 @@ DR grading (ETDRS)
   moderate NPDR // determined by standard photo but for clinical purposes
     multiple IRH
   severe NPDR
-    4/4 IRH
-    2+/4 VB
-    1+/4 IRMA
+    4 quads IRH
+    2+ quads VB
+    1+ quads IRMA
   very severe NPDR
     2+ severe features
   PDR
@@ -46,7 +46,7 @@ antiVEGF in PDR
         treated for visible NV on exam or photos
         rescue PRP allowed at the investigator's discretion
           treatment 'failure' or 'futility'
-      both groups were allowed prn Lucentis for DME
+      both groups were allowed prn Lucentis for DME (!)
         VA 6/9- AND CST 2 SDs thicker than gender and age-matched controls
         1/2 of the PRP group got Lucentis for DME over 2 years (!)
       macular laser was allowed at the investigator's discretion
@@ -73,6 +73,8 @@ DME
     no longitudinal data on DR
     rates of DME are low at presentation
       ~ 5%
+  UKPDS (primary outcome results 1998)
+    //...
   DCCT
     intensive glucose control
       DR gets worse before it gets better
@@ -366,6 +368,9 @@ DME
     laser added nothing
       acuity outcomes were the same
       injection burden was the same
+  /*
+  The data really doesn't support doing macular laser for DME. If you've been following the data above as it was presented, I don't see how you could disagree. Unfortunately, for exam purposes, you will still need to mention it.
+  */
   BOULEVARD (2017 P2) // pipeline
     bispecific Ab (Roche RG7716)
       Ang2 + VEGFA
@@ -431,15 +436,15 @@ rapid worsening of DR
   pregnancy
   rapid tightening of control
 
-when you are shown a posterior segment with PDR OR RVO
-  mention the risk of NVG
+when you see a posterior segment with PDR OR RVO
+  ALWAYS: consider the risk of NVG
 
 for any question about DR
   ALWAYS: mention GP and systemic control
 
 asymmetric DR
   Gay and Rosenbaum (1966) found carotid stenosis was protective against DR
-    this has *never* been consistently replicated and is probably bullshit
+    this has *never* been consistently replicated and is probably false
     actually it wasn't even carotid stenosis
       ophthalmodynamometry was performed on 10 patients
     10/250 patients assessed had 2+ 'stages' of difference in DR
@@ -504,12 +509,14 @@ or from the Gay paper itself
     only 2 factors were statistically significant
       ipsilateral carotid occlusion
       no PVD
-
+  /*
+  At a minimum, you should be skeptical of claims that carotid stenosis is protective against DR. Unfortunately, for exam purposes, you will still need to say this.
+  */
 cataract surgery in DR
-  for any DR question
-    ALWAYS: mention
-      involving GP
-      general DM control
+  for any DR patient
+    ALWAYS:
+      involve the GP
+      consider systemic control
   postop complications
     worsening PDR
       NVI

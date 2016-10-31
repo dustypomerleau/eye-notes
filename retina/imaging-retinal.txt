@@ -2,7 +2,7 @@
 
 wavelengths for retinal imaging
 
-//... work in progress - still some unanswered questions
+//... a stub for future expansion
 
   fluorescein molecule
     peak excitation 480-490
@@ -19,7 +19,6 @@ wavelengths for retinal imaging
       no filter?
         // sensor can be adjusted in software to achieve a filter-like effect
         // "no filter" might not mean the same as it did in the analog days
-        // buy one of the Heidelberg engineers a beer and work this out
     BR
       excite 488
       no filter?
@@ -56,7 +55,7 @@ wavelengths for retinal imaging
       605-715 BP filter
     ICG // not sure of exact wavelengths for any given product
       excite ~ 805
-      BP filter centerd ~ 835
+      BP filter centered ~ 835
 
 
 //
@@ -103,7 +102,7 @@ SDOCT
 //
 
 
-from Roman ACO talk //... incorporate into above
+//... incorporate into above
 
 OCT
   2-5 µm resolution

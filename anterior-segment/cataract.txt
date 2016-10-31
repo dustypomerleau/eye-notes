@@ -156,7 +156,6 @@ for exam purposes
             Pentacam
             Orbscan
           one of many formulas that use A & P curvature to determine K power
-            just mention broadly
 
         Koch & Wang modified Maloney method
           converts central topography to central keratometry
@@ -561,9 +560,9 @@ postop
       lid taping
       ACIOL removal
       anterior vitrectomy for vitreous prolapse
-      DMEK
-        still mostly DSEK in AU
-        so mention hyperopic shift
+      DMEK OR DSEK
+        if DSEK
+        consider hyperopic shift
       Gunderson conjunctival flap
         for comfort in poor VA potential
 
@@ -654,7 +653,7 @@ postop
       including ventilation
     protocol review
       surgical prep and drape
-      instrument sterilisation
+      instrument sterilization
       preparation of compounded agents
       correct use of commercially available agents
     otherwise identical to TASS example above
@@ -726,7 +725,7 @@ postop
 //
 
 
-//... consider reorganizing the snippets below this point
+//... only snippets below this point - could be reorganized
 
 drugs that cause cataract "Seriously, People? Cataract Quizzing? Hello???"
   steroids
@@ -769,7 +768,7 @@ high IOP after CEIOL
 hypotony during cataract surgery
   wound leak
   cyclodialysis
-  choroidal effusion
+  suprachoroidal effusion
   penetrating injury from retrobulbar block
   vitreous loss
 

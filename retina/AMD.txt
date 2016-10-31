@@ -1,5 +1,7 @@
 // https://github.com/dustypomerleau/eye-notes
 
+//... this is just a stub for later expansion
+
 AMD
   high IR iron levels may generate more free radicals
     some doctors recommend avoiding supplements with iron in AMD patients
@@ -7,14 +9,12 @@ AMD
       avoid in iron storage diseases
         hemochromatosis
 
-  histopathology
+  histopathology // 'Brooke blind! Basement BLAM!'
     Bruch
     BLinD
     RPE basement membrane
     BLamD
     RPE plasma membrane
-    'Brooke blind! Basement BLAM!' - Brooke is shot in the eyes in the basement
-//...
 
   treatment
     //...
@@ -47,6 +47,9 @@ AMD
 PCV
   visible polyps on exam
   layered blood in a PED
+  SHRM overlying a PED
+    nonspecific
+      suggestive of polyp OR CNV
   OCT
     DLS
       RPED over flat Bruch
@@ -75,6 +78,7 @@ PCV
               demographics
   ICG
     BVN
+      often feeds into PCV
   treatment
     antiVEGF
     PDT
@@ -82,7 +86,9 @@ PCV
         PDT + antiVEGF is superior to antiVEGF alone
         not published yet
         presentation: Adrian Koh, AAO 2016
+      30% bleed
     thermal laser
+      30% bleed
 
 
 //
@@ -90,9 +96,11 @@ PCV
 
 non-AMD drusenoid phenotypes
 
-dominant drusen
-  look for PP drusen
-    COMMON: nasal
-malattia Leventinese
-  radiating pattern of drusen
-  // people will distinguish these even though you know they are both EFEMP1
+EFEMP1
+  dominant drusen
+    look for PP drusen
+      COMMON: nasal
+  malattia Leventinese
+    radiating pattern of drusen
+  NOTE: don't listen to people who treat these as different diseases
+    there is a continuum of phenotypes and the names predate genetics

@@ -1,5 +1,7 @@
 // https://github.com/dustypomerleau/eye-notes
 
+//... stub for future expansion
+
 angioid streaks
 
   COMMON:
@@ -20,7 +22,7 @@ angioid streaks
           angioid streaks
             choroidal rupture
             CNV
-          peau d'orange
+          orange peel appearance
             COMMON: temporal macula
         ALSO:
           systemic
@@ -38,10 +40,8 @@ angioid streaks
               SRD
             pattern dystrophy-like hyperFAF
         avoid contact sports given risk of rupture
-    Ehlers-Danlos syndrome
-      AD OR AR
-    Paget disease of bone
-      AD OR sporadic
+    AD OR AR Ehlers-Danlos syndrome
+    AD OR sporadic Paget disease of bone
 
   RARELY:
     inflammatory
@@ -67,4 +67,3 @@ angioid streaks
         DM
         hypercalcinosis
         hyperphosphatemia
-

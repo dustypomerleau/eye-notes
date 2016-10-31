@@ -181,7 +181,7 @@ ptosis
         cavernous sinus thrombosis CN3+ palsy
 
     neoplastic
-      solid
+      solid tumors
         BROADLY: any compressive tumor CN3P
         Horner due to a solid tumor
           medullary tumor

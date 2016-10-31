@@ -100,12 +100,12 @@ ERG interpretation
         look for 3 main positive peaks ± a 4th small peak
           interpretation beyond noting presence or absence is much debated
         reduced OPs
-          know these
+          conditions where you would actually order an ERG
             RP
             CSNB
             birdshot CR
             JXLR
-          you won't get an ERG for these
+          conditions where an ERG is purely academic
             Takayasu arteritis
             HTN retinopathy
             CRVO
@@ -150,7 +150,7 @@ ERG interpretation
           amacrine cells
           RARELY: decreased
             very poor visual prognosis
-        N95 // 9 looks like a g
+        N95 // 9 looks like the g in ganglion
           ganglion cells
           decreased N95/P50 is typical of compressive ON
       compare with VEP
@@ -177,7 +177,7 @@ VEP interpretation
     optic neuritis
     compressive ON
     NOVL
-    maculopathy vs. ON
+    maculopathy versus ON
       VEP + MFERG compared
     infant acuity
       sweep VEP
@@ -214,7 +214,7 @@ RP syndromes
         progressive hearing loss
         vision loss
         some have vestibular symptoms
-  AR Bardet-Biedl syndrome 'short, thick, got no dick'
+  AR Bardet-Biedl syndrome
     RP-like pigmentary retinopathy
       ± bullseye
     polydactyly
@@ -246,7 +246,17 @@ RP syndromes
   older patient with RP + relatively good vision
     assume AD
 
-//... clean this up and add to the above - longer list of RP-associated syndromes - whether these are 'RP + syndrome' or 'RP-like' is up for debate on a case-by-case basis - remember RP is really just a phenotype.
+//... reformat list below and integrate with list above
+
+/*
+longer list of RP-associated syndromes
+whether these are
+  'RP + syndrome' OR
+  'RP-like'
+  is up for debate on a case-by-case basis
+remember RP is really just a phenotype
+*/
+
 Alagille syndrome: ERG normal or subnormal
 Albers-Schonberg syndrome (osteopetrosis): ERG often abnormal
 Alport’s syndrome: ERG normal or subnormal
@@ -285,14 +295,13 @@ AD WARD
   loss of ERG
 
 Oguchi disease
-  AR CSNB variant
-    // most CSNB is XLR
+  AR CSNB variant // most CSNB is XLR
   negative ERG like other CSNB
   Mizuo-Nakamura phenomenon
     light-adapted fundus is golden-brown with a metallic sheen
     dark-adapted fundus is normal
 
-bullseye maculopathy
+bullseye maculopathy DDx
   plaquenil
     6.5+ mg/kg IBW/d
     5+ y
@@ -384,7 +393,8 @@ crystalline retinopathy
     crystals occur in IMT2
   toxicity
     canthaxanthine
-      treatment for cystinosis //...
+      treatment for cystinosis
+        //...
     tamoxifen
     nitrofurantoin
     methoxyflurane
@@ -511,10 +521,12 @@ midperipheral and peripheral CRA
 //...
 
 genetic testing
-  AU researchers who test
-    Andrea Vincent
-    Alex Hewitt
-    David Mackey
+  /*
+    AU researchers who test
+      Andrea Vincent
+      Alex Hewitt
+      David Mackey
+  */
   mostly done in panels
   individual gene testing decreasing
   Oragene collection kit // see detailed panels from OHSU below
@@ -544,7 +556,7 @@ XLRP
   myopia
     strong association
 
-options for end-stage dystrophies
+AU options for end-stage dystrophies
   Vision Australia
     http://www.visionaustralia.org/
   Australian Inherited Retinal Disease Register
@@ -940,7 +952,7 @@ macular dystrophy panel
       AD Stargardt-like macular dystrophy
     IMPG1
       VMD4 adult vitelliform
-      adult vitelliform masquerades
+      adult vitelliform DDx
         AMD
         VMT
         CSC

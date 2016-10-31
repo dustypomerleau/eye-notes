@@ -11,7 +11,7 @@ orbital mass
       dilated
       tortuous
     blood in Schlemm
-    choroidal effusions
+    suprachoroidal effusion
   infectious
     fever
     dental surgery
@@ -527,7 +527,7 @@ Sample RACE DDx: 2014 semester 2 paper 1A
       TED
 
   neoplastic
-    solid
+    solid tumors
       SCC
         from adjacent NPC
       RARELY: plasmacytoma
