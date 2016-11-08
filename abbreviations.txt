@@ -4,6 +4,7 @@
 (-) - preferred over (<), e.g. 'vision 6/12-,' not 'vision < 6/12'
 (V|AV|L)M - venous, arteriovenous, or lymphatic malformation
 (˚) - degrees, OR after a number: primary (1˚), secondary (2˚), and so on
+(∆) - prism, prism diopters, change
 5FU - 5-fluorouracil
 AACG - acute angle closure glaucoma
 AAION - arteriti anterior ischemic optic neuropathy
@@ -519,107 +520,105 @@ PDS - pigment dispersion syndrome
 PED - pigment epithelial detachment
 PEDIG - Pediatric Eye Disease Interest Group
 PEE - punctate epithelial erosions
-PXG - pseudoexfoliation glaucoma
 PEI - penetrating eye injury
 PERG - pattern electroretinogram
 PET-CT - positron emission tomography computed tomography
 PF - Prednefrin Forte (AUS), Pred Forte (USA), preservative free
 PFV - persistent fetal vasculature
-PHACES
-PHMB
-PIOL
-PISK
-PJ
-PK
+PHACES - posterior fossa malformations, hemangiomas, arterial anomalies, cardiac defects and coarctation of the aorta, eye abnormalities, and sternal abnormalities
+PHMB - polyhexamethylene biguanide
+PIOL - primary intraocular lymphoma
+PISK - pressure induced stromal keratopathy
+PJ - Pneumocystis jiroveci
+PK - penetrating keratoplasty
 PL - perception of light, preferential looking
-PlGF
-PMB
-PMMA
-PMR
-PNET
-POAG
-POD
-PORN
-PORT - progressive outer-retinal toxoplasmosis
+PlGF - placental growth factor
+PMB - papillomacular bundle
+PMMA - polymethylmethacrylate
+PMR - polymyalgia rheumatica
+PNET - primitive neuroectodermal tumor
+POAG - primary open angle glaucoma
+POD - postoperative day
+PORN - progressive outer retinal necrosis
+PORT - progressive outer retinal toxoplasmosis
 PP - peripapillary, peripupillary, pars plana
-PPA
-PPCD
-PPCRD
-PPD
-PPRCA
-PPRF
-PPV
+PPA - peripapillary atrophy
+PPCD - posterior polymorphous corneal dystrophy
+PPCRA - peripapillary chorioretinal atrophy
+PPCRD - peripapillary chorioretinal degeneration
+PPD - purified protein derivative
+PPRCA - pigmented paravenous retinochoroidal atrophy
+PPRF - paramedian pontine reticular formation
+PPV - pars plana vitrectomy
 PR - photoreceptor, pneumatic retinopexy
-PRH
-PRK
-PRP
-PS
-PSC
-PSD
-PSI
-PSP
-PST
-PTK
-PTM
-PUK
+PRH - preretinal hemorrhage
+PRK - photorefractive keratectomy
+PRP - panretinal photocoagulation
+PS - posterior synechiae
+PSC - posterior subcapsular cataract
+PSD - pattern standard deviation
+PSI - pounds per square inch
+PSP - progressive supranuclear palsy
+PST - pulse synchronous tinnitus
+PTK - phototherapeutic keratectomy
+PTM - posterior trabecular meshwork
+PUK - peripheral ulcerative keratitis
 PUVA - phototherapy with topical psoralens + ultraviolet A
-PVD
-PWS
-PXE
-PXF
-PXG
-Qgold
-RA
-RACE
-RANZCO
-RAO
-RAPD
-Rb
-RBC
-RCES
+PVD - posterior vitreous detachment
+PWS - port wine stain
+PXE - pseudoxanthoma elasticum
+PXF - pseudoexfoliation
+PXG - pseudoexfoliation glaucoma
+PXG - pseudoexfoliation glaucoma
+Qgold - Quantiferon TB Gold
+RA - rheumatoid arthritis
+RACE - RANZCO Advanced Clinical Examination
+RANZCO - Royal Australian and New Zealand College of Ophthalmologists
+RAO - retinal artery occlusion
+RAPD - relative afferent pupillary defect
+Rb - retinoblastoma
+RBC - red blood cells
+RCES - recurrent corneal erosion syndrome
 RCVS - reversible cerebral vasoconstriction syndrome
-RD
+RD - retinal detachment
 RE - right eye
-RESTORE
-RF
+RF - rheumatoid factor
 RGP - rigid gas permeable (contact lens)
 RH - Ramsay-Hunt
-RIDE
-riMLF
-RISE
-RLE
-RLL
-RNA
-RNFL
-ROP
-RP
-RPD
-RPEA
-RPED
-RPM
-RPR
-RR
-RRD
-RRF
-RUL
-RV
-RVEEH
-RVF
-RVO
+riMLF - rostral interstitial nucleus of the medial longitudinal fasciculus
+RLE - refractive lens exchange
+RLL - right lower lid
+RNA - ribonucleic acid
+RNFL - retinal nerve fiber layer
+ROP - retinopathy of prematurity
+RP - retinitis pigmentosa
+RPD - reticular pseudodrusen
+RPEA - retinal pigment epithelial atrophy
+RPED - retinal pigment epithelial detachment
+RPM - revolutions per minute
+RPR - rapid plasma reagin
+RR - relative risk
+RRD - rhegmatogenous retinal detachment
+RRF - ragged red fibers
+RUL - right upper lid
+RV - retinal vessels
+RVEEH - Royal Victorian Eye and Ear Hospital
+RVF - Rift Valley fever
+RVO - retinal vein occlusion
 S(S|T|C) - sickle cell variants: SS, ST, SC
-SA
-SACG
+SA - Staphylococcus aureus
+SACG - subacute angle closure glaucoma
 SAH - subarachnoid hemorrhage
-SALT
-SB
+SALT - sequential aggressive local therapy
+SB - scleral buckle
 SC - subconjunctival, subcutaneous
-SCC
+SCC - squamous cell carcinoma
 SCG - superior cervical ganglion
-SCH
-SD
-SDD
-SE mult
-SEAGIG
+SCH - subconjunctival hemorrhage
+SD - standard deviation
+SDD - subretinal drusenoid deposits
+SE - spherical equivalent, Staphylococcus epidermidis, subepithelial
+SEAGIG -
 SEI
 SF - sensory fusion
 SFU
@@ -750,5 +749,4 @@ XT
 YAG
 YO
 ZIKV
-∆ - prism, prism diopters, change
 
