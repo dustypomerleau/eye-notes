@@ -39,7 +39,7 @@ Pay attention to the level of indentation when reading the notes. Indented items
   
 ### How do I know when you've pushed an update?
 
-If you want to be notified whenever I push changes, create a GitHub account and star the repository. Your preferences will determine what type of notifications you receive.
+If you want to be notified whenever I push changes, create a GitHub account and watch the repository. Your preferences will determine what type of notifications you receive.
   
   
 ### I disagree with something in your notes. Will you change it?
