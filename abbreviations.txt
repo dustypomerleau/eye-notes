@@ -5,10 +5,10 @@
 (V|AV|L)M - venous, arteriovenous, or lymphatic malformation
 (˚) - degrees, OR after a number: primary (1˚), secondary (2˚), and so on
 (∆) - prism, prism diopters, change
-5FU - 5-fluorouracil
+5FU - 5 fluorouracil
 AACG - acute angle closure glaucoma
-AAION - arteriti anterior ischemic optic neuropathy
-AAK - aniridia-associated keratitis
+AAION - arteritic anterior ischemic optic neuropathy
+AAK - aniridia associated keratitis
 AAO - American Academy of Ophthalmology
 Ab - antibody
 ABG - arterial blood gas
@@ -34,13 +34,13 @@ AL - axial length
 ALL - acute lymphoblastic leukemia
 ALPI -argon laser peripheral iridoplasty
 ALT - argon laser trabeculoplasty
-AMD - age-related macular degeneration
+AMD - age related macular degeneration
 AML - acute myelogenous leukemia
 AMN - acute macular neuroretinopathy
-ANA - anti-nuclear antibody
-ANCA - anti-neutrophil cytoplasmic antibody
+ANA - antinuclear antibody
+ANCA - antineutrophil cytoplasmic antibody
 AO - adaptive optics, Archives of Ophthalmology
-AOFPED - adult-onset foveal pigment epithelial dystrophy
+AOFPED - adult onset foveal pigment epithelial dystrophy
 AOT - as opposed to
 APAC - acute primary angle closure
 APACRS - Asia Pacific Association of Cataract and Refractive Surgeons
@@ -48,22 +48,22 @@ APD - afferent pupillary defect
 AR - autosomal recessive
 ARC - abnormal retinal correspondence
 ARDS - acute respiratory distress syndrome
-AREDS - Age-Related Eye Disease Study
+AREDS - Age Related Eye Disease Study
 ARN - acute retinal necrosis
 ARPE - acute retinal pigment epitheliitis
 ARR - absolute relative risk
 AS - ankylosing spondylitis
-ASA - acetyl-salicylic acid
+ASA - acetylsalicylic acid
 ASAP - as soon as possible
 ASCRS - American Society of Cataract and Refractive Surgeons
 ASD - anterior segment dysgenesis
 ASI - anterior segment ischemia
 ASRS - American Society of Retina Specialists
-ASUS - A-scan ultrasound
+ASUS - A scan ultrasound
 AT - artificial tears
 ATD - aqueous tear deficiency
 ATM - anterior trabecular meshwork
-ATT  - ALT, trabeculectomy, trabeculectomy
+ATT  - argon laser trabeculoplasty, trabeculectomy, trabeculectomy
 AU - Australia
 AUNGAU - acute unilateral nongranulomatous anterior uveitis
 AV - anterior vitreous
@@ -75,7 +75,7 @@ BAC - benzalkonium chloride
 BAF - blue autofluorescence
 BAM - benign acquired melanosis
 BCC - basal cell carcinoma
-BCM - blue-cone monochromatism
+BCM - blue cone monochromatism
 BCSC - AAO Basic and Clinical Science Course
 BCTL - bandage contact lens
 BCVA - best corrected visual acuity
@@ -93,13 +93,13 @@ BMES - Blue Mountains Eye Study
 BO - base out
 BoY - blue on yellow
 BP - blood pressure
-BRAF - the proto-oncogene encoding B-raf protein
+BRAF - the protooncogene encoding B raf protein
 BRAFI - BRAF inhibitors (vemurafenib, dabrafenib)
 BRAO - branch retinal artery occlusion
 BRVO - branch retinal vein occlusion
 BSCR - birdshot chorioretinopathy
 BSS - balanced saline solution
-BSUS - B-scan ultrasound
+BSUS - B scan ultrasound
 BU - base up
 BVN - branching vascular network
 CA - cancer, carcinoma
@@ -108,10 +108,10 @@ CACD - central areolar choroidal dystrophy
 CACG - chronic angle closure glaucoma
 CAD - coronary artery disease
 CAI - carbonic anhydrase inhibitor
-CAR - cancer-associated retinopathy
+CAR - cancer associated retinopathy
 CAS - clinical activity score
 CB - ciliary body
-CC - carotid-cavernous, corpus callosum
+CC - carotid cavernous, corpus callosum
 CCC - continuous curvilinear capsulorrhexis
 CCDD - congenital cranial dysinnervation disorders
 CCP - cyclic citrullinated peptide
@@ -123,7 +123,7 @@ CEIOL - cataract extraction with intraocular lens placement
 CF - counting fingers
 CFEOM - congenital fibrosis of the extraocular muscles
 CFH - complement factor H
-CH - clock hours, Chediak-Higashi
+CH - clock hours, Chediak Higashi
 CHED - congenital hereditary endothelial dystrophy
 CHRPE - congenital hypertrophy of the retinal pigment epithelium
 CIN - conjunctival intraepithelial neoplasia
@@ -147,7 +147,7 @@ CPMC - California Pacific Medical Center
 CR - chorioretinal, chorioretinitis
 CRA - chorioretinal atrophy
 CRAO - central retinal artery occlusion
-CRP - C-reactive protein
+CRP - C reactive protein
 CRVO - central retinal vein occlusion
 CSC - central serous chorioretinopathy
 CSCB - ciliospinal center of Budge
@@ -166,7 +166,7 @@ CV - coefficient of variation
 CVA - cerebrovascular accident
 CVF - confrontational visual fields
 CWS - cotton wool spots
-CXR - chest X-ray
+CXR - chest X ray
 DALK - deep anterior lamellar keratoplasty
 DCCT - Diabetes Control and Complications Trial
 DCG - dacryocystogram
@@ -196,14 +196,14 @@ DSG - radionucleotide dacryoscintigraphy
 DUSN - diffuse unilateral subacute neuroretinitis
 DVD - dissociated vertical deviation
 DVST - dural venous sinus thrombosis
-DW - Dandy-Walker
-DWI - diffusion-weighted imaging
+DW - Dandy Walker
+DWI - diffusion weighted imaging
 E - esophoria
 E' - esophoria at near
 E(T) - intermittent esotropia
 EBMD - epithelial basement membrane dystrophy
 EBRT - external beam radiation therapy
-EBV - Epstein-Barr virus
+EBV - Epstein Barr virus
 ECA - external carotid arter
 ECCE - extracapsular cataract extraction
 ED - epithelial defect
@@ -225,7 +225,7 @@ ERD - exudative retinal detachment
 ERG - electroretinogram
 ERM - epiretinal membrane
 ESCRS - European Society of Cataract and Refractive Surgeons
-ESCS - enhanced S-cone syndrome
+ESCS - enhanced S cone syndrome
 ESR - erythrocyte sedimentation rate
 ET - esotropia
 ETDRS - Early Treatment of Diabetic Retinopathy Study
@@ -233,7 +233,7 @@ ETOMS - Early Treatment of Multiple Sclerosis Study
 ETROP - Early Treatment of Retinopathy of Prematurity Study
 EUA - examination under anesthesia
 EUGOGO - European Group on Graves Orbitopathy
-EW - Edinger-Westphal
+EW - Edinger Westphal
 EZ - ellipsoid zone
 FAF - fundus autofluorescence
 FAZ - foveal avascular zone
@@ -245,7 +245,7 @@ FES - floppy eyelid syndrome
 FEVR - familial exudative vitreoretinopathy
 FFA - fundus fluorescein angiography
 FH - family history
-FISH - fluorescence in-situ hybridization
+FISH - fluorescence in situ hybridization
 FL - fixation losses
 FML - fluorometholone
 FN - false negatives
@@ -254,10 +254,10 @@ FP - false positives
 FSHD - facioscapulohumeral dystrophy
 FSRT - fractionated stereotactic radiation therapy
 FTA-ABS - fluorescent treponemal antibody absorption
-FTSG - full-thickness skin graft
-FU - follow-up
+FTSG - full thickness skin graft
+FU - follow up
 FUS - Fuchs uveitis syndrome
-G6PD - glucose-6-phosphate dehydrogenase
+G6PD - glucose 6 phosphate dehydrogenase
 GA - general anesthesia, geographic atrophy
 GCA - giant cell arteritis
 GCC - glaucomatocyclitic crisis
@@ -283,7 +283,7 @@ HDL - high density lipoprotein
 HEDS - Herpetic Eye Disease Study
 HFL - Henle fiber layer
 HHV - human herpesvirus
-HI - Harada-Ito
+HI - Harada Ito
 HIV - human immunodeficiency virus
 HLA - human leukocyte antigen
 HM - hand motion
@@ -296,7 +296,7 @@ HRA - Heidelberg Retina Angiograph
 HSM - hepatosplenomegaly
 HSV - herpes simplex virus
 HT - hypertropia
-HTLV - human T-lymphotropic virus
+HTLV - human T lymphotropic virus
 HTN - hypertension
 HVF - Humphrey visual field
 IA - irrigation aspiration
@@ -309,8 +309,8 @@ ICP - intracranial pressure
 ICU - intensive care unit
 ID - infectious disease
 IFIS - intraoperative floppy iris syndrome
-IGF - insulin-like growth factor
-IgG4-ROD - immunoglobulin G4-related ophthalmic disease
+IGF - insulin like growth factor
+IgG4-ROD - immunoglobulin G4 related ophthalmic disease
 IIH - idiopathic intracranial hypertension
 IK - interstitial keratitis
 ILM - internal limiting membrane
@@ -346,7 +346,7 @@ IVT - intravitreal triamcinolone
 JIA - juvenile idiopathic arthritis
 JOAG - juvenile open angle glaucoma
 JXG - juvenile xanthogranuloma
-JXLR - juvenile X-linked retinoschisis
+JXLR - juvenile X linked retinoschisis
 KC - keratoconjunctivitis
 KCN - keratoconus
 KP - keratic precipitates
@@ -393,9 +393,9 @@ MC ± P - multifocal choroiditis, with or without panuveitis
 MCE - micrycystic edema
 MCT - medial canthal tendon
 MED - monocular elevation deficiency
-MEK - the set of genes encoding mitogen-activated protein kinase kinase
+MEK - the set of genes encoding mitogen activated protein kinase kinase
 MEKI - MEK inhibitors (trametinib, cobimetinib)
-MELAS - mitochondrial encephalopathy, lactic acidosis, and stroke-like episodes
+MELAS - mitochondrial encephalopathy, lactic acidosis, and stroke like episodes
 MEN - multiple endocrine neoplasia
 mETDRS - modified Early Treatment of Diabetic Retinopathy Study
 MEWDS - multiple evanescent white dot syndrome
@@ -584,7 +584,7 @@ RD - retinal detachment
 RE - right eye
 RF - rheumatoid factor
 RGP - rigid gas permeable (contact lens)
-RH - Ramsay-Hunt
+RH - Ramsay Hunt
 riMLF - rostral interstitial nucleus of the medial longitudinal fasciculus
 RLE - refractive lens exchange
 RLL - right lower lid
@@ -618,135 +618,128 @@ SCH - subconjunctival hemorrhage
 SD - standard deviation
 SDD - subretinal drusenoid deposits
 SE - spherical equivalent, Staphylococcus epidermidis, subepithelial
-SEAGIG -
-SEI
+SEAGIG - Southeast Asia Glaucoma Interest Group
+SEI - subepithelial infiltrates
 SF - sensory fusion
-SFU
-SG
-SHRM
-SINS
-SJS
-SL
-SLE mult
-SLK
-SLMD - Stargardt-like macular dystrophy
-SLO
-SLP
-SLT
-SMILE
+SFU - subretinal fibrosis and uveitis
+SG - Sheridan Gardner
+SHRM - subretinal hyperreflective material
+SINS - surgically induced necrotizing scleritis
+SJS - Stephens Johnson syndrome
+SL - Schwalbe line
+SLE - systemic lupus erythematosis
+SLK - superior limbic keratoconjunctivitis
+SLMD - Stargardt like macular dystrophy
+SLO - scanning laser ophthalmoscope
+SLP - scanning laser polarimetry
+SLT - selective laser trabeculoplasty
+SmILE - small incision lenticule extraction
 SN - superonasal, spasmas nutans
-SNP
-SNPDR
-SNR
+SNP - single nucleotide polymorphism
+SNPDR - severe nonproliferative diabetic retinopathy
+SNR - signal to noise ratio
 SO - silicone oil, sympathetic ophthalmia, superior oblique
-SOOA
-SP
-SPA
-SPEP
-SPI
-SPK
-SR
-SR
-SRD
-SRF
-SRH
-SRPE
+SOOA - superior oblique overaction
+SP - simultaneous perception
+SPA - spinocerebellar atrophy
+SPEP - serum protein electrophoresis
+SPI - surgical peripheral iridectomy
+SPK - superficial punctate keratopathy
+SR - superior rectus
+SRD - subretinal deposit
+SRF - subretinal fluid
+SRH - subretinal hemorrhage
+SRPE - sub(retinal pigment epithelium)
 SS - seronegative spondyloarthropathies, scleral spur, steroid sparing
-SSIMT
-SSPE
-SSRI
-ST
-SUN
-SWAP
-TA
-TAB
-TASS
-TAT
-TB
-TBII
-TBUT
+SSIMT - steroid sparing immunomodulatory therapy
+SSPE - subacute sclerosing panencephalitis
+SSRI - selective serotonin reuptake inhibitor
+ST - superotemporal
+SUN - Standardization of Uveitis Nomenclature
+SWAP - short wavelength automated perimetry
+TA - temporal artery
+TAB - temporal artery biopsy
+TASS - toxic anterior segment syndrome
+TAT - trabeculectomy, argon laser trabeculoplasty, trabeculectomy
+TB - tuberculosis
+TBII - thyrotropin binding inhibitory immunoglobulin
+TBUT - tear breakup time
 TC - tarsoconjunctival
-TED
-TEE
-TEN
-TGF
-TGFBI
-TID
-TIN
-TINU
-TLP
-TM
-TMVL
-TNF
-TNFI
-TORCH
-tPA
+TED - thyroid eye disease
+TEE - transesophageal echocardiogram
+TEN - toxic epidermal necrolysis
+TGF - transforming growth factor
+TGFBI - transforming growth factor beta induced
+TID - transillumination defects
+TIN - tubulointerstitial nephritis
+TINU - tubulointerstitial nephritis and uveitis
+TLP - thumblike polyps
+TM - trabecular meshwork
+TMVL - transient monocular visual loss
+TNF - tumor necrosis factor
+TNFI - tumor necrosis factor inhibitor
+TORCH - toxoplasma, other (adenovirus, enterovirus, hepatitis E virus, human immunodeficiency virus, lymphocytic choriomeningitis virus, measles virus, parvovirus B19, West Nile virus, syphilis), rubella, cytomegalovirus, Herpesviruses (herpes simplex virus 1, herpes simplex virus 2, varicella zoster virus)
 TPF - tenacious proximal fusion
-TRD
-TREX-DME
-TSCPC
-TSH
-TSH-R
-TSI
-TTE
-TTP
-TTP
-TTT
-TVO
-UBM
-UEC
-UES
-UGH
-UL
-UMN
-URI
-US
-USD
-UVA
-VA
-VB mult
-VCDR
-VDRL
-VEGF
-VEP
-VF
-VH
-VHL
-VIBRANT
-VISTA
-VIVID
-VKC
-VKH
-VM
-VMD
-VMT
-VOR
-VP
-VR
+TRD - tractional retinal detachment
+TSCPC - transscleral cyclophotocoagulation
+TSH - thyroid stimulating hormone
+TSH-R - thyroid stimulating hormone receptor
+TSI - thyroid stimulating immunoglobulin
+TTE - transthoracic echocardiogram
+TTP - thrombotic thrombocytopenic purpura
+TTT - transpupillary thermotherapy
+TVO - transient visual obscurations
+UBM - ultrasound biomicroscopy
+UEC - urea, electrolytes, and creatinine
+UES - uveal effusion syndrome
+UGH - uveitis, glaucoma, hyphema
+UL - upper lid
+UMN - upper motor neuron
+URI - upper respiratory infection
+US - ultrasound
+USD - United States dollar
+UVA - ultraviolet A
+VA - visual acuity
+VB - venous beading, Vision Blue
+VCDR - vertical cup to disc ratio
+VDRL - Venereal Disease Research Laboratory
+VEGF - vascular endothelial growth factor
+VEP - visual evoked potential
+VF - visual field
+VH - vitreous hemorrhage
+VHL - Von Hippel Lindau
+VKC - vernal keratoconjunctivitis
+VKH - Vogt Koyanagi Harada
+VM - vascular malformation
+VMD - vitelliform macular dystrophy
+VMT - vitreomacular traction
+VOR - vestibuloocular reflex
+VP - venous pulsations
+VR - vitreoretinal
 VRC - vitreoretinochoroidopathy
-VS
-VSAQ
-VST
-VZV
-WAGR
-WARD
-WBC
-WDS
-WEBINO
-WESDR
-WML
-WNV
-WRT
-WTR
-WTW
-X
-X'
-X(T)
-XLD
-XLR
-XLRP
-XT
-YAG
-YO
-ZIKV
+VS - visually significant
+VSAQ - very short answer questions
+VST - venous sinus thrombosis
+VZV - varicella zoster virus
+WAGR - Wilms tumor, aniridia, genitourinary anomalies, and retardation (now called intellectual disability)
+WARD - white annular retinal dystrophy
+WBC - white blood cells
+WDS - white dot syndromes
+WEBINO - wall eyed bilateral internuclear ophthalmoplegia
+WESDR - Wisconsin Epidemiologic Study of Diabetic Retinopathy
+WML - white matter lesion
+WNV - West Nile virus
+WRT - with respect to
+WTR - with the rule
+WTW - white to white
+X - exophoria
+X' - exophoria at near
+X(T) - intermittent exotropia
+XLD - X linked dominant
+XLR - X linked recessive
+XLRP - X linked retinitis pigmentosa
+XT - exotropia
+YAG - yttrium aluminum garnet (usually Neodymium doped AKA Nd3+:YAG) laser
+YO - years old
+ZIKV - Zika virus
 
