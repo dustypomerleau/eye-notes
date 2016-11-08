@@ -28,7 +28,7 @@ refractive surgery options
       so maximum ablation in D = (CCT - 110 - 300)/15
 
 
-  phakic ICL
+  phakic IOL
     candidates
       intolerant of CTL
       inadequate corneal thickness for safe laser
@@ -50,7 +50,7 @@ refractive surgery options
   astigmatism
     KRS
       up to 4 D if patient meets other criteria for KRS
-    toric phakic ICL
+    toric phakic IOL
       ± bioptic KRS
     RLE with toric IOL
       ± bioptic KRS

@@ -223,7 +223,7 @@ glaucoma
     NPL
   PCG
   PCG
-  PEG
+  PXG
   POAG
     advanced
     only eye
@@ -261,7 +261,7 @@ cataract
   MFIOL
     refractive surprise
   nanophthalmos
-  PEG
+  PXG
     post-trab
   posterior polar cataract
   preoperative discussion with patient who desires to be free of glasses

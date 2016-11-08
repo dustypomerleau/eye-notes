@@ -201,7 +201,7 @@ E - esophoria
 E' - esophoria at near
 E(T) - intermittent esotropia
 EBMD - epithelial basement membrane dystrophy
-EBRT - external beam radiotherapy
+EBRT - external beam radiation therapy
 EBV - Epstein-Barr virus
 ECA - external carotid arter
 ECCE - extracapsular cataract extraction
@@ -251,7 +251,7 @@ FN - false negatives
 FNA - fine needle aspiration
 FP - false positives
 FSHD - facioscapulohumeral dystrophy
-FSRT - fractionated stereotactic radiotherapy
+FSRT - fractionated stereotactic radiation therapy
 FTA-ABS - fluorescent treponemal antibody absorption
 FTSG - full-thickness skin graft
 FU - follow-up
@@ -264,283 +264,267 @@ GCL - ganglion cell layer
 GCP - glaucoma change probability
 GCT - galactosemia reflex test
 GDx - (brand name scanning laser polarimetry glaucoma diagnosis device)
-GFR
-GH
-GHT
-GI
-GI
-GLT
-GNR
-GON
-GP
-GPA
-GVF
-GVHD
-HA
-HAART
-HCDR
-HDL
-HEDS
-HFL
-HHV
+GFR - glomerular filtration rate\
+GH - growth hormone
+GHT - glaucoma hemifield test
+GI - gastrointestinal
+GLT - Glaucoma Laser Trial
+GNR - gram negative rods
+GON - glaucomatous optic neuropathy
+GP - general practitioner
+GPA - granulomatosis with polyangiitis
+GVF - Goldmann visual field
+GVHD - graft versus host disease
+HA - headache
+HAART - highly active antiretroviral therapy
+HCDR - horizontal cup to disc ratio
+HDL - high density lipoprotein
+HEDS - Herpetic Eye Disease Study
+HFL - Henle fiber layer
+HHV - human herpesvirus
 HI - Harada-Ito
-HIV
-HLA
-HM
-HORV
-HP
+HIV - human immunodeficiency virus
+HLA - human leukocyte antigen
+HM - hand motion
+HORV - hemorrhagic occlusive retinal vasculitis
+HP - Hermansky Pudlak
 HPF - high power field
-HPV
+HPV - human papillomavirus
 HR - hyperreflective
 HRA - Heidelberg Retina Angiograph
 HSM - hepatosplenomegaly
 HSV - herpes simplex virus
 HT - hypertropia
-HTLV
-HTN
-HVF
-IA
-IBD
-IBW
-ICA
-ICE
-ICG
-ICL
-ICP
-ICU
+HTLV - human T-lymphotropic virus
+HTN - hypertension
+HVF - Humphrey visual field
+IA - irrigation aspiration
+IBD - inflammatory bowel disease
+IBW - ideal body weight
+ICA - internal carotid artery
+ICE - iridocorneal endothelial syndrome
+ICG - indocyanine green
+ICP - intracranial pressure
+ICU - intensive care unit
 ID - infectious disease
-IFIS
-IGF
-IgG4-ROD
-IIH
-IK
-IK
-ILM
-IMRT
-IMSLO
+IFIS - intraoperative floppy iris syndrome
+IGF - insulin-like growth factor
+IgG4-ROD - immunoglobulin G4-related ophthalmic disease
+IIH - idiopathic intracranial hypertension
+IK - interstitial keratitis
+ILM - internal limiting membrane
+IMRT - intensity modulated radiation therapy
+IMSLO - inferior, medial, superior, lateral, oblique
 IMT - idiopathic macular telangiectasia, immunomodulatory therapy
-IN
-INL
-INO
-INR
-IO
-IOFB
-IOL
-IOOA
-IOP
-IPD
-IPE
-IPL
+IN - inferonasal
+INL - inner nuclear layer
+INO - internuclear ophthalmoplegia
+INR - international normalized ratio
+IO - inferior oblique
+IOFB - intraocular foreign body
+IOL - intraocular lens
+IOOA - inferior oblique overaction
+IOP - intraocular pressure
+IPD - interpupillary distance
+IPE - iris pigment epithelium
+IPL - intense pulsed light
 IR - infrared reflectance, inferior rectus, intraretinal, internal reflectivity
-IRF
-IRH
-IRMA
-IRVAN
-ISNT
-IT
-ITM
-ITP
-IV
-IVDU
-IVIG
-IVMP
-IVT
-JIA
-JOAG
-JXG
-JXLR
-KC
-KCN
-KP
-KRS
-Ks
-LASEK
-LASIK
-LCA
-LCPUFA
-LCT
-LD
-LDL
-LE
-LEC
-LED
-LFT
-LGN
-LH
-LHON
-LISN
-LL
-LL
-LLL
-LLR
-LM
+IRF - intraretinal fluid
+IRH - intraretinal hemorrhage
+IRMA - intraretinal microvascular abnormality
+IRVAN - idiopathic retinal vasculitis, aneurysms, and neuroretinitis
+ISNT - inferior, superior, nasal, temporal
+IT - inferotemporal
+ITM - inferior tarsal muscle
+ITP - idiopathic thrombocytopenic purpura
+IV - intravenous
+IVDU - intravenous drug use
+IVIG - intravenous immunoglobulin G
+IVMP - intravenous methylprednisolone
+IVT - intravitreal triamcinolone
+JIA - juvenile idiopathic arthritis
+JOAG - juvenile open angle glaucoma
+JXG - juvenile xanthogranuloma
+JXLR - juvenile X-linked retinoschisis
+KC - keratoconjunctivitis
+KCN - keratoconus
+KP - keratic precipitates
+KRS - keratorefractive surgery
+Ks - keratometry (measurements)
+LASEK - laser epithelial keratomileusis
+LASIK - laser assisted in situ keratomileusis
+LCA - Leber congenital amaurosis
+LCPUFA - long chain polyunsaturated fatty acids
+LCT - lateral canthal tendon
+LD - lattice degeneration
+LDL - low density lipoprotein
+LE - left eye
+LEC - lenticular epithelial cells
+LED - light emitting diode
+LFT - liver function tests
+LGN - lateral geniculate nucleus
+LHON - Leber hereditary optic neuropathy
+LISN - Leber idiopathic stellate neuroretinitis
+LL - lower lid
+LLL - left lower lid
+LLR - lower lid retractors
+LM - lymphatic malformation
 LMA - laryngeal mask anesthesia
-LMN
-LoGTS
-LORD
-LOT
-LP
-LP
-LPI
-LR
-LRI
+LMN - lower motor neuron
+LoGTS - Low Pressure Glaucoma Treatment Study
+LORD - late onset retinal degeneration
+LOT - lateral orbital tubercle
+LP - lumbar puncture
+LPI - laser peripheral iridotomy
+LR - lateral rectus
+LRI - limbal relaxing incisions
 LSC - limbal stem cells
 LSCD - limbal stem cell deficiency
-LT
-LTP
-LTS
-LUL
+LT - lens thickness
+LTP - laser trabeculoplasty
+LTS - lateral tarsal strip
+LUL - left upper lid
 MALE - medial toward the apex, lateral toward the empty space
-MALT
-MAR
-MC
-MC ± P
-MCE
-MCT
-MEAD
-MED
+MALT - mucosa associated lymphoid tissue
+MAR - melanoma associated retinopathy
+MC - multifocal choroiditis
+MC ± P - multifocal choroiditis, with or without panuveitis
+MCE - micrycystic edema
+MCT - medial canthal tendon
+MED - monocular elevation deficiency
 MEK - the set of genes encoding mitogen-activated protein kinase kinase
 MEKI - MEK inhibitors (trametinib, cobimetinib)
-MELAS
-MEN
-mETDRS
-MEWDS
+MELAS - mitochondrial encephalopathy, lactic acidosis, and stroke-like episodes
+MEN - multiple endocrine neoplasia
+mETDRS - modified Early Treatment of Diabetic Retinopathy Study
+MEWDS - multiple evanescent white dot syndrome
 MF - motor fusion, multifocal
-MFERG
-MFERG
-MFIOL
-MFVEP
-MG
-MGD
-MGUS
-MH
-MHA-TP
+MFERG - multifocal electroretinogram
+MFIOL - multifocal intraocular lens
+MFVEP - multifocal visual evoked potential
+MG - myasthenia gravis
+MGD - meibomian gland dysfunction
+MGUS - monoclonal gammopathy of undetermined significance
+MH - macular hole
+MHA-TP - microhemagglutination assay for Treponema pallidum
 MI - myocardial infarction
-MIDAS
-MIDD
-MK
-MLF
-MLPA
-MM
-MMC
-MMG
-MMP
-MMP
-MMT
-MNP
-MOTAS
-MPGN
-MPS
-MR
-MR-DCG
-MRA
-MRD
-MRI
-MRSA
-MRV
-MRx
-MS
-MTX
-MTX
-MVP
-MVR
-NAI
-NAION
-NARP
+MIDAS - microphthalmia, dermal aplasia, and sclerocornea
+MIDD - maternally inherited diabetes and deafness
+MLF - medial longitudinal fasciculus
+MLPA - multiplex ligation dependent probe amplification
+MM - multiple myeloma
+MMC - mitomycin C
+MMG - mixed mechanism glaucoma
+MMP - matrix metalloproteinase
+MMT - maximum medical therapy
+MNP - macular nonperfusion
+MOTAS - Monitored Occlusion Treatment of Amblyopia Study
+MPGN - membranoproliferative glomerulonephritis
+MPS - mucopolysaccharide
+MR - medial rectus
+MR-DCG - magnetic resonance dacryocystography
+MRA - magnetic resonance angiography
+MRD - margin reflex distance
+MRI - magnetic resonance imaging
+MRSA - methicillin resistant Staphylococcus aureus
+MRV - magnetic resonance venography
+MRx - manifest refraction
+MS - multiple sclerosis
+MTX - methotrexate
+MVP - mitral valve prolapse
+MVR - microvitreoretinal (blade)
+NAI - nonaccidental injury
+NAION - nonarteritic anterior ischemic optic neuropathy
+NARP - neuropathy, ataxia, and retinitis pigmentosa
 NC - noncontiguous
-NCL
+NCL - neuronal ceroid lipofuscinoses
 NE - norepinephrine
-NF
-NFL
-NGS
-NHL
-NMO
-NOVL
-NPDR
-NPL
-NPO
-NR
-NR
+NF - neurofibromatosis
+NFL - nerve fiber layer
+NGS - next generation sequencing
+NHL - nonHodgkin lymphoma
+NMO - neuromyelitis optica
+NOVL - nonorganic visual loss
+NPDR - nonproliferative diabetic retinopathy
+NPL - no perception of light
+NR - neuroretinitis, nonreactive
 NRC - normal retinal correspondence
-NSAID
-NSC
-NSOI
-NTG
-NUM
-NVAMD
-NVD
-NVD
-NVE
-NVG
-NVI
-NVK
-OA
-OAG
+NSAID - nonsteroidal antiinflammatory drug
+NSC - nuclear sclerotic cataract
+NSOI - nonspecific orbital inflammation
+NTG - normal tension glaucoma
+NUM - number of cells
+NVAMD - neovascular age related macular degeneration
+NVD - neovascularization of the disc
+NVE - neovascularization elsewhere
+NVG - neovascular glaucoma
+NVI - neovascularization of the iris
+NVK - neovascularization of the cornea
+OA - ocular albinism
+OAG - open angle glaucoma
 OAS - orbital apex syndrome
-OCA
-ODEMS
-ODM
-OFT
-OHS
+OCA - oculocutaneous albinism
+ODEMS - optic disc edema with a macular star
+ODM - ophthalmodynamometry
+OFT - orbital floor triamcinolone
+OHS - ocular histoplasmosis syndrome
 OHSU - Oregon Health Sciences University
-OHTN
-OHTS
-OI
-OIS
-OKN
-OMA
+OHTN - ocular hypertension
+OHTS - Ocular Hypertension Treatment Study
+OI - Ocular Instruments
+OIS - ocular ischemic syndrome
+OKN - optokinetic nystagmus
+OMA - oculomotor apraxia
 ON - optic nerve, optic neuropathy
-ONL
-ONSD
-ONSM
-ONTT
-OOM
+ONL - outer nuclear layer
+ONSD - optic nerve sheath decompression
+ONSM - optic nerve sheath meningioma
+ONTT - Optic Neuritis Treatment Trial
+OOM - orbicularis oculi muscle
 OP - oscillatory potential
-OPD
-OPL
+OPD - oropharyngeal dystrophy
+OPL - outer plexiform layer
 OR - or, odds ratio, outer retinal
-OSA
-OSCE
-OSD
-OSSN
-OT
+OSA - obstructive sleep apnea
+OSCE - objective structured clinical examination
+OSD - ocular surface disease
+OSSN - ocular surface squamous neoplasia
+OT - operating theatre
 OTR - ocular tilt reflex
 OTS - ocular trauma score
-OVD
-PAC
-PACD
-PACG
-PACS
-PAM
-PAMM
-PAN
-PAN mult
-PAS
-PBK
-PBT
-PC
-PCA
-PCF
-PCG
-PCN
-PCNSL
-PCO
-PCR
-PCV
-PD
-PDG
-PDGF
-PDR
-PDS
-PED
-PEDIG
-PEE
-PEG
-PEI
-PERG
-PET-CT
+OVD - ophthalmic viscosurgical device
+PAC - primary angle closure
+PACD - primary angle closure disease
+PACG - primary angle closure glaucoma
+PACS - primary angle closure suspect
+PAM - primary acquired melanosis
+PAMM - paracentral acute middle maculopathy
+PAN - polyarteritis nodosa, periodic alternating nystagmus
+PAS - peripheral anterior synechia(e)
+PBK - pseudophakic bullous keratopathy
+PBT - plaque brachytherapy
+PC - posterior capsule
+PCA - posterior cerebral artery
+PCF - pharyngoconjunctival fever
+PCG - primary congenital glaucoma
+PCN - penicillin
+PCNSL - primary central nervous system lymphoma
+PCO - posterior capsular opacity
+PCR - polymerase chain reaction
+PCV - polypoidal choroidal vasculopathy
+PDG - pigment dispersion glaucoma
+PDGF - platelet derived growth factor
+PDR - proliferative diabetic retinopathy
+PDS - pigment dispersion syndrome
+PED - pigment epithelial detachment
+PEDIG - Pediatric Eye Disease Interest Group
+PEE - punctate epithelial erosions
+PXG - pseudoexfoliation glaucoma
+PEI - penetrating eye injury
+PERG - pattern electroretinogram
+PET-CT - positron emission tomography computed tomography
 PF - Prednefrin Forte (AUS), Pred Forte (USA), preservative free
-PFV
+PFV - persistent fetal vasculature
 PHACES
 PHMB
 PIOL
@@ -593,8 +577,9 @@ RAPD
 Rb
 RBC
 RCES
+RCVS - reversible cerebral vasoconstriction syndrome
 RD
-RE
+RE - right eye
 RESTORE
 RF
 RGP - rigid gas permeable (contact lens)
@@ -739,7 +724,7 @@ VMT
 VOR
 VP
 VR
-VRC
+VRC - vitreoretinochoroidopathy
 VS
 VSAQ
 VST

@@ -35,3 +35,13 @@ IIH
       ventriculoatrial shunt
       lumboperitoneal shunt
     transverse sinus stenting
+
+RCVS
+  COMMON: recurrent thunderclap headaches
+  ALSO:
+    focal neurologic deficits
+    seizures
+  pregnancy
+  HTN
+  SSRIs
+    or any vasoactive drug
