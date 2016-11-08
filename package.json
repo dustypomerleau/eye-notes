@@ -1,6 +1,6 @@
 {
   "name": "eye-notes",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "terse and opinionated ophthalmology notes",
   "main": "index.js",
   "repository": {
