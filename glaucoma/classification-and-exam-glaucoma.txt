@@ -205,8 +205,15 @@ glaucoma classification
           FH OR
           symptoms
         LPI
-        if VS cataract
-          early CEIOL // see Tarongoy review in Survey of Ophthalmology (2009)
+        early CEIOL
+          evidence for clear lens extraction is increasing
+            Tarongoy review in Survey of Ophthalmology (2009)
+              cataract taken into account during decision-making
+            Azuara-Blanco EAGLE RCT in The Lancet (2016)
+              cataract not considered in decision-making
+              included PACS and PACG
+              CEIOL versus LPI
+                CEIOL achieved lower IOP
     PAC
       PACS +
         PAS OR
@@ -451,7 +458,7 @@ unilateral glaucoma
         Sturge-Weber AKA encephalotrigeminal angiomatosis
     genetic
       genetic
-        AD(VP) PPCD
+        AD (VP) PPCD
         lens subluxation
           AD OR sporadic Marfan
           AR homocystinuria

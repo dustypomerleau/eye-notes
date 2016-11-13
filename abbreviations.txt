@@ -627,7 +627,6 @@ SHRM - subretinal hyperreflective material
 SINS - surgically induced necrotizing scleritis
 SJS - Stephens Johnson syndrome
 SL - Schwalbe line
-SLE - systemic lupus erythematosis
 SLK - superior limbic keratoconjunctivitis
 SLMD - Stargardt like macular dystrophy
 SLO - scanning laser ophthalmoscope

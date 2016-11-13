@@ -125,7 +125,7 @@ corneal dystrophies
       guttae on the posterior aspect of Descemet
       pleomorphic endothelial cells
       edema in advanced cases
-    AD(VP) PPCD
+    AD (VP) PPCD
       childhood onset
       fusiform collagen plaques on Descemet
         snail tracks
@@ -200,7 +200,7 @@ corneal dystrophies
     corneal decompensation
       may require PK OR DSEK
     DDx
-      AD(VP) PPCD
+      AD (VP) PPCD
       AD Axenfeld-Rieger
       aniridia
     workup

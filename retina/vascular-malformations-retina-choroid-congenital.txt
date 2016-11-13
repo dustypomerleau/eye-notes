@@ -1,21 +1,81 @@
 // https://github.com/dustypomerleau/eye-notes
 
-//... format to match eye-notes style
-
 congenital vascular malformations of the retina and choroid
 
-1.  retinal hemangioblastoma (aka retinal capillary hemangioma) – can be sporadic or associated with vhl (ad with variable penetrance). first image the belly and the brain because vhl can have cns hemangioblastomas, renal and pancreas cysts, pheochromocytoma, or rcc. treat with laser, cryo, or radiation depending on the size.
+  retinal lesions
 
-2.  racemose hemangiomatosis (wyburn-mason) – dilated retinal vessels result from av communications. need neuro workup because sometimes decreased vision can result from lesions at other locations along the visual pathway. occasionally they have lesions on the face similar to sw. usually no treatment. Some people simply use the term AV malformation, which can occur in isolation or as Wyburn Mason syndrome with cerebral AVMs.
+    retinal capillary hemangioma AKA retinal hemangioblastoma
+      sporadic OR (AD (VP) + VHL)
+      VHL may have
+        CNS hemangioblastomas
+        cysts
+          pancreatic
+          renal
+        pheochromocytoma
+        renal cell carcinoma
+      ALWAYS: MRI
+        belly
+        brain
+        orbits
+      treatment based on size
+        small lesions
+          thermal laser
+        medium lesions
+          cryo
+        large lesions
+          radiation
 
-3.  retinal cavernous hemangioma – inner retinal aneurysms and gliosis but unique in that the vessels do not leak so there is no exudation. usually asymptomatic, but need a neuro workup because there can be associated cerebral aneurysms. usually no treatment.
+    sporadic racemose hemangiomatosis AKA Wyburn Mason syndrome
+      AV communications lead to dilated and tortuous retinal vessels
+      may have vision loss from other AVMs along the visual pathway
+        ALWAYS: MRI
+          brain
+          orbits
+      RARELY: facial lesions
+        similar to Sturge Weber PWS
+      usually no treatment
 
-4.  circumscribed choroidal hemangioma (mostly cavernous, sometimes mixed, rarely capillary). highly reflective on bsus (can have osseous metaplasia). if the patient is symptomatic, pdt is first line therapy to prevent exudation and rd. if that fails then ttt or radiation are second line therapies.
+    sporadic OR AD (VP) retinal cavernous hemangioma
+      inner retinal aneurysms and gliosis
+      COMMON: asymptomatic
+      NOTE:
+        vessels don't leak
+          so no exudation
+      ALWAYS: MRI for associated cerebral aneurysms
+      usually no treatment
 
-5.  diffuse choroidal hemangioma (mostly mixed – almost always associated with sturge weber). highly reflective on bsus (can have osseous metaplasia). look for episcleral hemangiomas and facial hemangiomas (port wine stain). patients with sturge weber almost invariably have leptomeningeal angiomas if there is a diffuse choroidal hemangioma, so when you see this always work it up with an mri. the visual prognosis is poor – sometimes radiation helps prevent exudative rd; pdt has been used in some cases where only a small region of the hemangioma was “active.”
+  choroidal lesions
 
-so in summary, almost all congenital vascular malformations of the retina and choroid require some additional neuro workup or imaging, with the exception of circumscribed choroidal hemangioma.
+    sporadic circumscribed choroidal hemangioma
+      COMMON: cavernous
+      ALSO: mixed capillary + cavernous
+      RARELY: capillary
+      BSUS
+        high IR
+          may have osseous metaplasia
+      if symptomatic
+        treatment ladder
+          PDT
+          TTT
+          radiation
 
+    sporadic diffuse choroidal hemangioma
+      COMMON:
+        Sturge Weber syndrome
+        mixed capillary + cavernous
+      BSUS
+        high IR
+          may have osseous metaplasia
+      COMMON: leptomeningeal angiomas
+        ALWAYS: MRI brain
+      poor visual prognosis
+      treatment
+        COMMON: none
+        RARELY:
+          radiation
+            to prevent exudative RD
+          PDT
+            when the active region is small
 
-
-
+NOTE:
+  circumscribed choroidal hemangioma is the only lesion you don't need to MRI

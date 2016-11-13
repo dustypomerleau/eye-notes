@@ -1,7 +1,9 @@
 // https://github.com/dustypomerleau/eye-notes
 
 /*
-These are my notes on the 2006 edition of the AAO BCSC uveitis textbook. I do not plan to edit or update these notes, but they do contain helpful information, so I've left them in.
+These are my notes on the 2006 edition of the AAO BCSC uveitis textbook. I do
+not plan to edit or update these notes, but they do contain helpful
+information, so I've left them in.
 */
 
 Acute nongranulomatous anterior uveitis (pain, redness, photophobia). More often unilateral, attack over days to weeks, can alternate eyes.
@@ -110,7 +112,7 @@ ________________________________________
 
 Immunologic (collagen vascular diseases)
 
-14. Systemic lupus erythematosus (SLE) – usually women of childbearing age with keratitis or scleritis (rarely uveitis). Systemic symptoms are fever, arthritis, rash, pleurisy, and oral ulcers – renal disease and neurologic complications are common. The eye is involved in half of cases (usually the retina):
+14. Systemic lupus erythematosus – usually women of childbearing age with keratitis or scleritis (rarely uveitis). Systemic symptoms are fever, arthritis, rash, pleurisy, and oral ulcers – renal disease and neurologic complications are common. The eye is involved in half of cases (usually the retina):
 
 14.1. Cotton wool spots from microvascular disease.
 14.2. Vascular occlusion from retinal arteriolitis causes ischemic retina, neovascularization and vitreous hemorrhage.
