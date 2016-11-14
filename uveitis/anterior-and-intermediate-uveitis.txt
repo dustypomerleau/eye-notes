@@ -338,22 +338,31 @@ anterior and intermediate uveitis DDx
           sulfonamides
           quinolones
           OCPs
-          TNF inhibitors
-          ipilimumab
-            used to treat metastatic melanoma
-            anti-T-cell (anti-CTLA-4)
-            many inflammatory ophthalmic complications
-              anterior uveitis
-              orbital inflammation
-              OR + SR inflammation
-                SR debris + fluid on OCT
-              VKH-like syndrome
-                including skin depigmentation
-          MEK inhibitors // see dystrophies-retinal.txt
-            COMMON: intermediate uveitis
-            also cause RDS-like lesions
-          BRAF inhibitor
-            COMMON: intermediate uveitis
+          monoclonal antibodies
+            //...
+              add detail
+                drug names
+                indications for each class
+                nature of uveitis
+                other ophthalmic complications
+            TNFI
+            CTLA4I
+              ipilimumab
+                used to treat metastatic melanoma
+                anti-T-cell (anti-CTLA-4)
+                many inflammatory ophthalmic complications
+                  anterior uveitis
+                  orbital inflammation
+                  OR + SR inflammation
+                    SR debris + fluid on OCT
+                  VKH-like syndrome
+                    including skin depigmentation
+            MEKI // see dystrophies-retinal.txt
+              COMMON: intermediate uveitis
+              ALSO: RDS-like lesions
+            BRAFI
+              COMMON: intermediate uveitis
+            PD1I
           drops
             prostaglandins
             metipranolol
@@ -387,7 +396,7 @@ anterior and intermediate uveitis DDx
     PCNSL
       ALWAYS: mention vitreous biopsy if the case doesn't respond to treatment
     ALSO:
-      MEKI // see above
+      MEKI
       BRAFI
 
   vitreous string of pearls DDx

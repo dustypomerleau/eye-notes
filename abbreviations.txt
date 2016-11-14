@@ -160,6 +160,7 @@ CST - central subfield thickness
 CT - computed tomography
 CT-DCG - computed tomography dacryocystogram
 CTL - contact lens
+CTLA4I - cytotoxic T lymphocyte associated protein 4 inhibitors (ipilimumab)
 CTR - capsular tension ring
 CTS - capsular tension segment
 CV - coefficient of variation
@@ -513,6 +514,7 @@ PCNSL - primary central nervous system lymphoma
 PCO - posterior capsular opacity
 PCR - polymerase chain reaction
 PCV - polypoidal choroidal vasculopathy
+PD1I - programmed cell death protein 1 inhibitors (pembrolizumab, nivolumab)
 PDG - pigment dispersion glaucoma
 PDGF - platelet derived growth factor
 PDR - proliferative diabetic retinopathy
@@ -676,7 +678,7 @@ TLP - thumblike polyps
 TM - trabecular meshwork
 TMVL - transient monocular visual loss
 TNF - tumor necrosis factor
-TNFI - tumor necrosis factor inhibitor
+TNFI - tumor necrosis factor inhibitors
 TORCH - toxoplasma, other (adenovirus, enterovirus, hepatitis E virus, human immunodeficiency virus, lymphocytic choriomeningitis virus, measles virus, parvovirus B19, West Nile virus, syphilis), rubella, cytomegalovirus, Herpesviruses (herpes simplex virus 1, herpes simplex virus 2, varicella zoster virus)
 TPF - tenacious proximal fusion
 TRD - tractional retinal detachment

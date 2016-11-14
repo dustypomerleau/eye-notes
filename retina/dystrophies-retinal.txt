@@ -977,7 +977,7 @@ macular dystrophy panel
       many phenotypically different AOFPEDs are probably RDS
       RDS-like lesions
         drug toxicities
-          MEK inhibitors
+          MEKI
             also cause intermediate uveitis
             used in
               COMMON:
