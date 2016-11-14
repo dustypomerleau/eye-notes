@@ -706,6 +706,7 @@ VCDR - vertical cup to disc ratio
 VDRL - Venereal Disease Research Laboratory
 VEGF - vascular endothelial growth factor
 VEP - visual evoked potential
+VIP-HIP - Vision In Preschoolers Hyperopia in Preschoolers Study Group
 VF - visual field
 VH - vitreous hemorrhage
 VHL - Von Hippel Lindau

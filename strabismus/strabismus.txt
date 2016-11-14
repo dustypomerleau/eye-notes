@@ -258,6 +258,21 @@ MOTAS amblyopia study (2004)
   the greatest effect of patching is in the first few weeks
   treatment age is a major factor in the success of patching
 
+VIP-HIP study (2016)
+  preschoolers with 3-6 D hyperopia versus emmetropic preschoolers
+    moderate hyperopes had
+      lower VA
+      worse stereo
+      // prior studies also documented higher amblyopia and strabismus
+  even when they can accomodate through the hyperopia
+    3+ D should be corrected
+      even if the 2 eyes are similar
+  general practice pattern
+    tolerate slightly more hyperopia in 1-2 YO
+      4-5 D
+    if there is strabismus at any value of hyperopia
+      correct the hyperopia
+
 review amblyopes
   1-3 months depending on
     amblyopia severity
