@@ -15,6 +15,8 @@ tools
       snellen stick
         with ruler
     red pin for macular sparing
+  // decide in advance which target you will use for versions + ductions
+  // a bright strip of tape on your torch can save you carrying another target
   red desaturation target
     drop bottle
     or just use your ret rack handle
@@ -506,7 +508,7 @@ orbit
         close your RE
           use your own field as a reference
         'Tell me how many fingers you see.'
-          ST [125]
+          ST [125] // most reliable with 1, 2, or 5 fingers
           IT
           IN
           SN
@@ -519,7 +521,7 @@ orbit
         Ishihara plates
         red desaturation
   test CN[346]
-    versions // torch
+    versions
       L-UL-U-UR-R-DR-D-DL
       if there is ptosis + incomitant strabismus
         MG exam and testing as reviewed under lids
@@ -679,7 +681,7 @@ lids
           CN7P
     'I would like to check corneal sensation.'
   motility
-    versions // torch
+    versions
       standard pattern
     ductions
       standard pattern
@@ -827,7 +829,7 @@ motility // see strabismus.txt for more detail
         'Would you like me to complete a 3-step test?'
       prism + alternate cover to quantify
         'Would you like me to measure the deviation?'
-    versions // near target
+    versions
       standard pattern
         2 horizontal passes
           left hand first
@@ -910,13 +912,13 @@ motility // see strabismus.txt for more detail
       summarize your findings before discussing binocularity + cyclorefraction
 
     binocularity testing
-      manifest tropia
+      manifest tropia?
         don't test stereo
-      large angle
+      large angle?
         don't do any binocularity testing
-      infantile ET
+      infantile ET?
         check for monofixation
-      eyes appear straight in 1˚
+      eyes appear straight in 1˚?
         Worth lights
         Bagolini
         synoptophore // some tests useful with manifest strab also
