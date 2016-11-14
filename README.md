@@ -88,7 +88,7 @@ I've tried a lot of *universal differential diagnosis* mnemonics over the years.
 
 If you understand how to use Git and you'd like to send a pull request, I recommend that you post an [issue][] describing your planned contribution first. Indents are 2 spaces, and the style should be similar to what is already posted. General feedback can also be posted as an [issue][].
 
-**NOTE:** I removed the JS code from this repository because I think it will alienate the intended audience. If you are interested in my command line utility for assessing the risk of Plaquenil toxicity, feel free to get in touch.
+**NOTE:** I removed the JS code from this repository because I don't want to alienate the intended audience. If you are interested in my node command line utility for assessing the risk of Plaquenil toxicity, feel free to get in touch.
 
 [Atom]: https://atom.io/
 [iOctocat]: https://itunes.apple.com/au/app/ioctocat-mobile-client-for/id669642611?mt=8
