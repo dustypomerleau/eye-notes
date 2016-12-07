@@ -345,7 +345,11 @@ optic neuropathy DDx // lengthy list of rare causes below
             up to 40% have a negative TAB despite scoring 3+/5
         Additional GCA tests
           FBC with platelets 400k+/µL
-          CRP 0.5+
+          CRP 5+ mg/L
+            some references will say CRP 0.5+
+              they are referring to mg/dL
+            normal ~ 5- mg/L
+            abnormal ~ 10+ mg/L
           TA duplex US
           TA MRI
             looks for vessel wall thickening and stenosis

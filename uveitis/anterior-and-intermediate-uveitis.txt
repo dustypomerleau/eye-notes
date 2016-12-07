@@ -448,7 +448,7 @@ anterior and intermediate uveitis DDx
     sarcoid
     FUS
 
-  short DDx for uveitis with elevated IOP
+  short DDx for uveitis with elevated IOP or OHTN
     HSV
     VZV
     CMV-GCC

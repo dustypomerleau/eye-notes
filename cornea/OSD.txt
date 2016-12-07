@@ -208,6 +208,18 @@ neurotrophic keratopathy DDx
   DAMS
     drugs
       anesthetic abuse
+      methamphetamines
+        usually smoked
+        varying levels of purity
+          ICE AKA crystal meth (purest)
+            TVOs
+              probably vascular in origin
+            OSD with 2˚ corneal ulceration
+            retinal vasculitis
+            crystalline retinopathy
+              reported in a patient who snorted
+          base
+          speed (least pure)
     medications
       beta blockers
       CAI

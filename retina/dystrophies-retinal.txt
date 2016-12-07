@@ -41,6 +41,22 @@ ERG interpretation
               severe cases
                 nystagmus
             myotonic dystrophy
+              /*
+              see also
+                ptosis.txt
+                cataract.txt
+                cataract-pediatric.txt
+              */
+              ptosis
+              Christmas tree cataract
+                high ACCS risk postop
+              macular changes
+                hypopigmented halo
+                stellate IR pigment
+                ERM
+              peripheral bone spicules
+              RARELY: occlusive vasculitis
+                more common in FSHD
           you won't get an ERG for these
             CRVO
             CRAO
@@ -347,6 +363,7 @@ crystalline retinopathy
     AR Bietti crystalline dystrophy
       Chinese
       Japanese
+      CYP4V2 mutation
     AR gyrate atrophy
       ornithine aminotransferase deficiency
       COMMON:
@@ -954,11 +971,22 @@ macular dystrophy panel
       AD Stargardt-like macular dystrophy
     IMPG1
       VMD4 adult vitelliform
+        AVLs have many stages
+          pigment clump over fovea
+            may not have any vitelliform material
+          pigment ring with yellow center
+          vitelliform lesion without pigment
+          breakdown of vitelliform material
+            can mimic CNV
+          late atrophy
       adult vitelliform DDx
         AMD
         VMT
         CSC
         solar retinopathy
+          laser injury is a specific subset
+            hyperreflective columns at the site of injury
+              predict late PR loss
         poppers maculopathy
           inhaled alkyl nitrites
             isobutyl nitrite
@@ -974,7 +1002,7 @@ macular dystrophy panel
       AD pattern dystrophy
         PP sparing previously thought to be exclusive to ABCA4
           now known to occur in RDS/PRPH also
-      many phenotypically different AOFPEDs are probably RDS
+      many phenotypically different AVLs are probably RDS
       RDS-like lesions
         drug toxicities
           MEKI

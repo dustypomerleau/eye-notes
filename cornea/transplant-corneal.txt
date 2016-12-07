@@ -144,3 +144,19 @@ pain after DSEK OR DMEK
         in an emergency
           burp air out the wound
   ED
+
+suture technique
+  for
+    PK
+    DALK
+    corneal laceration
+    ...
+  equal bites
+  equal depth
+  begin radial
+  end radial
+  when rotating sutures
+    rotate at the time of insertion
+      tract is most open
+    rotate knots back to just beneath the surface
+      easiest removal later

@@ -78,6 +78,29 @@ IOFB
     retinal status
     infection versus sterile inflammation
 
+  surgical timing
+    1-3 weeks probably best
+    too early
+      clot not liquefied
+    too late
+      socked in and fibrosed
+    indications for early PPV
+      poor VA in fellow eye
+      corneal decompensation
+      torn lens capsule
+        cataract with intact capsule may benefit from delay
+          to get proper biometry
+      endophthalmitis
+        sterile OR
+        infectious
+          Bacillus spp.
+          GPC
+          fungal
+      VH precluding adequate assessment of the retina
+      ambiguous BSUS findings
+      mac-on RRD OR
+      progressive VR traction
+
   IOFB is a subset of PEI
     observe TICS
       tetanus
@@ -91,23 +114,6 @@ IOFB
         bony fractures
         orbital compartment syndrome
       shield
-
-  indications for early PPV
-    poor VA in fellow eye
-    corneal decompensation
-    torn lens capsule
-      cataract with intact capsule may benefit from delay
-        to get proper biometry
-    endophthalmitis
-      sterile OR
-      infectious
-        Bacillus spp.
-        GPC
-        fungal
-    VH precluding adequate assessment of the retina
-    ambiguous BSUS findings
-    mac-on RRD OR
-    progressive VR traction
 
   removal technique
     via PP OR

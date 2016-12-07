@@ -40,7 +40,6 @@ AMN - acute macular neuroretinopathy
 ANA - antinuclear antibody
 ANCA - antineutrophil cytoplasmic antibody
 AO - adaptive optics, Archives of Ophthalmology
-AOFPED - adult onset foveal pigment epithelial dystrophy
 AOT - as opposed to
 APAC - acute primary angle closure
 APACRS - Asia Pacific Association of Cataract and Refractive Surgeons

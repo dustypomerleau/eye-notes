@@ -294,7 +294,7 @@ CN3P
               CC fistula
               orbital neoplasm
               Tolosa-Hunt
-            // see preseptal-and-orbital-cellulitis.txt for OAS DDx
+            // see cellulitis-preseptal-and-orbital.txt for OAS DDx
               vision loss accompanying CNP should make you suspect OAS over CS
         NSOI
       autoimmune

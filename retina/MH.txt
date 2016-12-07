@@ -1,7 +1,24 @@
 // https://github.com/dustypomerleau/eye-notes
 
+//... stub for future expansion
+
+MH
+  FTMH
+    poor prognosis
+      absence of cysts
+      chronic deposits
+      hole edges not elevated
+  lamellar hole
+    //...
+  pseudohole
+    //...
+
+
+//
+
+
 /*
-These notes are purely for testing purposes. The Gass classification is clinically irrelevant in the OCT era, but unfortunately you will still be asked about it.
+The Gass classification is purely for testing purposes. The Gass classification is clinically irrelevant in the OCT era, but unfortunately you will still be asked about it.
 */
 
 Gass macular hole stages
