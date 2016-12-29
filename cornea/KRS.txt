@@ -12,10 +12,11 @@ refractive surgery options
       age 20-60
       MRx SE +4 to -9
         max cyl 4- D
-      CCT 505 for LASIK
-          475 for PRK
-      posterior float under 45 µm high
-      steepest central K under 47 D
+      CCT
+        505+ for LASIK
+        475+ for PRK
+      posterior float 45- µm
+      steepest central K 47- D
         // coincidentally 47+ D is one of the diagnostic criteria for KCN
       healthy cornea, ocular surface, and tear film
       easygoing personality

@@ -32,6 +32,9 @@ AMD
           VEGFA
           VEGFB
           PlGF
+      best predictor of antiVEGF treatment outcome
+        baseline VA
+          outperforms anatomy
     antiAng2
       Roche RG7716
         bispecific Ab
@@ -43,6 +46,15 @@ AMD
             DME
     antiPDGF
       Fovista 
+    complications
+      RPE tear
+        COMMON:
+          PED 600+ µm
+          subRPE CNV
+        usually keep treating
+          often there is still visual benefit
+            Cho 2016 (PMID: 27074658)
+            Sarraf 2014 (PMID: 25646033)
 
 PCV
   visible polyps on exam

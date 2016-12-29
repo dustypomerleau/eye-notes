@@ -42,6 +42,9 @@ perimetry
       very complex formula but the concept is not complex
         BROADLY: involves the SD of the set of numbers resulting from
           (threshold at each point - value in age-matched controls)
+        /*
+        SD: the sqrt of the mean of the squared differences between the members and their mean
+        */
     hemifield analysis points out discrepancies above and below the midline
       common in glaucoma
     total deviation map

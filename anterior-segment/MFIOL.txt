@@ -61,12 +61,16 @@ contraindications
     mild amblyopia can be revealed after MFIOL
       acuity gets worse when you reduce contrast
   intraop
-    decenterd rhexis
-    decenterd bag
+    decentered rhexis
+    decentered bag
       zonular loss
     PC tear
       not an absolute contraindication
       can sometimes be saved with a posterior rhexis
+
+when consenting for MFIOL
+  use the word 'tradeoff'
+    it is received better by patients than 'compromise' or 'sacrafice'
 
 multifocal IOL options // AU
   ReSTOR diffractive ± toric (Alcon)
@@ -150,7 +154,11 @@ reducing unhappy toric patients
     posterior corneal astigmatism
       probably the cause of most "lenticular astigmatism"
       usually steep in the vertical meridian
-        remains steep @ 90 with age, unlike anterior astigmatism
+        unlike anterior astigmatism
+          remains steep @ 90 with age
+          steeper posterior curvature adds minus cylinder
+            reduces WTR
+            adds ATR
         so to review
           both the anterior and posterior corneal surfaces start steep @ 90 WTR
           the anterior surface gradually shifts against the rule as we age

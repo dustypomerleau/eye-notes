@@ -62,6 +62,7 @@ ASUS - A scan ultrasound
 AT - artificial tears
 ATD - aqueous tear deficiency
 ATM - anterior trabecular meshwork
+ATR - against the rule
 ATT  - argon laser trabeculoplasty, trabeculectomy, trabeculectomy
 AU - Australia
 AUNGAU - acute unilateral nongranulomatous anterior uveitis

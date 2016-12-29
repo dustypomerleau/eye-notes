@@ -352,20 +352,28 @@ interstitial keratitis
         sarcoid
         CTL-associated immune keratitis
       autoimmune
-        Cogan syndrome (IK + CN8P + vasculitis)
-          interstitial keratitis
-          +
-          vertigo
-          tinnitus
-          deafness
-          ±
-          episcleritis
-          scleritis
-          retinal vasculitis
-          systemic vasculitis
-            aortitis
-            IBD
-            pericarditis
+        Cogan syndrome
+          classically
+            IK
+            CN8P
+            vasculitis
+          diagnosis
+            autoimmune IK
+              not infectious
+            +
+            vertigo
+            tinnitus
+            deafness
+            ±
+            conjunctivitis
+            episcleritis
+            scleritis
+            anterior ± intermediate uveitis
+            retinal vasculitis
+            systemic vasculitis
+              aortitis
+              IBD
+              pericarditis
           important to catch Cogan syndrome early
             can prevent permanent hearing loss
             ALWAYS: ask IK patients if they have hearing loss

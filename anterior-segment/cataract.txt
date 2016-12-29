@@ -677,6 +677,11 @@ postop
       lens tilted
         usually myopic
       toric lens rotated
+        should you rotate the toric surgically?
+          Berdahl and Harden have looked at this
+          http://astigmatismfix.com/
+            compares current position to MRx
+            gives relative benefit of repositioning the toric
       position wrong
         sulcus using in-the-bag calcs
     postop complications
