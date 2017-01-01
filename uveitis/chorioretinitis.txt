@@ -387,8 +387,26 @@ The problem with using HLA typing diagnostically is illustrated in the case of B
               usually hyperFAF
             patchy hyperFAF spots progress to hypoFAF spots
             EZ loss on OCT
-          SFU
-            may be on a continuum with MC ± P
+          RARELY:
+            SFU
+              may be on a continuum with MC ± P
+            persistent placoid maculopathy
+              may be on a continuum with APMPPE or serpiginous
+              COMMON: bilateral
+              macular pigmentary changes
+              barely visible white deposits
+                prominently hyperFAF
+                block early and stain late on FFA
+              OCT
+                APMPPE-like
+                OR disruption
+                SRD
+                SRF
+              final VA may be OK
+              treatment
+                observe OR
+                systemic prednisolone 1 mg/kg/day
+                  benefit isn't clear given the rarity of the condition
     autoimmune
       COMMON:
         VKH
