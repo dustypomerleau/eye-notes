@@ -63,11 +63,26 @@ phakomatoses AKA neurooculocutaneous syndromes
     PSC cataracts
 
   sporadic tuberous sclerosis
-    cognitive impairment
-    seizures
-    facial angiofibromas
-    retinal hamartomas
-      COMMON: inner-retinal glial tumors AKA astrocytic hamartoma
+    COMMON:
+      cognitive impairment
+      seizures
+      facial angiofibromas
+      retinal hamartomas
+        COMMON: inner-retinal glial tumors AKA astrocytic hamartoma
+          COMMON:
+            flat
+            elevated
+            multinodular
+              classic mulberry
+              ± calcification
+          ALSO: exudative
+            circinate lipid
+            RARELY: exudative RD
+    ALSO:
+      punched out RPEA
+      subependymal giant cell astrocytomas
+      renal angiomyolipomas
+      epilepsy
 
   AD VHL
     retinal and CNS capillary hemangioblastomas
