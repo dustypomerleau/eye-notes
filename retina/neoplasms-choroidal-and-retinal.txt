@@ -129,3 +129,40 @@ choroidal osteoma
       any SRF
     antiVEGF
       SRF 2˚ CNV
+
+choroidal granuloma
+  COMMON:
+    TB
+    sarcoid
+      if there is a choroidal granuloma
+        the incidence of neurosarcoid is doubled
+        image the CNS
+      responds well to sytemic steroids
+  stippled hyperfluorescence on FFA
+  ± SRF
+  DDx
+    amelanotic melanoma
+    mets
+  workup
+    OCT
+      COMMON:
+        choroidal thickening
+        large hyporeflective spaces
+        not specific to any one cause of granuloma
+      ALSO:
+        subretinal granulomas
+          consolidate with treatment
+            hyperreflective when consolidated
+        late ORA and CRA
+        2˚ CNV
+    BSUS
+      high surface reflectivity
+      low IR
+      ± SRF
+    Qgold
+    CXR OR chest CT
+    ±
+      ACE
+      lysozyme
+      PET scan
+        if you suspect mets
