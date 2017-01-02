@@ -354,29 +354,29 @@ The problem with using HLA typing diagnostically is illustrated in the case of B
               risk factors
                 vasopressor exposure
                   caffeine
-            usually no systemic disease
-              AOT PAMM
-                ocular
-                  RAO
-                  CRVO
-                  retinal vasculitis
-                  Purtscher retinopathy
-                systemic
-                  DM
-                  HTN
-                  sickle cell
-                  migraine HA
-                  hypovolemia
-                  viral URI
-                medications
-                  amphetamines
-                  vasopressors
-                  caffeine
-                  oral contraceptives
-                  H1N1 vaccine
+            COMMON: no systemic disease
             RARELY:
               trauma
               pregnancy
+            AOT PAMM which has many systemic associations
+              ocular
+                RAO
+                CRVO
+                retinal vasculitis
+                Purtscher retinopathy
+              systemic
+                DM
+                HTN
+                sickle cell
+                migraine HA
+                hypovolemia
+                viral URI
+              medications
+                amphetamines
+                vasopressors
+                caffeine
+                oral contraceptives
+                H1N1 vaccine
           ARPE
           AZOOR
             includes AIBSES
@@ -387,26 +387,25 @@ The problem with using HLA typing diagnostically is illustrated in the case of B
               usually hyperFAF
             patchy hyperFAF spots progress to hypoFAF spots
             EZ loss on OCT
-          RARELY:
-            SFU
-              may be on a continuum with MC ± P
-            persistent placoid maculopathy
-              may be on a continuum with APMPPE or serpiginous
-              COMMON: bilateral
-              macular pigmentary changes
-              barely visible white deposits
-                prominently hyperFAF
-                block early and stain late on FFA
-              OCT
-                APMPPE-like
-                OR disruption
-                SRD
-                SRF
-              final VA may be OK
-              treatment
-                observe OR
-                systemic prednisolone 1 mg/kg/day
-                  benefit isn't clear given the rarity of the condition
+          SFU
+            may be on a continuum with MC ± P
+          persistent placoid maculopathy
+            may be on a continuum with APMPPE or serpiginous
+            COMMON: bilateral
+            macular pigmentary changes
+            barely visible white deposits
+              prominently hyperFAF
+              block early and stain late on FFA
+            OCT
+              APMPPE-like
+              OR disruption
+              SRD
+              SRF
+            final VA may be OK
+            treatment
+              observe OR
+              systemic prednisolone 1 mg/kg/day
+                benefit isn't clear given the rarity of the condition
     autoimmune
       COMMON:
         VKH
