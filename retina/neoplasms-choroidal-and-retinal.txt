@@ -166,3 +166,33 @@ choroidal granuloma
       lysozyme
       PET scan
         if you suspect mets
+
+Torpedo maculopathy
+  many alternative names
+    solitary hypopigmented nevus
+    amelanotic nevus
+    hypomelanotic nevus
+    albinotic nevus
+    solitary amelanotic spot
+    hypomelanotic freckle
+    paramacular coloboma
+      NOTE: Torpedo is not really a coloboma in any sense
+  congenital
+  COMMON: temporal macula
+  RPE lacks pigment
+    may be pigmented at the edges
+  very well circumscribed
+    like CHRPE
+      but the overlying retina is minimally affected
+      some PR disruption is possible
+  COMMON: asymptomatic
+  RARELY: scotomas
+  OCT
+    mild transmission
+    ±
+      mild PR disruption
+      OR thinning
+      OR cavitation
+  observe
+
+
