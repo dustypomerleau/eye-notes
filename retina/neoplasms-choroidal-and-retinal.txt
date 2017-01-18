@@ -167,7 +167,7 @@ choroidal granuloma
       PET scan
         if you suspect mets
 
-Torpedo maculopathy
+torpedo maculopathy
   many alternative names
     solitary hypopigmented nevus
     amelanotic nevus
@@ -176,7 +176,7 @@ Torpedo maculopathy
     solitary amelanotic spot
     hypomelanotic freckle
     paramacular coloboma
-      NOTE: Torpedo is not really a coloboma in any sense
+      NOTE: torpedo is not really a coloboma in any sense
   congenital
   COMMON: temporal macula
   RPE lacks pigment
