@@ -28,13 +28,11 @@ visual fields
         110˚ horizontally
           within that 110˚
             must not have a scotoma within 20˚ of fixation
+              defining a scotoma is left to the doctor
+              presumably contiguous missed points would support a true scotoma
+              a single point could indicate a small scotoma if repeatable
+              no minimum scotoma size is given for guidance
         20˚ vertically
-        /*
-        some docs say
-          must not have 2 contiguous missed points
-          must not miss more than 3 points
-          but Fitness to Drive does not specify either of these
-        */
       no diplopia in the central 20˚
 
     conditional private license
@@ -183,7 +181,7 @@ Goldmann VF
       10 dB = (1/10^1)(the brightest light the machine can produce)
       20 dB = (1/10^2)(the brightest light the machine can produce)
     to clarify
-      lower (1-4) or (a-e) values are brighter lights
+      lower dB values are brighter lights
       4 and e are the brightest lights in their groups
       4 and e have the lowest dB values in their groups
   typical settings

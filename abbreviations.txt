@@ -344,6 +344,7 @@ IVDU - intravenous drug use
 IVIG - intravenous immunoglobulin G
 IVMP - intravenous methylprednisolone
 IVT - intravitreal triamcinolone
+JCRS - Journal of Cataract and Refractive Surgery
 JIA - juvenile idiopathic arthritis
 JOAG - juvenile open angle glaucoma
 JXG - juvenile xanthogranuloma

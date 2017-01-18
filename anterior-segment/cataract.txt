@@ -275,6 +275,29 @@ biometry platforms
       32 points measured versus 6
     still need Galilei for ectasia
 
+asymmetric biometry
+  postoperative aniseikonia is more common with
+    COMMON: 1+ mm axial anisometropia
+    RARELY: 8+ D corneal anisometropia
+  /*
+  theoretically pure axial anisometropia should not cause aniseikonia
+    even with spectacle correction
+      Knapp's law
+    unlike corneal or lenticular anisometropia
+    but clinical experience seems to contradict this
+  */
+  to estimate postop aniseikonia in axial anisometropia
+    AL1/AL2 = % aniseikonia
+      most people can tolerate 2% easily
+    those with preop aniseikonia can tolerate as much as they already have
+      many patients have preoperative aniseikonia if you check for it
+        requires an eikonometer
+          not commercially available
+          most are homebrewed for research
+      don't go above 4% without a good reason
+  calculating aniseikonia in corneal anisometropia is more complex
+    but also rarely needed // see Gobin, JCRS 2008
+
 intraoperative aberrometry
   most promising
     Holos Clarity
