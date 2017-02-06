@@ -257,6 +257,21 @@ RP syndromes
     rubella
     syphilis
     CAR
+      COMMON:
+        anti-
+          alpha enolase
+          recoverin
+      RARELY:
+        //... clarify retinal relevance of each of these
+        anti-
+          titin
+          SOX1
+          ANNA-1
+          ANNA-2
+          PCA-1
+          Ma-2
+          Cv-2
+          Amphiphysin
     Kearns-Sayre variant of CPEO
 
   older patient with RP + relatively good vision

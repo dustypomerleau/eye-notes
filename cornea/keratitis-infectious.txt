@@ -22,13 +22,13 @@ infectious keratitis DDx
           zoster dendrites
             stain less
             blunt ends instead of bulbs
+            'stuck on' appearance
           50+% will have a second event over 5+ years
             stromal keratitis
             uveitis
             Olmsted data
         geographic
         NOTE: HEDS does not address recurrent epithelial keratitis
-
       stromal keratitis
         interstitial keratitis // see below for details
           nummular stromal keratitis
@@ -49,6 +49,11 @@ infectious keratitis DDx
               cost of Valtrex 500 daily ~= aciclovir 400 bd // in AU
               if kidney function is poor
                 avoid long term aciclovir or Valtrex
+        ZEDS
+          Zoster Eye Disease Study
+          clinical question
+            Does Valtrex reduce recurrences of VZV stromal keratitis?
+          currently underway at multiple centers // as of 2017
         stromal scarring
           must be quiet 6 months before considering PK
           continue oral aciclovir to prevent infection of the graft
