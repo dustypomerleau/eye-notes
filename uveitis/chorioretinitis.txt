@@ -316,6 +316,10 @@ The problem with using HLA typing diagnostically is illustrated in the case of B
             FFA
               block early
               stain late
+            secondary CNV
+              can occur in almost any inflammatory choroiditis
+              inflammatory CNV may send extensions into the retina
+                pitchfork sign
           serpiginous
             COMMON:
               young or middle-aged men
