@@ -18,6 +18,10 @@ hemostasis superiorly
       high enough to allow torting eye downward for the frownie incision
     other trochars
       high enough to avoid suture holes
+        COMMON: use upper trochar as upper suture hole
+        ALSO: rotate so nasally trochar is lower suture hole
+          // assumes a small superior incision
+          // may not be compatible with frownie
       low enough to avoid superior frownie incision
 complete PPV
   ensure PVD
@@ -33,9 +37,20 @@ frownie incision @ 12
       internal 7.5 mm
   stay intracorneal for now
 create suture holes
-  2 x 0300
-  2 x 0900
-  2 mm from the limbus
+  4-5 mm apart
+    equal position
+      2 straddling 0300
+      2 straddling 0900
+    OR to make maneuvering around the nose easier
+      use trochar position as
+        superior suture hole temporally
+        inferior suture hole nasally
+      effectively rotating axis of sutures so nasal is high and temporal is low
+      // assumes a small superior incision
+      // may not be compatible with frownie
+  3 mm from the limbus
+    2-3 mm have been described
+    sulcus is probably 2.5
   enter parallel to iris plane
   use 15˚ blade
     internal os is much smaller than an MVR incision
@@ -61,7 +76,12 @@ pass sutures
   1 at a time
   into the AC with a tying forcep
   retrieve via your suture holes with a VR forcep
-  inferior suture before superior suture on each side
+  COMMON: inferior suture before superior suture on each side
+  ALSO:
+    both nasal sutures
+    pass IOL
+    both temporal sutures
+    this may help avoid suture tangle
 take the slack out of the sutures
 pass the IOL into the AC
   CZ70BD
@@ -79,9 +99,14 @@ slide the suture a bit on each side
 tie each side
   Akreos is not that long
     use slipknots
+      OR just leave your 3 without completing 3-1-1
     center before tying off
 tuck the knot into the sclera with a tying forcep
-  trim the ends flush with the sclera
+  COMMON: use the side that held the trochar
+    usually more dilated
+  ALSO: use the side created with 15˚ blade
+    you can control how dilated this is when you make it
+trim the ends flush with the sclera
 suture the frownie incision with interrupted 10-0 nylon
 close the conjunctiva with 6-0 plain gut
   take episcleral bites at the limbus
