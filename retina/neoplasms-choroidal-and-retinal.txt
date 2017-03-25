@@ -193,6 +193,8 @@ torpedo maculopathy
       mild PR disruption
       OR thinning
       OR cavitation
+      inner retina should be continuous over the lesion
+        AOT a coloboma
   observe
 
 
