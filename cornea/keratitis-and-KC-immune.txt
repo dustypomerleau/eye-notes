@@ -49,9 +49,11 @@ immune keratoconjunctivitis
       lubrication
       topical
         antihistamines
-          olopatadine
+          olopatadine AKA Patanol bd
         mast cell stabilizers
-          cromolyn
+          cromolyn AKA Opticrom qid
+        dual agents
+          ketotifen AKA Zaditen bd
         steroids
           good for acute exacerbation
           not usually given chronically
