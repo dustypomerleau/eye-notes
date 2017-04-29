@@ -32,6 +32,20 @@ DR grading (ETDRS)
     1/4+ disc of NVD OR
     VH/PRH 2˚ NV
 
+frequency of screening exams for DR
+  based on DCCT data // see NEJM 376(16)
+    no retinopathy
+      4- years
+        depending on A1c
+    mild NPDR, MAs only
+      3- years
+        depending on A1c
+    moderate NPDR
+      6 months
+    SNPDR
+      3 months
+    intervals are designed to catch both DME and progression to PDR
+
 antiVEGF in PDR
   DRCR-S (2015)
     305 patients with PDR
