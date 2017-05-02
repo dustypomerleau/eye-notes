@@ -435,7 +435,9 @@ ET DDx
       cycloplegics
       placebo drops
 
-  age-related distance ET
+  age-related distance ET AKA sagging eye syndrome
+    // not to be confused with heavy eye syndrome in high myopes
+    // elderly myopes can be affected by either syndrome
     elderly patients
     small ET
       due to LR-SR muscle band involution

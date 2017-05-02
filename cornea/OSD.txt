@@ -104,6 +104,9 @@ DES
           lacrisert
             patient can apply at home
         topical acetylcysteine
+          mucolytic
+          collagenase inhibitor
+          COMMON: when there are filaments
         antiinflammatory
           topical steroids
           cyclosporine A

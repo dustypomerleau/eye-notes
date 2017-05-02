@@ -121,8 +121,6 @@ treatment
 
   SJS, MMP, and GVHD all start with:
     PF lubricants
-      say Cellufresh
-        sounds Australian
     antibiotic prophylaxis
     ± punctal occlusion
     topical cyclosporine A
@@ -130,6 +128,7 @@ treatment
     // don't lyse symblephara during active inflammation
 
     SJS
+      start as described in treatment section header +
       ADMIT to a burn unit
       stop the offending agent
       systemic prednisone
@@ -189,6 +188,7 @@ treatment
         serum can be sent for indirect immunofluorescence
         confirms circulating anti-basement-membrane Ab
         uses healthy salt-split skin as a substrate
+      start as described in treatment section header +
       dapsone
         good for the slow simmering disease
         titrate upward from 25 mg po daily
@@ -217,11 +217,31 @@ treatment
         usually for entropion
 
     GVHD
-      cyclosporine
-      tacrolimus
-      topical steroids
-        high risk at home
-          immunosuppressed
+      start as described in treatment section header +
+      systemic therapy
+        oral steroids
+        SSIMT
+      topical therapy
+        cyclosporine
+        tacrolimus
+        lifitegrast
+          T-cell inhibitor
+        anakinra
+          anti-IL1
+        topical steroids
+          high risk at home
+            immunosuppressed
+        if there are filaments
+          acetylcysteine
+      treat MGD if present
+        topical azithromycin
+        fish oil
+        doxycycline
+        minocycline
+      scleral CTL
+      amniotic membrane
+        Prokera
+        Ambiodisk
 
   surgery
     don't do any surgery during active inflammation

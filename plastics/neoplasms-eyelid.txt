@@ -83,6 +83,11 @@ DDx
         vessels may be prominent
     oculodermal melanocytosis AKA nevus of Ota
       RARELY: develops uveal melanoma
+    pyogenic granuloma AKA lobular capillary hemangioma
+      COMMON: at a site of trauma
+    granulation tissue polyp
+      clinically looks like a pyogenic granuloma
+      histologically does not contain a lobular capillary hemangioma
 
   potentially premalignant
     actinic keratosis
