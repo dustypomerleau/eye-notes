@@ -208,7 +208,7 @@ treatment
           prednisolone 1 mg/kg/d to achieve short-term control
           cyclosporine
           cyclophosphamide
-          MTX
+          methotrexate
           mycophenolate
       recalcitrant cases
         rituximab

@@ -53,7 +53,7 @@ preseptal and orbital cellulitis:
       treatment
         oral steroids
           more than half relapse after taper
-        MTX
+        methotrexate
         rituximab
     TED
     lupus

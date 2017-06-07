@@ -98,6 +98,7 @@ BRAFI - BRAF inhibitors (vemurafenib, dabrafenib)
 BRAO - branch retinal artery occlusion
 BRVO - branch retinal vein occlusion
 BSCR - birdshot chorioretinopathy
+BSA - body surface area
 BSS - balanced saline solution
 BSUS - B scan ultrasound
 BU - base up
@@ -327,6 +328,7 @@ IOFB - intraocular foreign body
 IOL - intraocular lens
 IOOA - inferior oblique overaction
 IOP - intraocular pressure
+IM - intramuscular
 IPD - interpupillary distance
 IPE - iris pigment epithelium
 IPL - intense pulsed light
@@ -433,7 +435,6 @@ MRSA - methicillin resistant Staphylococcus aureus
 MRV - magnetic resonance venography
 MRx - manifest refraction
 MS - multiple sclerosis
-MTX - methotrexate
 MVP - mitral valve prolapse
 MVR - microvitreoretinal (blade)
 NAI - nonaccidental injury

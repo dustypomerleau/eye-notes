@@ -2,7 +2,134 @@
 
 steroid-sparing immunomodulatory therapy
 
-// Thanks to Doug Jabs, who provided most of this information in his lecture.
+before starting SSIMT
+        ALWAYS:
+          perform a pregnancy test
+          counsel the patient about
+            need for birth control
+            birth defects
+              methotrexate
+              mycophenolate
+            subsequent fertility issues
+              alkylating agents like cyclophosphamide probably reduce fertility
+              fortunately we don't use them much for uveitis
+      start SSIMT
+        if they have a known systemic disease causing their uveitis
+        good control but very high IOP
+        unable to taper systemic steroids
+        systemic steroid side effects
+      once you start SSIMT
+        expect to keep them on it for at least 24 months
+      methotrexate
+        mechanism
+          folate analog antimetabolite
+        dose
+          adults
+            15-25 mg po/week
+          kids
+            0.5-0.8 mg po/kg/week
+          + folic acid 1 mg po daily
+            usually given as 5 mg po q week in a single dose
+            give folic acid the day after methotrexate
+              same-day administration reduces the effect of methotrexate
+            some docs only give folic acid for patients with side effects
+              nausea
+              vomiting
+              abdominal pain
+              abnormal LFTs
+              mouth sores or ulcers
+          dose can also be calculated in terms of BSA
+            COMMON: when dosing children
+            BSA formula
+              easiest is Mosteller
+                BSA = sqrt(height (cm) x weight (kg)/3600)
+            for uveitis
+              10-20 mg/m2
+                20-40 mg/m2 is possible but atypical
+          oral absorption is not as good as parenteral
+            oral absorption is ~ 30%
+            parenteral absorption is nearly 100%
+              IM
+              SC
+              IV
+            the difference is most important at 15+ mg/week
+        side effects
+          liver
+          lungs
+            pneumonitis
+            pulmonary fibrosis
+          not safe in pregnancy or breastfeeding
+            spontaneous abortion
+            birth defects
+        follow
+          LFT
+          FBC
+          UEC
+          @ 0, 4, & q 8-12 weeks
+      mycophenolate
+        mechanism
+          blocks a key enzyme in DNA synthesis
+        adults
+          1-1.5 g po bd
+        kids
+          600 mg/m2 po suspension bd
+        side effects
+          liver
+          bone marrow
+          not safe in pregnancy or breastfeeding
+            spontaneous abortion
+            congenital malformations
+        follow
+          LFT
+          FBC
+          @ 0, 2, 4, & q 8 weeks
+      cyclosporine
+        mechanism
+          calcineurin inhibitor that blocks IL2 synthesis
+        2-4.5 mg/kg/day split bd
+        side effects
+          kidneys
+            including 2˚ HTN
+          pregnancy
+            does cross the placenta
+              not harmful to the baby that we're aware of
+            does cross into breastmilk
+              not harmful to the baby that we're aware of
+            limited data
+              need to discuss it with the patient
+        follow
+          BP
+          UEC
+          FBC
+          @ 0, 2, 4, & q 8 weeks
+      TNFI
+        good for JIA failing methotrexate
+        side effects
+          TB exacerbation
+          demyelinating disease
+          infusion reactions
+          2˚ malignancies
+          pregnancy
+            does cross the placenta
+            women treated during pregnancy have still had healthy babies
+            does not appear to affect breastmilk
+            limited data
+              need to discuss it with the patient
+        infliximab
+          the TNFI we have the most experience with
+          3-10 mg/kg SC q 2 weeks
+            can start as low as 20 mg SC q 2 weeks in kids
+          keep the patient on methotrexate
+            it potentiates the effect of infliximab
+        adalimumab
+          30- kg
+            20 mg IM q 2 weeks
+          heavier than that
+            40 mg IM q 2 weeks
+
+
+// Thanks to Doug Jabs, who provided much of the information below.
+
 
 anterior uveitis
   risk of visual impairment doubles @ SUN 0.5+ WBC versus SUN 0
@@ -58,9 +185,9 @@ start SSIMT at diagnosis
       VKH
 
 choice of agent
-  mycophenolate OR MTX
+  mycophenolate OR methotrexate
   efficacy
-    mycophenolate > MTX
+    mycophenolate > methotrexate
     cyclosporine has poor efficacy
   tolerance
     mycophenolate > azathioprine
@@ -97,7 +224,7 @@ alkylating agents
 TNFI
   use first line for Behcet
   COMMON: in combination
-    MTX
+    methotrexate
     mycophenolate
   if using TNFI in intermediate uveitis
     ALWAYS: MRI

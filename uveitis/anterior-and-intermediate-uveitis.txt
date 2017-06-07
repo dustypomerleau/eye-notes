@@ -177,7 +177,7 @@ anterior and intermediate uveitis DDx
               oral prednisolone
                 BRIEFLY
                   these are kids
-              MTX
+              methotrexate
               TNFI
             cataract surgery in JIA
               preferable to wait until the uveitis is inactive 6 months
@@ -634,7 +634,7 @@ treatment
           aggressive disease (VKH, Behcet) with heavy bilateral presentation
             start SSIMT at the same time as steroids
             can even consider combinations
-              MTX + infliximab
+              methotrexate + infliximab
               mycophenolate + cyclosporine
       for all systemic steroids
         counsel about side effects
@@ -654,105 +654,8 @@ treatment
           BS
           BP
         give omeprazole for reflux
-    SSIMT
-      before starting SSIMT
-        ALWAYS: perform a pregnancy test
-        STATE you would counsel the patient about
-          need for birth control
-          birth defects
-            methotrexate
-            mycophenolate
-          subsequent fertility issues
-            alkylating agents like cyclophosphamide probably reduce fertility
-            fortunately we don't use them much for uveitis
-      start SSIMT
-        if they have a known systemic disease causing their uveitis
-        good control but very high IOP
-        unable to taper systemic steroids
-        systemic steroid side effects
-      once you start SSIMT
-        expect to keep them on it for at least 24 months
-      methotrexate
-        mechanism
-          folate analog antimetabolite
-        adults
-          15-25 mg po/week
-        kids
-          0.5-0.8 mg po/kg/week
-        + folic acid 1 mg po daily
-        side effects
-          liver
-          lungs
-            pneumonitis
-            pulmonary fibrosis
-          not safe in pregnancy or breastfeeding
-            spontaneous abortion
-            birth defects
-        follow
-          LFT
-          FBC
-          UEC
-          @ 0, 4, & q 8-12 weeks
-      mycophenolate
-        mechanism
-          blocks a key enzyme in DNA synthesis
-        adults
-          1-1.5 g po bd
-        kids
-          600 mg/m2 po suspension bd
-        side effects
-          liver
-          bone marrow
-          not safe in pregnancy or breastfeeding
-            spontaneous abortion
-            congenital malformations
-        follow
-          LFT
-          FBC
-          @ 0, 2, 4, & q 8 weeks
-      cyclosporine
-        mechanism
-          calcineurin inhibitor that blocks IL2 synthesis
-        2-4.5 mg/kg/day split bd
-        side effects
-          kidneys
-            including 2˚ HTN
-          pregnancy
-            does cross the placenta
-              not harmful to the baby that we're aware of
-            does cross into breastmilk
-              not harmful to the baby that we're aware of
-            limited data
-              need to discuss it with the patient
-        follow
-          BP
-          UEC
-          FBC
-          @ 0, 2, 4, & q 8 weeks
-      TNFI
-        good for JIA failing MTX
-        side effects
-          TB exacerbation
-          demyelinating disease
-          infusion reactions
-          2˚ malignancies
-          pregnancy
-            does cross the placenta
-            women treated during pregnancy have still had healthy babies
-            does not appear to affect breastmilk
-            limited data
-              need to discuss it with the patient
-        infliximab
-          the TNFI we have the most experience with
-          3-10 mg/kg SC q 2 weeks
-            can start as low as 20 mg SC q 2 weeks in kids
-          keep the patient on MTX
-            it potentiates the effect of infliximab
-        adalimumab
-          30- kg
-            20 mg IM q 2 weeks
-          heavier than that
-            40 mg IM q 2 weeks
+    SSIMT // notes moved to SSIMT.txt
+
 
 
 //

@@ -470,11 +470,11 @@ The problem with using HLA typing diagnostically is illustrated in the case of B
               lymphoma cells start to degrade within an hour
               preservatives can be added to try and delay this
         treatment
-          systemic MTX
+          systemic methotrexate
             ± Ara-C OR radiotherapy
             COMMON: IV
             ALSO: intrathecal
-          intravitreal MTX 0.4 mg/0.1 mL for local control
+          intravitreal methotrexate 0.4 mg/0.1 mL for local control
             may require a large number of injections
               depends on concurrent effect of systemic therapy
             sample regimen
