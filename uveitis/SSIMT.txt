@@ -12,7 +12,7 @@ before starting SSIMT
               mycophenolate
             subsequent fertility issues
               alkylating agents like cyclophosphamide probably reduce fertility
-              fortunately we don't use them much for uveitis
+                fortunately we don't use them much for uveitis
       start SSIMT
         if they have a known systemic disease causing their uveitis
         good control but very high IOP
@@ -194,18 +194,23 @@ choice of agent
     cyclosporine is poorly tolerated
 
 mycophenolate
-  2-3 g daily
-    divided bd
-  diarrhea
-    less if you ramp up slowly
-  in children // see Doycheva, BJO 2016
-    225 mg/m2 bd x 1 week
-    then 450 mg/m2 bd
-    ± prednisolone 1 mg/kg/d
-      taper
-        10 mg/week to 30 mg/d
-        5 mg/week to 20 mg/d
-        2.5 mg/week to 0 mg/d
+  mycophenolate mofetil AKA Cellcept
+    2-3 g daily
+      divided bd
+    diarrhea
+      less if you ramp up slowly
+    in children // see Doycheva, BJO 2016
+      225 mg/m2 bd x 1 week
+      then 450 mg/m2 bd
+      ± prednisolone 1 mg/kg/d
+        taper
+          10 mg/week to 30 mg/d
+          5 mg/week to 20 mg/d
+          2.5 mg/week to 0 mg/d
+  enteric-coated mycophenolate sodium AKA Myfortic
+    reduces GI side effects
+    dose conversion
+      360 mg mycophenolate sodium = 500 mg mycophenolate mofetil
 
 cyclosporine
   avoid in psoriasis

@@ -37,17 +37,19 @@ frownie incision @ 12
       internal 7.5 mm
   stay intracorneal for now
 create suture holes
-  4-5 mm apart
-    equal position
-      2 straddling 0300
-      2 straddling 0900
-    OR to make maneuvering around the nose easier
-      use trochar position as
-        superior suture hole temporally
-        inferior suture hole nasally
-      effectively rotating axis of sutures so nasal is high and temporal is low
-      // assumes a small superior incision
-      // may not be compatible with frownie
+  5 mm apart
+    makes suture rotation easier
+    avoids compression of Akreos haptics
+  equal position
+    2 straddling 0300
+    2 straddling 0900
+  OR to make maneuvering around the nose easier
+    use trochar position as
+      superior suture hole temporally
+      inferior suture hole nasally
+    effectively rotating axis of sutures so nasal is high and temporal is low
+    // assumes a small superior incision
+    // may not be compatible with frownie
   3 mm from the limbus
     2-3 mm have been described
     sulcus is probably 2.5
@@ -55,11 +57,6 @@ create suture holes
   use 15˚ blade
     internal os is much smaller than an MVR incision
     allows rotation of knot but usually does not need suturing
-  better to make them further apart
-    makes suture rotation easier
-    avoid compression of Akreos haptics
-    for now say about 3 mm
-      adjust this as you do these
 open suture
   cut off needles
   cut in half
