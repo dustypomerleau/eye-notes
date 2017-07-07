@@ -21,15 +21,22 @@ DES
           antibodies to
             ENAs
               SS-A (Ro)
+                70% of Sjogren patients
               SS-B (La)
+                less common than Ro
           ANA
           RF Ig[AGM]
-        newer (Sjo test)
-          may be more specific
-          Ig[AGM] to
-            salivary protein 1
-            carbonic anhydrase 6
-            parotid secretory protein
+        newer
+          Sjo test
+            Bausch and Lomb proprietary test
+            may be more specific
+            Ig[AGM] to
+              salivary protein 1 (SP-1)
+                highly sensitive and specific for Sjogren
+              carbonic anhydrase 6 (CA-6)
+                adds sensitivity in early disease
+              parotid secretory protein
+                adds sensitivity in early disease
     imaging
       tear film stability
         tear film interfermometry
