@@ -49,7 +49,7 @@ Maybe. If you think I've got something wrong, you should create a GitHub account
   
 ### I don't understand your abbreviations.
 
-Check out `abbreviations.txt` for an explanation.
+Check out [`abbreviations.txt`][] for an explanation.
   
   
 ### What do the ALL-CAPS keywords mean?
@@ -82,14 +82,8 @@ comment.
 ### What is 4IVN-2DC-GETN?
 
 I've tried a lot of *universal differential diagnosis* mnemonics over the years. When I use mnemonics like VINDICATE, I always miss potential diagnoses because the categories are too broad. In order to avoid that pitfall in these notes, I created a universal differential that met my needs. I pronounce it 'For Ivan to D.C. gettin,' which is silly, but sticks in my head. Differentials in **eye-notes** are always presented in this order, regardless of how many categories are represented. The categories in the template can be found in `DDx-template-4IVN2DCGETN.txt`.
-  
-  
-### Can I contribute to the notes?
 
-If you understand how to use Git and you'd like to send a pull request, I recommend that you post an [issue][] describing your planned contribution first. Indents are 2 spaces, and the style should be similar to what is already posted. General feedback can also be posted as an [issue][].
-
-**NOTE:** I removed the JS code from this repository because I don't want to alienate the intended audience. If you are interested in my node command line utility for assessing the risk of Plaquenil toxicity, feel free to get in touch.
-
+[`abbreviations.txt`]: https://github.com/dustypomerleau/eye-notes/blob/master/abbreviations.txt
 [Atom]: https://atom.io/
 [iOctocat]: https://itunes.apple.com/au/app/ioctocat-mobile-client-for/id669642611?mt=8
 [issue]: https://github.com/dustypomerleau/eye-notes/issues
