@@ -81,10 +81,11 @@ comment.
   
 ### What is 4IVN-2DC-GETN?
 
-I've tried a lot of *universal differential diagnosis* mnemonics over the years. When I use mnemonics like VINDICATE, I always miss potential diagnoses because the categories are too broad. In order to avoid that pitfall in these notes, I created a universal differential that met my needs. I pronounce it 'For Ivan to D.C. gettin,' which is silly, but sticks in my head. Differentials in **eye-notes** are always presented in this order, regardless of how many categories are represented. The categories in the template can be found in `DDx-template-4IVN2DCGETN.txt`.
+I've tried a lot of *universal differential diagnosis* mnemonics over the years. When I use mnemonics like VINDICATE, I always miss potential diagnoses because the categories are too broad. In order to avoid that pitfall in these notes, I created a universal differential that met my needs. I pronounce it 'For Ivan to D.C. gettin,' which is silly, but sticks in my head. Differentials in **eye-notes** are always presented in this order, regardless of how many categories are represented. The categories in the template can be found in [`DDx-template-4IVN2DCGETN.txt`][].
 
 [`abbreviations.txt`]: https://github.com/dustypomerleau/eye-notes/blob/master/abbreviations.txt
 [Atom]: https://atom.io/
+[`DDx-template-4IVN2DCGETN.txt`]: https://github.com/dustypomerleau/eye-notes/blob/master/DDx-template-4IVN2DCGETN.txt
 [iOctocat]: https://itunes.apple.com/au/app/ioctocat-mobile-client-for/id669642611?mt=8
 [issue]: https://github.com/dustypomerleau/eye-notes/issues
 [Pro Git]: https://www.amazon.com/Pro-Git-Scott-Chacon-ebook/dp/B00LPDVAX2/ref=sr_1_1_twi_kin_2?ie=UTF8&qid=1476669956&sr=8-1&keywords=pro+git
