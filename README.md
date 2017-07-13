@@ -1,13 +1,11 @@
 Welcome to **eye-notes**! If you just want a copy of the notes, use the `Clone or download` button to download a zip file.
 
-The notes are updated periodically. The easiest way to ensure you're seeing the latest version is to view them here on GitHub (desktop or mobile), or use a mobile app, like [iOctocat][].
+The notes are updated periodically. The easiest way to ensure you're seeing the latest version is to view them here on GitHub (desktop or mobile).
 
 You can help keep everyone else up to date by sharing a link to this GitHub repository (rather than directly sharing the files).
   
   
 ### What is this?
-
-For the purposes of a recent credentialing examination, I had to merge my old ophthalmology notes with a lot of new information. The resulting text files were terse, opinionated, and specific about details that I had previously neglected (sutures, medication doses). I found them helpful even after the exam, and continued to update them. I added content from material I reviewed while preparing lectures. I started bringing my laptop to work, and used the notes while seeing patients. I found it made me a better doctor.
 
 A combination of ego and old-school thinking tends to make doctors believe that we should keep everything in our heads, despite an exponentially increasing quantity of information. That's absurd. Other fields don't try to do this. Having information at your fingertips while you work should be a way of life, not a sign of weakness. So here are some **eye-notes**. I hope they help you.
 
@@ -16,7 +14,7 @@ If you know nothing about ophthalmology, this probably isn't the place to start.
   
 ### Why are you using GitHub to share ophthalmology notes?
 
-Even with the help of services like Dropbox, shared medical notes are a trainwreck. The files quickly become out of date, then become disorganized. The folder membership moves on, and no new members move in. The next generation starts the process from scratch. If they're lucky they inherit the old pile of information, but it's almost as much work to tune it up as it would be to write the notes anew with current information. The sheer volume of *stuff* in these shared folders makes it hard to share without inviting people to a new shared folder, and so on. The disorganized nature of the *stuff* means that only a small percentage of the available knowledge gets passed on, and the 'members only' culture of shared folders means that only a few people benefit from that knowledge. One nice solution would be to build a website that could host the files and also provide a forum for discussion. Fortunately for us, GitHub has already built such a website :)
+Even with the help of cloud hosting services, shared medical notes are a trainwreck. The files quickly become out of date, then become disorganized. The folder membership moves on, and no new members move in. The next generation starts the process from scratch. If they're lucky they inherit the old pile of information, but it's almost as much work to tune it up as it would be to write the notes anew with current information. The sheer volume of *stuff* in these shared folders makes it hard to share without inviting people to a new shared folder, and so on. The disorganized nature of the *stuff* means that only a small percentage of the available knowledge gets passed on, and the 'members only' culture of shared folders means that only a few people benefit from that knowledge. One nice solution would be to build a website that could host the files and also provide a forum for discussion. Fortunately for us, GitHub has already built such a website :)
 
 GitHub is optimized for what programmers call 'version control.' Version control makes it easy for me to push changes to the master version of the notes whenever I want, and for others to pull those changes into their copy of the notes. It allows others to easily create parallel/alternate versions for their own use, and it provides a system that prevents collaborators from stepping on others' changes. If you want to learn more about version control with Git, I strongly recommend [Pro Git][].
   
@@ -28,14 +26,12 @@ Text files are tiny. This entire repository is currently under 5 MB. Text files 
   
 ### How should I view the files?
 
-The beauty of plain text is that you can open it anywhere (even in your web browser). Having said that, if you use Microsoft Notepad to view the files, you probably won't fall in love with plain text. As mentioned above, if you just want to read the notes, use the GitHub site (desktop or mobile) or a mobile app, like iOctocat. The desktop version of GitHub has a `search this repository` field at the top, which you can use to find keywords across all documents.
+The beauty of plain text is that you can open it anywhere (even in your web browser). Having said that, if you use Microsoft Notepad to view the files, you probably won't fall in love with plain text. As mentioned above, if you just want to read the notes, use the GitHub site (desktop or mobile). The desktop version of GitHub has a `search this repository` field at the top, which you can use to find keywords across all documents.
 
 If you really want to see the power of text files, you should download a decent text editor. A text editor will let you store all the files in an organized project, enabling you to perform actions (edit, search, find and replace) across all of the files at the same time. [Atom][] is an excellent free text editor. I use [Sublime Text][], which is also great (but not free).
 
 Pay attention to the level of indentation when reading the notes. Indented items provide more information about the item they follow, with the main list continuing further down. The outline may have several levels of indentation.
 
-**NOTE:** Some built-in file viewers, like the one in the Dropbox mobile app, don't properly display the level of indentation, and can make **eye-notes** nearly unreadable.
-  
   
 ### How do I know when you've pushed an update?
 
@@ -86,7 +82,6 @@ I've tried a lot of *universal differential diagnosis* mnemonics over the years.
 [`abbreviations.txt`]: https://github.com/dustypomerleau/eye-notes/blob/master/abbreviations.txt
 [Atom]: https://atom.io/
 [`DDx-template-4IVN2DCGETN.txt`]: https://github.com/dustypomerleau/eye-notes/blob/master/DDx-template-4IVN2DCGETN.txt
-[iOctocat]: https://itunes.apple.com/au/app/ioctocat-mobile-client-for/id669642611?mt=8
 [issue]: https://github.com/dustypomerleau/eye-notes/issues
 [Pro Git]: https://www.amazon.com/Pro-Git-Scott-Chacon-ebook/dp/B00LPDVAX2/ref=sr_1_1_twi_kin_2?ie=UTF8&qid=1476669956&sr=8-1&keywords=pro+git
 [Sublime Text]: http://www.sublimetext.com/
