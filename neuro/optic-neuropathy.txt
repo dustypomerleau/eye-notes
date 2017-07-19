@@ -497,6 +497,9 @@ optic neuropathy DDx // lengthy list of rare causes below
       ethambutol
       isoniazid (INH)
       amiodarone
+      BROADLY: TNFI
+        including Golimumab
+        may have demyelinating features
 
   degenerative
     degenerative
