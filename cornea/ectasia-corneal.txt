@@ -106,7 +106,8 @@ corneal ectasia
         hardest on globus shape
         in practice
           60+ D is very difficult to fit
-          but ALWAYS: mention CTL fitting in KCN
+          // for exam purposes
+          // ALWAYS: mention CTL fitting in KCN
       surgery only if CTL fails in experienced hands
     intrastromal ring segments
       brands
