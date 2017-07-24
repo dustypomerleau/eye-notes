@@ -153,6 +153,11 @@ treatment
         switched to Eylea
         mean interval between injections increased from 6-10 weeks
         90+% went longer on Eylea
+    PBS VA criteria for Eylea and Lucentis initial RVO therapy // AU only
+      BRVO
+        6/120-6/12
+      CRVO
+        6/96-6/12
   steroids
     //...
     Triesence

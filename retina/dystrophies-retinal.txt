@@ -1006,6 +1006,8 @@ macular dystrophy panel
           inhaled alkyl nitrites
             isobutyl nitrite
             isopropyl nitrite
+        NOTE:
+          majority of AVLs have unknown mutations (i.e. not in this panel)
     IMPG2
       VMD5 adult vitelliform
     PROM1

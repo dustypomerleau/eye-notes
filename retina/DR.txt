@@ -384,6 +384,9 @@ DME
       injection burden was the same
   /*
   The data really doesn't support doing macular laser for DME. If you've been following the data above as it was presented, I don't see how you could disagree. Unfortunately, for exam purposes, you will still need to mention it.
+
+  PBS VA criteria for Eylea and Lucentis initial DME therapy // AU only
+    6/48-6/9
   */
   BOULEVARD (2017 P2) // pipeline
     bispecific Ab (Roche RG7716)
