@@ -269,6 +269,17 @@ ptosis
           AD OR AR
           restrictive strabismus ± ptosis
           *very* hard to treat surgically
+          mutated genes
+            KIF21A
+              encodes the kinesin cell transport protein
+              AD CFEOM1
+            PHOX2A
+              critical protein for CN[34] development
+              AR CFEOM2
+            unknown
+              AD CFEOM3
+              AR Tukel syndrome
+                CFEOM + missing fingers AKA oligodactyly
         mitochondrial CPEO
           usually ptosis precedes strabismus
           ± Kearns-Sayre

@@ -24,6 +24,14 @@ DES
                 70% of Sjogren patients
               SS-B (La)
                 less common than Ro
+            ENA panel usually also includes antibodies to
+              RNP
+              Sm
+              Scl-70
+              Jo 1
+              PCNA
+              Ribosomal P
+              PM-Scl
           ANA
           RF Ig[AGM]
         newer

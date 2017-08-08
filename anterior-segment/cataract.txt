@@ -839,13 +839,30 @@ intraoperative iris prolapse
             options
               Moorfields 0.6% intracameral phenylephrine OR
               intracameral minims
-                // for exam purposes: some docs don't like intracameral minims
                 mix
                   dilute a 10% phenylephrine minim in 5 mL BSS
                     5 mL BSS + 0.3 mL 10% phenylephrine (1 minim) = 0.57% phenylephrine
                 inject
                   0.1-0.2 mL immediately after lidocaine
                   same volume again under OVD
+        Joel Shugar's epiShugarcaine recipe
+          9 mL BSS+ (Alcon)
+            if you use plain BSS instead of BSS+
+              pH will be slightly lower
+              more sensation until the lidocaine kicks in
+          3 mL PF lidocaine (Hospira)
+          4 mL PF, bisulfite-free epinephrine (American Regent)
+          OR if you just need a small amount
+            draw 1 mL lidocaine into 3 mL BSS+
+            agitate
+            discard 1 mL of the mixture
+            draw 1 mL of epinephrine into the remaining mixture
+            yields 4 mL of epiShugarcaine
+              ~ 2- mL epiShugarcaine/case
+          usage
+            0.1-0.2 mL in place of intracameral lidocaine
+            same volume again under OVD
+            as needed during the case
     DM
     HSV
     VZV
