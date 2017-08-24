@@ -113,6 +113,8 @@ glaucoma drops (AU)
     Combigan
       brimonidine
       timolol
+      adverse effects
+        COMMON: fatigue
     Azarga
       brinzolamide
       timolol
