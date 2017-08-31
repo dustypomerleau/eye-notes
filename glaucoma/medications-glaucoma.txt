@@ -115,6 +115,7 @@ glaucoma drops (AU)
       timolol
       adverse effects
         COMMON: fatigue
+          also reported independently with both brimonidine and timolol
     Azarga
       brinzolamide
       timolol
