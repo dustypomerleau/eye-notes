@@ -145,9 +145,11 @@ scleritis
     CXR
       TB
       sarcoid
+    RF
     anti-cyclic citrullinated peptide antibody (anti-CCP)
       RA
       anti-CCP is more specific than RF
+        sensitivity is equal to RF
     ANA
       lupus
     urinalysis

@@ -198,8 +198,8 @@ optic neuropathy DDx // lengthy list of rare causes below
       HSV
       VZV // usually followed by ARN
       Lyme
-      Hep B
-      Hep C
+      hep B
+      hep C
       ZIKV // see chorioretinitis.txt
       post-vaccination demyelinating disease
         COMMON: yellow fever vaccine

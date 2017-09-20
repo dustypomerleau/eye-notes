@@ -682,7 +682,7 @@ TB therapy
 endogenous endophthalmitis
   history
     HIV
-    Hep C
+    hep C
     syphilis
     IVDU
     DM
@@ -759,7 +759,7 @@ endogenous endophthalmitis
   bloods
     ALWAYS: blood cultures
     HIV Ab
-    Hep C Ab
+    hep C Ab
     RPR
     FTA-ABS
     FBC
