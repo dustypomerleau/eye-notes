@@ -383,7 +383,10 @@ DME
       acuity outcomes were the same
       injection burden was the same
   /*
-  The data really doesn't support doing macular laser for DME. If you've been following the data above as it was presented, I don't see how you could disagree. Unfortunately, for exam purposes, you will still need to mention it.
+  The data really doesn't support doing macular laser for DME. If you've been
+  following the data above as it was presented, I don't see how you could
+  disagree. Unfortunately, for exam purposes, you will still need to mention
+  it.
 
   PBS VA criteria for Eylea and Lucentis initial DME therapy // AU only
     6/48-6/9
@@ -478,13 +481,25 @@ asymmetric DR
         stages 3-5 are all PDR (!)
 
 /*
-"Based upon the retinal changes in 178 diabetics, BALLANTYNE (1946) divided the retinopathy into 5 stages according to their relation to the development of retinopathy. The first stage included microaneurysms with or without punctate hemorrhages and punctate exudates. The second, dot and blot hemorrhages and waxy exudates. The third, periphlebitis and phlebosclerosis, new-formed intra and preretinal vessels, increasing hemorrhages in the retina and vitreous, massive exudates, retinitis proliferans and detachment of the retina. The fourth, further advance in vessel changes, increase in vitreous hemorrhage and exudates, destruction of the retina. The fifth, a  mixed form, included most of the above-mentioned changes and hypertensive changes."
+"Based upon the retinal changes in 178 diabetics, BALLANTYNE (1946) divided
+the retinopathy into 5 stages according to their relation to the development
+of retinopathy. The first stage included microaneurysms with or without
+punctate hemorrhages and punctate exudates. The second, dot and blot
+hemorrhages and waxy exudates. The third, periphlebitis and phlebosclerosis,
+new-formed intra and preretinal vessels, increasing hemorrhages in the retina
+and vitreous, massive exudates, retinitis proliferans and detachment of the
+retina. The fourth, further advance in vessel changes, increase in vitreous
+hemorrhage and exudates, destruction of the retina. The fifth, a  mixed form,
+included most of the above-mentioned changes and hypertensive changes."
 
 or from the Gay paper itself
   1. Microaneurysms, minute hemorrhages, and punctate exudates.
   2. Dot and blot hemorrhages, waxy exudates either discrete or confluent.
-  3. Retinal hemorrhages, irregular expansion of veins, formation of knobs, loops, coils, and leashes ; newly formed intraretinal and preretinal plexuses; vascular tufts in the vitreous.
-  4. Intraocular hemorrhage ; retinitis proliferans, detachment of retina and vitreous, secondary glaucoma.
+  3. Retinal hemorrhages, irregular expansion of veins, formation of knobs,
+  loops, coils, and leashes ; newly formed intraretinal and preretinal
+  plexuses; vascular tufts in the vitreous.
+  4. Intraocular hemorrhage ; retinitis proliferans, detachment of retina and
+  vitreous, secondary glaucoma.
 */
 
     no carotid ultrasound was performed
@@ -535,7 +550,9 @@ or from the Gay paper itself
       ipsilateral carotid occlusion
       no PVD
   /*
-  At a minimum, you should be skeptical of claims that carotid stenosis is protective against DR. Unfortunately, for exam purposes, you will still need to say this.
+  At a minimum, you should be skeptical of claims that carotid stenosis is
+  protective against DR. Unfortunately, for exam purposes, you will still need
+  to say this.
   */
 cataract surgery in DR
   for any DR patient
