@@ -316,7 +316,9 @@ Senior-Loken syndrome: ERG usually abnormal
 Spinocerebellar atrophy Type 7 (SPA7): ERG abnormal
 Usher’s syndrome: ERG abnormal
 Zellweger’s syndrome: ERG usually abnormal
-NOTE: EOG is usually abnormal in RP (decreased Arden ratio (light peak / dark trough, normal 1.8+), but isn't that sensitive compared to ERG so isn't typically done.
+NOTE: EOG is usually abnormal in RP (decreased Arden ratio (light peak / dark
+trough, normal 1.8+), but isn't that sensitive compared to ERG so isn't
+typically done.
 
 AD WARD
   white annular retinal dystrophy with severe glaucoma

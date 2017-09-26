@@ -8,10 +8,19 @@ categories
   1. no drusen OR 14- small drusen with no pigment change.
   2. 15+ small drusen or pigment change regardless of drusen.
   3. vision 20/32 or better unless vision decline is not due to AMD.
-  any large drusen (125 µm), 1/16 DA intermediate soft drusen, 1/5 DA intermediate hard drusen, extrafoveal GA (if fellow eye < 20/32 from non-AMD then 3b).
-  4. < 20/32 from AMD in either eye (regardless of level of fellow eye AMD). 4b if GA or NVAMD in either eye (bilateral advanced AMD would have excluded pt. from AREDS so they are off the grading scale).
+  any large drusen (125 µm), 1/16 DA intermediate soft drusen, 1/5 DA
+  intermediate hard drusen, extrafoveal GA (if fellow eye < 20/32 from non-AMD
+  then 3b).
+  4. < 20/32 from AMD in either eye (regardless of level of fellow eye AMD).
+  4b if GA or NVAMD in either eye (bilateral advanced AMD would have excluded
+  pt. from AREDS so they are off the grading scale).
 
-The key here is that anyone whose vision is 20/40 or worse because of their AMD is category 4. If they're better than 20/40 then apply size and area criteria to see if they're category 3 and need vitamins. Any GA outside the fovea puts them over into 3, one large druse puts them over into 3, otherwise you need to think about the total drusen area criteria (1/16 DA soft or 1/5 DA hard would put them into 3).
+The key here is that anyone whose vision is 20/40 or worse because of their
+AMD is category 4. If they're better than 20/40 then apply size and area
+criteria to see if they're category 3 and need vitamins. Any GA outside the
+fovea puts them over into 3, one large druse puts them over into 3, otherwise
+you need to think about the total drusen area criteria (1/16 DA soft or 1/5 DA
+hard would put them into 3).
 
 Formula:
 500 mg vitamin C
@@ -29,29 +38,91 @@ Formula:
     Fe is required to synthesize hemoglobin
     Fe deficiency causes anemia
 
-67% of study participants took centrum multivitamins during the study - i'm not sure this is a trivial amount despite the much lower doses of antioxidants. I would have to look up the exact formulation of Centrum at the time of the study, but currently it contains:
-3500 IU Vitamin A with 29% as ß-carotene (? mg equivalence - hard to convert given that not all the vitamin A is in one form but probably only around 1 mg)
+67% of study participants took centrum multivitamins during the study - i'm
+not sure this is a trivial amount despite the much lower doses of
+antioxidants. I would have to look up the exact formulation of Centrum at the
+time of the study, but currently it contains:
+3500 IU Vitamin A with 29% as ß-carotene (? mg equivalence - hard to convert
+given that not all the vitamin A is in one form but probably only around 1 mg)
 60 mg vitamin C
 30 IU vitamin E
 11 mg Zn
 
-Untreated (placebo) 1 in 5 category 3 subjects progressed to advanced AMD, but most of that progression happened in people with large drusen or eccentric GA - that group was 4x as likely to progress as the category 3 without any large drusen.
+Untreated (placebo) 1 in 5 category 3 subjects progressed to advanced AMD, but
+most of that progression happened in people with large drusen or eccentric GA
+- that group was 4x as likely to progress as the category 3 without any large
+drusen.
 In category 4 placebo group 40% progressed to advanced AMD in the fellow eye.
 
-For categories 3 and 4 together, 29% of placebo group lost 3 lines (primary outcome measure) - antioxidant + zinc group did the best but was only reduced to 23% 3-line losers (so despite OR 0.73 for losing 3 lines and calculated RR reduction of about 25%, the ARR was only 6% of patients!). If my math works out correctly that should be an NNT of around 100/6 or around 17 patients treated to prevent one 3-line loser. The OR didn't really change and was still statistically significant when adjusted for age, sex, race, AMD category and baseline smoking status.
+For categories 3 and 4 together, 29% of placebo group lost 3 lines (primary
+outcome measure) - antioxidant + zinc group did the best but was only reduced
+to 23% 3-line losers (so despite OR 0.73 for losing 3 lines and calculated RR
+reduction of about 25%, the ARR was only 6% of patients!). If my math works
+out correctly that should be an NNT of around 100/6 or around 17 patients
+treated to prevent one 3-line loser. The OR didn't really change and was still
+statistically significant when adjusted for age, sex, race, AMD category and
+baseline smoking status.
 
-OR for ACE/Zn versus placebo in prevention of progression to NVAMD (for category 3 and 4) was 0.62 (99% CI 0.43-0.9 p = 0.001), BUT OR for progression to central GA for the same group straddled 1 and was not statistically significant. The discussion section of the paper implies that this was because less than half as many people developed GA in the study so it just wasn't powered to show a change even though there was a trend in that direction. Hard to know. They don't give the exact numbers of people who progressed to advanced AMD in the paper! So you can't calculate an ARR or NNT for progression to NVAMD or GA only for the vision loss primary outcome.
+OR for ACE/Zn versus placebo in prevention of progression to NVAMD (for
+category 3 and 4) was 0.62 (99% CI 0.43-0.9 p = 0.001), BUT OR for progression
+to central GA for the same group straddled 1 and was not statistically
+significant. The discussion section of the paper implies that this was because
+less than half as many people developed GA in the study so it just wasn't
+powered to show a change even though there was a trend in that direction. Hard
+to know. They don't give the exact numbers of people who progressed to
+advanced AMD in the paper! So you can't calculate an ARR or NNT for
+progression to NVAMD or GA only for the vision loss primary outcome.
 
-"In an analysis restricted to participants in Catego- ries 3 and 4, whose vision loss was more likely to be asso- ciated with progression of AMD, the combination of anti- oxidants plus zinc statistically significantly reduced the odds of visual acuity loss (OR, 0.73; 99% CI, 0.54-0.99). There are trends that favor treating with zinc alone or antioxi- dants alone but no statistically significant differences. Com- parisons between the group taking the combination of an- tioxidants plus zinc with the groups taking either zinc or antioxidants were not statistically significant but favor the combination arm (combination versus zinc alone: OR, 0.88; 99% CI, 0.65-1.18; combination versus antioxidants alone: OR, 0.86; 99% CI, 0.63-1.16) (data not shown). An analysis ad- justed for age, sex, race, AMD category, and baseline smok- ing status did not materially alter the size or direction of these OR estimates."
+"In an analysis restricted to participants in Catego- ries 3 and 4, whose
+vision loss was more likely to be asso- ciated with progression of AMD, the
+combination of anti- oxidants plus zinc statistically significantly reduced
+the odds of visual acuity loss (OR, 0.73; 99% CI, 0.54-0.99). There are trends
+that favor treating with zinc alone or antioxi- dants alone but no
+statistically significant differences. Com- parisons between the group taking
+the combination of an- tioxidants plus zinc with the groups taking either zinc
+or antioxidants were not statistically significant but favor the combination
+arm (combination versus zinc alone: OR, 0.88; 99% CI, 0.65-1.18; combination
+versus antioxidants alone: OR, 0.86; 99% CI, 0.63-1.16) (data not shown). An
+analysis ad- justed for age, sex, race, AMD category, and baseline smoking
+status did not materially alter the size or direction of these OR estimates."
 
-look at figure 8 from report #8 which shows the 99% CI for each outcome measure clearly to see how many crossed 1 and the primary outcome measure just barely avoided crossing 1.
+look at figure 8 from report #8 which shows the 99% CI for each outcome
+measure clearly to see how many crossed 1 and the primary outcome measure just
+barely avoided crossing 1.
 
 A couple observations for figure 8:
-1. primary outcome measure almost crossed one for the combo vitamin and DID cross 1 for antioxidants alone and Zn alone.
+1. primary outcome measure almost crossed one for the combo vitamin and DID
+cross 1 for antioxidants alone and Zn alone.
 2. same as above with severe vision loss in one eye (worse than 20/100)
-3. there was NO BENEFIT in preventing bilateral vision worse than 20/100 for category 3, which to me implies that the people with severe disease who are likely to really lose lots of vision get very little benefit from the vitamins. It's the in-between people that seem to have mild but progressive AMD that benefit. There was a modest benefit for the category 4 group but again only with the combo vitamin. This may have to do with the pace of progression (i.e. the people who went all the way from category 3 to bilateral VA worse than 20/100 in 5 years must have had fast moving aggressive disease, whereas the people who started in category 4 may have had slower moving disease that was just caught later in some cases, hence the benefit for the fellow eye in enough members of that group to push the OR into a zone indicating benefit).
-5. category 4 was protected from progression to advanced AMD with 3-line loss but category 3 not so much - note that the primary outcome measure of 3 line losers groups 3 & 4 together so we don't even know for sure that category 3 benefitted in the primary outcome measure (!)
+3. there was NO BENEFIT in preventing bilateral vision worse than 20/100 for
+category 3, which to me implies that the people with severe disease who are
+likely to really lose lots of vision get very little benefit from the
+vitamins. It's the in-between people that seem to have mild but progressive
+AMD that benefit. There was a modest benefit for the category 4 group but
+again only with the combo vitamin. This may have to do with the pace of
+progression (i.e. the people who went all the way from category 3 to bilateral
+VA worse than 20/100 in 5 years must have had fast moving aggressive disease,
+whereas the people who started in category 4 may have had slower moving
+disease that was just caught later in some cases, hence the benefit for the
+fellow eye in enough members of that group to push the OR into a zone
+indicating benefit).
+5. category 4 was protected from progression to advanced AMD with 3-line loss
+but category 3 not so much - note that the primary outcome measure of 3 line
+losers groups 3 & 4 together so we don't even know for sure that category 3
+benefitted in the primary outcome measure (!)
 
-General notes for figure 8: trend is toward benefit as most CI lie to the left of the line even if they cross at the extremes, but in general the evidence for benefit of any kind in category 3 alone is weak and the benefit in category 4 is modest. I think if the cost of the vitamins is not significant to the patient then certainly the general trend toward benefit and low harm makes it reasonable to take the vitamins, but the benefits should not be oversold to the patient!
+General notes for figure 8: trend is toward benefit as most CI lie to the left
+of the line even if they cross at the extremes, but in general the evidence
+for benefit of any kind in category 3 alone is weak and the benefit in
+category 4 is modest. I think if the cost of the vitamins is not significant
+to the patient then certainly the general trend toward benefit and low harm
+makes it reasonable to take the vitamins, but the benefits should not be
+oversold to the patient!
 
-My key question is if category 3 had benefit in the primary outcome why wasn't that shown by itself. And is it likely that category 3 had benefit in the primary outcome of 3-line loss if it clearly didn't have benefit in severe vision loss or progression to advanced AMD with 3-line loss? Maybe the benefit isn't shown because too few people in category 3 progressed in 5 years, but that's what happened in category 2 and we don't give them AREDS vitamins because we think it's no benefit.
+My key question is if category 3 had benefit in the primary outcome why wasn't
+that shown by itself. And is it likely that category 3 had benefit in the
+primary outcome of 3-line loss if it clearly didn't have benefit in severe
+vision loss or progression to advanced AMD with 3-line loss? Maybe the benefit
+isn't shown because too few people in category 3 progressed in 5 years, but
+that's what happened in category 2 and we don't give them AREDS vitamins
+because we think it's no benefit.

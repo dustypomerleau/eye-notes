@@ -25,49 +25,81 @@ CRVO
 
 bvos
 
-keep in mind that bvos didn't give us much help on the timing of treating acute bvo because they only enrolled people 3 m after onset of bvo.
+keep in mind that bvos didn't give us much help on the timing of treating acute
+bvo because they only enrolled people 3 m after onset of bvo.
 
-grid laser to macular edema doubled the number of patients who improved their vision.
+grid laser to macular edema doubled the number of patients who improved their
+vision.
 
-scatter laser to the nonperfused area in patients without nv cut the risk of nv in half.
-scatter laser to the nonperfused area in patients who already had nv cut the risk of vh in half.
-BUT the risk of vh was similar (around 60%) in those who were lasered prophylactically but still developed nv and in those who were lasered after nv developed.
-the bvos was not designed to determine the best timing for scatter (before or after nv) and so we are comparing across groups in the study to guess at it.
-therefore summary is - scatter only if nv develops, but the bvos left a lot of unanswered questions about whether the degree of nonperfusion should influence when you do scatter etc. fortunately the patients who bled had low rates of sig visual loss, which makes us more comfortable leaning toward observation rather than prophylactic laser.
+scatter laser to the nonperfused area in patients without nv cut the risk of nv
+in half. scatter laser to the nonperfused area in patients who already had nv
+cut the risk of vh in half. BUT the risk of vh was similar (around 60%) in those
+who were lasered prophylactically but still developed nv and in those who were
+lasered after nv developed. the bvos was not designed to determine the best
+timing for scatter (before or after nv) and so we are comparing across groups in
+the study to guess at it. therefore summary is - scatter only if nv develops,
+but the bvos left a lot of unanswered questions about whether the degree of
+nonperfusion should influence when you do scatter etc. fortunately the patients
+who bled had low rates of sig visual loss, which makes us more comfortable
+leaning toward observation rather than prophylactic laser.
 
 
 
 cvos
 
-eyes that do worse are those that present with poor vision or lots of nonperfusion - also duration of CRVO 4- weeks is more likely to progress to ischemic and more likely to develop nvg.
+eyes that do worse are those that present with poor vision or lots of
+nonperfusion - also duration of CRVO 4- weeks is more likely to progress to
+ischemic and more likely to develop nvg.
 
 grid reduces angiographic macular edema but doesn't improve vision.
 
-saving prp for those eyes that actually develop nvi/nva makes it more effective when you need it - this is the major rationale for not doing prophylactic prp (there was a trend toward prophylactic prp preventing nvi/nva but it wasn't statistically significant and so the issue of getting max effect in those patients who actually have iris nv takes precedence). in addition, prp didn't change the visual acuity outcomes either (a third lost vision - just like controls), which is another rationale for waiting until nvi/nva develops.
+saving prp for those eyes that actually develop nvi/nva makes it more effective
+when you need it - this is the major rationale for not doing prophylactic prp
+(there was a trend toward prophylactic prp preventing nvi/nva but it wasn't
+statistically significant and so the issue of getting max effect in those
+patients who actually have iris nv takes precedence). in addition, prp didn't
+change the visual acuity outcomes either (a third lost vision - just like
+controls), which is another rationale for waiting until nvi/nva develops.
 
 
 score bvo
 
-ivt didn't help me 2/2 bvo when compared to grid alone - 30% gained 3 lines regardless of treatment group.
+ivt didn't help me 2/2 bvo when compared to grid alone - 30% gained 3 lines
+regardless of treatment group.
 
 
 score cvo
 
-q4m ivt (patients were retreated every 4 m for a year unless they had iop spike or they resolved completely i.e. 20/25 flat macula) quadrupled the number of 3-line gainers (30% gained 3 lines versus 7%). 1 mg worked just as well as 4 mg with fewer side effects.
+q4m ivt (patients were retreated every 4 m for a year unless they had iop spike
+or they resolved completely i.e. 20/25 flat macula) quadrupled the number of
+3-line gainers (30% gained 3 lines versus 7%). 1 mg worked just as well as 4 mg
+with fewer side effects.
 
 
 bravo
 
-over first 6 m, 55% of lucentis patients versus 30% of sham gained 15 letters (bravo patients were eligible for rescue laser in the first 6 m, but i don't know what percentage of subjects and controls actually got laser).
+over first 6 m, 55% of lucentis patients versus 30% of sham gained 15 letters
+(bravo patients were eligible for rescue laser in the first 6 m, but i don't
+know what percentage of subjects and controls actually got laser).
 
 
 cruise
 
-over first 6 m, 46% of lucentis patients versus 17% of sham gained 15 letters (everyone, including controls did much better in cruise than in score cvo - remember only 7% of score cvo controls gained 15 letters).
+over first 6 m, 46% of lucentis patients versus 17% of sham gained 15 letters
+(everyone, including controls did much better in cruise than in score cvo -
+remember only 7% of score cvo controls gained 15 letters).
 
 
-awaiting published results of bravo and cruise for true analysis, but for the moment best practice pattern seems to be:
+awaiting published results of bravo and cruise for true analysis, but for the
+moment best practice pattern seems to be:
 
-bvo - no scatter unless nv develops. if me, then start with avastin and then grid if response is incomplete or lacks durability (supplementing with avastin as needed). ivt is not proven to have benofit so would use as a last resort if other options are not working at all.
+bvo - no scatter unless nv develops. if me, then start with avastin and then
+grid if response is incomplete or lacks durability (supplementing with avastin
+as needed). ivt is not proven to have benofit so would use as a last resort if
+other options are not working at all.
 
-cvo - no prp unless nv develops. if me, then start with avastin and then ivt if response is incomplete. would not give steroid more often than q4m, but would use avastin as often as q6w over the first year or so. grid is not proven to have benefit so would use as a last resort if other options are not working at all.
+cvo - no prp unless nv develops. if me, then start with avastin and then ivt if
+response is incomplete. would not give steroid more often than q4m, but would
+use avastin as often as q6w over the first year or so. grid is not proven to
+have benefit so would use as a last resort if other options are not working at
+all.
