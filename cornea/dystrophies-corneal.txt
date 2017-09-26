@@ -29,7 +29,7 @@ corneal dystrophies
           may cause RCES
           micropuncture // out of favor - see details in OSD.txt
           diamond burr polishing
-            debride epithelium with a blade or weck first
+            debride epithelium with a blade or spear first
             go 1 direction 10-15 seconds total across whole corneal surface
           PTK
             usually 5-10 µm ablation

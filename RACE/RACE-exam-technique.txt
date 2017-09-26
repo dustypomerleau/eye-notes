@@ -104,11 +104,20 @@ Practice past papers in entirety with time constraints.
 
 While grading examiners make the following points:
 
-1. Did the candidate answer the question? A generic essay on thyroid eye disease is inadequate if the question is all about elevated IOP in a thyroid patient. This is a common and frustrating problem.
+1. Did the candidate answer the question? A generic essay on thyroid eye
+disease is inadequate if the question is all about elevated IOP in a thyroid
+patient. This is a common and frustrating problem.
 
-2. Did the candidate display adequate knowledge? Did the candidate convince the examiner he/she was capable of managing this particular problem?
+2. Did the candidate display adequate knowledge? Did the candidate convince
+the examiner he/she was capable of managing this particular problem?
 
-3. Did the candidate show appropriate perspective? Not doing so might mean he/she stressed an unlikely aspect of the problem instead of the more obvious or more common one. It might also mean requesting a host of unnecessary tests or failing to document why certain examinations or tests are necessary. You must justify everything in relation to the particular patient you are being asked about so long lists without focusing on their relevance are frowned upon and will count against you.
+3. Did the candidate show appropriate perspective? Not doing so might mean
+he/she stressed an unlikely aspect of the problem instead of the more obvious
+or more common one. It might also mean requesting a host of unnecessary tests
+or failing to document why certain examinations or tests are necessary. You
+must justify everything in relation to the particular patient you are being
+asked about so long lists without focusing on their relevance are frowned upon
+and will count against you.
 
 For disease X,
 What is the relevant history (meds, family, social, symptoms etc.)
@@ -121,7 +130,9 @@ What factors need to be addressed in terms of impact on the patient (genetic cou
 
 With respect to overall performance:
 
-A pass grade for the exam is therefore 37/46 for the writtens and 15/18 for the OSCE. A candidate who is borderline in the writtens (32-36/40) but does particularly well in the OSCE (>16/18) will still pass the whole exam.
+A pass grade for the exam is therefore 37/46 for the writtens and 15/18 for
+the OSCE. A candidate who is borderline in the writtens (32-36/40) but does
+particularly well in the OSCE (>16/18) will still pass the whole exam.
 
 
 //
