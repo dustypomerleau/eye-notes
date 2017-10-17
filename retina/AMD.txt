@@ -188,8 +188,7 @@ stabilises bigger ones. So you can think of it as pushing small residuals at
 low X values away from the fitted line and squishing large residuals at high X
 values towards the line. (This is mental shorthand not proper math!)
 
-Source:
-  https://stats.stackexchange.com/questions/11359/what-could-be-the-reason-for-using-square-root-transformation-on-data/11373
+Source: https://stats.stackexchange.com/questions/11359/what-could-be-the-reason-for-using-square-root-transformation-on-data/11373
 */
     multivariate analysis
       medication
@@ -298,7 +297,9 @@ Source:
     macular atrophy
       175+ µm
 */
-Macular atrophy was defined as a demarcated area of RPE defect or abnormal visibility of large choroidal vasculature, as an area of window defect without leakage on FA, and as an area of decreased autofluorescence on FAF imaging.
+Macular atrophy was defined as a demarcated area of RPE defect or abnormal
+visibility of large choroidal vasculature, as an area of window defect without
+leakage on FA, and as an area of decreased autofluorescence on FAF imaging.
 */
       present in 98% of study eyes (!)
       compared
