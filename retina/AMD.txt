@@ -102,6 +102,263 @@ PCV
     thermal laser
       30% bleed
 
+Does antiVEGF therapy promote GA?
+  NOTE: no true control exists for this question
+    unless we are willing not to treat
+    unclear if GA in treated CNV is the same as GA alone
+
+  CATT 2-year data (2014)
+    2-year risk factors for GA
+      GA defined as
+        1+ areas of 250+ µm
+        on
+          colors
+          FFA
+          BAF
+            where available
+        OCT was not used to determine GA presence
+      risk of developing GA
+        eyes with pre-existing GA excluded here
+        included 1024/1185
+        187/1024 = 18% developed new GA over 2 years
+        factors that increase likelihood of new GA
+          VA 6/60- at baseline
+            aHR 2.65 versus 6/12+ // aHR = multivariate analysis
+          RAP
+            aHR 1.69
+          fellow eye GA
+            aHR 2.07
+          foveal IRF at baseline
+            aHR 2.1 versus no IRF at all
+            surprising that this came out independent of RAP
+          Lucentis > Avastin
+            aHR 1.43 (!)
+          monthly > prn
+            aHR 1.59 (!)
+            similar result when looking at total number of injections
+        factors that protect against new GA
+          blocked fluorescence on FFA
+            aHR 0.49
+          SRF 25+ µm at baseline
+            aHR 0.52 versus no SRF
+          SR tissue complex 275+ µm
+            aHR 0.31 versus 75- µm
+        no association with new GA
+          genetics
+            CFH
+            ARMS2
+            HTRA1
+            C3
+            TLR3
+          lifestyle
+            smoking
+            supplement use
+              categories
+                none
+                AREDS
+                other
+          systemic disease
+            DM
+            HTN
+            hyperlipidemia
+            CA
+  CATT GA growth rate data (2015)
+    included those with GA at baseline
+    242/1185 = 20% had GA at 2 years
+    194/242 eyes (80%) had enough data to calculate growth rate
+    all comers 0.43 mm/year // a square root transformation, see below
+      ~ 1.65 mm2/year
+      similar to previous studies
+/*
+In general, parametric regression / GLM assume that the relationship between the Y variable and each X variable is linear, that the residuals once you've fitted the model follow a normal distribution and that the size of the residuals stays about the same all the way along your fitted line(s). When your data don't conform to these assumptions, transformations can help.
+
+It should be intuitive that if Y is proportional to X2 then square-rooting Y linearises this relationship, leading to a model that better fits the assumptions and that explains more variance (has higher R2). Square rooting Y also helps when you have the problem that the size of your residuals progressively increases as your values of X increase (i.e. the scatter of data points around the fitted line gets more marked as you move along it). Think of the shape of a square root function: it increases steeply at first but then saturates. So applying a square root transform inflates smaller numbers but stabilises bigger ones. So you can think of it as pushing small residuals at low X values away from the fitted line and squishing large residuals at high X values towards the line. (This is mental shorthand not proper math!)
+
+Source: https://stats.stackexchange.com/questions/11359/what-could-be-the-reason-for-using-square-root-transformation-on-data/11373
+*/
+    multivariate analysis
+      medication
+        Avastin 0.37 mm/year
+        Lucentis 0.49 mm/year (!)
+      monthly versus prn
+        no difference (!)
+        despite findings for incidence of new GA above
+        it may be that treatment increases incidence but not growth rate
+        same was found with total number of injections
+      fellow eye GA
+        increased mean growth rate by 0.13 mm/year
+  CATT 5-year data (2016)
+      confirmed that GA causes much of the late vision loss in treated patients
+      confirmed the higher growth rate with Lucentis
+      reinforced clinical risk factors for GA in treated patients
+        RAP
+        IRF
+        SDD
+
+  Xu (2015)
+    retrospective cohort study
+    91 patients of Bailey Freund's at VRMNY
+      94 eyes
+      treatment-naive
+      50+ YO
+      12+ months of follow-up
+      baseline GA was allowed
+      treat and extend
+        max 'typically' 9 weeks
+    grading
+      NIR OR FAF
+        whichever was available
+        sometimes both
+      OCT used to assist in ambiguous cases
+    lesion type affects GA risk with treatment
+      breakdown
+        SRPE 38%
+        IR 37%
+        mixed 17%
+        SR 7%
+      SRPE lesions protective
+        relative to SR (small numbers) and IR lesions
+        NV lesion type remained significant in the regression model
+    primary outcome measure: ∆ GA (mm2/year)
+      SRPE 0.54 mm2/year
+      IR 0.8 mm2/year
+      mixed 1.23 mm2/year
+      SR 1.43 mm2/year (small numbers)
+    no association with ∆ GA in the regression model
+      ∆ VA over the study
+      number of injections
+      duration of follow-up
+      PPA
+      SDD
+
+  Cho (2015)
+    retrospective interventional series
+    38 patients in KOR
+      43 eyes
+      treatment-naive RAP
+        confirmed by
+          notes
+            IRH
+          OCT
+            IRC over PED
+          FFA
+          ICG
+      excluded
+        GA at baseline
+        treated with anything other than Lucentis
+      Lucentis x 3, then prn
+      2 years of follow-up
+        1/3 were lost to follow-up
+        only 55/83 eyes were analyzed
+    GA determined without BAF
+      250+ µm punched out macular lesion on
+        colors
+        FFA
+    16 eyes (37%) developed GA over 2 years
+      5 (31%) at the site of the RAP
+      11 (69%) somewhere else
+    comparing those who got GA to those who didn't
+      associated
+        thin SF choroid
+          94 ± 31 versus
+          169 ± 61
+        PED
+        SDD
+          questionable finding
+          most RAP should have SDD
+          this study did not use NIR
+        fellow eye GA
+      not associated
+        age
+        sex
+        baseline VA
+        baseline CFT
+
+  Bhisitkul (2015) AKA SEVEN-UP
+    pulled in 65 patients for a single 7 to 8-year follow-up
+      previous participants in
+        MARINA
+        ANCHOR
+        HORIZON
+    macular atrophy
+      175+ µm
+*/
+Macular atrophy was defined as a demarcated area of RPE defect or abnormal visibility of large choroidal vasculature, as an area of window defect without leakage on FA, and as an area of decreased autofluorescence on FAF imaging.
+*/
+      present in 98% of study eyes (!)
+      compared
+        MARINA and ANCHOR exit visit (year 2)
+          RF
+          FFA // OCT was not yet standard at this time
+        SEVEN-UP visit (year 7)
+          BAF
+    growth rate
+      0.28 mm2/year
+        this is very low compared to CATT and others
+        may be related to the length of follow-up
+          e.g. if growth is rapid in the first 2 years and then flattens out
+    risk factors for progression of atrophy were not analyzed
+
+  IVAN (2015)
+    610 NHS patients in the UK
+    similar to CATT
+      Avastin versus Lucentis
+      monthly versus prn
+    no difference in GA by drug (!)
+    monthly caused more GA than prn
+      OR 1.47
+
+  Abdelfattah (2016)
+    retrospective
+    David Boyer's group + Doheny
+    46 patients
+      54 eyes
+    treatment-naive
+    2 years follow-up
+    OCT-defined GA
+      Cirrus C-scans
+      'Advanced RPE Analysis' software
+    baseline GA in 32/54 (59%)
+    in those without GA at baselinw
+      new GA in 6/28 (21%) over 2 years
+    growth rate 0.89 ± 0.93 mm2/year
+    multivariate analysis
+      associated with development or progression of GA
+        total number of injections
+      not associated with development or progression of GA
+        gender
+        age
+        smoking
+        treatment drug (!)
+          keep in mind
+            many patients were switched in this study
+            it wasn't designed as a head-to-head of drugs
+      NOTE: this study was not powered to detect small effects
+
+  Cho (2017)
+    follow-up to Cho (2015) that includes some Eylea patients
+    retrospective
+    58 patients in KOR
+      63 eyes
+    treatment-naive RAP
+    GA defined on
+      colors
+      FFA
+      OCT
+        increased transmission was mandatory
+    excluded GA at baseline
+      fellow eye GA was allowed
+        4/21 eyes (19%) in the Eylea group
+        6/42 eyes (14%) in the Lucentis group
+    treatment
+      monthly injections x 3 and then prn
+    followed for only 1 year (!)
+    vision and OCT outcomes were almost identical
+    GA incidence at 1 year
+      Eylea 9/21 eyes (43%)
+      Lucentis 8/42 eyes (19%)
+    concluded that Eylea causes more GA than Lucentis // small numbers
+      incidence of SDD was similar at baseline
 
 //
 

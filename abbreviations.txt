@@ -447,6 +447,7 @@ NF - neurofibromatosis
 NFL - nerve fiber layer
 NGS - next generation sequencing
 NHL - nonHodgkin lymphoma
+NIR - near infrared
 NMO - neuromyelitis optica
 NOVL - nonorganic visual loss
 NPDR - nonproliferative diabetic retinopathy
@@ -458,6 +459,7 @@ NSC - nuclear sclerotic cataract
 NSOI - nonspecific orbital inflammation
 NTG - normal tension glaucoma
 NUM - number of cells
+NV - neovascular(ization)
 NVAMD - neovascular age related macular degeneration
 NVD - neovascularization of the disc
 NVE - neovascularization elsewhere
@@ -648,7 +650,7 @@ SPA - spinocerebellar atrophy
 SPEP - serum protein electrophoresis
 SPI - surgical peripheral iridectomy
 SPK - superficial punctate keratopathy
-SR - superior rectus
+SR - superior rectus, subretinal
 SRD - subretinal deposit
 SRF - subretinal fluid
 SRH - subretinal hemorrhage
