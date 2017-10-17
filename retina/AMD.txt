@@ -170,11 +170,26 @@ Does antiVEGF therapy promote GA?
       ~ 1.65 mm2/year
       similar to previous studies
 /*
-In general, parametric regression / GLM assume that the relationship between the Y variable and each X variable is linear, that the residuals once you've fitted the model follow a normal distribution and that the size of the residuals stays about the same all the way along your fitted line(s). When your data don't conform to these assumptions, transformations can help.
+In general, parametric regression / GLM assume that the relationship between
+the Y variable and each X variable is linear, that the residuals once you've
+fitted the model follow a normal distribution and that the size of the
+residuals stays about the same all the way along your fitted line(s). When
+your data don't conform to these assumptions, transformations can help.
 
-It should be intuitive that if Y is proportional to X2 then square-rooting Y linearises this relationship, leading to a model that better fits the assumptions and that explains more variance (has higher R2). Square rooting Y also helps when you have the problem that the size of your residuals progressively increases as your values of X increase (i.e. the scatter of data points around the fitted line gets more marked as you move along it). Think of the shape of a square root function: it increases steeply at first but then saturates. So applying a square root transform inflates smaller numbers but stabilises bigger ones. So you can think of it as pushing small residuals at low X values away from the fitted line and squishing large residuals at high X values towards the line. (This is mental shorthand not proper math!)
+It should be intuitive that if Y is proportional to X2 then square-rooting Y
+linearises this relationship, leading to a model that better fits the
+assumptions and that explains more variance (has higher R2). Square rooting Y
+also helps when you have the problem that the size of your residuals
+progressively increases as your values of X increase (i.e. the scatter of data
+points around the fitted line gets more marked as you move along it). Think of
+the shape of a square root function: it increases steeply at first but then
+saturates. So applying a square root transform inflates smaller numbers but
+stabilises bigger ones. So you can think of it as pushing small residuals at
+low X values away from the fitted line and squishing large residuals at high X
+values towards the line. (This is mental shorthand not proper math!)
 
-Source: https://stats.stackexchange.com/questions/11359/what-could-be-the-reason-for-using-square-root-transformation-on-data/11373
+Source:
+  https://stats.stackexchange.com/questions/11359/what-could-be-the-reason-for-using-square-root-transformation-on-data/11373
 */
     multivariate analysis
       medication
