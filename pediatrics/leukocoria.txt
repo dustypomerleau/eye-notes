@@ -129,7 +129,7 @@ Rb
           C1
             SR seeds 3- mm from the tumor
           C2
-            vitreous seed 3- mm from the tumor
+            vitreous seeds 3- mm from the tumor
           C3
             SR + vitreous seeds
               both 3- mm from the tumor
