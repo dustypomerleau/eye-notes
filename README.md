@@ -40,7 +40,7 @@ If you want to be notified whenever I push changes, create a GitHub account and 
   
 ### I disagree with something in your notes. Will you change it?
 
-Maybe. If you think I've got something wrong, you should create a GitHub account and post your concern as an [issue][]. Posting an issue ensures that everyone tracking the repository can follow and participate in the discussion. When you post your issue, provide PubMed links to the references that support your point. In ophthalmology, differences of opinion are the *rule*, not the exception. If you submit an issue that amounts to: 'my unsubstantiated opinion is better than your unsubstantiated opinion,' it will be ignored. Name-dropping `${highlyRespectedOphthalmologist}` does not change the rules.
+Maybe. If you think I've gotten something wrong, you should create a GitHub account and post your concern as an [issue][]. Posting an issue ensures that everyone tracking the repository can follow and participate in the discussion. When you post your issue, provide PubMed links to the references that support your point. In ophthalmology, differences of opinion are the *rule*, not the exception. If you submit an issue that amounts to: 'my unsubstantiated opinion is better than your unsubstantiated opinion,' it will be ignored. Name-dropping `${highlyRespectedOphthalmologist}` does not change the rules.
   
   
 ### I don't understand your abbreviations.
