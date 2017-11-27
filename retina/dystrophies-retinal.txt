@@ -339,32 +339,6 @@ bullseye maculopathy DDx
     6.5+ mg/kg/d
       current recommendations use actual body weight
     5+ y
-/*
-previous guidelines used ideal body weight
-  IBW formulas
-    Robinson
-      men
-        52 kg + 1.9 kg/in > 60 in
-          (heightInInches - 60) * 1.9 + 52 = Robinson IBW men (kg)
-        52 kg + 0.75 kg/cm > ~ 152 cm
-          (height in cm - 152) * 0.75 + 52 = Robinson IBW men (kg)
-      women
-        49 kg + 1.7 kg/(in > 60)
-          (heightInInches - 60) * 1.7 + 49 = Robinson IBW women (kg)
-        49 kg + 0.67 kg/(cm > ~ 152)
-          (height in cm - 152) * 0.67 + 49 = Robinson IBW women (kg)
-    Miller
-      men
-        56.2 kg + 1.41 kg/in > 60 in men
-          (heightInInches - 60) * 1.41 + 56.2 = Robinson IBW men (kg)
-        56.2 kg + 0.56 kg/(cm > ~ 152)
-          (height in cm - 152) * 0.56 + 56.2 = Robinson IBW men (kg)
-      women
-        53.1 kg + 1.36 kg/in > 60 in women
-          (heightInInches - 60) * 1.36 + 53.1 = Robinson IBW women (kg)
-        53.1 kg + 0.54 kg/cm > ~ 152 cm
-          (height in cm - 152) * 0.54 + 53.1 = Robinson IBW women (kg)
-*/
   cone dystrophy
   cone > rod dystrophy
   AR Stargardt disease
