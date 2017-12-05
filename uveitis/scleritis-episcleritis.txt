@@ -66,8 +66,8 @@ scleritis
               diffuse leakage on FFA
             RARELY: lupus choroidopathy
               multifocal pinpoint leakage on FFA
-            unlike CSC
-              both of the above respond to systemic steroids
+            both of the above respond to systemic steroids
+              unlike CSC
         HLA B27 SS
           AS
           reactive arthritis
