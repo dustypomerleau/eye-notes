@@ -417,7 +417,6 @@ MIDAS - microphthalmia, dermal aplasia, and sclerocornea
 MIDD - maternally inherited diabetes and deafness
 MLF - medial longitudinal fasciculus
 MLPA - multiplex ligation dependent probe amplification
-MM - multiple myeloma
 MMC - mitomycin C
 MMG - mixed mechanism glaucoma
 MMP - matrix metalloproteinase

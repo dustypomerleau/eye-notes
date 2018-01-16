@@ -142,7 +142,7 @@ TMVL DDx // do not shotgun these tests on exams - be appropriate
         medications
     hyperviscosity syndromes and hypercoagulable states
       polycythemia
-      MM
+      multiple myeloma
       Waldenstrom
       MGUS
       1˚ amyloidosis

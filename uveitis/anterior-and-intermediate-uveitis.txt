@@ -470,7 +470,7 @@ anterior and intermediate uveitis DDx
         Coats
         Rb
         lymphoma
-        MM
+        multiple myeloma
         AML
         metastases
           lung CA

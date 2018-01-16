@@ -6,7 +6,7 @@ immunotherapy and biologics
     cancers
       hairy cell leukemia
       CML
-      MM
+      multiple myeloma
       follicular lymphoma
       carcinoid tumor
       malignant melanoma

@@ -149,7 +149,7 @@ infectious keratitis DDx
             leprosy
             KCN
             FED
-            MM
+            multiple myeloma
             PPCD
             MEN2[ab]
             NF1
