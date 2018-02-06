@@ -956,8 +956,21 @@ macular dystrophy panel
     ABCA4
       Stargardt disease
     BEST1
-      AD Best disease
-        AR bestrophinopathies also exist
+      AD Best disease // AR bestrophinopathies also exist
+        childhood onset
+          if adult onset
+            see RDS AKA PRPH2
+        genetics
+          BEST1 encodes Bestrophin-1
+            an RPE cell membrane ion channel
+        COMMON:
+          normal ERG
+          abnormal EOG
+            light peak/dark trough (Arden) 1.5-
+        ALSO: 1/5 will have a normal EOG
+        stages
+          vitelliform -> pseudohypopyon -> scrambled egg -> CRA ± SR fibrosis
+          ALSO: secondary CNV
     EFEMP1
       Doyne Honeycomb retinal dystrophy
       malattia Leventinese
