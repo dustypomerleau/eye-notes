@@ -125,7 +125,7 @@ ET DDx
         if they do need surgery
           don't delay it
           allow 1-2 weeks for glasses to work
-          if no better => OT
+          if no better -> OT
           operate on largest near angle with full correction
           BL MR recessions
           overshoot 10 ∆

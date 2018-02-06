@@ -243,7 +243,7 @@ CN3P
             IR
             IO
             parasympathetic fibers
-              EW via cavernous sinus => ciliary ganglion => short ciliary Ns
+              EW via cavernous sinus -> ciliary ganglion -> short ciliary Ns
                 pupillary constrictors
                 fibers to CB for accomodation
     pupil-sparing isolated CN3P
@@ -616,6 +616,6 @@ skew deviation
   ALWAYS: MRI
     other investigaions depending on what you need to rule out
     remember
-      if a vertical is not CN4P => investigate
+      if a vertical is not CN4P -> investigate
 
 GCA // see optic-neuropathy.txt

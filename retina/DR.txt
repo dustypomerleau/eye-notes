@@ -96,8 +96,8 @@ DME
         including DME
   ETDRS (1987+)
     laser reduces rate of 3-line losers @ 3 years
-        CSDME 33% => 13%
-        all DME 24% => 12%
+        CSDME 33% -> 13%
+        all DME 24% -> 12%
       vision gain was RARE in ETDRS
         under 3% in the laser group
         backed up by RESTORE

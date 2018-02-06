@@ -200,14 +200,14 @@ Goldmann VF
     once you have mapped the macular isopter
       if there is a defect
         map that area with increasing brightness
-          I 2e => I 3e => I 4e
+          I 2e -> I 3e -> I 4e
       if the defect persists
         map that area with increasing target size
-          II 4e => III 4e => IV 4e => V 4e
+          II 4e -> III 4e -> IV 4e -> V 4e
     once you have mapped the peripheral isopter
       generally you are already on the brightest (4e) stimulus
       map any defect with increasing target size
-        II 4e => III 4e => IV 4e => V 4e
+        II 4e -> III 4e -> IV 4e -> V 4e
   interpreting Goldmann VF
     first look at the shape
       Are there dents in the isopter?

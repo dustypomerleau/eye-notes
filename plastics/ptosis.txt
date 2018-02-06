@@ -357,11 +357,11 @@ ptosis exam
     Horner
       sympathetic anatomy
         1st order
-          hypothalamus => C8-T2 CSCB
+          hypothalamus -> C8-T2 CSCB
         2nd order
-          C8-T2 CSCB => sympathetic chain in the neck => SCG
+          C8-T2 CSCB -> sympathetic chain in the neck -> SCG
         3rd order
-          SCG => ICA plexus => long ciliary Ns
+          SCG -> ICA plexus -> long ciliary Ns
             cavernous sinus
             orbit
       Horner testing

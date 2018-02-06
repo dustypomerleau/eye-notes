@@ -39,7 +39,7 @@ retinal findings and hearing loss
   VKH
 
 Hurler syndrome
-  lysosomal dysfunction => MPS accumulation
+  lysosomal dysfunction -> MPS accumulation
   coarse facies
   corneal clouding
   mental retardation

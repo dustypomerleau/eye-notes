@@ -15,9 +15,9 @@ SJS is used here to represent the full continuum
       VZV
       infection-induced SJS
         usually HIV + pneumocystis jiroveci
-        HIV + PJ => SJS
+        HIV + PJ -> SJS
     bacterial
-      HIV + PJ => SJS (as above)
+      HIV + PJ -> SJS (as above)
       trachoma
       Streptococcus
         usually beta-hemolytic

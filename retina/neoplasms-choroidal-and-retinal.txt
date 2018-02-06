@@ -120,7 +120,7 @@ choroidal folds
 
 choroidal osteoma
   usually PP
-  orange-red => yellow white as overlying RPE loses pigment
+  orange-red -> yellow white as overlying RPE loses pigment
   look for small vascular networks on the tumor surface
   BSUS
     highly reflective
