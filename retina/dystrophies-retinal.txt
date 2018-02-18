@@ -335,10 +335,36 @@ Oguchi disease
     dark-adapted fundus is normal
 
 bullseye maculopathy DDx
-  plaquenil
-    6.5+ mg/kg/d
-      current recommendations use actual body weight
-    5+ y
+  Plaquenil
+    high risk for toxicity
+      6.5+ mg/kg/d
+        use actual body weight
+      5+ y
+        at any dose
+      concurrent tamoxifen
+        tamoxifen potentiates Plaquenil
+        increases the risk of Plaquenil toxicity 5-fold
+      kidney disease
+        reduces clearance of Plaquenil
+    aim for 5- mg/kg/d when prescribing
+    patterns
+      COMMON: pericentral PR loss
+        often starts inferiorly
+      ALSO:
+        parafoveal
+        along the arcades
+          Asians
+    screening
+      baseline
+        BAF
+          early hyperBAF glow -> late hypoBAF
+        OCT
+        HVF
+          24-2 + 10-2 if possible
+          SITA Fast protocols are OK for screening if
+            patients are fatiguing
+            there is no known toxicity
+      repeat annually at 5+ years
   cone dystrophy
   cone > rod dystrophy
   AR Stargardt disease
