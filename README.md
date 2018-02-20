@@ -14,7 +14,7 @@ If you know nothing about ophthalmology, this probably isn't the place to start.
   
 ### Why are you using GitHub to share ophthalmology notes?
 
-Even with the help of cloud hosting services, shared medical notes are a trainwreck. The files quickly become out of date, then become disorganized. The folder membership moves on, and no new members move in. The next generation starts the process from scratch. If they're lucky they inherit the old pile of information, but it's almost as much work to tune it up as it would be to write the notes anew with current information. The sheer volume of *stuff* in these shared folders makes it hard to share without inviting people to a new shared folder, and so on. The disorganized nature of the *stuff* means that only a small percentage of the available knowledge gets passed on, and the 'members only' culture of shared folders means that only a few people benefit from that knowledge. One nice solution would be to build a website that could host the files and also provide a forum for discussion. Fortunately for us, GitHub has already built such a website :)
+Even with the help of cloud hosting services, shared medical notes are a trainwreck. The files quickly become out of date, then become disorganized. The folder membership moves on, and no new members move in. The next generation starts the process from scratch. If they're lucky they inherit the old pile of information, but it's almost as much work to tune it up as it would be to write the notes anew with current information. The sheer volume of _stuff_ in these shared folders makes it hard to share without inviting people to a new shared folder, and so on. The disorganized nature of the _stuff_ means that only a small percentage of the available knowledge gets passed on, and the 'members only' culture of shared folders means that only a few people benefit from that knowledge. One nice solution would be to build a website that could host the files and also provide a forum for discussion. Fortunately for us, GitHub has already built such a website :)
 
 GitHub is optimized for what programmers call 'version control.' Version control makes it easy for me to push changes to the master version of the notes whenever I want, and for others to pull those changes into their copy of the notes. It allows others to easily create parallel/alternate versions for their own use, and it provides a system that prevents collaborators from stepping on others' changes. If you want to learn more about version control with Git, I strongly recommend [Pro Git][].
   
@@ -40,7 +40,7 @@ If you want to be notified whenever I push changes, create a GitHub account and 
   
 ### I disagree with something in your notes. Will you change it?
 
-Maybe. If you think I've gotten something wrong, you should create a GitHub account and post your concern as an [issue][]. Posting an issue ensures that everyone tracking the repository can follow and participate in the discussion. When you post your issue, provide PubMed links to the references that support your point. In ophthalmology, differences of opinion are the *rule*, not the exception. If you submit an issue that amounts to: 'my unsubstantiated opinion is better than your unsubstantiated opinion,' it will be ignored. Name-dropping `${highlyRespectedOphthalmologist}` does not change the rules.
+Maybe. If you think I've gotten something wrong, you should create a GitHub account and post your concern as an [issue][]. Posting an issue ensures that everyone tracking the repository can follow and participate in the discussion. When you post your issue, provide PubMed links to the references that support your point. In ophthalmology, differences of opinion are the _rule_, not the exception. If you submit an issue that amounts to: 'my unsubstantiated opinion is better than your unsubstantiated opinion,' it will be ignored. Name-dropping _`HighlyRespectedOphthalmologist`_ does not change the rules.
   
   
 ### I don't understand your abbreviations.
@@ -50,7 +50,7 @@ Check out [`abbreviations.txt`][] for an explanation.
   
 ### What do the ALL-CAPS keywords mean?
 
-* **COMMON:** A *relatively* common diagnosis/treatment compared to others.  
+* **COMMON:** A _relatively_ common diagnosis/treatment compared to others.  
 * **ALSO:** Not as commmon as COMMON, but still worth considering.  
 * **RARELY:** A very unlikely diagnosis, or an extremely uncommon treatment.  
 * **ALWAYS:** Nothing is absolute, but it's clearer than ALMOST-ALWAYS.  
