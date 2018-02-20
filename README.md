@@ -83,6 +83,6 @@ I've tried a lot of *universal differential diagnosis* mnemonics over the years.
 [Atom]: https://atom.io/
 [`DDx-template-4IVN2DCGETN.txt`]: https://github.com/dustypomerleau/eye-notes/blob/master/DDx-template-4IVN2DCGETN.txt
 [issue]: https://github.com/dustypomerleau/eye-notes/issues
-[Pro Git]: https://www.amazon.com/Pro-Git-Scott-Chacon-ebook/dp/B00LPDVAX2/ref=sr_1_1_twi_kin_2?ie=UTF8&qid=1476669956&sr=8-1&keywords=pro+git
+[Pro Git]: https://gitbookio.gitbooks.io/progit/content/en/
 [Sublime Text]: http://www.sublimetext.com/
 [Visual Studio Code]: https://code.visualstudio.com/
