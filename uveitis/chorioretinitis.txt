@@ -328,7 +328,7 @@ negative), so the test adds little to the diagnosis in this situation, either.
             FFA
               bright early and late
               dots within the dots
-            IRF
+            NIR
               dots within the dots
           MC ± P // includes PIC
             COMMON: women
