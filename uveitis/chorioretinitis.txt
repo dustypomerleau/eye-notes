@@ -330,6 +330,15 @@ negative), so the test adds little to the diagnosis in this situation, either.
               dots within the dots
             NIR
               dots within the dots
+            OCT
+              PR disruption
+                COMMON:
+                  subfoveal
+                  resolves spontaneously
+                    weeks to months
+            ICG
+              blocking defects corresponding to the white dots
+                most obvious in lates
           MC ± P // includes PIC
             COMMON: women
             vitritis variable
