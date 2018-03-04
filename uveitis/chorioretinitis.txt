@@ -153,6 +153,8 @@ shortlist
     bacterial
       COMMON:
         syphilis
+          ALSO: superficial retinal infiltrates
+            respond to oral steroids
         TB
           if you suspect pulmonary TB but serial sputum doesn't clarify
             urine PCR + culture can be helpful
