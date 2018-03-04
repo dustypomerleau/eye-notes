@@ -41,6 +41,8 @@ leukocoria DDx
         any combination of forms can be seen
           anterior
             retrolental
+            retrolental membranes
+            peripheral retinal attachments
           posterior
             overlying the disc
       ROP
