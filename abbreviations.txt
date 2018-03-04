@@ -246,6 +246,7 @@ FED - Fuchs endothelial dystrophy
 FES - floppy eyelid syndrome
 FEVR - familial exudative vitreoretinopathy
 FFA - fundus fluorescein angiography
+FFB - Foundation Fighting Blindness
 FH - family history
 FISH - fluorescence in situ hybridization
 FL - fixation losses

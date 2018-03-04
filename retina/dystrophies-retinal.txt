@@ -566,10 +566,35 @@ genetic testing
       https://sph.uth.edu/retnet/sum-dis.htm
     patients may opt-in to research participation at
       https://myretinatracker.org/
+    testing sites
+      Molecular Vision // see below
+        https://www.molecularvisionlab.com/
+      University of Iowa (Carver Nonprofit Genetic Testing Laboratory)
+        https://www.carverlab.org/
+      Blueprint Genetics
+        https://blueprintgenetics.com/
+      Foundation Fighting Blindness
+        http://blindness.org/genetic-testing
+        Spark Therapeutics may fund some FFB testing
+          their goal is to recruit RPE65 mutations for gene therapy trials
+          so this may be limited to the USA
+    genetic counseling information and up-to-date review articles by phenotype
+      Gene Reviews
+        https://www.ncbi.nlm.nih.gov/books/NBK1116/
+    more concise and patient-centric reviews
+      Genetics Home Reference
+        https://ghr.nlm.nih.gov/
     AU researchers who test
       Andrea Vincent
       Alex Hewitt
       David Mackey
+    AU options for end-stage dystrophies
+      Vision Australia
+        http://www.visionaustralia.org/
+      Australian Inherited Retinal Disease Register
+        http://www.scgh.health.wa.gov.au/Research/InheritedRetinal.html
+      Guide Dogs Australia
+        http://www.guidedogsaustralia.com/
   */
   mostly done in panels
   individual gene testing decreasing
@@ -599,14 +624,6 @@ genetic testing
 XLRP
   myopia
     strong association
-
-AU options for end-stage dystrophies
-  Vision Australia
-    http://www.visionaustralia.org/
-  Australian Inherited Retinal Disease Register
-    http://www.scgh.health.wa.gov.au/Research/InheritedRetinal.html
-  Guide Dogs Australia
-    http://www.guidedogsaustralia.com/
 
 
 //
