@@ -562,6 +562,8 @@ midperipheral and peripheral CRA
 
 genetic testing
   /*
+    RetNet provides the most up-to-date list of mapped genes by disease
+      https://sph.uth.edu/retnet/sum-dis.htm
     AU researchers who test
       Andrea Vincent
       Alex Hewitt
