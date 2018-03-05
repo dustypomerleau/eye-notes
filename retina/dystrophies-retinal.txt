@@ -414,9 +414,25 @@ crystalline retinopathy
       topical and oral cysteamine
     AD snowflake vitreoretinal degeneration
       //...
-    Sjogren-Larrson syndrome
-      congenital iccthyosis
-      distinct from Sjogren syndrome
+    Sjogren-Larrson syndrome // distinct from Sjogren syndrome
+      congenital ichthyosis
+      spasticity
+      intellectual disability
+      Muller cell dysfunction
+        crystals
+          IPL
+          OPL
+      white intraretinal accumulations
+        fatty aldehydes
+        fatty alcohols
+        similar to what accumulates in the skin
+      late
+        lipofuscin accumulation
+        PR loss
+        retinal thinning and atrophy
+      treatment still very experimental
+        fatty aldehyde-scavenging drugs
+        gene therapy
   hyperoxaluria
     primary hereditary
     secondary

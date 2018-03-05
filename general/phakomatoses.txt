@@ -64,7 +64,7 @@ phakomatoses AKA neurooculocutaneous syndromes
 
   sporadic tuberous sclerosis
     COMMON:
-      cognitive impairment
+      intellectual impairment
       seizures
       facial angiofibromas
       retinal hamartomas

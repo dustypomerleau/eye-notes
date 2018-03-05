@@ -137,7 +137,7 @@ systemic associations of CR colobomas
     linear sebaceous nevus syndrome
     MIDAS syndrome
     oral-facial-digital syndrome type 8
-    Sjogren-Larsson syndrome
+    Sjogren-Larsson syndrome // see dystrophies-retinal.txt
     Walker-Warburg syndrome
     Wolf-Hirschhorn syndrome
 
