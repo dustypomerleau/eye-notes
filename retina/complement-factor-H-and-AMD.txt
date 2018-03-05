@@ -26,10 +26,10 @@ France, The Netherlands, Iceland, India, Germany, UK, China, Russia and
 Australia.
 1.4.  CFH is a critical regulator of the complement cascade in innate immunity
 and associated inflammatory processes. CFH acts upon the C3 cleavage product
-C3b. When C3b binds to the surface of cells, it forms C3b–Bb, which acts as an
+C3b. When C3b binds to the surface of cells, it forms C3b-Bb, which acts as an
 activating enzyme, leading to further production of C3b. If unchecked, this
 process would be harmful to the host tissue. CFH inhibits this alternative
-pathway cascade by binding to C3b, accelerating the decay of C3b–Bb and acting
+pathway cascade by binding to C3b, accelerating the decay of C3b-Bb and acting
 as a cofactor for the factor I-mediated proteolytic cleavage inactivation of
 C3b. CFH is able to preferentially bind to and prevent complement activation
 on host tissue in part by binding to heparin and sialic acid. The polymorphism
