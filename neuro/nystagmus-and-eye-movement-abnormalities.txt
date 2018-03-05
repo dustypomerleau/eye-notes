@@ -406,6 +406,32 @@ supranuclear motility disorders
             seizures
             ataxia
             progressive muscle weakness and paralysis
+          AR sialidosis type 1 // type 2 generally die at birth
+            AKA
+              mucolipidosis type 1
+              cherry red spot myoclonus syndrome
+            MPS and mucolipid accumulation due to neuraminidase deficiency
+            ataxia
+            progressive myoclonus
+            cherry red spot
+            progressive vision loss
+              color blindness
+              night blindness
+            normal
+              intelligence
+              life expectancy
+          AR gangliosidosis 2 AKA Sandhoff disease
+            GM2 ganglioside accumulation
+              due to beta-hexosaminidase deficiency
+            progressive
+              seizures
+              vision loss
+              hearing loss
+              intellectual disability
+              paralysis
+            cherry red spot
+            RARELY: ataxia
+            often die young
         AR Joubert syndrome
           key findings
             abnormal brain development
