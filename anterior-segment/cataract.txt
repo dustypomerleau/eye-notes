@@ -471,8 +471,8 @@ intraop
           small peritomy
           rectangle of appropriate size
           dissect to 1/2 scleral thickness
-          attach over wound with 4 cardinal 10-0 nylon sutures
-          then run a 10-0 around the edge to seal
+          attach over wound with 4 cardinal 10–0 nylon sutures
+          then run a 10–0 around the edge to seal
           close the peritomy with interrupteds
         sliding scleral flap
           only useful if your incision is off-axis
@@ -492,7 +492,7 @@ intraop
         hemorrhage will expand
       serial BSUS
         to look for liquefaction
-      drain 1-2 weeks
+      drain 1–2 weeks
         AC maintainer
           25 g PPV infusion through the limbus can be used
         radial sclerotomies 4+ mm from the limbus in the affected quad
@@ -551,7 +551,7 @@ postop
         posterior uveitis
           5 days 50 mg/day oral prednisolone
         local treatment is becoming more popular
-          2-4 mg triamcinolone
+          2–4 mg triamcinolone
             intravitreal OR intracameral
         taper oral and topical agents over 4 weeks if quiet
       glaucoma
@@ -705,8 +705,8 @@ postop
           http://astigmatismfix.com/
             compares current position to MRx
             gives relative benefit of repositioning the toric
-          reported repositioning rates are 1-3%
-          best timing is 1-3 weeks // see Oshika, OPHTHA. 2018;125(1):31-35.
+          reported repositioning rates are 1–3%
+          best timing is 1–3 weeks // see Oshika, OPHTHA. 2018;125(1):31–35.
       position wrong
         sulcus using in-the-bag calcs
     postop complications
@@ -845,7 +845,7 @@ intraoperative iris prolapse
                   dilute a 10% phenylephrine minim in 5 mL BSS
                     5 mL BSS + 0.3 mL 10% phenylephrine (1 minim) = 0.57% phenylephrine
                 inject
-                  0.1-0.2 mL immediately after lidocaine
+                  0.1–0.2 mL immediately after lidocaine
                   same volume again under OVD
         Joel Shugar's epiShugarcaine recipe
           9 mL BSS+ (Alcon)
@@ -862,7 +862,7 @@ intraoperative iris prolapse
             yields 4 mL of epiShugarcaine
               ~ 2- mL epiShugarcaine/case
           usage
-            0.1-0.2 mL in place of intracameral lidocaine
+            0.1–0.2 mL in place of intracameral lidocaine
             same volume again under OVD
             as needed during the case
     DM
@@ -962,7 +962,7 @@ PSC cataract
 
 HORV
   hemorrhagic occlusive retinal vasculitis
-  1-14 days post-CEIOL
+  1–14 days post-CEIOL
   minimal intraocular inflammation
   severe occlusive retinal vasculitis with hemorrhages
   etiology unknown

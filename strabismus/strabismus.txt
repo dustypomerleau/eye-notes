@@ -235,7 +235,7 @@ PEDIG summary
         2 days (weekend) atropine = daily atropine
         3/4 7- YO moderates achieve 6/9 OR gain 3 lines
           biggest improvement is in the first 6 weeks
-      7-12 YO
+      7–12 YO
         2 days atropine = 2 (2008)
           1/5 achieves 6/7.5 in this age group
           size of gain is much smaller
@@ -246,9 +246,9 @@ PEDIG summary
         6 = full-time (2003)
           4/5 gain 3 lines
           1/4 achieve 6/9
-      3-12 YO
+      3–12 YO
         2 days atropine = 2 (2009)
-          average gain was 1-2 lines
+          average gain was 1–2 lines
           nearly all patients were 6/15- despite this
             so better to use 6 hours patching OR daily atropine in 6/30-
 
@@ -259,7 +259,7 @@ MOTAS amblyopia study (2004)
   treatment age is a major factor in the success of patching
 
 VIP-HIP study (2016)
-  preschoolers with 3-6 D hyperopia versus emmetropic preschoolers
+  preschoolers with 3–6 D hyperopia versus emmetropic preschoolers
     moderate hyperopes had
       lower VA
       worse stereo
@@ -268,13 +268,13 @@ VIP-HIP study (2016)
     3+ D should be corrected
       even if the 2 eyes are similar
   general practice pattern
-    tolerate slightly more hyperopia in 1-2 YO
-      4-5 D
+    tolerate slightly more hyperopia in 1–2 YO
+      4–5 D
     if there is strabismus at any value of hyperopia
       correct the hyperopia
 
 review amblyopes
-  1-3 months depending on
+  1–3 months depending on
     amblyopia severity
     age
       see sooner if
@@ -293,8 +293,8 @@ review amblyopes
           then reduce hours
     older kids
       still worth patching
-        1/2 will improve age 7-12
-        1/4 will improve age 13-17
+        1/2 will improve age 7–12
+        1/4 will improve age 13–17
   if amblyopia therapy doesn't work
     talk compliance
     repeat the refraction
@@ -520,7 +520,7 @@ abbreviated binocularity testing in an infant
             depending on which part of the fly you look at
       Titmus animals
         polarized glasses
-        400-100"
+        400–100"
           400
           200
           100
@@ -530,7 +530,7 @@ abbreviated binocularity testing in an infant
         200"
       Titmus circle test
         polarized glasses
-        800-40"
+        800–40"
           800
           400
           200
@@ -615,7 +615,7 @@ if you suspect a CNP
 
     most common mass in the cerebellopontine angle
       acoustic neuroma (CN8 schwannoma) ± NF2
-        associated with CN[5-8] deficits
+        associated with CN[5–8] deficits
           CN6P is rare with CPA lesions but still check motility
           CN5P has a poor prognosis
             neurotrophic corneal breakdown
@@ -698,7 +698,7 @@ treatment
       prisms do not address torsion
         tolerance may be reduced in CN4P
     BOTOX
-      2.5-5.0 units
+      2.5–5.0 units
       ideal case
         patient post multiple surgeries
         still miserable
@@ -769,11 +769,11 @@ BOTOX complications
         approximate values
           ET
             bilateral MR recessions
-            3-6 mm each eye corrects 20-50 ∆
+            3–6 mm each eye corrects 20–50 ∆
               '320 to 650'
           XT
             bilateral LR recessions
-            5-11 mm each eye corrects 20-50 ∆
+            5–11 mm each eye corrects 20–50 ∆
               '520 to 1150'
         numbers are similar for combining R & R in one eye
       adjustable sutures
@@ -817,7 +817,7 @@ BOTOX complications
       to reduce postop pain
         keep conj incisions out of the palpebral fissure
         bury conjunctival knots
-          usually 8-0 vicryl in AU
+          usually 8–0 vicryl in AU
         protect the cornea
         give subconj LA at the conclusion of the case
       surgical complications

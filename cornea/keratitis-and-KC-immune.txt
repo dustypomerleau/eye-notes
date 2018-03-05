@@ -58,8 +58,8 @@ immune keratoconjunctivitis
           good for acute exacerbation
           not usually given chronically
           options
-            dexamethasone PF minims q 1-2 hours
-            PF q 1-2 hours
+            dexamethasone PF minims q 1–2 hours
+            PF q 1–2 hours
         cyclosporine 1%
           useful if
             steroids are needed long-term
@@ -78,7 +78,7 @@ immune keratoconjunctivitis
       cell-mediated
         AOT perennial allergic KC
     older
-      peak 30-50 YO
+      peak 30–50 YO
     systemic associations
       eczema
       asthma
@@ -317,10 +317,10 @@ immune keratitis
           lamellar dissection with an angled crescent blade
             to remove diseased tissue and prepare the host bed
           reform the chamber with OVD
-          if possible close posterior cornea with interrupted 10-0 nylon
+          if possible close posterior cornea with interrupted 10–0 nylon
           lamellar dissection of the donor on an artificial AC
           mark and cut donor to fit
-          suture in place with 10-0 nylon
+          suture in place with 10–0 nylon
             may need to trim flush once partially sutured
       if the entire workup is negative
         could be a true idiopathic Mooren ulcer
@@ -336,7 +336,7 @@ immune keratitis
             patching
             cyclophosphamide 2 mg/kg/day
               fall in WBC is the best indicator of immunosuppression
-            methotrexate 7.5-15 mg weekly
+            methotrexate 7.5–15 mg weekly
             azathioprine 2 mg/kg/day
           reconstructive keratoplasty
             only once well controlled

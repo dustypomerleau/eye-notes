@@ -10,9 +10,9 @@ TED
   clinical course
     the Rundle curve
       dynamic phase
-        gets worse over 1-2 years
+        gets worse over 1–2 years
         peaks and plateaus
-        gradually improves over 1-2 years
+        gradually improves over 1–2 years
       static phase
         stabilizes
     effects of poorly managed TED can last a lifetime
@@ -135,7 +135,7 @@ EUGOGO
       CON
       intervene immediately
         IVMP
-          if worsening over 1-2 weeks
+          if worsening over 1–2 weeks
             decompression surgery
               this is the one situation where you decompress active disease
               usually want them quiet 6 months

@@ -66,8 +66,8 @@ choroidal melanoma
 
   COMS study
     medium tumors
-      2.5-10 mm thick
-      5-16 mm in diameter
+      2.5–10 mm thick
+      5–16 mm in diameter
       equal survival rates for I125 PBT and enucleation
     large tumors
       equal survival rates whether you radiated before enucleation or not

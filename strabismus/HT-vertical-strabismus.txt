@@ -438,7 +438,7 @@ Brown syndrome
   treatment options
     range-of-motion orthoptic exercises
     peritrochlear steroid injection
-    SO tenotomy OR silicone spacer (5-7 mm)
+    SO tenotomy OR silicone spacer (5–7 mm)
       you can leave the posterior capsule intact
         to avoid an induced CN4P
       spacer may have lower incidence of postop IOOA
@@ -544,7 +544,7 @@ orbital fracture // see also fractures-orbital.txt
               floor fractures
                 limitation of downgaze on the side of fracture causes diplopia
                 Faden to fellow IR
-          use nonabsorbable 6-0 Mersilene braided polyester
+          use nonabsorbable 6–0 Mersilene braided polyester
           Faden issues
             hard to get posterior
               usually well past equator

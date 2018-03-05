@@ -53,4 +53,4 @@ For more info:
 
 Ross RJ, Verma V, Rosenberg KI, Chan CC, Tuo J. Genetic markers and biomarkers
 for age-related macular degeneration. Expert Rev Ophthalmol. 2007
-Jun;2(3):443-457.
+Jun;2(3):443–457.

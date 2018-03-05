@@ -53,7 +53,7 @@ shortlist
               local immunosuppression is a risk factor for CMV retinitis
                 has been reported multiple times after IVT
           if not better in 6 weeks consider drug-resistant CMV
-          expect immune reconstitution 3-6 months after starting HAART
+          expect immune reconstitution 3–6 months after starting HAART
             watch for immune recovery uveitis as CD4 count climbs
           // barrier laser use similar to ARN below
         HSV
@@ -94,7 +94,7 @@ shortlist
                   sarcoid
                   lymphoma
               classic regimen
-                IV aciclovir 10-15 mg/kg q 8 hours x 1 week
+                IV aciclovir 10–15 mg/kg q 8 hours x 1 week
                 then switch to orals at therapeutic dose x 3+ months
               there is significant evidence for po only
                 plasma concentration not quite as high as IV aciclovir
@@ -111,7 +111,7 @@ shortlist
                     usually only an issue with doses much higher than 1 g
                     e.g. immunocompromised patients
               po prednisolone is debateable but widely used
-                for exam purposes start 0.5-1 mg/kg 2 days after antivirals
+                for exam purposes start 0.5–1 mg/kg 2 days after antivirals
                 duration not well defined
                 probably taper after 1 week if disease quiescent
               aspirin also debateable
@@ -384,7 +384,7 @@ negative), so the test adds little to the diagnosis in this situation, either.
                 EZ may appear attenuated
                   AOT PAMM where typical lesions are in the INL
                     deep capillary plexus bounds the INL
-                      15-70 µm below the ILM surface
+                      15–70 µm below the ILM surface
                     // superficial capillary plexus is in the NFL + GCL
             shares some features with PAMM
               IR

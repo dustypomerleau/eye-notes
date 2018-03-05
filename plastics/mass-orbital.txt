@@ -135,7 +135,7 @@ the 7 ages of the orbit DDx // these are shortlists and not exhaustive
     capillary hemangioma
     rhabdomyosarcoma
     teratoma
-  0-5
+  0–5
     COMMON:
       dermoid cyst // not to be confused with limbal dermoids or dermolipomas
         superficial
@@ -148,7 +148,7 @@ the 7 ages of the orbit DDx // these are shortlists and not exhaustive
         dermoid cyst
         limbal dermoid
       capillary hemangioma
-  5-12
+  5–12
     COMMON:
       rhabdomyosarcoma
       histiocytic lesions
@@ -161,7 +161,7 @@ the 7 ages of the orbit DDx // these are shortlists and not exhaustive
         adenoid cystic carcinoma
       primitive neuroectodermal tumor (PNET)
       dermoid cyst
-  13-19
+  13–19
     COMMON: fibrous dysplasia OR ossifying fibroma
       clinically similar
       histopathologically distinct
@@ -169,7 +169,7 @@ the 7 ages of the orbit DDx // these are shortlists and not exhaustive
       ON sheath meningioma
       neurofibroma
       dermoid cyst // can present late with rupture
-  20-40
+  20–40
     COMMON:
       TED
       sinus mucocele
@@ -182,7 +182,7 @@ the 7 ages of the orbit DDx // these are shortlists and not exhaustive
       lacrimal gland tumors
         pleomorphic adenoma
         adenoid cystic carcinoma
-  40-65
+  40–65
     COMMON:
       cavernous hemangioma
       schwannoma

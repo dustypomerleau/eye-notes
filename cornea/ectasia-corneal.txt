@@ -54,7 +54,7 @@ corneal ectasia
           if inflamed
             mild steroid
           heals with scarring
-            1-2 months
+            1–2 months
     central K 47+ D on topo
       apical cone
       inferior paracentral thinning
@@ -212,12 +212,12 @@ cataract surgery in corneal ectasia
       Moorfields standard Ks
         43.25
       Irving Raber standard Ks (Wills)
-        45-47
+        45–47
         you have some control when you do the graft
           oversize 0.25 mm for 45
           oversize 0.5 mm for 47
     if the ectasia is off-center
-      ALSO: central 2-3 mm of IOLMaster OR Lenstar Ks
+      ALSO: central 2–3 mm of IOLMaster OR Lenstar Ks
   toric IOL
     should not be your default
       requires stable refraction

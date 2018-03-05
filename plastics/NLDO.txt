@@ -11,7 +11,7 @@ NLDO
     if recurrent
       intubate with Crawford tubing
         ± turbinate infracture if URI-associated
-      tubing removal in 3-6 months
+      tubing removal in 3–6 months
     DCR if this fails
     watch for dacryocystitis // treatment below
 
@@ -218,7 +218,7 @@ DCR
   open to the base of the sac to prevent sump syndrome
   create an H incision in the nasal mucosa with a blade and scissors
   Sew the posterior nasal mucosa to the lacrimal sac flap
-    2 x 6-0 vicryl to make an anastomosis
+    2 x 6–0 vicryl to make an anastomosis
   create an anterior flap in the nasal mucosa as well
   perform bicanalicular intubation
     use a probe to push the tubing through

@@ -122,7 +122,7 @@ ptosis
               expect 2+ mm improvement in ptosis immediately after waking
                 easiest reference is fissure height before and after
             ice test
-              ice pack over closed eyes x 2-5 minutes
+              ice pack over closed eyes x 2–5 minutes
                 ptosis may improve in 2 minutes but motility takes 5 minutes
                   for ptosis only stop at 2 minutes
                   3+ minutes is uncomfortable and doesn't improve the test
@@ -485,7 +485,7 @@ surgical treatment
       if they do have a positive phenylephrine test
         do a Mullerectomy
   levator advancement
-    can correct 2- mm but is best for 3-4 mm
+    can correct 2- mm but is best for 3–4 mm
       patients with 4+ mm ptosis often have poor levator function
         in that case you need a sling anyway
     allows you to adjust the height on the table
@@ -502,7 +502,7 @@ surgical treatment
           levator is right underneath
         identify the orbital fat pad superiorly
           undermine a bit so you are just holding levator
-        double-armed 5-0 ethibond suture
+        double-armed 5–0 ethibond suture
           passed horizontally through the tarsus
           just above the lid apex you marked
         evert the lid
@@ -519,7 +519,7 @@ surgical treatment
         close the OOM
           capture a small bite of the levator to re-form the lid crease
         close the skin
-          running 6-0 prolene
+          running 6–0 prolene
           plan removal about a week after surgery
   frontalis suspension sling
     autogenous fascia lata
@@ -552,16 +552,16 @@ surgical treatment
         confirm site of medial and lateral brow incisions
         pass the silicone through the preaponeurotic (sub-OOM) space
         anchor the sling to OOM at the medial and lateral incisions
-          5-0 Vicryl
+          5–0 Vicryl
         close the lid margin incisions
-          6-0 Vicryl
+          6–0 Vicryl
         pass the Silastic from the outer brow incisions to the central one
         secure the rod with a silicone sleeve
           you can tie the rod if you want
           harder to adjust later
         adjust height
           adult acquired ptosis
-            set the lid at 1-3 mm above the pupil
+            set the lid at 1–3 mm above the pupil
           congenital ptosis
             set the lid margin even with the limbus
         trim with 8 mm to spare for future adjustment
@@ -754,14 +754,14 @@ used as a regional block for the upper eyelid. Epinephrine is omitted to
 avoid stimulation of Müller's muscle; 2 to 3 cc of the solution mixed with
 hyaluronidase (10 cc anesthetic mixed with 150 units hyaluronidase Wydase) is
 injected just below the superior orbital rim. Tetracaine topical anesthetic
-eye drops are then placed on the conjunctival surface. A 4-0 silk suture is
+eye drops are then placed on the conjunctival surface. A 4–0 silk suture is
 placed through the tarsus at the eyelid margin in the pupillary axis. The
 eyelid is reflected over a Desmarres retractor. Marks are made at one-half
 the distance of the total resection amount medially, centrally, and laterally,
 measured with a caliper and beginning 0.5 mm above the tarsal plate. Another
 mark is made centrally to measure the total extent of resection desired.4
 
-Three 4-0 silk traction sutures are placed through the conjunctiva and
+Three 4–0 silk traction sutures are placed through the conjunctiva and
 Müller's muscle centrally, medially, and laterally at the halfway marks. Each
 bite is approximately 3 mm long and deep to the underlying Müller's muscle,
 but should not penetrate the levator aponeurosis or orbicularis muscle. The
@@ -776,7 +776,7 @@ muscle conjunctival resection clamp (Karl Ilg Instruments, Villa Park, IL) is
 placed over the elevated tissues. The clamp is placed so that the most
 superior central mark is adjacent to the resection clamp.
 
-A 6-0 plain suture is placed under the clamp with a horizontal mattress
+A 6–0 plain suture is placed under the clamp with a horizontal mattress
 technique approximately 0.5 to 1 mm below the clamp . The clamp tissues are
 excised with a no.15 blade, metal on metal . The conjunctiva is closed with a
 running baseball stitch in the reverse direction of the original pass. The
@@ -817,13 +817,13 @@ clamp is modified with a screw closure, which assists in crushing the tarsus.
 
 Anesthesia is obtained by injecting 1% Xylocaine with 1:100,000 dilution
 epinephrine and hyaluronidase through the superior cul-de-sac. The eyelid is
-everted and two 4-0 silk sutures are placed through the conjunctival tarsal
+everted and two 4–0 silk sutures are placed through the conjunctival tarsal
 border medially and laterally . The tarsus is marked centrally along the
 pupillary axis, measuring the proposed resection amount. One millimeter of
 tarsus should be resected for each millimeter of ptosis. The tissues are
 elevated via the two traction sutures and the clamp is placed over the tarsus
 and conjunctiva . The screw device is turned until the tissues are firmly
-secured. A 6-0 polypropylene (Prolene) suture is placed through the anterior
+secured. A 6–0 polypropylene (Prolene) suture is placed through the anterior
 lamella under the clamp, then passed back and forth in a horizontal mattress
 fashion and exteriorized out the anterior skin lamella at the other end of the
 clamp.14 The clamped tissues are excised with a no.15 blade . The eyelid is
@@ -892,7 +892,7 @@ levator .21 The preaponeurotic fat pad is reflected upward and the whitish
 aponeurosis is seen underneath. A high-temperature hand-held cautery is used
 to disinsert the aponeurosis from the tarsal plate, which separates the
 aponeurosis from the underlying Müller's muscle . Dissection is carried
-upward, as high as Whitnall's ligament if necessary. A double-arm 6-0 Vicryl
+upward, as high as Whitnall's ligament if necessary. A double-arm 6–0 Vicryl
 suture is placed partial thickness through the central portion of the upper
 tarsus in two 3 mm bites. This suture is then taken up through the
 aponeurosis at the desired height . This is temporarily tied and the level is
@@ -904,7 +904,7 @@ can be placed medially and laterally for contour adjustment; however, often
 they are unnecessary. The excess levator aponeurosis is trimmed. A strip of
 skin-orbicularis flap superiorly can be excised if necessary, or bilateral
 blepharoplasties can be performed with this surgical technique. The wound is
-then closed with a 6-0 suture of choice with supratarsal fixation on every
+then closed with a 6–0 suture of choice with supratarsal fixation on every
 other bite of the suture. Excellent results can be obtained with this
 approach.
 
@@ -969,8 +969,8 @@ along the incisions with army-navy retractors to expose the field. Using long
 Metzenbaum scissors, the fascial strips are incised lengthwise. The strip is
 transected on both ends with curved scissors or Jorgenson's scissors, and
 pulled out of the wound. The fascia lata is not repaired. The subcutaneous
-tissues are closed with 4-0 or 5-0 Vicryl sutures, and the skin can be closed
-with a 5-0 plain suture.
+tissues are closed with 4–0 or 5–0 Vicryl sutures, and the skin can be closed
+with a 5–0 plain suture.
 
 Surgical Technique
 
@@ -996,11 +996,11 @@ ends of the fascial strip are tunneled into the central incision with the
 Wright needle. This approach helps to ensure the proper vectors of pull and a
 normal eyelid contour. The fascia is pulled up until the lid margin
 approximates the upper limbus and is then tied with one half of a surgeon's
-knot. A 6-0 Prolene suture or braided nylon suture is sewn through the
+knot. A 6–0 Prolene suture or braided nylon suture is sewn through the
 knotted strips and tied, securing the knot. It is then sewn into the
 frontalis muscles superiorly. Excess fascia is trimmed, and 4 to 5 mm of
 remnant fascia is tucked into the central incision. The lid and brow
-incisions are then closed with 6-0 plain suture.
+incisions are then closed with 6–0 plain suture.
 
 Variation
 
@@ -1040,7 +1040,7 @@ One percent Xylocaine with epinephrine and hyaluronidase is injected under the
 lid crease incision and just above the eyebrow centrally, medially, and
 laterally. The lid crease incision is made and the tarsal plate is exposed by
 dissection through the orbicularis. The silicone rod is sewn onto the tarsal
-plate with three to five interrupted 6-0 braided nylon or polypropylene. The
+plate with three to five interrupted 6–0 braided nylon or polypropylene. The
 rod is then pulled up to the eyebrow to mark the medial and lateral brow
 incisions. This will help to optimize the contour of the upper eyelid
 margin. Incisions are made down to the periosteum. With the globe protected,
@@ -1054,7 +1054,7 @@ above the pupil, depending on the condition being treated. (One should not
 elevate these lids to the limbus, as one does with congenital ptosis.) The
 rods are trimmed and left with 5 to 8 mm of length on either end for possible
 future adjustment. The ends of these rods are then tucked into the wound. A
-6-0 braided nylon or polypropylene suture is sewn around the sleeve, which is
+6–0 braided nylon or polypropylene suture is sewn around the sleeve, which is
 then sewn superiorly to the deeper frontalis muscle . The brow incisions are
 closed and the lid crease incision is closed, usually with supratarsal
 fixation every other bite to create a defined lid crease. One can adjust the

@@ -2,7 +2,7 @@
 
 eyelid anatomy
 
-// see fig. 9-4, AAO BCSC
+// see fig. 9–4, AAO BCSC
 
   skin
   SC fat
@@ -77,17 +77,17 @@ entropion
           trim off the top edge and conjunctiva
           trim the end off the tarsal strip
         anchor it to the LOT
-          double-armed 5-0 prolene
+          double-armed 5–0 prolene
             pass it AP in the strip
             then inner to outer orbital rim
         trim the excess skin and OOM
-        deep tissue 6-0 vicryl // to cover the prolene knot
+        deep tissue 6–0 vicryl // to cover the prolene knot
         reform the canthal angle
           vicryl suture through the gray line
         more deep vicryls as needed
           bring the skin edges into apposition
         close the skin
-          running 6-0 vicryl
+          running 6–0 vicryl
         remove sutures at a week
 
       LLR plication
@@ -103,8 +103,8 @@ entropion
           dissect inferiorly to find LLR
         isolate the LLR
           ensure that the IR is not affected by your sutures
-        appose the LLR to the tarsus with 6-0 vicryl
-        close OOM and skin with 6-0 vicryl
+        appose the LLR to the tarsus with 6–0 vicryl
+        close OOM and skin with 6–0 vicryl
         remove sutures at a week
 
       Quickert procedure
@@ -115,12 +115,12 @@ entropion
         cut the lid full-thickness along the subtarsal incision
         cut the middle of the lid with scissors
           cut away the intended amount of LL using your lateral mark
-        use a double-armed 6-0 vicryl to hook the LLR in 2 places
+        use a double-armed 6–0 vicryl to hook the LLR in 2 places
           careful not to go through the conj
         repeat with a 2nd suture laterally
-        re-appose the lid margin with 6-0 vicryl
+        re-appose the lid margin with 6–0 vicryl
           through the tarsal plate in at least 2 locations
-        6-0 vicryl through the lash line
+        6–0 vicryl through the lash line
           then close the remainder of the skin over the tarsus
         run your double-armed LLR sutures up through the OOM and out
           check that the LL now moves in downgaze
@@ -208,7 +208,7 @@ ectropion:
       lidocaine 2% to orbital rim, skin side, and conjunctiva
       tiny skin and OOM snip horizontally at the orbital rim
       excise conjunctival diamond below the punctum so you can access LLR
-      hook the LLR with double-armed 6-0 vicryl
+      hook the LLR with double-armed 6–0 vicryl
         aim the needle down toward the fornix
         lift the conjunctiva closest to the globe to elevate the LLR
         go posteriorly with the needle through your conj incision
@@ -241,12 +241,12 @@ ectropion:
       local anesthetic
       cut the flaps with a blade
       undermine with spring scissors to remove all tension
-      place 6-0 vicryl cardinal sutures at the apices
+      place 6–0 vicryl cardinal sutures at the apices
       running vicryl to complete the skin closure
 
     cicatricial ectropion repair with spacer graft
       local anesthetic
-      4-0 prolene traction suture through tarsal plate
+      4–0 prolene traction suture through tarsal plate
       open the area of traction with a blade
         along the Langer lines
         through skin and OOM
@@ -263,11 +263,11 @@ ectropion:
       dissect graft with scissors
         take only skin
       close the donor site
-        running 6-0 nylon
+        running 6–0 nylon
         a locking center bite helps with tension
-      place 6-0 vicryl cardinal sutures at the graft corners
+      place 6–0 vicryl cardinal sutures at the graft corners
         graft-to-host
-      run the 6-0 vicryl around the whole graft
+      run the 6–0 vicryl around the whole graft
       tape the lid traction sutures to the forehead
       chloramphenicol ointment
       pressure dressing over the graft
@@ -331,7 +331,7 @@ ectropion:
             pain management
               oxycodone 5 mg tablets
               postherpetic neuralgia
-                gabapentin 100-300 mg tds
+                gabapentin 100–300 mg tds
                 nortriptyline
                 capsaicin
           60+ year-old patients should have the zoster vaccine
@@ -439,7 +439,7 @@ lagophthalmos
     lubricants
     moisture goggles
     gold weight
-      0.6-1.6 g
+      0.6–1.6 g
       test by taping above the tarsus
       ideally just allows full closing but still permits opening
     tarsorrhaphy
@@ -515,7 +515,7 @@ lid laceration
     toothed forceps
       0.12 if possible (otherwise 0.3 or 0.5)
     Westcott scissors
-    6-0 Vicryl
-    6-0 Prolene or nylon // optional
+    6–0 Vicryl
+    6–0 Prolene or nylon // optional
     Chlorsig ointment
     eye pad + paper tape

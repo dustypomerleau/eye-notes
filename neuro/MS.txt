@@ -177,7 +177,7 @@ MS
       neurology referral if there are neurologic symptoms
         they can decide on a scan
         /*
-        see Petrushkin H et al. Intermediate uveitis and multiple sclerosis: to scan or not to scan. Br J Ophthalmol. 2015;99(12):1591-1593.
+        see Petrushkin H et al. Intermediate uveitis and multiple sclerosis: to scan or not to scan. Br J Ophthalmol. 2015;99(12):1591–1593.
         */
     ALSO:
       pattern VEP
@@ -203,7 +203,7 @@ treatment
     this increases to 3/4 if they have 1+ white-matter lesions on MRI
     oral steroids double the risk of recurrence
     IVMP 1 g daily x 3 d followed by oral prednisone 1 mg/kg x 11 d
-      sped recovery by 1-2 weeks but didn't change outcomes
+      sped recovery by 1–2 weeks but didn't change outcomes
 
   systemic drugs for MS
     interferon-beta

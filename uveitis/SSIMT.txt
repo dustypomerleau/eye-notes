@@ -25,9 +25,9 @@ before starting SSIMT
           folate analog antimetabolite
         dose
           adults
-            15-25 mg po/week
+            15–25 mg po/week
           kids
-            0.5-0.8 mg po/kg/week
+            0.5–0.8 mg po/kg/week
           + folic acid 1 mg po daily
             usually given as 5 mg po q week in a single dose
             give folic acid the day after methotrexate
@@ -44,8 +44,8 @@ before starting SSIMT
               easiest is Mosteller
                 BSA = sqrt(height (cm) x weight (kg)/3600)
             for uveitis
-              10-20 mg/m2
-                20-40 mg/m2 is possible but atypical
+              10–20 mg/m2
+                20–40 mg/m2 is possible but atypical
           oral absorption is not as good as parenteral
             oral absorption is ~ 30%
             parenteral absorption is nearly 100%
@@ -65,12 +65,12 @@ before starting SSIMT
           LFT
           FBC
           UEC
-          @ 0, 4, & q 8-12 weeks
+          @ 0, 4, & q 8–12 weeks
       mycophenolate
         mechanism
           blocks a key enzyme in DNA synthesis
         adults
-          1-1.5 g po bd
+          1–1.5 g po bd
         kids
           600 mg/m2 po suspension bd
         side effects
@@ -86,7 +86,7 @@ before starting SSIMT
       cyclosporine
         mechanism
           calcineurin inhibitor that blocks IL2 synthesis
-        2-4.5 mg/kg/day split bd
+        2–4.5 mg/kg/day split bd
         side effects
           kidneys
             including 2˚ HTN
@@ -117,7 +117,7 @@ before starting SSIMT
               need to discuss it with the patient
         infliximab
           the TNFI we have the most experience with
-          3-10 mg/kg SC q 2 weeks
+          3–10 mg/kg SC q 2 weeks
             can start as low as 20 mg SC q 2 weeks in kids
           keep the patient on methotrexate
             it potentiates the effect of infliximab
@@ -150,7 +150,7 @@ intermediate uveitis
 Jabs prednis(ol)one regimen
   1 mg/kg/d 60- mg max
     60+ mg greatly increases the risk of ischemic necrosis of bone
-  taper after 2-4 weeks
+  taper after 2–4 weeks
     if you can't taper
       SSIMT
   goal
@@ -169,13 +169,13 @@ Jabs prednis(ol)one regimen
     Hawthorne effect
       measured behavior is modified behavior
   taper
-    60-40 -10 mg/(week OR 2 days if rapid)
-    40-20 -5 mg
-    20-10 -2.5 mg
-    10- -2.5-1 mg
+    60–40 -10 mg/(week OR 2 days if rapid)
+    40–20 -5 mg
+    20–10 -2.5 mg
+    10- -2.5–1 mg
 
 monitoring SSIMT
-  bloods 4-6 weeks
+  bloods 4–6 weeks
 
 start SSIMT at diagnosis
     COMMON:
@@ -195,7 +195,7 @@ choice of agent
 
 mycophenolate
   mycophenolate mofetil AKA Cellcept
-    2-3 g daily
+    2–3 g daily
       divided bd
     diarrhea
       less if you ramp up slowly

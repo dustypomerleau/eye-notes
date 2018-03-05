@@ -75,9 +75,9 @@ ERG interpretation
           from flash onset to peak OR trough of the waveform
         ~ normal values
           a-wave max
-            15-25 ms
+            15–25 ms
           b-wave max
-            30-50 ms
+            30–50 ms
     separating rod and cone responses
       rods are 3-log more sensitive than cones
       cones recover faster than rods
@@ -360,7 +360,7 @@ bullseye maculopathy DDx
           early hyperBAF glow -> late hypoBAF
         OCT
         HVF
-          24-2 + 10-2 if possible
+          24–2 + 10–2 if possible
           SITA Fast protocols are OK for screening if
             patients are fatiguing
             there is no known toxicity
@@ -643,7 +643,7 @@ retinal dystrophy panel (NGS)
     AIPL1
     ALMSI
     ASCC3L1/SNRNP200
-    BBS1-7, 9-13, 15-17
+    BBS1–7, 9–13, 15–17
     BEST1
     C1QTNF5
     C2orf71
@@ -766,12 +766,12 @@ Ashkenazi Jewish panel
     CLRN1-N48K
     DHDDS-K42E
     MAK-K429insAlu
-    FAM161A-c.1355-6delCA
+    FAM161A-c.1355–6delCA
     FAM161A-c.1567C>T
     LCA5-Q279X
     PCDH15-R245X
-    CACNA2D4-delExon17-26
-    TRPM1-delExon2-7
+    CACNA2D4-delExon17–26
+    TRPM1-delExon2–7
 
 anterior segment dysgenesis panel
   950 USD
@@ -793,7 +793,7 @@ anterior segment dysgenesis panel
 Bardet-Biedl syndrome panel (NGS)
   1500 USD
   16 genes
-    BBS1-16
+    BBS1–16
 
 blue cone monochromatism panel (NGS)
   500 USD

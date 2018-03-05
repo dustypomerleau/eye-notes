@@ -104,7 +104,7 @@ preseptal and orbital cellulitis:
     conjunctival injection
     gaze restriction
       motility
-      evaluate for CN[3-6]P
+      evaluate for CN[3–6]P
     fever
     leukocytosis
 
@@ -190,7 +190,7 @@ preseptal and orbital cellulitis:
         Aspergillus & mucor
           transfer to the ICU
           urgent CT with contrast
-            GFR 30-60 mL/minute/1.73 m2
+            GFR 30–60 mL/minute/1.73 m2
               volume expansion with saline before contrast
             GFR 30-
               no contrast

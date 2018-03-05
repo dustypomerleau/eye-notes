@@ -37,7 +37,7 @@ toxoplasmosis
       no evidence that any treatment regimen improves outcomes
       probably reasonable to treat in macula-threatening cases
       options
-        Bactrim DS (trimethoprim/sulfamethoxazole 160/800) bd x 4-6 weeks
+        Bactrim DS (trimethoprim/sulfamethoxazole 160/800) bd x 4–6 weeks
           avoid in sulfa allergy
           RARELY: causes SJS
         atovaquone 750 mg qid

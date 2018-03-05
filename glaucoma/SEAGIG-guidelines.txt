@@ -68,7 +68,7 @@ SEAGIG guidelines // full guidelines are very detailed and not covered here
       in reality
         pneumotonometry is probably superior
           but not widely available
-      3-6 mm Hg is the normal diurnal variation
+      3–6 mm Hg is the normal diurnal variation
         peaks on the 10s
           1000
           2200
@@ -76,7 +76,7 @@ SEAGIG guidelines // full guidelines are very detailed and not covered here
           0400
           1600
       variable IOP?
-        phase them from 0800-1600 every 2 hours
+        phase them from 0800–1600 every 2 hours
     CCT
     conj
       follicles
@@ -168,7 +168,7 @@ SEAGIG guidelines // full guidelines are very detailed and not covered here
     30% IOP reduction
       moderate+ VF loss
       perfect treatment would match episcleral venous pressure
-        7-12 mm Hg
+        7–12 mm Hg
     20% IOP reduction
       early VF loss
       OHTN 30+ mm Hg + suspicious disc

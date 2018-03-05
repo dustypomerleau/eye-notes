@@ -5,8 +5,8 @@ wavelengths for retinal imaging
 //... a stub for future expansion
 
   fluorescein molecule
-    peak excitation 480-490
-    peak transmission 520-530
+    peak excitation 480–490
+    peak transmission 520–530
 
   ICG molecule
     peak excitation 805
@@ -35,8 +35,8 @@ wavelengths for retinal imaging
   fundus camera
     red-free
       excite with white light OR
-      excite with 535-585 exciter filter for FAF if you have it
-      530-560 BP filter
+      excite with 535–585 exciter filter for FAF if you have it
+      530–560 BP filter
         analog film through a BP filter
         monochrome digital sensor
         full-color digital sensor through a BP filter
@@ -49,10 +49,10 @@ wavelengths for retinal imaging
         // similar options exist for FFA, FAF, ICG
     FFA
       excite 490
-      530-560 BP filter
+      530–560 BP filter
     FAF
-      excite 535-585
-      605-715 BP filter
+      excite 535–585
+      605–715 BP filter
     ICG // not sure of exact wavelengths for any given product
       excite ~ 805
       BP filter centered ~ 835
@@ -76,7 +76,7 @@ FFA times
     vessels are at their brightest
     ~ 30 seconds
   mid-phase AKA recirculation phase
-    ~ 2-4 minutes
+    ~ 2–4 minutes
     veins and arteries roughly equal in brightness
     slow fade in all tissues
     many docs will call these images "lates"
@@ -105,12 +105,12 @@ SDOCT
 //... incorporate into above
 
 OCT
-  2-5 µm resolution
-  1-2 mm penetration
+  2–5 µm resolution
+  1–2 mm penetration
 
   obel.ee.uwa.edu.au/research/oct/intro
 
-  3-12 mm Bscan length
+  3–12 mm Bscan length
   26k-100k Ascans/sec
 
 

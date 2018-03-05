@@ -18,7 +18,7 @@ Purtscher and Purtscher-like retinopathy DDx
   genetic
     AD CADASIL // see abbreviations.txt
       most common inherited stroke disorder
-      40-50 year-olds with a family history
+      40–50 year-olds with a family history
       migraines -> TIAs -> CVAs
       exam
         arteriolar narrowing
@@ -132,7 +132,7 @@ OIS
   carotid ultrasound
     OIS generally requires 90+% stenosis
     NASCET
-      CEA for 70-99% stenosis
+      CEA for 70–99% stenosis
   consult
     GP
     vascular surgeon

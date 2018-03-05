@@ -42,7 +42,7 @@ acid and alkali burns
       3
         total epi defect
         corneal haze obscuring iris
-        4-6 CH limbal ischemia
+        4–6 CH limbal ischemia
       4
         opaque cornea
         6+ CH limbal ischemia
@@ -67,7 +67,7 @@ acid and alkali burns
       12 CH / 100% (6)
 
   treatment
-    irrigate with saline to pH 7.0-7.2
+    irrigate with saline to pH 7.0–7.2
     confirm pH 30 minutes later to ensure no hidden particles
     sweep fornices and evert lids
     check pH of the fellow eye to ensure no involvement
@@ -89,7 +89,7 @@ acid and alkali burns
         chelates Ca
         inhibits neutrophils
       oral pain medication
-    Follow every 1-2 days.
+    Follow every 1–2 days.
       monitor
         IOP
         epi defect

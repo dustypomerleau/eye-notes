@@ -27,7 +27,7 @@ type 3
   IgM
   soluble antigen
   erythema and edema
-  3-8 hours
+  3–8 hours
   examples
     lupus
     farmer's lung disease
@@ -37,7 +37,7 @@ type 4
   no antibodies
     T-cell mediated
   tissues and organs act as antigen
-  2-3 days
+  2–3 days
   erythema and induration
   examples
     PPD

@@ -75,9 +75,9 @@ ET DDx
 
   accomodative ET
     usually older
-      0.5-7 years
+      0.5–7 years
     classic presentation
-      1-2 year-old
+      1–2 year-old
       high hyperopia ~ 4 D
       starts intermittently
       progresses to constant ET
@@ -114,7 +114,7 @@ ET DDx
           fusion at all distances
           angle 10- ∆ at near
         update glasses periodically
-          hyperopia increases for 5-7 years
+          hyperopia increases for 5–7 years
       miotics
         poorly tolerated
         rarely used
@@ -124,7 +124,7 @@ ET DDx
           i.e. residual ET at distance when fully corrected
         if they do need surgery
           don't delay it
-          allow 1-2 weeks for glasses to work
+          allow 1–2 weeks for glasses to work
           if no better -> OT
           operate on largest near angle with full correction
           BL MR recessions
@@ -414,7 +414,7 @@ ET DDx
                 isolated CN6P is really the same as the face turn example above
               if there is no evidence of the first 5 syndromes of CN6P
                 i.e. 6th syndrome AKA isolated CN6P
-                scan within 1-2 months
+                scan within 1–2 months
                   in an adult with ischemic demographics
                     you can wait a bit longer
                     still expect improvement of ischemic CN6P in 12 weeks

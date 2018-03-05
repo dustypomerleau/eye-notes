@@ -156,7 +156,7 @@ anterior and intermediate uveitis DDx
         JIA
           for diagnosed JIA patients that haven't developed uveitis
             oligoarthritis
-              1-4 joints affected over 6 months
+              1–4 joints affected over 6 months
               follow q 3 months x 2 years then q 6 months
             polyarthritis
               5+ joints affected over 6 months

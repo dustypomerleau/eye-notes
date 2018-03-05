@@ -58,7 +58,7 @@ DES
         standard regimen
           warm compresses
           lid hygiene
-          ± doxy 50-100 mg bd
+          ± doxy 50–100 mg bd
         IPL
           visible light + IR
           eliminates telangiectasias by coagulating RBCs
@@ -135,7 +135,7 @@ DES
         100% of adults have some on their face
           role in blepharitis is debated
         feed at night on skin and sebum
-        live 2-3 weeks total
+        live 2–3 weeks total
           start as larvae in the glands
           about 1 week as adults
         types
@@ -344,7 +344,7 @@ RCES
       PTK
   PTK
     remove epithelium
-    excimer laser removes 5-10 µm of BL
+    excimer laser removes 5–10 µm of BL
     BCTL
     Chlorsig drops
     FML

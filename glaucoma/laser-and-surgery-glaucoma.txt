@@ -25,7 +25,7 @@ glaucoma laser
         Ritch LTP lens
         50 µm spot size
         100 ms duration
-        400-1000 mW
+        400–1000 mW
           increase intensity until blanching or a small bubble forms
         placed @ junction of pigmented and nonpigmented trabecular meshwork
         ~ 50 burns per 180˚
@@ -33,10 +33,10 @@ glaucoma laser
       postoperative
         apraclonidine 0.5% immediately after treatment
       IOP check
-        1-3 hours
+        1–3 hours
         POD 1
       topical steroid
-        qid x 4-7 days
+        qid x 4–7 days
       re-evaluation
         1 week
         6 weeks
@@ -71,7 +71,7 @@ glaucoma laser
             particularly in pigmentary glaucoma or heavy pigmented angles
       postoperative
         NSAIDs OR a mild steroid
-      25+% reduction @ 3-6 months is an excellent response
+      25+% reduction @ 3–6 months is an excellent response
       short duration relative to the thermal relaxation time of the tissue
         essentially no thermal damage
         hence the repeatability
@@ -126,7 +126,7 @@ glaucoma laser
         100+ mW to start
           can be increased considerably
         ~ 20 spots in an iris crypt
-    YAG 2-10 mJ to punch through
+    YAG 2–10 mJ to punch through
       start 5- mJ
       3- pulses/burst
         lens damage is possible @ 2+ mJ/pulse
@@ -159,8 +159,8 @@ glaucoma laser
         allows you to see the effect in the angle
     settings
       spot size 400+ µm
-      duration 300-500 ms
-      power 300-500+ mW
+      duration 300–500 ms
+      power 300–500+ mW
     treat far periphery
       with direct Abraham lens
         may need to overlap the limbus with the spot
@@ -189,7 +189,7 @@ glaucoma laser
       hold parallel to the visual axis
         depress slightly for full contact
     duration 4 seconds
-    1200-2200 mW
+    1200–2200 mW
       titrate just below the level of an audible pop
     ~ 12 burns per 180˚
       18- burns total
@@ -221,9 +221,9 @@ glaucoma surgery
       dissection with angled crescent
         into clear cornea
       open the sides of the flap with the 15˚
-    MMC 0.5 mg/mL for 2-5 minutes
+    MMC 0.5 mg/mL for 2–5 minutes
       concentration can be varied
-        0.3-0.5 mg/mL
+        0.3–0.5 mg/mL
         maximum is '0.5 for 5'
       hold the limbal margin of the conj away from the MMC
       remove and irrigate
@@ -235,7 +235,7 @@ glaucoma surgery
       1 mm posteriorly is plenty
       more than that risks CB bleeding
     SPI with forceps and iris scissors
-    10-0 nylon flap closure
+    10–0 nylon flap closure
       ± 4-throw adjustable knots
       Khaw technique
         permanent sutures at the corners
@@ -244,14 +244,14 @@ glaucoma surgery
     irrigate AC with BSS and check flow
       adjust knots or add sutures as needed
     running/locking conj closure to limbus
-      9-0 vicryl
+      9–0 vicryl
       can recess in a 1/2 thickness corneal groove
       Khaw technique
         small purse string at each corner
         single horizontal x 3 across the middle
           in through the groove
           underside to topside
-            ± 1-2 pursestring bites for corners
+            ± 1–2 pursestring bites for corners
           topside to underside
           out through the groove
     seidel to ensure closure is watertight
@@ -266,7 +266,7 @@ glaucoma surgery
     place plate in position beneath muscles
     suture plate to sclera
     tie off tube
-      7-0 vicryl
+      7–0 vicryl
       2 mm from the plate OR
       'rip-cord' suture
     cut tube
@@ -274,16 +274,16 @@ glaucoma surgery
       4 mm beyond the limbus
     paracentesis and deepen the AC
       ± OVD if needed
-    enter AC at the limbus with a 23-25 g needle
+    enter AC at the limbus with a 23–25 g needle
     pass tube into AC
     suture to sclera
-      couple of 9-0 nylon stitches
+      couple of 9–0 nylon stitches
     fenestrate the anterior portion of the tube at several points
     cover with scleral patch graft
-      anchor graft with 10-0 nylon
+      anchor graft with 10–0 nylon
     close conjunctiva
       running/locking closure
-      9-0 vicryl
+      9–0 vicryl
     seidel to ensure closure is watertight
     deepen AC
     remove traction suture

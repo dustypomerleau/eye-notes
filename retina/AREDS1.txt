@@ -64,7 +64,7 @@ statistically significant when adjusted for age, sex, race, AMD category and
 baseline smoking status.
 
 OR for ACE/Zn versus placebo in prevention of progression to NVAMD (for
-category 3 and 4) was 0.62 (99% CI 0.43-0.9 p = 0.001), BUT OR for progression
+category 3 and 4) was 0.62 (99% CI 0.43–0.9 p = 0.001), BUT OR for progression
 to central GA for the same group straddled 1 and was not statistically
 significant. The discussion section of the paper implies that this was because
 less than half as many people developed GA in the study so it just wasn't
@@ -76,13 +76,13 @@ progression to NVAMD or GA only for the vision loss primary outcome.
 "In an analysis restricted to participants in Catego- ries 3 and 4, whose
 vision loss was more likely to be asso- ciated with progression of AMD, the
 combination of anti- oxidants plus zinc statistically significantly reduced
-the odds of visual acuity loss (OR, 0.73; 99% CI, 0.54-0.99). There are trends
+the odds of visual acuity loss (OR, 0.73; 99% CI, 0.54–0.99). There are trends
 that favor treating with zinc alone or antioxi- dants alone but no
 statistically significant differences. Com- parisons between the group taking
 the combination of an- tioxidants plus zinc with the groups taking either zinc
 or antioxidants were not statistically significant but favor the combination
-arm (combination versus zinc alone: OR, 0.88; 99% CI, 0.65-1.18; combination
-versus antioxidants alone: OR, 0.86; 99% CI, 0.63-1.16) (data not shown). An
+arm (combination versus zinc alone: OR, 0.88; 99% CI, 0.65–1.18; combination
+versus antioxidants alone: OR, 0.86; 99% CI, 0.63–1.16) (data not shown). An
 analysis ad- justed for age, sex, race, AMD category, and baseline smoking
 status did not materially alter the size or direction of these OR estimates."
 

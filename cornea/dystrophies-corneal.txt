@@ -30,9 +30,9 @@ corneal dystrophies
           micropuncture // out of favor - see details in OSD.txt
           diamond burr polishing
             debride epithelium with a blade or spear first
-            go 1 direction 10-15 seconds total across whole corneal surface
+            go 1 direction 10–15 seconds total across whole corneal surface
           PTK
-            usually 5-10 µm ablation
+            usually 5–10 µm ablation
     AD Meesmann
       mutation in the keratin gene
       juvenile presentation

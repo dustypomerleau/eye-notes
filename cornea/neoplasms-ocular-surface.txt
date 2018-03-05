@@ -42,7 +42,7 @@ ocular surface neoplasia
       MMC OR 5FU OR interferon alpha 2b
         COMMON: MMC 0.04% qid
         interferon alone requires a long course
-          6-12 months
+          6–12 months
         chemoreduction very toxic
           may need 1 week on 1 week off
           risks

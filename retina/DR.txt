@@ -55,7 +55,7 @@ antiVEGF in PDR
           Does this make PRP look better than it should?
           consider fellow eye effect
     2 groups
-      PRP over 1-3 visits
+      PRP over 1–3 visits
       Lucentis q 4 weeks x 3 OR until NV resolved, then prn
         treated for visible NV on exam or photos
         rescue PRP allowed at the investigator's discretion
@@ -389,7 +389,7 @@ DME
   it.
 
   PBS VA criteria for Eylea and Lucentis initial DME therapy // AU only
-    6/48-6/9
+    6/48–6/9
   */
   BOULEVARD (2017 P2) // pipeline
     bispecific Ab (Roche RG7716)
@@ -478,7 +478,7 @@ asymmetric DR
     10/250 patients assessed had 2+ 'stages' of difference in DR
       classification was Ballantyne (1946)
         remember this predates the DRS
-        stages 3-5 are all PDR (!)
+        stages 3–5 are all PDR (!)
 
 /*
 "Based upon the retinal changes in 178 diabetics, BALLANTYNE (1946) divided

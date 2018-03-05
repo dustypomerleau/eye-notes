@@ -48,7 +48,7 @@ non-rhegmatogenous SRF DDx
           start methotrexate OR mycophenolate at the same time as steroids
             even with SSIMT
               patients often require 10+ mg prednisolone x 6+ months
-            but try to taper off steroids in 4-8 weeks
+            but try to taper off steroids in 4–8 weeks
               monitor
                 symptoms
                 VA
@@ -109,9 +109,9 @@ expansile gases
   air
     nonexpansile
     half-life 1 day
-    PR volume 0.5-1 mL
+    PR volume 0.5–1 mL
   SF6
-    expands 2-2.5x @ 100%
+    expands 2–2.5x @ 100%
     isoexpansile @ 18%
     PR volume 0.5 mL
   C3F8

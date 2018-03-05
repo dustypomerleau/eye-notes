@@ -26,8 +26,8 @@ pediatric glaucoma
             13+ at any age
           may be easiest to think of both ends in terms of ranges
             normal
-              birth 9-11
-              1+ years old 10-13
+              birth 9–11
+              1+ years old 10–13
         ± corneal clouding
       buphthalmos
         a bluish hue can tip you off if the sclera is stretched thin
@@ -69,7 +69,7 @@ pediatric glaucoma
           very good safety profile in children
           watch for inflammation
         systemic CAI can be added to topical
-          Diamox 10-20 mg/kg/d
+          Diamox 10–20 mg/kg/d
           watch for hypokalemia and metabolic acidosis
     surgery
       can be done at the same time as EUA
@@ -174,8 +174,8 @@ pediatric glaucoma
           10- mm @ 2 YO
           may be easiest to think of both ends in terms of ranges
             normal
-              birth 9-11
-              1+ years old 10-13
+              birth 9–11
+              1+ years old 10–13
         may need lens extraction for chronic PACG
           very difficult in a shallow chamber
           may need a posterior approach

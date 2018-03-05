@@ -79,7 +79,7 @@ IOFB
     infection versus sterile inflammation
 
   surgical timing
-    1-3 weeks probably best
+    1–3 weeks probably best
     too early
       clot not liquefied
     too late
@@ -107,7 +107,7 @@ IOFB
       IV antibiotics
         IV vancomycin + ceftazidime 1 g each q 12 hours OR
         a 4th generation quinolone such as IV moxifloxacin OR
-        po cipro 500-750 mg bd x 7-10 days // common AU protocol
+        po cipro 500–750 mg bd x 7–10 days // common AU protocol
         ± voriconazole 200 mg IV OR po q 12 hours
       CT scan
         IOFB

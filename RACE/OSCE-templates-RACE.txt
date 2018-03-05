@@ -490,7 +490,7 @@ orbit
     'I would like to check corneal sensation.'
   CN[57]
     facial sensation
-      CN5(1-2)
+      CN5(1–2)
     facial movements
   CN2 optic nerve function
     torch
@@ -696,7 +696,7 @@ lids
       'Given the restriction, I would perform forced ductions.'
       'May I have the IOP in upgaze?'
     facial sensation
-      CN5(1-2)
+      CN5(1–2)
   slitlamp
     blepharitis
     flip lids
@@ -893,7 +893,7 @@ motility // see strabismus.txt for more detail
       'Given the restriction, I would perform forced ductions.'
       'May I have the IOP in upgaze?'
       facial sensation
-        CN5(1-2)
+        CN5(1–2)
     convergence
       hold the torch up unlit
     saccades

@@ -83,7 +83,7 @@ multifocal IOL options // AU
 
 toric IOL options // AU
   AcrySof toric (Alcon)
-    ~ 1-4 D at the corneal plane
+    ~ 1–4 D at the corneal plane
   Tecnis toric (AMO)
   AT TORBI bitoric (Zeiss)
     same plate haptic as the AT LISA
@@ -196,7 +196,7 @@ reducing unhappy toric patients
       same site as Barrett toric calculator and post-KRS IOL calculator
   secondary surgery
     lens adjustment
-      3-8 weeks
+      3–8 weeks
       MRx usually stable by 4 weeks but IOL still mobile
     piggyback lens
       Rayner Sulcoflex series

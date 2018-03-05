@@ -85,14 +85,14 @@ phakomatoses AKA neurooculocutaneous syndromes
             case-series data suggests this also works on retinal lesions
             symptomatic patients only
               pregnancy test first
-              sirolimus 1-4 mg po daily
+              sirolimus 1–4 mg po daily
                 ideally titrate up
-                  1-2 mg po daily
-                  increase to reach serum trough of 5-10 ng/mL
+                  1–2 mg po daily
+                  increase to reach serum trough of 5–10 ng/mL
               primarily aims to stabilize the lesions
                 COMMON:
-                  10-15% reduction in thickness
-                  6-12 months of treatment
+                  10–15% reduction in thickness
+                  6–12 months of treatment
               unlikely to improve vision
             side effects
               COMMON: oral ulcers

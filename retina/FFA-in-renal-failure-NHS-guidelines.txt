@@ -65,7 +65,7 @@ The manufacturer of Anatera 100mg/ml recommends reducing the dose to 250mg in
 dialysed patients (3).
 
  Hemodialysis (HD)
-Fluorescein sodium is highly protein bound (70-80%) (4), which does not favor
+Fluorescein sodium is highly protein bound (70–80%) (4), which does not favor
 removal by HD. However, it has a low molecular weight (MW) and low volume of
 distribution (Vd) (0.5 to 0.8L/kg)(4), which are both characteristics that
 favor removal by HD. Fluorescein sodium is water-soluble which would favor

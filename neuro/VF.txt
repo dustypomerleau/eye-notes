@@ -177,7 +177,7 @@ Goldmann VF
     size
       0-V
     intensity
-      1-4 in 5 dB increments
+      1–4 in 5 dB increments
       a-e in 1 dB increments
     dB are a relative measurement
       1 dB is the brightest light the machine can produce

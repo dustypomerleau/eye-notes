@@ -9,7 +9,7 @@ refractive surgery options
     PRK - scrape only epithelium and allow it to regrow
 
     general guidelines for KRS
-      age 20-60
+      age 20–60
       MRx SE +4 to -9
         max cyl 4- D
       CCT
@@ -119,7 +119,7 @@ KRS complications
     PISK
       check IOP
       usually steroid response
-      COMMON: POD 10-14 onset
+      COMMON: POD 10–14 onset
     dry eye
     unhappy patient
       glare

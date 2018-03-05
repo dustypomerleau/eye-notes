@@ -132,7 +132,7 @@ history
             LP with opening pressure and CSF analysis
               if CSF normal and high opening pressure
                 treat as IIH
-                  Diamox 1 g daily in 2-4 divided doses
+                  Diamox 1 g daily in 2–4 divided doses
                     titrate to a max of 4 g daily
                       may be limited by adverse effects
                         tingling
@@ -318,14 +318,14 @@ optic neuropathy DDx // lengthy list of rare causes below
                 you don't need to clean the middle portion
                 feel the artery and confirm pulsation
                   you don't want to get vein accidentally
-              pass 4-0 vicryl needle backwards under the TA in both sites & tie
+              pass 4–0 vicryl needle backwards under the TA in both sites & tie
                 or you can pass artery forceps under and retrieve the suture
                 2+ cm is best
                 you can tie off tributaries at this point if they are obvious
               cut the TA segment out inside the sutures
                 if it bleeds look for tributaries that must also be tied off
               close the scalp
-                interrupted subcuticular 6-0 vicryl
+                interrupted subcuticular 6–0 vicryl
                 steri strips on the skin
             findings
               lymphocytes
@@ -411,7 +411,7 @@ optic neuropathy DDx // lengthy list of rare causes below
                 AOT malignant lacrimal tumors and mets
                   can be lytic OR hyperostotic
               typically middle-aged women
-              grow 1-3 mm/y
+              grow 1–3 mm/y
               treatment
                 observe if you can
                 if the nerve is functionally compromised you'll need to treat
