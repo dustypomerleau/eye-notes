@@ -108,6 +108,7 @@ CABG - coronary artery bypass graft
 CACD - central areolar choroidal dystrophy
 CACG - chronic angle closure glaucoma
 CAD - coronary artery disease
+CADASIL - cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy
 CAI - carbonic anhydrase inhibitor
 CAR - cancer associated retinopathy
 CAS - clinical activity score

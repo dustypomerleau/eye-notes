@@ -2,19 +2,38 @@
 
 vascular retinopathies
 
-Purtscher and Purtscher-like retinopathy
-  crush injury
-  pancreatitis
-  pancreatic cancer
-  renal failure
-  hematologic malignancies
-  lupus vasculitis
-  long bone fractures
-  orthopedic surgery
-  iatrogenic emboli
-    retrobulbar injection
-    periocular and intradermal steroid injections
-    BOTOX
+Purtscher and Purtscher-like retinopathy DDx
+  inflammatory
+    pancreatitis
+    lupus vasculitis
+  iatrogenic
+    orthopedic surgery
+    iatrogenic emboli
+      retrobulbar injection
+      periocular and intradermal steroid injections
+      BOTOX
+  neoplastic
+    pancreatic cancer
+    hematologic malignancies
+  genetic
+    AD CADASIL // see abbreviations.txt
+      most common inherited stroke disorder
+      40-50 year-olds with a family history
+      migraines -> TIAs -> CVAs
+      exam
+        arteriolar narrowing
+        AV nicking
+        PAMM lesions
+        silent peripheral BRVOs
+      COMMON: white matter infarcts on MRI
+      NOTCH3 mutation on chromosome 19
+    RARELY: TREX1 mutations
+      early-onset lacunar strokes
+  endocrine  
+    renal failure
+  trauma
+    crush injury
+    long bone fractures
 
 Terson syndrome
   COMMON: after ruptured cerebral aneurysm
