@@ -192,7 +192,7 @@ peripheral retinal NV DDx
   genetic
     inherited
       XLD incontinentia pigmenti
-      AD VRC // sometimes called ADVIRC
+      AD VRC AKA ADVIRC
       AD FEVR
       dyskeratosis congenita
         mutations in genes that regulate telomerase
@@ -212,6 +212,19 @@ peripheral retinal NV DDx
           peripheral ischemia
           NV ± VH
           TRDs
+      AR hemophagocytic lymphohistiocytosis
+        excessive lymphocyte production of all types
+          destroys the patient's own bone marrow -> severe anemia
+        multiple genes
+          PRF1
+          UNC13D
+          ...
+        ROP-like retinopathy progressing to macular dragging and TRD
+        infants often survive only a few months
+          progressive paralysis
+          seizures
+          heart and kidney failure
+          coma
   endocrine
     endocrine
       DM // mentioned above as PDR
