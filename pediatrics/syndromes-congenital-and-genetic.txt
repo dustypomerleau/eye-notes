@@ -27,7 +27,8 @@ optic nerve hypoplasia
     Duane
 
 retinal findings and hearing loss
-  Usher syndrome // see dystrophies-retinal.txt
+  rubella
+  VKH
   Susac syndrome
     young patients
     COMMON:
@@ -57,10 +58,9 @@ retinal findings and hearing loss
       ALSO:
         rituximab
         cyclophosphamide
+  Usher syndrome // see dystrophies-retinal.txt
   NF2 // see phakomatoses.txt
     acoustic neuroma
-  rubella
-  VKH
 
 Hurler syndrome
   lysosomal dysfunction -> MPS accumulation
