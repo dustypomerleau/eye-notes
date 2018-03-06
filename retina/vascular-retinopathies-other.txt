@@ -1,5 +1,7 @@
 // https://github.com/dustypomerleau/eye-notes
 
+//  see vasculitis-retinal.txt for inflammatory causes of vascular occlusion
+
 vascular retinopathies
 
 Purtscher and Purtscher-like retinopathy DDx
@@ -192,6 +194,24 @@ peripheral retinal NV DDx
       XLD incontinentia pigmenti
       AD VRC // sometimes called ADVIRC
       AD FEVR
+      dyskeratosis congenita
+        mutations in genes that regulate telomerase
+          breaks telomere maintenance processes
+          many different reported genes
+        multiple inheritance patterns
+          COMMON: XLR
+            DKC1 mutations
+          ALSO:
+            AD
+            AR
+        lacy skin pigmentation on the neck and chest
+        abnormally shaped fingernails and toenails
+        white patches in the mouth AKA oral leukoplakia
+        progressive bone marrow failure -> aplastic anemia
+        exudative vitreoretinopathy AKA Revesz syndrome
+          peripheral ischemia
+          NV ± VH
+          TRDs
   endocrine
     endocrine
       DM // mentioned above as PDR
