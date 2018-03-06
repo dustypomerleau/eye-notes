@@ -29,6 +29,10 @@ RVO
       may not include
         CRVO ocular risk factors
 
+  early CRVO may have very subtle findings
+    DCP provides most of the venous drainage
+    high venous pressure -> 2˚ DCP ischemia -> perivenular 'fern-like' PAMM
+
 
 //
 

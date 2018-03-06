@@ -173,6 +173,7 @@ CXR - chest X ray
 DALK - deep anterior lamellar keratoplasty
 DCCT - Diabetes Control and Complications Trial
 DCG - dacryocystogram
+DCP - deep capillary plexus
 DCR - dacryocystorhinostomy
 DDT - dye disappearance test
 DDx - differential diagnosis
