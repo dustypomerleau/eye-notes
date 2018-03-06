@@ -376,6 +376,18 @@ DME
         Eylea +18
         Lucentis +16
       make of this what you will but it's not overwhelming
+    DRCR data suggests that some patients may respond late
+      persistent DME in
+        76% @ 4 weeks -> 42% @ 24 weeks
+      they suggest treating everyone with at least 6 x 4-weekly injections
+      but keep in mind
+        measurable response + refractory edema ≠ no measurable response
+        usually you will see some objective effect
+          even if the vision is not yet improving
+    expectations
+      all agents combined
+        2/3 gain 10+ letters over 2 years
+        1/3 stay the same (only 2–3% lose vision despite treatment)
   TREX-DME
     treat and extend with 0.3 mg Lucentis ± laser
     treat and extend vision gains are similar to monthly
