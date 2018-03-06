@@ -30,9 +30,33 @@ retinal findings and hearing loss
   Usher syndrome // see dystrophies-retinal.txt
   Susac syndrome
     young patients
-    artery occlusion
-    disc leak
-    Kyrieles plaques
+    COMMON:
+      encephalopathy
+        MRI
+          corpus callosum snowballs
+          deep gray and white matter lesions
+          enhancement of the meninges
+        late
+          cognitive impairment
+          focal neurologic deficits
+      hearing loss
+      artery occlusions
+        COMMON: BRAOs
+    ALSO:
+      disc leak
+      Kyrieles plaques
+    definitive diagnosis must involve all 3 areas
+      eye
+      ear
+      brain
+    treatment
+      COMMON:
+        systemic steroids
+        mycophenolate
+        IVIG
+      ALSO:
+        rituximab
+        cyclophosphamide
   NF2 // see phakomatoses.txt
     acoustic neuroma
   rubella

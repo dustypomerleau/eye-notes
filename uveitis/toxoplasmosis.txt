@@ -6,7 +6,7 @@ toxoplasmosis
     segmental periarteriolar inflammatory plaques AKA Kyrieles plaques
       also occur in
         CMV retinitis
-        Susac syndrome
+        Susac syndrome // see syndromes-congenital...txt
   ALSO:
     punctate inner OR outer retinitis
     papillitis
