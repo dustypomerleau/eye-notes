@@ -9,6 +9,23 @@ pigmented fundus lesion DDx
   nevus
   melanoma
   melanocytoma
+    COMMON: optic nerve
+      symptoms wildly variable
+        COMMON: asymptomatic
+        ALSO:
+          vision loss
+            mild–NPL
+          pain
+            none–severe
+        any combination
+    RARELY:
+      choroid
+      CB
+      2˚ iris seeding
+    2% progress to melanoma
+    RARELY:
+      2˚ RAO
+      2˚ RVO
   simple RPE hamartoma
     RARE
     usually congenital
