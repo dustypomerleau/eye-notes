@@ -495,6 +495,9 @@ investigations
   blood serology
     HTLV-1
     syphilis
+      ALWAYS:
+        perform reflex HIV testing on patients diagnosed with syphilis
+        COMMON: broad immunoassay -> reflex HIV subtype immunoassay
     Lyme
     leptospirosis
     Whipple
