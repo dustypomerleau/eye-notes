@@ -79,7 +79,28 @@ NR DDx
       Toxoplasma
     nematodes
       DUSN
-        including Toxocara
+        COMMON: 
+          young patients
+          poor vision 6/120-
+        subretinal tracks
+        early
+          vitritis
+          retinal vasculitis
+          multifocal retinitis
+        late
+          optic atrophy
+          attenuated vessels
+          focal RPE pigmentary changes
+        many worms have been reported
+          Baylisascaris
+            raccoons
+          Ancylostoma
+          Toxocara
+          ...
+        treatment
+          oral steroids
+          albendazole
+          laser the worm
   inflammatory
     inflammatory
       sarcoid
