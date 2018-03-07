@@ -82,7 +82,7 @@ shortlist
                     Toxoplasma
                       if available
                 check for immunosuppression
-                  HIV Ab
+                  HIV testing
                   FBC
                 if labs consistent with immunosuppression
                   consider PORN or CMV
@@ -153,8 +153,13 @@ shortlist
     bacterial
       COMMON:
         syphilis
-          ALSO: superficial retinal infiltrates
-            respond to oral steroids
+          ALSO:
+            superficial retinal infiltrates
+              respond to oral steroids
+            placoid lesions
+              extensive EZ loss
+                OCT
+                BAF
         TB
           if you suspect pulmonary TB but serial sputum doesn't clarify
             urine PCR + culture can be helpful
