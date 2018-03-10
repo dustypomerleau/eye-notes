@@ -225,6 +225,59 @@ peripheral retinal NV DDx
           seizures
           heart and kidney failure
           coma
+      AD familial amyloidotic polyneuropathy
+        a group of related conditions
+          COMMON: transthyretin (TTR) V30M mutation
+            AKA transthyretin amyloidosis
+            TTR production
+              mostly liver
+              also
+                retina
+                choroid
+          amyloid fibrils accumulate
+            peripheral nerves
+            CNS including eyes
+            heart
+            kidneys
+            GI tract
+          any combination of
+            central neuropathy
+              stroke
+              cerebral hemorrhage
+              ataxia
+              spastic paralysis
+              dementia
+              eye disease
+                COMMON:
+                  dry eyes
+                    reduced TBUT
+                    reduced Schirmer values
+                  amyloid deposits
+                    iris
+                    lens
+                    vitreous
+                  scalloped iris
+                ALSO:
+                  glaucoma
+                  abnormal conjunctival vessels
+                  retinal angiopathy
+                    IRH
+                    peripheral ischemia
+                    VH
+            peripheral neuropathy
+              sensory loss
+              parasthesias
+              impotence
+            autonomic dysfunction
+              blood pressure
+                COMMON: orthostatic hypotension
+                ALSO: hypertension
+              heart
+                arrhythmias
+                cardiomegaly
+              digestion
+                diarrhea
+                constipation
   endocrine
     endocrine
       DM // mentioned above as PDR
