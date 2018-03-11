@@ -547,6 +547,9 @@ carrier female findings
   XLR choroideremia
     COMMON: peripheral pigmentary change
     ALSO: choroidal atrophy
+    RARELY:
+      X-inactivated (lyonized) carrier female
+      severe choroideremia phenotype
 
 midperipheral and peripheral CRA
   infectious
@@ -564,6 +567,13 @@ midperipheral and peripheral CRA
     AR gyrate atrophy
     AR Bietti crystalline dystrophy
     XLR choroideremia
+      mutations in the CHM gene
+        encodes Rab escort protein-1 AKA REP-1
+          directs proteins + organelles in intracellular trafficking
+        intracellular protein stasis -> cell death
+        affects both retina + choroid
+        140+ mutations reported
+      night blindness -> peripheral field loss -> late adult central vision loss
     XLR BCM
     mitochondrial CPEO
     mitochondrial MELAS
