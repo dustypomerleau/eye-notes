@@ -526,6 +526,15 @@ investigations
     ACE + lysozyme
       sarcoid
         value debateable
+        not very sensitive
+          40% of sarcoid patients have a normal ACE
+        only moderately specific
+          ACE elevations are common
+            DM
+            other granulomatous diseases
+            liver disease
+              COMMON: alcoholics
+        40% higher in healthy kids than in healthy adults
     HLA-B27
       B27-associated uveitis
         ± SS
