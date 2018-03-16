@@ -126,6 +126,112 @@ before starting SSIMT
             20 mg IM q 2 weeks
           heavier than that
             40 mg IM q 2 weeks
+          studies
+            VISUAL1
+              217 patients
+              uncontrolled noninfectious uveitis
+                intermediate
+                posterior
+                panuveitis
+              diagnoses
+                idiopathic (37%)
+                birdshot
+                VKH
+                sarcoid
+                Behcet
+                MC ± P
+                other (10%)
+              active disease despite 2+ weeks prednisone
+              1 other form of SSIMT was allowed at trial entry
+                these were continued during the trial
+                  azathioprine 175- mg/d
+                  cyclosporine 4- mg/kg/d
+                  methotrexate 25- mg/week
+                  mycophenolate 2- g/d
+                30% of patients were on at least 1 of these
+              1:1 randomization
+                adalimumab 80 mg followed by 40 mg every 2 weeks (subcutaneous)
+                placebo injection (subcutaneous)
+              all patients
+                prednisone taper (each line represents 1 week)
+                  60 mg (study entry)
+                  60 mg
+                  50 mg
+                  40 mg
+                  30 mg
+                  20 mg
+                  15 mg
+                  12.5 mg
+                  10 mg
+                  7.5 mg
+                  5 mg
+                  4 mg
+                  3 mg
+                  2 mg
+                  1 mg
+                  stop (week 15)
+              85 weeks of follow-up
+              intention-to-treat analysis
+                1˚ outcome: treatment failure at 6+ weeks
+                  failure = any one of:
+                    new inflammatory lesions
+                    10+ AC WBC/HPF
+                      more than SUN 0.5+
+                    2-step increase in AC WBC (SUN)
+                    vitreous haze (blurring optic nerve or retinal vessels)+
+                      more than SUN 0.5+
+                    2-step increase in vitritis (SUN)
+                    15+ letter loss of ETDRS BCVA
+                2˚ outcomes:
+                  ∆ AC WBC grade
+                  ∆ vitreous haze grade
+                  ∆ BCVA
+              Humira patients did better
+                half as likely to fail treatment
+                on average failed later
+                  24 weeks versus 13 weeks in the placebo group
+                Humira slightly outperformed placebo in 2˚ outcomes
+              Humira patients had twice as many (serious) adverse events
+                mostly 2˚ infections
+                  including 1 case of TB
+                1 patient had demyelinating disease
+                1 patient had a 2˚ tumor (glioblastoma multiforme)
+            VISUAL2
+              229 patients
+              corticosteroid-dependent quiescent disease
+              disease controlled on 10-35 mg/d prednisone
+              Humira versus placebo while tapering prednisone
+              protocol was similar to VISUAL1 but results were less impressive
+                including
+                  steroid taper
+                  concomitant SSIMT allowed
+              20 months of follow-up
+              treatment failure
+                placebo 55%
+                Humira 39%
+              adverse events were much less common than VISUAL1
+                fewer opportunistic infections
+                1 Humira patient with cancer (SCC)
+            VISUAL3
+              extension trial of 424 patients from VISUAL1 + VISUAL2
+                including treatment failures
+              all patients were put on Humira
+              78 weeks of follow-up
+              ~ 1/3 of patients never achieved quiescence
+              ~ 1/5 were back on some dose of prednisone
+                recall this was not allowed in VISUAL1 + VISUAL2
+              safety
+                over all 3 trials
+                  ~ 4 serious infections per 100 person-years of Humira
+                    TB is excluded because these are likely pre-existing
+                  5 episodes of demyelination
+                    includes 2 cases of optic neuritis
+                  4 deaths
+                    investigators felt they were unrelated
+                      brain abscess (judged possibly related)
+                      pancreatic cancer
+                      B-cell lymphoma
+                      trauma
 
 
 // Thanks to Doug Jabs, who provided much of the information below.
