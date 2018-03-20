@@ -389,3 +389,21 @@ EFEMP1
     radiating pattern of drusen
   NOTE: don't listen to people who treat these as different diseases
     there is a continuum of phenotypes and the names predate genetics
+
+
+//
+
+
+non-AMD CNV phenotypes
+
+myopic CNV
+  a completely different antiVEGF response pattern
+    RADIANCE (2014)
+      Lucentis versus PDT for myopic CNV in 222 patients over 1 year
+      2 groups
+        PDT at baseline and Lucentis prn after month 3
+        Lucentis monthly x 3 at baseline and then prn after month 3
+      PDT patients caught up once they were put on Lucentis, but did no better
+      patients required ~ 4 Lucentis injections over 1 year
+      VA gains of ~ 10–15 letters on average
+      NOTE: 4/5 patients required no additional injections from 1–4 years
