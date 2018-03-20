@@ -55,12 +55,19 @@ CSC
     adrenal tumor
       e.g. pheochromocytoma
     ACTH-secreting pituitary adenoma
-  chronic CSC associated with polyps
+  testosterone supplementation
   OCT
     SRF
       may be turbid
     SR fibrin
     PED
+      may be vascularized
+      Jay Duker's OCTA data // ASRS 2017
+        flat irregular PEDs
+          40+% vascularized
+        domed serous PEDs
+          5-% vascularized
+      chronic CSC is associated with polyps
     choroidal thickening
   FFA
     expansile dot AKA ink blot
