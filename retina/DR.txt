@@ -379,6 +379,11 @@ DME
     DRCR data suggests that some patients may respond late
       persistent DME in
         76% @ 4 weeks -> 42% @ 24 weeks
+        post hoc analysis // 2018 publication
+          twice as many Avastin patients had persistent DME at 24 weeks
+          since fewer Eylea patients had persistent DME
+            it makes sense to switch persistent cases
+            but we don't actually have head-to-head switch data
       they suggest treating everyone with at least 6 x 4-weekly injections
       but keep in mind
         measurable response + refractory edema ≠ no measurable response
@@ -388,6 +393,27 @@ DME
       all agents combined
         2/3 gain 10+ letters over 2 years
         1/3 stay the same (only 2–3% lose vision despite treatment)
+  DRCR-U
+    116 patients with persistent DME despite 3+ Lucentis injections
+    randomized
+      Lucentis only
+      Lucentis + Ozurdex
+    both groups got Lucentis 4-weekly based on criteria
+      ETDRS score 84- (~ 6/7.5)
+      OCT CST > predefined cutoff
+        different cutoffs depending on age + sex
+      fairly aggressive criteria
+        we can assume most patients were treated
+    weeks 12–20
+      the Ozurdex group could be retreated a 2nd time
+      same criteria as antiVEGF
+    1˚ outcome was ∆ VA over 24 weeks
+    Ozurdex patients did no better than Lucentis alone
+      OCT was thinner but ∆ VA was similar
+      1/4 Ozurdex patients had a 10+ mm Hg IOP spike
+      0 Lucentis only patients had an IOP spike
+      follow-up was too short for much comment on cataract
+        3 patients in the Ozurdex group had CEIOL right after the study
   TREX-DME
     treat and extend with 0.3 mg Lucentis ± laser
     treat and extend vision gains are similar to monthly
