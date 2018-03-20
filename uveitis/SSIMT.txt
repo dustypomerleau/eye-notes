@@ -232,6 +232,14 @@ before starting SSIMT
                       pancreatic cancer
                       B-cell lymphoma
                       trauma
+        before starting TNFIs
+          Qgold
+            TB is not an absolute contraindication to TNFI
+            full TB treatment first
+            then very close monitoring
+          in intermediate uveitis
+            ALWAYS: MRI to assess for MS
+            TNFI will worsen demyelinating disease
 
 
 // Thanks to Doug Jabs, who provided much of the information below.
