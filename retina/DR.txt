@@ -46,6 +46,12 @@ frequency of screening exams for DR
       3 months
     intervals are designed to catch both DME and progression to PDR
 
+pipeline metrics
+  OCTA foveal acircularity index // Rosen et al.
+    a measure of ischemia
+    increases with capillary dropout at the borders of the FAZ
+    appears to correlate with VA in diabetics
+
 antiVEGF in PDR
   DRCR-S (2015)
     305 patients with PDR
