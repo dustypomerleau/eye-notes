@@ -227,10 +227,44 @@ shortlist
           Baylisascaris procyonis
         treatment
           laser the worm
-      Toxocara
+      Toxocara (canis OR catis)
+        COMMON:
+          unilateral
+          children
+          ocular
+            COMMON: single larva causes a granuloma
+            ALSO: panuveitis
+              vitritis
+              periphlebitis
+            RARELY: isolated anterior uveitis
+        ALSO: visceral
+          abdominal pain
+          headache
+          cough
+          organ involvement
+            brain
+            heart
+            muscle
+        diagnosis
+          COMMON: appearance + serum IgG
+            ELISA with reflex western blot
+          ALSO: aqueous or vitreous IgG
+        treatment
+          if active
+            antihelminthics
+              albendazole
+                10 mg/kg/d x 5 days
+              thiabendazole
+              mebendazole
+            ± corticosteroids
+              oral
+              topical
+              periocular
+          aggressive peripheral granulomas
+            cryo
+            laser
     larval
       RARELY: ophthalmomyiasis
-
   inflammatory
     inflammatory
       sarcoid
