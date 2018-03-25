@@ -93,6 +93,7 @@ BMES - Blue Mountains Eye Study
 BO - base out
 BoY - blue on yellow
 BP - blood pressure
+BR - blue reflectance
 BRAF - the protooncogene encoding B raf protein
 BRAFI - BRAF inhibitors (vemurafenib, dabrafenib)
 BRAO - branch retinal artery occlusion

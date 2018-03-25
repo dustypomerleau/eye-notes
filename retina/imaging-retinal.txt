@@ -22,7 +22,7 @@ wavelengths for retinal imaging
     BR
       excite 488
       no filter?
-    FAF
+    BAF
       excite 488
       521- wide BP filter
     ICG
@@ -31,6 +31,20 @@ wavelengths for retinal imaging
     FFA
       excite 488
       filter?
+    acquisition focus
+      for Spectralis modalities that are blue-dominated
+        such as
+          false multicolor
+          BR
+          BAF
+          FFA
+        defocus -0.5 to -1 D
+      for Spectralis modalities that are red-dominated
+        such as
+          IR
+          OCT
+          ICG
+        place the image in focus
 
   fundus camera
     red-free
