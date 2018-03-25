@@ -449,6 +449,7 @@ NF - neurofibromatosis
 NFL - nerve fiber layer
 NGS - next generation sequencing
 NHL - nonHodgkin lymphoma
+NHS - (United Kingdom) Natiional Health Service
 NIR - near infrared
 NMO - neuromyelitis optica
 NOVL - nonorganic visual loss

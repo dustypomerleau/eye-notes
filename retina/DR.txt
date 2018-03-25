@@ -80,6 +80,27 @@ antiVEGF in PDR
       Lucentis 4%
     numbers for NVI, NVG, VH were low and similar between groups
     1/2 of the Lucentis group improved 2+ steps on the DRSS (!)
+  CLARITY (2017)
+    232 UK NHS patients
+    randomized
+      baseline PRP
+      baseline Eylea q 4 weeks x 3 and then prn active NV
+    previous injections were allowed
+    1˚ outcome: ETDRS BCVA
+      Eylea was superior to PRP by 4 letters over 1 year with strong stats
+    2˚ outcomes:
+      Pelli Robson contrast sensitivity
+        no difference between the groups
+      low-luminance VA
+        no difference between the groups
+      number of missed points on Esterman VF
+        PRP group did much worse
+          confirms that PRP causes meaningful VF loss
+      DME by OCT and FFA
+        only a couple patients developed DME
+        both in the PRP group
+    mean of 4–5 injections in the Eylea group
+      similar numbers when comparing untreated to previously treated patients
 
 DME
   first described
