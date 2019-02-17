@@ -197,8 +197,10 @@ zonular dehiscence
         iris claw
         iris fixated
         scleral fixated
-          Bausch and Lomb Akreos AO60
-            may replace the Alcon CZ70BD in your arsenal
-            see paper
+          sutured
+            Bausch and Lomb Akreos AO60
+              allows smaller incision than the Alcon CZ70BD and 4-point fixation
+          scleral tunnel
+            Zeiss CT Lucia 602 has strong haptics for this
     stain for vitreous with triamcinolone
       anterior vitrectomy if needed
