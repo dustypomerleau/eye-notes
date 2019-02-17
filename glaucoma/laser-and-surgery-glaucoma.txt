@@ -64,6 +64,7 @@ glaucoma laser
             nonpigmented angles
               0.8+ mJ
         ~ 50 confluent burns per 180˚
+          many studies use a range of 60–80 spots/treatment
       360 treatment
         compared to 180
           drops IOP more

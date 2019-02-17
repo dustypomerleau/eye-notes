@@ -1101,6 +1101,30 @@ macular dystrophy panel
           desferrioxamine
             iron chelator
         paraneoplastic vitelliform lesions
+          paraneoplastic antibody panels are offered by Mayo clinic
+            helpful to rule out
+              PAIR
+                including paraneoplastic VMD
+              paraneoplastic autoimmune optic neuropathy
+              ischemic scleritis secondary to paraneoplastic vasculitis
+            looks at 4 autoantibody classes
+              neuronal nuclear
+                ANNA-[1–3]
+              anti-glial neuronal nuclear
+                AGNA-1 AKA Sox1
+              neuronal and muscle cytoplasmic
+                PCA-[1, 2, Tr]
+                CRMP-5
+                amphiphysin
+                striational
+              plasma membrane
+                cation channel
+                calcium channel
+                potassium channel
+                nicotinic acetylcholine receptor
+                  neuronal
+                  muscle
+            has reflex panels for further differentiation of positives
 
 tuberous sclerosis AKA Bourneville disease panel
   650 USD

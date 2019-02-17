@@ -481,7 +481,7 @@ optic neuropathy DDx // lengthy list of rare causes below
           breast
           lung
           melanoma
-      paraneoplastic ON
+      paraneoplastic ON // see Mayo clinic panel in dystrophies-retinal.txt
         COMMON: lung
         ALSO: CAR with ON
 
