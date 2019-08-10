@@ -101,6 +101,22 @@ antiVEGF in PDR
         both in the PRP group
     mean of 4–5 injections in the Eylea group
       similar numbers when comparing untreated to previously treated patients
+  Safety
+    Maloney et al., Ophthalmology (2019)
+      23_000+ DME patients, retrospective
+        13_000+ macular laser
+        9_000+ antiVEGF
+      no difference in rates of
+        CVA
+        TIA
+        MI
+        embolism
+        major bleeding event
+          GI
+          intracranial
+          other (not specified)
+      slight increase in rates of all-cause hospital admission
+        HR 1.17 (95% CI 1.05–1.30, p = 0.01)
 
 DME
   first described
