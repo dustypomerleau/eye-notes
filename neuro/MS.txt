@@ -191,7 +191,9 @@ MS
           for calculating the IgG index
       serum IgG and albumin
         for calculating the IgG index
-
+      atypical optic neuritis biomarkers
+        aquaporin-4 antibody (AQP4)
+        myelin oligodendrocyte glycoprotein antibody (MOG)
 
 //
 
@@ -204,6 +206,13 @@ treatment
     oral steroids double the risk of recurrence
     IVMP 1 g daily x 3 d followed by oral prednisone 1 mg/kg x 11 d
       sped recovery by 1–2 weeks but didn't change outcomes
+  if there are atypical optic neuritis biomarkers
+    retrospective studies suggest IVMP within 3 days of onset improves final VA
+    messy data: some patients also received plasmapheresis
+    timing problem
+      AQP4 and MOG take 1-2 weeks to appear
+      so in practice this would mean treating all optic neuritis with IVMP
+      waiting on prospective data
 
   systemic drugs for MS
     interferon-beta
