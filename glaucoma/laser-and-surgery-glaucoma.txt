@@ -72,6 +72,9 @@ glaucoma laser
             particularly in pigmentary glaucoma or heavy pigmented angles
       postoperative
         NSAIDs OR a mild steroid
+          qid x 5 days
+          may improve IOP outcomes @ 12 weeks
+            SALT trial
       25+% reduction @ 3–6 months is an excellent response
       short duration relative to the thermal relaxation time of the tissue
         essentially no thermal damage
