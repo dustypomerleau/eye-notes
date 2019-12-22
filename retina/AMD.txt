@@ -8,6 +8,14 @@ AMD
     AREDS2 vitamins increase iron absorption
       avoid in iron storage diseases
         hemochromatosis
+  SDD
+    COMMON: associated with RAP lesions
+    5 times as likely to progress to GA
+    1-2 times as likely to progress to CNV
+      AREDS2 data
+        found no increased risk of CNV with SDD
+        controlling for fellow eye CNV eliminated the perceived increase 
+
 
   histopathology // 'Brooke blind! Basement BLAM!'
     Bruch
