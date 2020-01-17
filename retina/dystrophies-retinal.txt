@@ -1100,6 +1100,8 @@ macular dystrophy panel
             sometimes combined with BRAF inhibitors
           desferrioxamine
             iron chelator
+          PPS (pentosan polysulfate sodium)
+            intravesical treatment for interstitial cystitis
         paraneoplastic vitelliform lesions
           paraneoplastic antibody panels are offered by Mayo clinic
             helpful to rule out
