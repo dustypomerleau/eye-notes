@@ -680,6 +680,15 @@ TB therapy
       rifampin
       ethambutol
       pyrazinamide
+    WHO recommends
+      8 weeks of 4-drug therapy
+      16 weeks of 2-drug therapy
+        isoniazid
+        rifampin
+    but there is no consensus on treating intraocular TB
+      BROADLY:
+        6-12 months of treatment
+        less than half of doctors use oral steroids
   latent TB
     4 approved regimens
     various doses of
