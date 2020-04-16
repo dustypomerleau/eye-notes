@@ -855,6 +855,7 @@ cone > rod dystrophy panel (NGS)
     CNGB3
     CNNM4
     CRX
+      pre-genetic terminology includes Adult-onset macular dystrophy
     GUCA1A
     GUCY2D
     KCNV2
@@ -1060,6 +1061,8 @@ macular dystrophy panel
           breakdown of vitelliform material
             can mimic CNV
           late atrophy
+            pregenetic terminology for the atrophic stage includes
+              benign concentric annular macular dystrophy AKA BCAMD
       adult vitelliform DDx
         AMD
         VMT
