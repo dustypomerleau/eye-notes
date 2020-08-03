@@ -95,7 +95,7 @@ choroidal melanoma
         http://impactgenetics.com/
       Castle Biosciences
         http://castlebiosciences.com/
-      University of Pennsylvania 
+      University of Pennsylvania
         https://www.med.upenn.edu/genetics/gdl/UvealMelanoma.shtml
 
 combined hamartoma of the retina and RPE
@@ -181,6 +181,7 @@ choroidal granuloma
             hyperreflective when consolidated
         late ORA and CRA
         2˚ CNV
+    ICG shows blocking lesions
     BSUS
       high surface reflectivity
       low IR
@@ -222,5 +223,3 @@ torpedo maculopathy
       inner retina should be continuous over the lesion
         AOT a coloboma
   observe
-
-
