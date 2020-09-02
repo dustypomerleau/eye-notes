@@ -50,3 +50,13 @@ ROP
     zone 2 + ROP
       follow weekly for stage 3 ROP
       otherwise follow every 2 weeks
+    more detailed criteria for screening
+      G-ROP study of CHOP ROP criteria (2017)
+        main criteria
+          birth weight (g)
+          daily weight gain (g/d)
+          gestational age (weeks)
+        requires a logistic regression formula
+          examine infants with probability 0.014+
+        nomograms are available which approximate this
+        not popular in practice due to complexity
