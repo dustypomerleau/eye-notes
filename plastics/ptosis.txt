@@ -368,7 +368,7 @@ ptosis exam
         ALWAYS: drop both eyes
           you are making a comparison of responses
           post-drop measurements should be taken in a well-lit room
-        cocaine 4%
+        cocaine 4-5% (classically 4, but often 5)
           prevents NE reuptake
           will fail to dilate any Horner patient
             they aren't producing NE
