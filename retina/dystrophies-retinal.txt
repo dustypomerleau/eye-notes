@@ -188,6 +188,31 @@ ERG interpretation
           light-adapted b-wave
           OPs
 
+ERG is also abnormal in autoimmune retinopathy
+  photopsia
+  night blindness
+  blind spots
+    COMMON: central
+  color vision abnormalities
+  essential criteria
+    no other cause
+      rule out
+        infection
+        uveitis
+        drug
+        genetic
+    abnormal ERG
+      HVF can be normal
+    antiretinal antibodies
+  supportive criteria
+    autoimmune disease or family history
+    photopsias
+    blind spots
+    night blindness
+    light sensitivity
+    color vision abnormalities
+    fast onset 6- months
+
 VEP interpretation
   clinical uses
     optic neuritis
