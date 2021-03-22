@@ -94,6 +94,8 @@ ptosis
             when returning to primary from 15+ seconds of downgaze
           weak OOM
             unable to resist forced eyelid opening
+          variable ptosis + intermittent diplopia
+            MG until proven otherwise
           clinical tests
             Tensilon (edrophonium) test
               dose
