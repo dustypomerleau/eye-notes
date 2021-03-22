@@ -40,6 +40,9 @@ ERG interpretation
                 negative ERG
               severe cases
                 nystagmus
+              treatment
+                dorzolamide 2%
+                  may reduce the cystoid spaces
             myotonic dystrophy
               /*
               see also
