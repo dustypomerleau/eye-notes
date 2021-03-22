@@ -91,7 +91,7 @@ combined ERD + suprachoroidal effusion
     NSOI
     BROADLY: uveitis
   iatrogenic
-    inflammation 2˚ cryo
+    inflammation 2° cryo
   vascular
     vascular
       malignant HTN
@@ -123,9 +123,9 @@ expansile gases
     PR volume 0.3 mL
   PR arc of contact
     final bubble size
-      0.3 mL gives 90˚ contact
-      1 mL gives 120˚ contact
-      3.0 mL gives 180˚ contact
+      0.3 mL gives 90° contact
+      1 mL gives 120° contact
+      3.0 mL gives 180° contact
 
 AD Wagner syndrome
   RARE
@@ -139,7 +139,7 @@ AD Wagner syndrome
       fibrillary vitreous core
       peripheral vitreous veils
       progressive chorioretinal degeneration
-      2˚ TRD
+      2° TRD
     ALSO:
       myopia
       cataract

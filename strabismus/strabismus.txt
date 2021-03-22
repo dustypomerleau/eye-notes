@@ -328,7 +328,7 @@ cover testing
 
   cover-uncover
     perform in 5 positions at 6 m
-    then in 1˚'
+    then in 1°'
     this is really 2 tests
       cover
         watch fellow eye
@@ -350,9 +350,9 @@ cover testing
 
     if the deviation is incomitant and you suspect a palsy
       check
-        1˚ deviation
+        1° deviation
           good eye fixating
-        2˚ deviation
+        2° deviation
           paretic eye fixating
 
   special cover testing for X(T) // XT.txt
@@ -373,8 +373,8 @@ look for
   (prism + cover)
     quantify only the tropia
       endpoint is no movement
-    1˚
-    1˚'
+    1°
+    1°'
     4 gazes
     may not need this test on the OSCE
       generally you wouldn't operate on this angle
@@ -385,8 +385,8 @@ look for
     quantify the maximum deviation
       some describe this as phoria + tropia
       really it's just semantics
-    1˚
-    1˚'
+    1°
+    1°'
     4 gazes
 
   (prism under cover)-alternate cover
@@ -423,7 +423,7 @@ test ductions and versions
       (+1)-(+4) can be redundant if you've documented upshoots/downshoots
         but as always there are some fanboys that love them
       grading
-        unable to move from 1˚ (-4)
+        unable to move from 1° (-4)
         unable to make it 1/4 of the way into the field of gaze (-3)
         unable to make it 1/2 of the way into the field of gaze (-2)
         sclera is just visible (-1)
@@ -506,8 +506,8 @@ abbreviated binocularity testing in an infant
           synoptophore also good for distance stereopsis testing
     Bagolini lenses
       test over patient's glasses
-      135˚ right
-      45˚ left
+      135° right
+      45° left
       assuming NRC "Bagolini axed the vet!"
         X -> V = ET
         X -> A = XT
@@ -589,7 +589,7 @@ abbreviated binocularity testing in an infant
       add a little BU ∆ to separate them
         arrow marks prism base on a trial frame lens
       have the patient rotate until they are parallel
-      read the difference in ˚
+      read the difference in °
     synoptophore
   prism fusion range
     usually in CN4P

@@ -294,7 +294,7 @@ immune keratitis
         ESR
         CRP
         HLA-B27
-      address 2˚ Sjogren DES
+      address 2° Sjogren DES
       address corneal melt
         collagenase inhibitors
           topical acetylcysteine
@@ -302,7 +302,7 @@ immune keratitis
       address underlying disease
         rheumatology consult
         SSIMT
-          the 1˚ treatment of PUK is systemic
+          the 1° treatment of PUK is systemic
           topical steroids are just an adjunct
       reconstructive keratoplasty
         only once the underlying disease is well controlled OR
@@ -312,7 +312,7 @@ immune keratitis
           mark the region and cut a template from plastic sheeting
           cut the outline partial thickness
             an adjustable-depth LRI diamond knife is great if available
-            15˚ blade can be used as well
+            15° blade can be used as well
             in cases where a round button is suitable the trephine is an option
           lamellar dissection with an angled crescent blade
             to remove diseased tissue and prepare the host bed

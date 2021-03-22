@@ -14,7 +14,7 @@ exam
     acuity
     pupils
     IOP
-      1˚ versus upgaze
+      1° versus upgaze
     color
     anterior uveitis
     hyphema
@@ -60,7 +60,7 @@ treatment
   urgent repair
     bradycardia
   repair 1–2 weeks (max 4 weeks)
-    diplopia in 1˚ + positive forced ductions
+    diplopia in 1° + positive forced ductions
     large fracture
       1/2+ the orbital floor
     enophthalmos 2+ mm

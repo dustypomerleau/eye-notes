@@ -101,7 +101,7 @@ full arsenal
       NAPA
       both go up to 3 D
       in practice don't try to correct 1.5+ D astigmatism with LRI
-        2 x 60˚ (2 CH) incisions
+        2 x 60° (2 CH) incisions
     online calculator from AMO
       takes cataract wound into account
       http://www.lricalculator.com/
@@ -150,7 +150,7 @@ reducing unhappy toric patients
     a minority of surgeons intentionally leave a touch of with-the-rule
   corneal topography
     make sure the head is straight in the machine
-    10˚ tilt loses 1/3 of the toric's effect
+    10° tilt loses 1/3 of the toric's effect
     posterior corneal astigmatism
       probably the cause of most "lenticular astigmatism"
       usually steep in the vertical meridian

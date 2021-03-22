@@ -64,7 +64,7 @@ DES
           eliminates telangiectasias by coagulating RBCs
           not clear that it actually helps MGD
         Lipiflow
-          40˚ C + compression
+          40° C + compression
           strong subjective benefit
           not much clinically visible change
         Blephex
@@ -86,7 +86,7 @@ DES
             spin @ 3000 RPM x 15 minutes
             dilute supernatant to 20% with BSS
             filter
-            store up to 3 months @ -20˚ C
+            store up to 3 months @ -20° C
             refrigerate and use within a week
               don't push it they are easily contaminated
           may inhibit MMPs
@@ -232,7 +232,7 @@ neurotrophic keratopathy DDx
           ICE AKA crystal meth (purest)
             TVOs
               probably vascular in origin
-            OSD with 2˚ corneal ulceration
+            OSD with 2° corneal ulceration
             retinal vasculitis
             crystalline retinopathy
               reported in a patient who snorted
@@ -377,8 +377,8 @@ topical medication toxicity
       in some ointments
 
 Sjogren syndrome
-  1˚ Sjogren syndrome
-  2˚ Sjogren syndrome
+  1° Sjogren syndrome
+  2° Sjogren syndrome
     COMMON:
       lupus
       RA

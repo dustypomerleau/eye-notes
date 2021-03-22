@@ -171,15 +171,15 @@ ET DDx
   Duane1 syndrome
     8/10 Duane syndrome are Duane1
       Duane1
-        usually ET in 1˚
+        usually ET in 1°
         head turn to the affected side
         usually has near-normal adduction
       Duane2
-        usually XT in 1˚
+        usually XT in 1°
         head turn to the normal side
         usually has near-normal adduction
       Duane3
-        can be straight, ET, XT in 1˚
+        can be straight, ET, XT in 1°
         head turn to the affected side
         poor adduction
     all Duane is some form of CN3 innervation of the LR

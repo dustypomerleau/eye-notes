@@ -31,7 +31,7 @@ RVO
 
   early CRVO may have very subtle findings
     DCP provides most of the venous drainage
-    high venous pressure -> 2˚ DCP ischemia -> perivenular 'fern-like' PAMM
+    high venous pressure -> 2° DCP ischemia -> perivenular 'fern-like' PAMM
 
 
 //

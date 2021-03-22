@@ -625,7 +625,7 @@ lids
     measure the ptosis
       lift the fellow lid
         MRD1 + 2
-        fissure height in 1˚
+        fissure height in 1°
           distant target
       levator function
         'Look down, please.'
@@ -919,7 +919,7 @@ motility // see strabismus.txt for more detail
         don't do any binocularity testing
       infantile ET?
         check for monofixation
-      eyes appear straight in 1˚?
+      eyes appear straight in 1°?
         Worth lights
         Bagolini
         synoptophore // some tests useful with manifest strab also
@@ -945,4 +945,3 @@ motility // see strabismus.txt for more detail
         mass effect
         venous congestion
       fundus excyclotorsion
-

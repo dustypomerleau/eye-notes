@@ -31,7 +31,7 @@ CN4P
     traumatic cases
       significant inciting event
       much more torsion than congenital cases
-        limit of tolerance is about 10˚
+        limit of tolerance is about 10°
           measure
             double maddox rods
             synoptophore
@@ -47,7 +47,7 @@ CN4P
     consider if
       alternating HT
       history of trauma
-      10+˚ excyclotorsion on DMR
+      10+° excyclotorsion on DMR
       V pattern ET 25+ ∆ in downgaze
         look for chin down posture
   to rule out CN4P in the setting of CN3P
@@ -81,7 +81,7 @@ CN4P
           as far as the SR insertion allows
         can combine HI with fellow eye SO tuck
           to correct large torsions
-          to correct a large HT in 1˚
+          to correct a large HT in 1°
           SO tuck has a risk of an induced Brown syndrome
 
   5 syndromes of CN4P
@@ -180,7 +180,7 @@ CN3P
     high amblyopia risk
       top concern after getting the scan is amblyopia
     surgery
-      goal is 1˚ position alignment and no amblyopia
+      goal is 1° position alignment and no amblyopia
       options
         max LR recession
         detaching LR and fixating to the orbital wall
@@ -397,7 +397,7 @@ CCDD
       mask-like facies
       limb hypoplasia
       orofacial defects
-      1˚ gaze is variable
+      1° gaze is variable
         ET
         XT
         ortho
@@ -444,7 +444,7 @@ Brown syndrome
       spacer may have lower incidence of postop IOOA
         you can recess the IO to reduce postop IOOA but this isn't common
       surgical indications
-        manifest HT in 1˚
+        manifest HT in 1°
         AHP
         cosmesis
       don't do surgery if you don't have to
@@ -475,7 +475,7 @@ orbital fracture // see also fractures-orbital.txt
     vertical diplopia
       usually in floor fractures
       upgaze is limited by entrapment
-        affected eye hypotropic in 1˚
+        affected eye hypotropic in 1°
       downgaze is limited by weakening of the entrapped muscle
         leads to the so-called "double diplopia"
     infraorbital anesthesia
@@ -487,7 +487,7 @@ orbital fracture // see also fractures-orbital.txt
       acuity
       pupils
       IOP
-        1˚ versus upgaze
+        1° versus upgaze
       color
       anterior uveitis
       hyphema

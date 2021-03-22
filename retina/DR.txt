@@ -30,7 +30,7 @@ DR grading (ETDRS)
     new vessels
   high-risk PDR
     1/4+ disc of NVD OR
-    VH/PRH 2˚ NV
+    VH/PRH 2° NV
 
 frequency of screening exams for DR
   based on DCCT data // see NEJM 376(16)
@@ -86,9 +86,9 @@ antiVEGF in PDR
       baseline PRP
       baseline Eylea q 4 weeks x 3 and then prn active NV
     previous injections were allowed
-    1˚ outcome: ETDRS BCVA
+    1° outcome: ETDRS BCVA
       Eylea was superior to PRP by 4 letters over 1 year with strong stats
-    2˚ outcomes:
+    2° outcomes:
       Pelli Robson contrast sensitivity
         no difference between the groups
       low-luminance VA
@@ -450,7 +450,7 @@ DME
     weeks 12–20
       the Ozurdex group could be retreated a 2nd time
       same criteria as antiVEGF
-    1˚ outcome was ∆ VA over 24 weeks
+    1° outcome was ∆ VA over 24 weeks
     Ozurdex patients did no better than Lucentis alone
       OCT was thinner but ∆ VA was similar
       1/4 Ozurdex patients had a 10+ mm Hg IOP spike

@@ -21,11 +21,11 @@ pigmented fundus lesion DDx
     RARELY:
       choroid
       CB
-      2˚ iris seeding
+      2° iris seeding
     2% progress to melanoma
     RARELY:
-      2˚ RAO
-      2˚ RVO
+      2° RAO
+      2° RVO
   simple RPE hamartoma
     RARE
     usually congenital
@@ -157,7 +157,7 @@ choroidal osteoma
     PDT
       any SRF
     antiVEGF
-      SRF 2˚ CNV
+      SRF 2° CNV
 
 choroidal granuloma
   COMMON:
@@ -183,7 +183,7 @@ choroidal granuloma
           consolidate with treatment
             hyperreflective when consolidated
         late ORA and CRA
-        2˚ CNV
+        2° CNV
     ICG shows blocking lesions
     BSUS
       high surface reflectivity

@@ -575,7 +575,7 @@ postop
     bullae
       intact
       ruptured
-        watch for 2˚ infectious keratitis
+        watch for 2° infectious keratitis
     treatment
       hypertonic saline 5%
       Chlorsig prophylaxis
@@ -792,7 +792,7 @@ high IOP after CEIOL
   AC inflammation
   retained lens
   retained OVD
-  pupillary block or 2˚ angle closure
+  pupillary block or 2° angle closure
     e.g. with piggyback lenses
 
 hypotony during cataract surgery

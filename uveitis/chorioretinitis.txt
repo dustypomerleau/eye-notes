@@ -133,7 +133,7 @@ shortlist
         rubella
           CR RARE
         SSPE
-          2˚ measles
+          2° measles
         WNV
         ZIKV
           mosquito-borne Flavivirus

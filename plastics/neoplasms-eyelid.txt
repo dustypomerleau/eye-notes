@@ -151,7 +151,7 @@ DDx
             least reliable but most convenient
             depends on the skill of your local pathologist at reading these
         surgical repair
-          1˚ closure
+          1° closure
             best if the lesion is small enough
             orient closure along the laugh lines
           FTSG
@@ -199,8 +199,8 @@ DDx
 lid reconstruction
   at least one of the lamellae must be local
   ladder
-    1˚ repair (25-% of lid margin)
-    1˚ repair with canthotomy and cantholysis
+    1° repair (25-% of lid margin)
+    1° repair with canthotomy and cantholysis
     Tenzel semicircular flap
       too large a flap will round the canthus
     upper lid:

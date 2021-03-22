@@ -2,7 +2,7 @@
 
 neuroretinitis
   probably more accurate to say ODEMS // optic disc edema with a macular star
-    the macular star is really a 2˚ effect of disc swelling
+    the macular star is really a 2° effect of disc swelling
     but neuroretinitis is the most recognized term
       some suggest using neuroretinitis only for infectious causes
         but none of your colleagues will adhere to this
@@ -79,7 +79,7 @@ NR DDx
       Toxoplasma
     nematodes
       DUSN
-        COMMON: 
+        COMMON:
           young patients
           poor vision 6/120-
         subretinal tracks

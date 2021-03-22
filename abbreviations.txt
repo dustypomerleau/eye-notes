@@ -3,7 +3,7 @@
 (+) - preferred over (>), e.g. 'age 40+,' not 'age > 40'
 (-) - preferred over (<), e.g. 'vision 6/12-,' not 'vision < 6/12'
 (V|AV|L)M - venous, arteriovenous, or lymphatic malformation
-(˚) - degrees, OR after a number: primary (1˚), secondary (2˚), and so on
+(°) - degrees, OR after a number: primary (1°), secondary (2°), and so on
 (∆) - prism, prism diopters, change
 5FU - 5 fluorouracil
 AACG - acute angle closure glaucoma
@@ -752,4 +752,3 @@ XT - exotropia
 YAG - yttrium aluminum garnet (usually Neodymium doped AKA Nd3+:YAG) laser
 YO - years old
 ZIKV - Zika virus
-

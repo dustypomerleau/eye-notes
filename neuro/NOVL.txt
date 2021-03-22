@@ -3,13 +3,13 @@
 nonorganic visual loss
 
 malingering implies intentional and willful misleading
-  usually for 2˚ gain
+  usually for 2° gain
 somatoform disorders occur without the patient's knowledge
 factitious disorders involve intentionally producing symptoms
   lying about symptoms
   self injury
   altering tests e.g. contaminating a urine sample
-  not done for 2˚ gain
+  not done for 2° gain
 don't bother trying to subclassify NOVL
   determining secondary gains and motivations is difficult
   best to simply say nonorganic and be done with it
@@ -47,7 +47,7 @@ approach to NOVL
     organic causes can mimic psychiatric conditions and NOVL
       CVAs
       CNS tumors
-  consider 2˚ causes of NOVL
+  consider 2° causes of NOVL
     physical OR sexual abuse
     specific stressful life events
     undiagnosed psychiatric illness
@@ -182,5 +182,5 @@ testing
         testing with both eyes open should eliminate the hemianopia
       saccade testing
         a patient with true VF loss has trouble accurately saccading
-          place 1 finger in 1˚ and another in the area of field loss
+          place 1 finger in 1° and another in the area of field loss
           the patient with NOVL will saccade accurately to finger 2

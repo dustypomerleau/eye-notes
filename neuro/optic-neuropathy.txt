@@ -83,7 +83,7 @@ history
         CT also good when MRI is not available quickly
       MRV
         DVST
-          can be 2˚
+          can be 2°
             infectious meningitis
             Behcet disease
             hypercoagulable states
@@ -99,7 +99,7 @@ history
         LP
           IIH
             NOTE: specifically request opening pressure
-            can be 2˚
+            can be 2°
               DAMS
                 excessive vitamin A
                 steroid withdrawal
@@ -154,12 +154,12 @@ history
                       HA is the major quality of life issue in IIH
                         topiramate is helpful
                     refractory cases
-                      if HA is the 1˚ issue
+                      if HA is the 1° issue
                       ± worsening VF
                         CSF diversion procedures
                         VS stenting OR angioplasty
                           despite lack of true DVST in IIH
-                      if vision loss is the 1˚ issue
+                      if vision loss is the 1° issue
                         VF constriction
                         central acuity loss
                         as a general rule

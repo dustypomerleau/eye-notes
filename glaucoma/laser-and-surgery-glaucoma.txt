@@ -28,7 +28,7 @@ glaucoma laser
         400–1000 mW
           increase intensity until blanching or a small bubble forms
         placed @ junction of pigmented and nonpigmented trabecular meshwork
-        ~ 50 burns per 180˚
+        ~ 50 burns per 180°
           3 burn-widths apart
       postoperative
         apraclonidine 0.5% immediately after treatment
@@ -63,7 +63,7 @@ glaucoma laser
               0.3+ mJ
             nonpigmented angles
               0.8+ mJ
-        ~ 50 confluent burns per 180˚
+        ~ 50 confluent burns per 180°
           many studies use a range of 60–80 spots/treatment
       360 treatment
         compared to 180
@@ -169,7 +169,7 @@ glaucoma laser
       with direct Abraham lens
         may need to overlap the limbus with the spot
     avoid TM
-    ~ 16 burns per 180˚
+    ~ 16 burns per 180°
     1+ burn widths apart
     titrate
       visible contraction
@@ -195,7 +195,7 @@ glaucoma laser
     duration 4 seconds
     1200–2200 mW
       titrate just below the level of an audible pop
-    ~ 12 burns per 180˚
+    ~ 12 burns per 180°
       18- burns total
         leave 1 quadrant untreated
           to avoid anterior segment ischemia
@@ -219,12 +219,12 @@ glaucoma surgery
     superior limbal peritomy
       ± radial relaxing incisions
       4 mm scleral flap
-        15˚ blade
+        15° blade
         1/2 thickness
         cut the base of the flap only
       dissection with angled crescent
         into clear cornea
-      open the sides of the flap with the 15˚
+      open the sides of the flap with the 15°
     MMC 0.5 mg/mL for 2–5 minutes
       concentration can be varied
         0.3–0.5 mg/mL
@@ -234,7 +234,7 @@ glaucoma surgery
     paracentesis and deepening of the AC
       ± OVD if needed
       alternative is AC maintainer
-    anterior horizontal incision with 15˚ blade
+    anterior horizontal incision with 15° blade
     enlarge sclerostomy to about 2 mm across with a scleral punch
       1 mm posteriorly is plenty
       more than that risks CB bleeding

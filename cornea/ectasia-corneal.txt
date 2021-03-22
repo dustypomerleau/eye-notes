@@ -155,7 +155,7 @@ corneal ectasia
         won't improve vision
           vision might be briefly worse
         failure to prevent progression
-        2˚ infection
+        2° infection
         stromal haze
         persistent epi defect
         pain to be expected
@@ -223,4 +223,3 @@ cataract surgery in corneal ectasia
       requires stable refraction
       confirm over multiple visits
     very difficult to fit a rigid CTL over a toric IOL
-

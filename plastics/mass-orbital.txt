@@ -241,7 +241,7 @@ orbital mass DDx:
       sarcoid
       NSOI
     autoimmune
-      1˚ or 2˚ Sjogren syndrome
+      1° or 2° Sjogren syndrome
       TED
     vasculitis
       GPA
@@ -462,7 +462,7 @@ treatment
         eyelid - high
   metastatic
     BROADLY:
-      oncology workup if 1˚ not known
+      oncology workup if 1° not known
       observe
       treat systemic CA
         hormonal therapy

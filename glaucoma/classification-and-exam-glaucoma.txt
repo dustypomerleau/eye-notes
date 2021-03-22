@@ -129,13 +129,13 @@ glaucoma classification
           normal VF
         high risk suspect OR moderate POAG
         high risk POAG
-          VF loss within 5˚ of fixation OR
+          VF loss within 5° of fixation OR
           VF defects in both hemifields
   JOAG
   NTG
   OHTN
   glaucoma suspect (regardless of IOP)
-  2˚ OAG
+  2° OAG
     pigmentary glaucoma
       COMMON: myopic males in their 30s+
       ALSO:
@@ -191,12 +191,12 @@ glaucoma classification
           very shallow AC
         trabeculectomy
           GON
-          PAS 180+˚
-            i.e. don't do CEIOL alone with PAS 180+˚
+          PAS 180+°
+            i.e. don't do CEIOL alone with PAS 180+°
             even if the IOP is OK
     PACS AKA occludable angles
       3+ quads of ATM or less
-        some use 180˚ of ATM or less but wouldn't treat until 3+ quads
+        some use 180° of ATM or less but wouldn't treat until 3+ quads
       no PAS
       normal IOP
       treatment
@@ -225,7 +225,7 @@ glaucoma classification
             avoid areas of PAS
         add meds if needed
         if IOP still too high
-          for PAS 180-˚
+          for PAS 180-°
             VS cataract
               CEIOL
             clear lens but very shallow AC
@@ -235,7 +235,7 @@ glaucoma classification
                 MMT
                 repeat ALPI
                 SLT to open angle only
-          for PAS 180+˚
+          for PAS 180+°
             VS cataract
               phacotrab
             clear lens but very shallow AC
@@ -277,7 +277,7 @@ glaucoma classification
         RARELY: tap the AC to break an attack
           use a 30 g needle rather than a paracentesis
         surgery
-          for PAS 180-˚
+          for PAS 180-°
             // all surgery assumes you've waited for a quiet eye
             if IOP is controlled
               VS cataract
@@ -290,9 +290,9 @@ glaucoma classification
                 phacotrab
               clear lens with reasonable AC depth
                 trab alone
-          for PAS 180+˚
+          for PAS 180+°
             // all surgery assumes you've waited for a quiet eye
-            same as PAS 180-˚ except you never do CEIOL alone
+            same as PAS 180-° except you never do CEIOL alone
               phacotrab even if IOP relatively controlled
                 you can tie the sutures tight and lyse them later as needed
         ALWAYS: fellow eye LPI
@@ -300,7 +300,7 @@ glaucoma classification
       if VS cataract OR very shallow AC
         trabeculectomy + CEIOL
 
-  2˚ ACG // based on the AAO guidelines
+  2° ACG // based on the AAO guidelines
     with pupillary block
       intumescent lens
         if ACG has a phacomorphic component
@@ -335,12 +335,12 @@ glaucoma classification
         avoid areas of PAS
 
   PCG
-    glaucoma 2˚ congenital anomalies or diseases
+    glaucoma 2° congenital anomalies or diseases
       // see glaucoma-pediatric.txt
       anterior segment dysgenesis including aniridia
       Sturge-Weber
       NF1
-  children may have 2˚ OAG or ACG similar to causes above
+  children may have 2° OAG or ACG similar to causes above
     inflammation
     retinoblastoma
     trauma
@@ -418,7 +418,7 @@ unilateral glaucoma
       aneurysmal
         Coats
           AC cholesterolosis
-          2˚ NVG
+          2° NVG
       hemorrhagic
         ghost cell glaucoma
     neoplastic
@@ -432,7 +432,7 @@ unilateral glaucoma
         JXG
         Rb
           AC seeding
-          2˚ NVG
+          2° NVG
         leukemia
       metastatic
     DAMS

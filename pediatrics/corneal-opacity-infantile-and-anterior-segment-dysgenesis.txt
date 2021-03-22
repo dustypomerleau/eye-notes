@@ -66,7 +66,7 @@ anterior segment dysgenesis
       poorly differentiated epithelium
     COMMON: iris hypoplasia
       often complete absence
-    COMMON: glaucoma 2˚ abnormal angle tissue
+    COMMON: glaucoma 2° abnormal angle tissue
     lens abnormalities
       COMMON: cataract
         1/2 of cases
@@ -140,8 +140,8 @@ anterior segment dysgenesis
 
 infantile corneal opacity (clouding)
   categories
-    1˚ dystrophies
-    2˚ corneal clouding
+    1° dystrophies
+    2° corneal clouding
       anterior segment dysgenesis
       infection
       glaucoma

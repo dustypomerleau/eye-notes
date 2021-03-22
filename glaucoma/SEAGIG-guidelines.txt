@@ -110,7 +110,7 @@ SEAGIG guidelines // full guidelines are very detailed and not covered here
         high mag
         short slit
         dim slit if possible
-        45˚ slit angle for I + S angles
+        45° slit angle for I + S angles
         then on axis with horizontal slit for T + N angles
       grade
         modified Shaffer

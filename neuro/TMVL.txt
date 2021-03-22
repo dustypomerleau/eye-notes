@@ -132,22 +132,22 @@ TMVL DDx // do not shotgun these tests on exams - be appropriate
   hemodynamic
     postural hypotension
       orthostatic BP
-      1˚
+      1°
         autonomic dysfunction
           autonomic testing
             tilt table
             sweat test
             ...
-      2˚
+      2°
         medications
     hyperviscosity syndromes and hypercoagulable states
       polycythemia
       multiple myeloma
       Waldenstrom
       MGUS
-      1˚ amyloidosis
+      1° amyloidosis
       type 2 mixed cryoglobulinemia
-        COMMON: 2˚ hep C
+        COMMON: 2° hep C
       lupus
         ANA
         ENA
@@ -178,8 +178,8 @@ TMVL DDx // do not shotgun these tests on exams - be appropriate
       not the same as migraine
       based on current understanding
         migraine mechanism is not vasospasm-related
-      1˚
-      2˚
+      1°
+      2°
         long list of conditions // see Petzold (2013)
       episode starts with arteriolar attenuation
         but this can be subtle

@@ -433,7 +433,7 @@ ptosis exam
     re-measure
     Hering may cause you to underestimate ptosis
   MRD2 LL
-  fissure height in 1˚
+  fissure height in 1°
     widest point
     distance fixation
     should be MRD1 + MRD2
@@ -516,7 +516,7 @@ surgical treatment
           check the lid position to make sure you're happy before locking
         goal is to have the lid margin in line with the superior limbus
           lid will sit a touch higher than the actual postoperative result
-            2˚ epinephrine in the anesthetic
+            2° epinephrine in the anesthetic
         trim off excess levator in front of the sutures
         close the OOM
           capture a small bite of the levator to re-form the lid crease

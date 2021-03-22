@@ -54,7 +54,7 @@ create suture holes
     2–3 mm have been described
     sulcus is probably 2.5
   enter parallel to iris plane
-  use 15˚ blade
+  use 15° blade
     internal os is much smaller than an MVR incision
     allows rotation of knot but usually does not need suturing
 open suture
@@ -101,7 +101,7 @@ tie each side
 tuck the knot into the sclera with a tying forcep
   COMMON: use the side that held the trochar
     usually more dilated
-  ALSO: use the side created with 15˚ blade
+  ALSO: use the side created with 15° blade
     you can control how dilated this is when you make it
 trim the ends flush with the sclera
 suture the frownie incision with interrupted 10–0 nylon

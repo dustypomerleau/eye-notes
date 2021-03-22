@@ -33,7 +33,7 @@ TED
       photophobia
     ON signs
       CON
-      ON stretch 2˚ proptosis
+      ON stretch 2° proptosis
 
   smoking
     must quit
@@ -71,9 +71,9 @@ TED
       APD
       VF constriction
         CVF
-    IOP in 1˚ & upgaze
+    IOP in 1° & upgaze
     OSD
-      watch for 2˚ infections
+      watch for 2° infections
     ON appearance
       swelling
       pallor
@@ -124,7 +124,7 @@ EUGOGO
     diplopia
       intermittent
       constant
-      1˚
+      1°
     restriction
     exposure keratopathy or ulceration
     CON
@@ -253,7 +253,7 @@ EUGOGO
         euthyroid x 6 months
         order matters (OSL)
           orbital decompression
-            diplopia in 1˚
+            diplopia in 1°
             severe proptosis despite other treatments
               cosmesis
               exposure

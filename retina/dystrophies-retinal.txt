@@ -182,7 +182,7 @@ ERG interpretation
       only good for cone responses
       hydroxychloroquine
       macular dystrophies
-      hexagonal pattern changing @ 75 Hz across central 50˚
+      hexagonal pattern changing @ 75 Hz across central 50°
       N1
         analogous to a-wave in terms of involved cells
       P1
@@ -234,7 +234,7 @@ VEP interpretation
         3 cd•s/m2 as with ERG
     RARELY: sweep, motion, MFVEP,...
   pattern VEP
-    1˚ and 0.25˚ grid stimuli
+    1° and 0.25° grid stimuli
     prechiasmal and postchiasmal electrodes
     naming of peaks is based on typical mean peak time
       N75
@@ -438,7 +438,7 @@ crystalline retinopathy
         progressive
         moves centrally from the periphery
       nephropathy in juveniles
-        renal disease can cause 2˚ anemia
+        renal disease can cause 2° anemia
       topical and oral cysteamine
     AD snowflake vitreoretinal degeneration
       //...
@@ -516,7 +516,7 @@ sporadic pigmented paravenous retinochoroidal atrophy
   ERG
     low normal or below normal
     rods affected more than cones
-  can be 2˚ AKA pseudoPPRCA
+  can be 2° AKA pseudoPPRCA
     TB
     syphilis
     Behcet
@@ -545,7 +545,7 @@ types of colorblindness
 photophobia in a child (without epiphora)
   // see overlapping DDx for child with nystagmus in nystagmus...txt
   BROADLY: elevated IOP
-    1˚ or 2˚
+    1° or 2°
   BROADLY: uveitis
   albinism
   cone dysfunction

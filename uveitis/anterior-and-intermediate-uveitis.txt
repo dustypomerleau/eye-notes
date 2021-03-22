@@ -119,7 +119,7 @@ anterior and intermediate uveitis DDx
         sarcoid
           of the *many* possible eye manifestations of sarcoid
             COMMON:
-              dry eye from 2˚ Sjogren syndrome
+              dry eye from 2° Sjogren syndrome
               anterior uveitis
             SPECIFIC: millet seed conjunctival granulomas
               COMMON: inferior fornix
@@ -185,7 +185,7 @@ anterior and intermediate uveitis DDx
                 operate early
                 leave them aphakic
                 bifocal aphakic spectacles
-                2˚ IOL after they are quiet
+                2° IOL after they are quiet
             glaucoma in JIA
               if they fail drops
                 tube
@@ -204,7 +204,7 @@ anterior and intermediate uveitis DDx
             diffuse TIN
               lymphocytes all around the tubules
         MS
-        1˚ Sjogren syndrome
+        1° Sjogren syndrome
       vasculitis
         Behcet syndrome
 
@@ -547,10 +547,10 @@ investigations
     ANA
       JIA
       lupus
-      1˚ Sjogren syndrome
+      1° Sjogren syndrome
     ENA
       lupus
-      1˚ Sjogren syndrome
+      1° Sjogren syndrome
         includes
           anti-Ro
           anti-La
@@ -569,7 +569,7 @@ investigations
     WBC casts
       TINU
       BROADLY: interstitial nephritis
-        1˚ Sjogren syndrome
+        1° Sjogren syndrome
         many medications
   LP
     PCNSL
