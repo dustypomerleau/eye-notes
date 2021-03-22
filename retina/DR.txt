@@ -505,6 +505,8 @@ DME
       possible increased risk of bladder cancer
       possible increased risk of cardiovascular events
     glitazone-associated CME generally resolves upon stopping the drug
+  ALSO niacin therapy
+    cystoid spaces do not leak like DME
 
 
 medical therapy
