@@ -57,6 +57,9 @@ choroidal melanoma
     no halo
     orange pigment
     SRF
+    BAF
+      increased BAF is reassuring
+        typical of a nevus
     BSUS
       acoustic hollowness
         nevus is homogeneous
