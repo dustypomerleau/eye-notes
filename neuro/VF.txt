@@ -26,18 +26,18 @@ visual fields
       6/12+ binocular vision
       Esterman binocular VF test
         110˚ horizontally
-          within that 110˚
-            must not have a scotoma within 20˚ of fixation
-              defining a scotoma is left to the doctor
-              presumably contiguous missed points would support a true scotoma
-              a single point could indicate a small scotoma if repeatable
-              no minimum scotoma size is given for guidance
         20˚ vertically
+        unacceptable scotoma
+          cluster of 4 adjoining points touching the central 20˚
+          any point
+            in the central 20˚
+            contiguous with a hemianopia or quadrantanopia
+        single-point-width scotoma is Ok, regardless of the vertical extent
       no diplopia in the central 20˚
 
     conditional private license
       6/24+
-      VF 110˚ x 20˚
+      VF 90˚ x 20˚
       diplopia managed with corrective lenses or an occluder
       subject to periodic review
 
@@ -45,6 +45,7 @@ visual fields
       6/9+ better eye
       6/18+ worse eye
       no VF defects
+        140˚ x 20˚
       no diplopia in the central 20˚
 
     conditional commercial license
@@ -55,6 +56,10 @@ visual fields
         no VF defect that is 'likely to impede driving performance'
       no diplopia in the central 20˚
       subject to periodic review
+
+  sudden unilateral vision loss
+    no driving for 3 months
+    same for diplopia managed with an occluder
 
   legal blindness in AU
     6/60- in the better eye OR
