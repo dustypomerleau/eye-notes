@@ -30,7 +30,7 @@ complete PPV
 frownie incision @ 12
   2 mm from the limbus at the apex
   width appropriate for lens
-    B & L Akreos AO60 (hydrophilic acrylic)
+    B & L Akreos AO (AO60 hydrophilic acrylic, A-constant 118.5)
       4.5 mm
     Alcon CZ70BD (PMMA)
       external 6 mm
