@@ -31,7 +31,9 @@ frownie incision @ 12
   2 mm from the limbus at the apex
   width appropriate for lens
     B & L Akreos AO (AO60 hydrophilic acrylic, A-constant 118.5)
-      4.5 mm
+      +0 to +9 in 1 D steps
+      +10 to +30 in 0.5 D steps
+      4.5 mm incision
     Alcon CZ70BD (PMMA)
       external 6 mm
       internal 7.5 mm
