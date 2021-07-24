@@ -6,193 +6,193 @@ congenital syndromes
 // see dystrophies-retinal.txt
 
 optic nerve hypoplasia
-  isolated
-  septo-optic dysplasia
-    with CC dysgenesis
-  Aicardi syndrome
-    girls
-    CC dysgenesis
-    seizures
-    retinal lacunae
-  aniridia
-    ON hypoplasia is not as common as foveal hypoplasia
-  albinism
-    with foveal hypoplasia
-  topless disc syndrome
-    children of DM1 mothers
-    superior ON hypoplasia
-    CNS otherwise normal
-  RARELY:
-    Goldenhar
-    Duane
+    isolated
+    septo-optic dysplasia
+        with CC dysgenesis
+    Aicardi syndrome
+        girls
+        CC dysgenesis
+        seizures
+        retinal lacunae
+    aniridia
+        ON hypoplasia is not as common as foveal hypoplasia
+    albinism
+        with foveal hypoplasia
+    topless disc syndrome
+        children of DM1 mothers
+        superior ON hypoplasia
+        CNS otherwise normal
+    RARELY:
+        Goldenhar
+        Duane
 
 retinal findings and hearing loss
-  rubella
-  VKH
-  Susac syndrome
-    young patients
-    COMMON:
-      encephalopathy
-        MRI
-          corpus callosum snowballs
-          deep gray and white matter lesions
-          enhancement of the meninges
-        late
-          cognitive impairment
-          focal neurologic deficits
-      hearing loss
-      artery occlusions
-        COMMON: BRAOs
-    ALSO:
-      disc leak
-      Kyrieles plaques
-    idiopathic
-    definitive diagnosis must involve all 3 areas
-      eye
-      ear
-      brain
-    treatment
-      COMMON:
-        systemic steroids
-        mycophenolate
-        IVIG
-      ALSO:
-        rituximab
-        cyclophosphamide
-  Usher syndrome // see dystrophies-retinal.txt
-  NF2 // see phakomatoses.txt
-    acoustic neuroma
+    rubella
+    VKH
+    Susac syndrome
+        young patients
+        COMMON:
+            encephalopathy
+                MRI
+                    corpus callosum snowballs
+                    deep gray and white matter lesions
+                    enhancement of the meninges
+                late
+                    cognitive impairment
+                    focal neurologic deficits
+            hearing loss
+            artery occlusions
+                COMMON: BRAOs
+        ALSO:
+            disc leak
+            Kyrieles plaques
+        idiopathic
+        definitive diagnosis must involve all 3 areas
+            eye
+            ear
+            brain
+        treatment
+            COMMON:
+                systemic steroids
+                mycophenolate
+                IVIG
+            ALSO:
+                rituximab
+                cyclophosphamide
+    Usher syndrome // see dystrophies-retinal.txt
+    NF2 // see phakomatoses.txt
+        acoustic neuroma
 
 Hurler syndrome
-  lysosomal dysfunction -> MPS accumulation
-  coarse facies
-  corneal clouding
-  mental retardation
+    lysosomal dysfunction -> MPS accumulation
+    coarse facies
+    corneal clouding
+    mental retardation
 
 Fraser syndrome
-  cryptophthalmos
-  malformed eyes beneath the skin
-  webbed hands AKA cutaneous syndactyly
+    cryptophthalmos
+    malformed eyes beneath the skin
+    webbed hands AKA cutaneous syndactyly
 
 AD OR sporadic Marfan syndrome
-  keratoglobus
-  keratoconus
-  lens subluxation
-  axial myopia
-  lattice
-  retinal tears
+    keratoglobus
+    keratoconus
+    lens subluxation
+    axial myopia
+    lattice
+    retinal tears
 
 systemic associations of CR colobomas
-  sporadic Goldenhar syndrome
-    hemifacial microsomia
-    COMMON: eyelid coloboma
-      ALSO: CR coloboma
-    limbal dermoid
-      if large
-        consider amblyopia
-    high incidence of Duane syndrome
-  AD CHARGE syndrome
-    colobomas
-      iris
-      lens
-      optic nerve
-      chorioretinal
-      ± microphthalmia
-      ± CN deficits
-        hypoosmia
-        facial paralysis
-        hearing loss
-    heart defects
-    choanal atresia
-    retardation
-      growth
-      developmental
-    genital abnormalities
-      micropenis
-      cryptorchidism
-    ear abnormalities
-      microtia
-  XLD focal dermal hypoplasia
-    girls
-      lethal in males
-        unless mosaic
-    thin skin
-    papillomas
-    microphthalmos
-    colobomas
-  AR Meckel syndrome
-    cystic kidneys
-    fibrotic liver
-    occipital encephalocele
-    colobomas
-  XLR Lenz microphthalmia syndrome
-    microphthalmia
-    cataract
-    colobomas
-    abnormalities of
-      ears
-      teeth
-      skeleton
-      urinary tract
-  sporadic Dandy-Walker syndrome
-    absent cerebellar vermis
-    hydrocephalus
-    motor and developmental delay
-    ALSO: colobomas
-      RARELY: DW ± colobomas may be part of the eye anomalies in PHACES
-  sporadic Rubinstein-Taybi syndrome
-    broad thumbs
-    short stature
-    obesity
-    intellectual disability
-    ALSO: colobomas
-  trisomies
-    Patau (13)
-    Edward (18)
-    cat eye syndrome (partial 22)
-  RARELY:
-  //...
-    13q deletion syndrome
-    AD basal cell nevus syndrome
-    Aicardi syndrome // see above
-    Catel-Manzke syndrome
-    congenital contractural arachnodactyly
-    humeroradial synostosis
-    Kabuki syndrome
-    linear sebaceous nevus syndrome
-    MIDAS syndrome
-    oral-facial-digital syndrome type 8
-    Sjogren-Larsson syndrome // see dystrophies-retinal.txt
-    Walker-Warburg syndrome
-    Wolf-Hirschhorn syndrome
+    sporadic Goldenhar syndrome
+        hemifacial microsomia
+        COMMON: eyelid coloboma
+            ALSO: CR coloboma
+        limbal dermoid
+            if large
+                consider amblyopia
+        high incidence of Duane syndrome
+    AD CHARGE syndrome
+        colobomas
+            iris
+            lens
+            optic nerve
+            chorioretinal
+            ± microphthalmia
+            ± CN deficits
+                hypoosmia
+                facial paralysis
+                hearing loss
+        heart defects
+        choanal atresia
+        retardation
+            growth
+            developmental
+        genital abnormalities
+            micropenis
+            cryptorchidism
+        ear abnormalities
+            microtia
+    XLD focal dermal hypoplasia
+        girls
+            lethal in males
+                unless mosaic
+        thin skin
+        papillomas
+        microphthalmos
+        colobomas
+    AR Meckel syndrome
+        cystic kidneys
+        fibrotic liver
+        occipital encephalocele
+        colobomas
+    XLR Lenz microphthalmia syndrome
+        microphthalmia
+        cataract
+        colobomas
+        abnormalities of
+            ears
+            teeth
+            skeleton
+            urinary tract
+    sporadic Dandy-Walker syndrome
+        absent cerebellar vermis
+        hydrocephalus
+        motor and developmental delay
+        ALSO: colobomas
+            RARELY: DW ± colobomas may be part of the eye anomalies in PHACES
+    sporadic Rubinstein-Taybi syndrome
+        broad thumbs
+        short stature
+        obesity
+        intellectual disability
+        ALSO: colobomas
+    trisomies
+        Patau (13)
+        Edward (18)
+        cat eye syndrome (partial 22)
+    RARELY:
+    //...
+        13q deletion syndrome
+        AD basal cell nevus syndrome
+        Aicardi syndrome // see above
+        Catel-Manzke syndrome
+        congenital contractural arachnodactyly
+        humeroradial synostosis
+        Kabuki syndrome
+        linear sebaceous nevus syndrome
+        MIDAS syndrome
+        oral-facial-digital syndrome type 8
+        Sjogren-Larsson syndrome // see dystrophies-retinal.txt
+        Walker-Warburg syndrome
+        Wolf-Hirschhorn syndrome
 
 coloboma associations with other eye findings
-  upper eyelid coloboma
-    Goldenhar
-  lower eyelid coloboma
-    Treacher-Collins
-  nystagmus
-  microphthalmia
-  myopia
-  thick CCT
-  iris heterochromia
-  cataract
-  glaucoma
-  posterior staphyloma
-  retinal dysplasia
+    upper eyelid coloboma
+        Goldenhar
+    lower eyelid coloboma
+        Treacher-Collins
+    nystagmus
+    microphthalmia
+    myopia
+    thick CCT
+    iris heterochromia
+    cataract
+    glaucoma
+    posterior staphyloma
+    retinal dysplasia
 
 Klinefelter syndrome
-  high myopia
-  microphthalmia
-  cataracts
-  serous macular RD
-  craniofacial abnormalities
-    oculoauriculovertebral spectrum
+    high myopia
+    microphthalmia
+    cataracts
+    serous macular RD
+    craniofacial abnormalities
+        oculoauriculovertebral spectrum
 
 AD OR AR Weill-Marchesani syndrome
-  short stature
-  short fingers and toes
-  microspherophakia
-  lens subluxation
-  myopia
-  glaucoma
+    short stature
+    short fingers and toes
+    microspherophakia
+    lens subluxation
+    myopia
+    glaucoma

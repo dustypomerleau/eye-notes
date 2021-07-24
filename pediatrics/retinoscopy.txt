@@ -15,21 +15,21 @@ When discussing toric IOLs, for example, you mark the meridian on the cornea tha
 */
 
 retinoscopy technique
-  add minus until you have 'with' in all directions
-  line up your streak with the reflex to get the axis
-  add plus to neutralize the meridian perpendicular to that axis
-    or the one 90° away
-    whichever neutralizes first
-  draw your power cross
-    label the ° of both meridians
-    label the power of the meridian you just neutralized
-  neutralize 90° away
-    label the power of that meridian
-      in absolute terms
-  write out the Rx
-    write the lower plus power
-    use the difference between the two absolute powers for the cylinder
-    picture the streak orientation for the higher powered meridian
-      that's your axis
-      90° away from the meridian
-  -1.5 D working distance from the sphere for final Rx
+    add minus until you have 'with' in all directions
+    line up your streak with the reflex to get the axis
+    add plus to neutralize the meridian perpendicular to that axis
+        or the one 90° away
+        whichever neutralizes first
+    draw your power cross
+        label the ° of both meridians
+        label the power of the meridian you just neutralized
+    neutralize 90° away
+        label the power of that meridian
+            in absolute terms
+    write out the Rx
+        write the lower plus power
+        use the difference between the two absolute powers for the cylinder
+        picture the streak orientation for the higher powered meridian
+            that's your axis
+            90° away from the meridian
+    -1.5 D working distance from the sphere for final Rx

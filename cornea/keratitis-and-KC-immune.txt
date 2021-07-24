@@ -4,116 +4,116 @@ immune keratoconjunctivitis
 
 // atopic-allergic is a continuum, not binary
 
-  allergic KC
-    COMMON: seasonal
-    ALSO: perennial
-    IgE mediated
-      AOT atopic KC
-    allergic rhinitis
-    asthma
-    severe itch
-    eosinophils on conj scrapings
-    remove allergens
-    cold compresses
-    lubrication
-    topical
-      antihistamines
-      mast cell stabilizers
-      NSAIDs
-      steroids
-    systemic antihistamines
-
-  vernal KC
-    young males
-    atopic
-      asthma
-      eczema
-      seasonal rhinitis
-    seasonal variation
-    itching
-    photophobia
-    cobblestone papillae
-    gelatinous limbus
-    Horner-Trantas dots from degenerated eosinophils
-      limbal disease more common in blacks and asians
-    shield ulcers
-      if superior and classic just treat
-      reasons to culture
-        AC reaction
-        infiltrate
-        purulence
-    plaques
-      exposed Bowman coated with mucus and calcium
-    treatment
-      air filters
-      lubrication
-      topical
-        antihistamines
-          olopatadine AKA Patanol bd
-        mast cell stabilizers
-          cromolyn AKA Opticrom qid
-        dual agents
-          ketotifen AKA Zaditen bd
-        steroids
-          good for acute exacerbation
-          not usually given chronically
-          options
-            dexamethasone PF minims q 1–2 hours
-            PF q 1–2 hours
-        cyclosporine 1%
-          useful if
-            steroids are needed long-term
-            steroids inadequate
-            IOP response
-        tacrolimus ointment
-      supratarsal triamcinolone
-      RARELY: SSIMT
-      debride shield ulcers in OT if nonhealing
-    prognosis
-      most kids outgrow VKC
-      a few go on to adult atopic KC
-
-  atopic KC
-    year-round
-      cell-mediated
-        AOT perennial allergic KC
-    older
-      peak 30–50 YO
-    systemic associations
-      eczema
-      asthma
-    small papillae
-    upper and lower lids
-      lower lids usually worse
-        AOT VKC
-    milky, subepithelial fibrosis of the tarsus
-    madarosis
-      eyelashes
-      lateral eyebrows
-    ectasia
-      pellucid
-      KCN
-      PUK
-    superinfection
-      Staph      HSV
-    severe atopic KC
-      chronic epithelial defects
-      corneal vascularization
-      MMP-like features
-        symblepharon
-        forniceal shortening
-        keratinization of the caruncle
-    treatment
-      topical
+    allergic KC
+        COMMON: seasonal
+        ALSO: perennial
+        IgE mediated
+            AOT atopic KC
+        allergic rhinitis
+        asthma
+        severe itch
+        eosinophils on conj scrapings
+        remove allergens
+        cold compresses
         lubrication
-        antihistamines
-        mast cell stabilizers
-        topical steroids
-        cyclosporine
-        tacrolimus ointment
-      systemic
-        cyclosporine
-        rheum consult
+        topical
+            antihistamines
+            mast cell stabilizers
+            NSAIDs
+            steroids
+        systemic antihistamines
+
+    vernal KC
+        young males
+        atopic
+            asthma
+            eczema
+            seasonal rhinitis
+        seasonal variation
+        itching
+        photophobia
+        cobblestone papillae
+        gelatinous limbus
+        Horner-Trantas dots from degenerated eosinophils
+            limbal disease more common in blacks and asians
+        shield ulcers
+            if superior and classic just treat
+            reasons to culture
+                AC reaction
+                infiltrate
+                purulence
+        plaques
+            exposed Bowman coated with mucus and calcium
+        treatment
+            air filters
+            lubrication
+            topical
+                antihistamines
+                    olopatadine AKA Patanol bd
+                mast cell stabilizers
+                    cromolyn AKA Opticrom qid
+                dual agents
+                    ketotifen AKA Zaditen bd
+                steroids
+                    good for acute exacerbation
+                    not usually given chronically
+                    options
+                        dexamethasone PF minims q 1–2 hours
+                        PF q 1–2 hours
+                cyclosporine 1%
+                    useful if
+                        steroids are needed long-term
+                        steroids inadequate
+                        IOP response
+                tacrolimus ointment
+            supratarsal triamcinolone
+            RARELY: SSIMT
+            debride shield ulcers in OT if nonhealing
+        prognosis
+            most kids outgrow VKC
+            a few go on to adult atopic KC
+
+    atopic KC
+        year-round
+            cell-mediated
+                AOT perennial allergic KC
+        older
+            peak 30–50 YO
+        systemic associations
+            eczema
+            asthma
+        small papillae
+        upper and lower lids
+            lower lids usually worse
+                AOT VKC
+        milky, subepithelial fibrosis of the tarsus
+        madarosis
+            eyelashes
+            lateral eyebrows
+        ectasia
+            pellucid
+            KCN
+            PUK
+        superinfection
+            Staph      HSV
+        severe atopic KC
+            chronic epithelial defects
+            corneal vascularization
+            MMP-like features
+                symblepharon
+                forniceal shortening
+                keratinization of the caruncle
+        treatment
+            topical
+                lubrication
+                antihistamines
+                mast cell stabilizers
+                topical steroids
+                cyclosporine
+                tacrolimus ointment
+            systemic
+                cyclosporine
+                rheum consult
 
 
 //
@@ -121,257 +121,257 @@ immune keratoconjunctivitis
 
 immune keratitis
 
-  Thygeson SPK
-    episodic
-      tearing
-      FB sensation
-      photophobia
-      blurred vision
-    corneal epithelial opacities
-      bilateral
-      gray
-      granular
-        like chalk tapped on a board
-      raised
-        negative fluorescein staining
-      treatmen
-        AT
-        observation
-        FML
-          can excerbate recurrence
-        steroid dependent patients
-          cyclosporine OR
-          tacrolimus
-
-  acne rosacea
-    papules
-    rhinophyma
-    telangiectasias
-    midfacial erythema
-    MGD
-    blepharitis
-    conjunctivitis
-    marginal infiltrates
-    NVK
-    treatment
-      doxycycline 50 mg po bd
-      warm compresses
-      baby shampoo lid scrubs
-      Chlorsig ointment qhs
-      omega 3 LCPUFA
-
-  interstitial keratitis // see keratitis-infectious.txt for DDx
-
-  PUK
-    true PUK is autoimmune by definition
-      criteria for PUK
-        infectious causes have been ruled out
-        true ulceration with loss of epithelium
-        true infiltration with WBC
-      if there is progressive thinning in a patient with systemic disease
-        assume the systemic disease is not controlled
-          even if the patient has no symptoms
-        increase SSIMT
-
-    peripheral corneal ulceration DDx
-    // includes PUK DDx + other causes
-
-      infectious
-        viral
-          HSV
-          VZV
-          systemic
-            VZV
-            HIV
-            Hep. C
-        bacterial
-          BROADLY: infectious keratitis // see keratitis-infectious.txt
-          systemic
-            TB
-            syphilis
-            gonorrhea
-        fungal
-          RARELY: PUK appearance
-            Aspergillus
-            Candida
-            Fusarium
-        protozoal
-          Acanthamoeba
-
-      inflammatory
-        autoimmune
-          COMMON: RA
-          ALSO:
-            lupus
-            relapsing polychondritis
-            IBD
-              usually ulcerative colitis
-            Mooren ulcer
-              young patients
-                bilateral
-                aggressive
-              old patients
-                unilateral
-                indolent
-              idiopathic
-                might be Hep. C
-              diagnosis of exclusion
-                must exclude
-                  infectious keratitis
-                  systemic infection
-                    TB
-                    syphilis
-                  systemic autoimmune disease
-                    true PUK
-              painful
-                but no adjacent scleritis
-                  AOT infection or PUK
-              limbus is involved
-                AOT Terrien marginal degeneration
-              epi defect
-                AOT Terrien marginal degeneration
-              undermined edge
-                can be quite deep
-            atopic KC
-        vasculitis
-          GPA
-          PAN
-          GCA
-
-      iatrogenic
-        surgical
-          BROADLY
-
-      neoplastic
-        hematologic
-          BROADLY: leukemia
-
-      degeneration
-        degeneration
-          Terrien marginal degeneration
-            middle-aged males
+    Thygeson SPK
+        episodic
+            tearing
+            FB sensation
+            photophobia
+            blurred vision
+        corneal epithelial opacities
             bilateral
-            superior
-            clear zone at the limbus
-            epi intact
-            lipid opacities in the stroma
-              fine
-              punctate
-              white or yellow
-            white and quiet eye
-            ATR astigmatism
-              treat with CTL
-            watch for superinfection
-            RARELY: perforates
-          pellucid marginal degeneration
-          senile furrow degeneration
+            gray
+            granular
+                like chalk tapped on a board
+            raised
+                negative fluorescein staining
+            treatmen
+                AT
+                observation
+                FML
+                    can excerbate recurrence
+                steroid dependent patients
+                    cyclosporine OR
+                    tacrolimus
 
-        dysfunction
-          dellen
-          exposure
+    acne rosacea
+        papules
+        rhinophyma
+        telangiectasias
+        midfacial erythema
+        MGD
+        blepharitis
+        conjunctivitis
+        marginal infiltrates
+        NVK
+        treatment
+            doxycycline 50 mg po bd
+            warm compresses
+            baby shampoo lid scrubs
+            Chlorsig ointment qhs
+            omega 3 LCPUFA
 
-      trauma
-        BROADLY
+    interstitial keratitis // see keratitis-infectious.txt for DDx
 
-    peripheral corneal ulceration management
-      workup
-        culture
-          infectious treatment as indicated
-          nearly always scrape even if you suspect true PUK
-            superinfection must be ruled out anyway
-            you can't comfortably treat with steroids unless you've scraped
-        systemic ID screening
-          HIV Ab
-          Hep. C Ab
-          Qgold
-          RPR
-          FTA-ABS
-          genital swab
-            gonorrhea
-            Chlamydia
-        RF
-        ANCA
-        ESR
-        CRP
-        HLA-B27
-      address 2° Sjogren DES
-      address corneal melt
-        collagenase inhibitors
-          topical acetylcysteine
-          systemic doxycycline
-      address underlying disease
-        rheumatology consult
-        SSIMT
-          the 1° treatment of PUK is systemic
-          topical steroids are just an adjunct
-      reconstructive keratoplasty
-        only once the underlying disease is well controlled OR
-        emergently for perforation with flat chamber
-        cyanoacrylate for small holes or to temporize
-        lamellar keratoplasty is definitive
-          mark the region and cut a template from plastic sheeting
-          cut the outline partial thickness
-            an adjustable-depth LRI diamond knife is great if available
-            15° blade can be used as well
-            in cases where a round button is suitable the trephine is an option
-          lamellar dissection with an angled crescent blade
-            to remove diseased tissue and prepare the host bed
-          reform the chamber with OVD
-          if possible close posterior cornea with interrupted 10–0 nylon
-          lamellar dissection of the donor on an artificial AC
-          mark and cut donor to fit
-          suture in place with 10–0 nylon
-            may need to trim flush once partially sutured
-      if the entire workup is negative
-        could be a true idiopathic Mooren ulcer
-          topical steroids
-          conjunctival resection
-            2 CH either side of the ulcer
-            firm pressure dressing
-          treat any helminthic infection
-            bilateral cases
-            Africans
-          refractory cases
-            oral prednisone
-            patching
-            cyclophosphamide 2 mg/kg/day
-              fall in WBC is the best indicator of immunosuppression
-            methotrexate 7.5–15 mg weekly
-            azathioprine 2 mg/kg/day
-          reconstructive keratoplasty
-            only once well controlled
+    PUK
+        true PUK is autoimmune by definition
+            criteria for PUK
+                infectious causes have been ruled out
+                true ulceration with loss of epithelium
+                true infiltration with WBC
+            if there is progressive thinning in a patient with systemic disease
+                assume the systemic disease is not controlled
+                    even if the patient has no symptoms
+                increase SSIMT
+
+        peripheral corneal ulceration DDx
+        // includes PUK DDx + other causes
+
+            infectious
+                viral
+                    HSV
+                    VZV
+                    systemic
+                        VZV
+                        HIV
+                        Hep. C
+                bacterial
+                    BROADLY: infectious keratitis // see keratitis-infectious.txt
+                    systemic
+                        TB
+                        syphilis
+                        gonorrhea
+                fungal
+                    RARELY: PUK appearance
+                        Aspergillus
+                        Candida
+                        Fusarium
+                protozoal
+                    Acanthamoeba
+
+            inflammatory
+                autoimmune
+                    COMMON: RA
+                    ALSO:
+                        lupus
+                        relapsing polychondritis
+                        IBD
+                            usually ulcerative colitis
+                        Mooren ulcer
+                            young patients
+                                bilateral
+                                aggressive
+                            old patients
+                                unilateral
+                                indolent
+                            idiopathic
+                                might be Hep. C
+                            diagnosis of exclusion
+                                must exclude
+                                    infectious keratitis
+                                    systemic infection
+                                        TB
+                                        syphilis
+                                    systemic autoimmune disease
+                                        true PUK
+                            painful
+                                but no adjacent scleritis
+                                    AOT infection or PUK
+                            limbus is involved
+                                AOT Terrien marginal degeneration
+                            epi defect
+                                AOT Terrien marginal degeneration
+                            undermined edge
+                                can be quite deep
+                        atopic KC
+                vasculitis
+                    GPA
+                    PAN
+                    GCA
+
+            iatrogenic
+                surgical
+                    BROADLY
+
+            neoplastic
+                hematologic
+                    BROADLY: leukemia
+
+            degeneration
+                degeneration
+                    Terrien marginal degeneration
+                        middle-aged males
+                        bilateral
+                        superior
+                        clear zone at the limbus
+                        epi intact
+                        lipid opacities in the stroma
+                            fine
+                            punctate
+                            white or yellow
+                        white and quiet eye
+                        ATR astigmatism
+                            treat with CTL
+                        watch for superinfection
+                        RARELY: perforates
+                    pellucid marginal degeneration
+                    senile furrow degeneration
+
+                dysfunction
+                    dellen
+                    exposure
+
+            trauma
+                BROADLY
+
+        peripheral corneal ulceration management
+            workup
+                culture
+                    infectious treatment as indicated
+                    nearly always scrape even if you suspect true PUK
+                        superinfection must be ruled out anyway
+                        you can't comfortably treat with steroids unless you've scraped
+                systemic ID screening
+                    HIV Ab
+                    Hep. C Ab
+                    Qgold
+                    RPR
+                    FTA-ABS
+                    genital swab
+                        gonorrhea
+                        Chlamydia
+                RF
+                ANCA
+                ESR
+                CRP
+                HLA-B27
+            address 2° Sjogren DES
+            address corneal melt
+                collagenase inhibitors
+                    topical acetylcysteine
+                    systemic doxycycline
+            address underlying disease
+                rheumatology consult
+                SSIMT
+                    the 1° treatment of PUK is systemic
+                    topical steroids are just an adjunct
+            reconstructive keratoplasty
+                only once the underlying disease is well controlled OR
+                emergently for perforation with flat chamber
+                cyanoacrylate for small holes or to temporize
+                lamellar keratoplasty is definitive
+                    mark the region and cut a template from plastic sheeting
+                    cut the outline partial thickness
+                        an adjustable-depth LRI diamond knife is great if available
+                        15° blade can be used as well
+                        in cases where a round button is suitable the trephine is an option
+                    lamellar dissection with an angled crescent blade
+                        to remove diseased tissue and prepare the host bed
+                    reform the chamber with OVD
+                    if possible close posterior cornea with interrupted 10–0 nylon
+                    lamellar dissection of the donor on an artificial AC
+                    mark and cut donor to fit
+                    suture in place with 10–0 nylon
+                        may need to trim flush once partially sutured
+            if the entire workup is negative
+                could be a true idiopathic Mooren ulcer
+                    topical steroids
+                    conjunctival resection
+                        2 CH either side of the ulcer
+                        firm pressure dressing
+                    treat any helminthic infection
+                        bilateral cases
+                        Africans
+                    refractory cases
+                        oral prednisone
+                        patching
+                        cyclophosphamide 2 mg/kg/day
+                            fall in WBC is the best indicator of immunosuppression
+                        methotrexate 7.5–15 mg weekly
+                        azathioprine 2 mg/kg/day
+                    reconstructive keratoplasty
+                        only once well controlled
 
 
 //
 
 
-  ligneous conjunctivitis
-    bilateral FB sensation
-    woody yellow pseudomembranes when you evert the eyelid
-    plasminogen deficiency
-    surgical excision
-    cryo
-    frequent recurrence
+    ligneous conjunctivitis
+        bilateral FB sensation
+        woody yellow pseudomembranes when you evert the eyelid
+        plasminogen deficiency
+        surgical excision
+        cryo
+        frequent recurrence
 
-  SLK
-    conj injection
-    redundant superior conj
-    papillary reaction
-      upper tarsus
-    superior conj PEE with lissamine
-    superior K staining
-      horizontal corrugation
-      PEE
-    thyroid disease
-    treatment
-      lubrication
-      large diameter BCTL
-      upper punctal plugs
-      topical cyclosporine
-      autologous serum drops
-      conj resection
-    papillary conjunctivitis DDx
-      CTL
-      SLK
-      floppy eyelid syndrome
-      vernal
+    SLK
+        conj injection
+        redundant superior conj
+        papillary reaction
+            upper tarsus
+        superior conj PEE with lissamine
+        superior K staining
+            horizontal corrugation
+            PEE
+        thyroid disease
+        treatment
+            lubrication
+            large diameter BCTL
+            upper punctal plugs
+            topical cyclosporine
+            autologous serum drops
+            conj resection
+        papillary conjunctivitis DDx
+            CTL
+            SLK
+            floppy eyelid syndrome
+            vernal

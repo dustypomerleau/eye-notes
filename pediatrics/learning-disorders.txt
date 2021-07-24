@@ -1,24 +1,23 @@
 // https://github.com/dustypomerleau/eye-notes
 
 learning disorders
-  risk factors
-    developmental delay
-      especially hearing or speech delay
-    poor general health
-      for any reason
-    autism spectrum
-    ADHD spectrum
-    environment
-      abuse
-        ALWAYS: report suspicion of abuse to local authorities
-          // Department of Human Services in AU
-      social instability
-    genetics
-      affected parents or siblings
-  treatment
-    NEVER: delay reading tuition
-      you can simulaneously
-        investigate for organic causes
-        try unproven technology
-          e.g. Irlen lenses
-
+    risk factors
+        developmental delay
+            especially hearing or speech delay
+        poor general health
+            for any reason
+        autism spectrum
+        ADHD spectrum
+        environment
+            abuse
+                ALWAYS: report suspicion of abuse to local authorities
+                    // Department of Human Services in AU
+            social instability
+        genetics
+            affected parents or siblings
+    treatment
+        NEVER: delay reading tuition
+            you can simulaneously
+                investigate for organic causes
+                try unproven technology
+                    e.g. Irlen lenses

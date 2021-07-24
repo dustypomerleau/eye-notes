@@ -2,61 +2,61 @@
 
 ROP
 
-  etiology
-    increased O2 exposure in the setting of incomplete retinal vascularization
-    2° vasoconstriction
-    VEGF
-    NV
-    TRD
+    etiology
+        increased O2 exposure in the setting of incomplete retinal vascularization
+        2° vasoconstriction
+        VEGF
+        NV
+        TRD
 
-  stages
-    1 - line
-    2 - ridge
-    3 - NV
-    4 - RD
-      4B involves the macula
-    5 - total RD
-    ± plus disease according to a standard photo of the posterior pole
+    stages
+        1 - line
+        2 - ridge
+        3 - NV
+        4 - RD
+            4B involves the macula
+        5 - total RD
+        ± plus disease according to a standard photo of the posterior pole
 
-  zones
-    centered on ON
-    1 - 2 * (ON to fovea)
-    2 - zone 1 to the nasal ora
-    3 - temporal crescent
+    zones
+        centered on ON
+        1 - 2 * (ON to fovea)
+        2 - zone 1 to the nasal ora
+        3 - temporal crescent
 
-  threshold disease
-    5 contiguous OR 8 noncontiguous CH stage 3+
-    in zone 1 or 2
-    no longer used for treatment
-      but still occasionally appears on exams
+    threshold disease
+        5 contiguous OR 8 noncontiguous CH stage 3+
+        in zone 1 or 2
+        no longer used for treatment
+            but still occasionally appears on exams
 
-  treatment criteria
-    based on ETROP
-    diode laser to the ora is still standard of care
-      zone 1
-        any +
-        3-
-      zone 2
-        2+
-        3+
+    treatment criteria
+        based on ETROP
+        diode laser to the ora is still standard of care
+            zone 1
+                any +
+                3-
+            zone 2
+                2+
+                3+
 
-  screening:
-    1500- g OR 32- weeks
-    start at 32 weeks GA
-    zone 1 but no ROP
-      follow every 2 weeks
-    zone 1 + ROP
-      follow weekly
-    zone 2 + ROP
-      follow weekly for stage 3 ROP
-      otherwise follow every 2 weeks
-    more detailed criteria for screening
-      G-ROP study of CHOP ROP criteria (2017)
-        main criteria
-          birth weight (g)
-          daily weight gain (g/d)
-          gestational age (weeks)
-        requires a logistic regression formula
-          examine infants with probability 0.014+
-        nomograms are available which approximate this
-        not popular in practice due to complexity
+    screening:
+        1500- g OR 32- weeks
+        start at 32 weeks GA
+        zone 1 but no ROP
+            follow every 2 weeks
+        zone 1 + ROP
+            follow weekly
+        zone 2 + ROP
+            follow weekly for stage 3 ROP
+            otherwise follow every 2 weeks
+        more detailed criteria for screening
+            G-ROP study of CHOP ROP criteria (2017)
+                main criteria
+                    birth weight (g)
+                    daily weight gain (g/d)
+                    gestational age (weeks)
+                requires a logistic regression formula
+                    examine infants with probability 0.014+
+                nomograms are available which approximate this
+                not popular in practice due to complexity

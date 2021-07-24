@@ -2,179 +2,179 @@
 
 infectious conjunctivitis
 
-  hyperacute
-    gonococcus
-      gram stain
-        gram- intracellular diplococci
-      Thayer-Martin
-      PCR
-      ceftriaxone 250 mg IV OR IM
-      irrigate fornices
-        check for corneal involvement
-        can perforate quickly
-        use quinolones
-          gonococcus may be CPL resistant
-      treat Chlamydia
-        azithromycin 1 g
-      treat partners
-    meningococcus
-  acute
-    SA
-    pneumococcus
-    H. flu
-  slow
-    SA
-    Pseudomonas
-    ...
-  topical cipro
+    hyperacute
+        gonococcus
+            gram stain
+                gram- intracellular diplococci
+            Thayer-Martin
+            PCR
+            ceftriaxone 250 mg IV OR IM
+            irrigate fornices
+                check for corneal involvement
+                can perforate quickly
+                use quinolones
+                    gonococcus may be CPL resistant
+            treat Chlamydia
+                azithromycin 1 g
+            treat partners
+        meningococcus
+    acute
+        SA
+        pneumococcus
+        H. flu
+    slow
+        SA
+        Pseudomonas
+        ...
+    topical cipro
 
 
-  neonatal conjunctivitis
-    COMMON: Chlamydia
-      pseudomembranes
-      pus
-      fewer follicles than adults
-      azithromycin
-    WORST: gonococcus
-      ceftriaxone
-    Strep. viridans
-    SA
-    H. flu
-    HSV
+    neonatal conjunctivitis
+        COMMON: Chlamydia
+            pseudomembranes
+            pus
+            fewer follicles than adults
+            azithromycin
+        WORST: gonococcus
+            ceftriaxone
+        Strep. viridans
+        SA
+        H. flu
+        HSV
 
 
-  follicular conjunctivitis
-    adenovirus
-      simple follicular
-      PCF
-        preauricular nodes
-        flu-like symptoms
-        keratitis is mild
-      EKC
-        significant corneal involvement
-          PEE
-          SEI
-          membranes
-          pseudomembranes
-      if hemorrhagic also consider
-          enterovirus
-          cocksackievirus
-    HSV
-    molluscum
-      umbilicated nodules at the lid margin
-    Chlamydia
-      preauricular adenopathy
-      can mimic adenovirus
-        history
-      PCR
-        swab for PCR is the most common method of detection
-      gram stain
-        intracellular inclusion bodies
-      cell culture
-        intracytoplasmic inclusions
-      treatment
-        1 g azithromycin
-        GP FU
-          gonorrhea testing
-          test partners
-      trachoma // see conjunctivitis-cicatrizing.txt
-    medication toxicity or hypersensitivity reaction
-    canaliculitis
-
-  granulomatous conunctivitis
-    Parinaud oculoglandular syndrome
-      unilateral
-      gelatinous granulomas on the tarsal conjunctiva
-      lymphadenopathy
-        preauricular
-        submandibular
-      sometimes
-        fever
-        HA
-        anorexia
-      COMMON: Bartonella
-        cat history
-      ALSO:
-        TB
-        syphilis
+    follicular conjunctivitis
+        adenovirus
+            simple follicular
+            PCF
+                preauricular nodes
+                flu-like symptoms
+                keratitis is mild
+            EKC
+                significant corneal involvement
+                    PEE
+                    SEI
+                    membranes
+                    pseudomembranes
+            if hemorrhagic also consider
+                    enterovirus
+                    cocksackievirus
+        HSV
+        molluscum
+            umbilicated nodules at the lid margin
         Chlamydia
-        M. leprae
-        Francisella tularensis
-        Yersinia pseudotuberculosis
+            preauricular adenopathy
+            can mimic adenovirus
+                history
+            PCR
+                swab for PCR is the most common method of detection
+            gram stain
+                intracellular inclusion bodies
+            cell culture
+                intracytoplasmic inclusions
+            treatment
+                1 g azithromycin
+                GP FU
+                    gonorrhea testing
+                    test partners
+            trachoma // see conjunctivitis-cicatrizing.txt
+        medication toxicity or hypersensitivity reaction
+        canaliculitis
+
+    granulomatous conunctivitis
+        Parinaud oculoglandular syndrome
+            unilateral
+            gelatinous granulomas on the tarsal conjunctiva
+            lymphadenopathy
+                preauricular
+                submandibular
+            sometimes
+                fever
+                HA
+                anorexia
+            COMMON: Bartonella
+                cat history
+            ALSO:
+                TB
+                syphilis
+                Chlamydia
+                M. leprae
+                Francisella tularensis
+                Yersinia pseudotuberculosis
 
 PCR options
-  HSV
-  VZV
-  adenovirus
-  CMV
-  Chlamydia
-  gonorrhea
-  RARELY: Toxoplasma
-    best lab for Toxoplasma is in Palo Alto
-    http://www.pamf.org/serology/
+    HSV
+    VZV
+    adenovirus
+    CMV
+    Chlamydia
+    gonorrhea
+    RARELY: Toxoplasma
+        best lab for Toxoplasma is in Palo Alto
+        http://www.pamf.org/serology/
 
 
 //
 
 
 membranes
-  adherent
-  bleed when you peel them
-  DDx
-    pneumococcus
-      some other Strep spp.
-    diphtheria
-    chemical burns
-    RARELY:
-      EKC
-      HSV
+    adherent
+    bleed when you peel them
+    DDx
+        pneumococcus
+            some other Strep spp.
+        diphtheria
+        chemical burns
+        RARELY:
+            EKC
+            HSV
 
 pseudomembranes
-  peel easily without bleeding
-  DDx
-    COMMON:
-      EKC
-      Chlamydia
-        usually in infants
-      SJS
-    ALSO:
-      gonococcus
-        usually in infants
-      ligneous
-      anything that can cause true membranes
+    peel easily without bleeding
+    DDx
+        COMMON:
+            EKC
+            Chlamydia
+                usually in infants
+            SJS
+        ALSO:
+            gonococcus
+                usually in infants
+            ligneous
+            anything that can cause true membranes
 
 
 //
 
 
 systemic testing
-  sexual health referral in all cases
-  Chlamydia
-    urine
-      PCR
-    urethral or cervical swab
-      cell culture (primary test)
-        intracytoplasmic inclusions
-      supplementary tests // serology is not useful
-        nucleic acid probes (hybridization)
-        EIA and DFA
-  gonorrhea
-    urine
-      PCR
-    urethral or cervical swab
-      gram stain
-      culture
-      supplementary tests
-        nucleic acid probes (hybridization)
+    sexual health referral in all cases
+    Chlamydia
+        urine
+            PCR
+        urethral or cervical swab
+            cell culture (primary test)
+                intracytoplasmic inclusions
+            supplementary tests // serology is not useful
+                nucleic acid probes (hybridization)
+                EIA and DFA
+    gonorrhea
+        urine
+            PCR
+        urethral or cervical swab
+            gram stain
+            culture
+            supplementary tests
+                nucleic acid probes (hybridization)
 
 
 //
 
 
 herpes viruses
-  HHV 1: HSV 1
-  HHV 2: HSV 2
-  HHV 3: VZV
-  HHV 4: EBV
-  HHV 5: CMV
-  HHV 8: Kaposi sarcoma
+    HHV 1: HSV 1
+    HHV 2: HSV 2
+    HHV 3: VZV
+    HHV 4: EBV
+    HHV 5: CMV
+    HHV 8: Kaposi sarcoma

@@ -1,45 +1,45 @@
 immunotherapy and biologics
-  interferon alpha 2b AKA Intron A
-    viral infections
-      hep B
-      hep C
-    cancers
-      hairy cell leukemia
-      CML
-      multiple myeloma
-      follicular lymphoma
-      carcinoid tumor
-      malignant melanoma
-    COMMON:
-      CWS
-      IRH
-    RARELY:
-      CRVO
-  denileukin diftitox AKA Ontak
-    fusion protein
-      Diphtheria toxin + IL2
-    IV treatment for CD25+ T cell lymphoma
-      CD25 is a component of the IL2 receptor
-    ALSO:
-      macular pigmentary changes
-      vision loss
-  MEKI
-  BRAFI
-  CTLA4I
-  //...
+    interferon alpha 2b AKA Intron A
+        viral infections
+            hep B
+            hep C
+        cancers
+            hairy cell leukemia
+            CML
+            multiple myeloma
+            follicular lymphoma
+            carcinoid tumor
+            malignant melanoma
+        COMMON:
+            CWS
+            IRH
+        RARELY:
+            CRVO
+    denileukin diftitox AKA Ontak
+        fusion protein
+            Diphtheria toxin + IL2
+        IV treatment for CD25+ T cell lymphoma
+            CD25 is a component of the IL2 receptor
+        ALSO:
+            macular pigmentary changes
+            vision loss
+    MEKI
+    BRAFI
+    CTLA4I
+    //...
 
 chemotherapeutics
-  cytarabine
-    AKA
-      Ara-C
-      cytosine arabinoside
-      arabinosylcytosine
-      Cytosar-U
-    antimetabolite that blocks DNA polymerase
-    used in
-      AML
-      ALL
-      CML
-      NHL
-    intracranial hypertension with papilledema
-  //...
+    cytarabine
+        AKA
+            Ara-C
+            cytosine arabinoside
+            arabinosylcytosine
+            Cytosar-U
+        antimetabolite that blocks DNA polymerase
+        used in
+            AML
+            ALL
+            CML
+            NHL
+        intracranial hypertension with papilledema
+    //...

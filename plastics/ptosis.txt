@@ -2,597 +2,597 @@
 
 ptosis
 
-  major categories of ptosis
-    myogenic
-    aponeurotic
-    neurogenic
-    mechanical
-    traumatic
+    major categories of ptosis
+        myogenic
+        aponeurotic
+        neurogenic
+        mechanical
+        traumatic
 
-  short ptosis DDx
-    myogenic
-      simple congenital ptosis
-      MED
-      blepharophimosis syndrome
-      CFEOM
-      mitochondrial myopathies
-        CPEO
-          including Kearns-Sayre
-        MELAS
-      AD muscular dystrophies
-        OPD
-        FSHD
-        myotonic dystrophy
-          hatchet-like facies
-    aponeurotic
-      involutional aponeurotic ptosis
-      congenital defect in the aponeurosis
-    neurogenic
-      CN3P
-      Horner syndrome
-      Marcus-Gunn jaw winking syndrome
-      MG
-      apraxia of eyelid opening
-      blepharospasm
-    mechanical
-      COMMON:
-        capillary hemangioma
-        plexiform neurofibroma
-    traumatic
-    pseudoptosis
-      hypotropia
-      fellow eye
-        lid retraction
-        proptosis
+    short ptosis DDx
+        myogenic
+            simple congenital ptosis
+            MED
+            blepharophimosis syndrome
+            CFEOM
+            mitochondrial myopathies
+                CPEO
+                    including Kearns-Sayre
+                MELAS
+            AD muscular dystrophies
+                OPD
+                FSHD
+                myotonic dystrophy
+                    hatchet-like facies
+        aponeurotic
+            involutional aponeurotic ptosis
+            congenital defect in the aponeurosis
+        neurogenic
+            CN3P
+            Horner syndrome
+            Marcus-Gunn jaw winking syndrome
+            MG
+            apraxia of eyelid opening
+            blepharospasm
+        mechanical
+            COMMON:
+                capillary hemangioma
+                plexiform neurofibroma
+        traumatic
+        pseudoptosis
+            hypotropia
+            fellow eye
+                lid retraction
+                proptosis
 
 
 //
 
 
-  ptosis DDx:
+    ptosis DDx:
 
-    BROADLY: any cause of CN3P
-    BROADLY: any cause of Horner syndrome
-    BROADLY: any cause of pseudoptosis
-      orbital mass
-      lid edema
-      fellow eye UL retraction
-      fellow eye buphthalmos
+        BROADLY: any cause of CN3P
+        BROADLY: any cause of Horner syndrome
+        BROADLY: any cause of pseudoptosis
+            orbital mass
+            lid edema
+            fellow eye UL retraction
+            fellow eye buphthalmos
 
-    infectious
-      BROADLY: CN3P due to meningitis
-        viral
-        bacterial
-        fungal
-      viral
-        VZV
+        infectious
+            BROADLY: CN3P due to meningitis
+                viral
+                bacterial
+                fungal
+            viral
+                VZV
 
-    inflammatory
-      inflammatory
-        NSOI
-        sarcoid
-          & sarcoid CN3P
-        BROADLY:
-          any lacrimal gland
-            inflammation
-            infiltration
-            mass
-      autoimmune
-        MG
-          childhood onset is possible
-          ask about
-            difficulty
-              swallowing
-              speaking
-              breathing
-            proximal muscle weakness
-            fatigability
-              ptosis worsens in sustained upgaze
-              worse late in the day
-          Cogan lid twitch
-            upward flick of ptotic lid
-            when returning to primary from 15+ seconds of downgaze
-          weak OOM
-            unable to resist forced eyelid opening
-          variable ptosis + intermittent diplopia
-            MG until proven otherwise
-          clinical tests
-            Tensilon (edrophonium) test
-              dose
-                adults
-                  take baseline measurements for comparison
-                  have atropine ready and monitor vitals
-                    bradycardia
-                    hypotension
-                    bronchospasm
-                    abdominal pain
-                  start with 10 mg total
-                    2 mg IV
-                      wait 2 minutes
-                    4 mg IV
-                      wait 1 minute
-                    4 mg IV
-                  stop at any point if you get a response
-                kids
-                  0.1 mg/kg total
-                  divide 2/10, 4/10, 4/10 as with adults
-                infants
-                  1 mg SC
-                    don't bother with a ladder
-            sleep test
-              30 minutes in a dark room
-              expect 2+ mm improvement in ptosis immediately after waking
-                easiest reference is fissure height before and after
-            ice test
-              ice pack over closed eyes x 2–5 minutes
-                ptosis may improve in 2 minutes but motility takes 5 minutes
-                  for ptosis only stop at 2 minutes
-                  3+ minutes is uncomfortable and doesn't improve the test
-              expect 2+ mm improvement in ptosis immediately after removing ice
-              sleep + ice for the last 2 minutes can be combined
-                usually produces a larger response
-                easier to measure a positive
-          AChR-Ab
-            helpful if positive
-            but positive less than 1/2 the time
-          chest CT
-            rule out thymoma
-            present in 5-%
-          EMG
-            only if diagnosis is not clear
-          treatment
-            anticholinesterase drugs
-              Mestinon (pyridostigmine)
-              Prostigmin (neostigmine)
-            SSIMT
-              prednisolone
-              azathioprine
-              cyclophosphamide
-              cyclosporine
-            plasmapheresis
-            IVIG
-            thymectomy
-        demyelinating disease
-          CN3P
-          Horner syndrome
-      vasculitis
-        BROADLY: any vasculitis-related CN3P
-      allergic
-        atopy
-        allergy
-        often mechanical
-          eye rubbing
+        inflammatory
+            inflammatory
+                NSOI
+                sarcoid
+                    & sarcoid CN3P
+                BROADLY:
+                    any lacrimal gland
+                        inflammation
+                        infiltration
+                        mass
+            autoimmune
+                MG
+                    childhood onset is possible
+                    ask about
+                        difficulty
+                            swallowing
+                            speaking
+                            breathing
+                        proximal muscle weakness
+                        fatigability
+                            ptosis worsens in sustained upgaze
+                            worse late in the day
+                    Cogan lid twitch
+                        upward flick of ptotic lid
+                        when returning to primary from 15+ seconds of downgaze
+                    weak OOM
+                        unable to resist forced eyelid opening
+                    variable ptosis + intermittent diplopia
+                        MG until proven otherwise
+                    clinical tests
+                        Tensilon (edrophonium) test
+                            dose
+                                adults
+                                    take baseline measurements for comparison
+                                    have atropine ready and monitor vitals
+                                        bradycardia
+                                        hypotension
+                                        bronchospasm
+                                        abdominal pain
+                                    start with 10 mg total
+                                        2 mg IV
+                                            wait 2 minutes
+                                        4 mg IV
+                                            wait 1 minute
+                                        4 mg IV
+                                    stop at any point if you get a response
+                                kids
+                                    0.1 mg/kg total
+                                    divide 2/10, 4/10, 4/10 as with adults
+                                infants
+                                    1 mg SC
+                                        don't bother with a ladder
+                        sleep test
+                            30 minutes in a dark room
+                            expect 2+ mm improvement in ptosis immediately after waking
+                                easiest reference is fissure height before and after
+                        ice test
+                            ice pack over closed eyes x 2–5 minutes
+                                ptosis may improve in 2 minutes but motility takes 5 minutes
+                                    for ptosis only stop at 2 minutes
+                                    3+ minutes is uncomfortable and doesn't improve the test
+                            expect 2+ mm improvement in ptosis immediately after removing ice
+                            sleep + ice for the last 2 minutes can be combined
+                                usually produces a larger response
+                                easier to measure a positive
+                    AChR-Ab
+                        helpful if positive
+                        but positive less than 1/2 the time
+                    chest CT
+                        rule out thymoma
+                        present in 5-%
+                    EMG
+                        only if diagnosis is not clear
+                    treatment
+                        anticholinesterase drugs
+                            Mestinon (pyridostigmine)
+                            Prostigmin (neostigmine)
+                        SSIMT
+                            prednisolone
+                            azathioprine
+                            cyclophosphamide
+                            cyclosporine
+                        plasmapheresis
+                        IVIG
+                        thymectomy
+                demyelinating disease
+                    CN3P
+                    Horner syndrome
+            vasculitis
+                BROADLY: any vasculitis-related CN3P
+            allergic
+                atopy
+                allergy
+                often mechanical
+                    eye rubbing
 
-    idiopathic
+        idiopathic
 
-    iatrogenic
-      iatrogenic
-        BOTOX
-      surgical
-        post-surgical ptosis
+        iatrogenic
+            iatrogenic
+                BOTOX
+            surgical
+                post-surgical ptosis
 
-    vascular
-      vasoocclusive
-        ischemic CN3P
-        Horner due to medullary CVA
-      aneurysm
-        PCA aneurysm CN3P
-      hemorrhagic
-        hemorrhagic compressive CN3P
-      hypercoagulable
-        cavernous sinus thrombosis CN3+ palsy
+        vascular
+            vasoocclusive
+                ischemic CN3P
+                Horner due to medullary CVA
+            aneurysm
+                PCA aneurysm CN3P
+            hemorrhagic
+                hemorrhagic compressive CN3P
+            hypercoagulable
+                cavernous sinus thrombosis CN3+ palsy
 
-    neoplastic
-      solid tumors
-        BROADLY: any compressive tumor CN3P
-        Horner due to a solid tumor
-          medullary tumor
-          apical lung tumor
-          neck mass
-        BROADLY: any solid tumor mechanical ptosis
-          plexiform neurofibroma
-      vascular
-        capillary hemangioma mechanical ptosis
-      lymphoproliferative
-        lymphoma infiltrative CN3P
-      metastatic
-        BROADLY: any metastatic carcinoma CN3P or Horner
-          infiltrative
-          compressive
+        neoplastic
+            solid tumors
+                BROADLY: any compressive tumor CN3P
+                Horner due to a solid tumor
+                    medullary tumor
+                    apical lung tumor
+                    neck mass
+                BROADLY: any solid tumor mechanical ptosis
+                    plexiform neurofibroma
+            vascular
+                capillary hemangioma mechanical ptosis
+            lymphoproliferative
+                lymphoma infiltrative CN3P
+            metastatic
+                BROADLY: any metastatic carcinoma CN3P or Horner
+                    infiltrative
+                    compressive
 
-    DAMS
-      medications
-        medication-induced myopathy
-          e.g. HAART
+        DAMS
+            medications
+                medication-induced myopathy
+                    e.g. HAART
 
-    degenerative
-      degeneration
-        aponeurotic ptosis
+        degenerative
+            degeneration
+                aponeurotic ptosis
 
-    congenital
-      congenital
-        congenital myogenic ptosis
-        congenital CN3P
-        Marcus Gunn jaw winking
-          CN5 where CN3 should be
-          not a true CN3P
-          primary issue is with CN5 innervation of the levator
-          more than half have strabismus
-            COMMON: MED
-              look for a hypotropia
-          treatment
-            observe
-            if surgery is really needed
-              strabismus surgery before lids
-            COMMON:
-              *bilateral* levator transection
-                remove a 10 mm section
-                  above the Whitnall ligament
-                  transconjunctival approach // described by Bowyer in 2004
-                    when isolating the levator
-                      avoid the SR!
-                  anterior approach via lid crease incision is also possible
-              + *bilateral* frontalis sling
-                Bowyer technique
-                  Crawford triangles
-                    silicone OR // my preference
-                    autogenous fascia lata
-                  lid height should just clear the visual axis
-            ALSO:
-              levator advancement
-                useful when
-                  ptosis is the primary problem
-                  winking is very mild
-        congenital MED
-          restrictive
-          innervational
-          mixed
-        microphthalmos
-        congenital Horner syndrome
-          usually brachial plexus trauma
+        congenital
+            congenital
+                congenital myogenic ptosis
+                congenital CN3P
+                Marcus Gunn jaw winking
+                    CN5 where CN3 should be
+                    not a true CN3P
+                    primary issue is with CN5 innervation of the levator
+                    more than half have strabismus
+                        COMMON: MED
+                            look for a hypotropia
+                    treatment
+                        observe
+                        if surgery is really needed
+                            strabismus surgery before lids
+                        COMMON:
+                            *bilateral* levator transection
+                                remove a 10 mm section
+                                    above the Whitnall ligament
+                                    transconjunctival approach // described by Bowyer in 2004
+                                        when isolating the levator
+                                            avoid the SR!
+                                    anterior approach via lid crease incision is also possible
+                            + *bilateral* frontalis sling
+                                Bowyer technique
+                                    Crawford triangles
+                                        silicone OR // my preference
+                                        autogenous fascia lata
+                                    lid height should just clear the visual axis
+                        ALSO:
+                            levator advancement
+                                useful when
+                                    ptosis is the primary problem
+                                    winking is very mild
+                congenital MED
+                    restrictive
+                    innervational
+                    mixed
+                microphthalmos
+                congenital Horner syndrome
+                    usually brachial plexus trauma
 
-    genetic
-      inherited
-        AD blepharophimosis syndrome
-          ptosis
-          epicanthus inversus
-          horizontal eyelid shortening
-          nasal bridge hypoplasia
-        AD OPD
-        AD FSHD
-          face
-            hard to whistle or drink from a straw
-          upper arms and shoulders
-            scapulae stick out
-              AKA scapular winging
-          eventually effects lower body also
-        AD myotonic dystrophy
-        CFEOM
-          AD OR AR
-          restrictive strabismus ± ptosis
-          *very* hard to treat surgically
-          mutated genes
-            KIF21A
-              encodes the kinesin cell transport protein
-              AD CFEOM1
-            PHOX2A
-              critical protein for CN[34] development
-              AR CFEOM2
-            unknown
-              AD CFEOM3
-              AR Tukel syndrome
-                CFEOM + missing fingers AKA oligodactyly
-        mitochondrial CPEO
-          usually ptosis precedes strabismus
-          ± Kearns-Sayre
-            CPEO
-            cardiac conduction defects
-              ALWAYS: ECG
-            pigmentary retinopathy
-            chorioretinal atrophy
-            ataxia
-            deafness
-            DM
-            dementia
-          RRF on muscle biopsy
-            abnormal mitochondria accumulate in the muscle
-            many mitochondrial myopathies will have this
-        mitochondrial MELAS
-          Mitochondrial myopathy
-          Encephalopathy
-            seizures
-            headaches
-          Lactic Acidosis
-            abdominal pain
-            vomiting
-            trouble breathing
-          Stroke-like episodes
-            transient paresis
+        genetic
+            inherited
+                AD blepharophimosis syndrome
+                    ptosis
+                    epicanthus inversus
+                    horizontal eyelid shortening
+                    nasal bridge hypoplasia
+                AD OPD
+                AD FSHD
+                    face
+                        hard to whistle or drink from a straw
+                    upper arms and shoulders
+                        scapulae stick out
+                            AKA scapular winging
+                    eventually effects lower body also
+                AD myotonic dystrophy
+                CFEOM
+                    AD OR AR
+                    restrictive strabismus ± ptosis
+                    *very* hard to treat surgically
+                    mutated genes
+                        KIF21A
+                            encodes the kinesin cell transport protein
+                            AD CFEOM1
+                        PHOX2A
+                            critical protein for CN[34] development
+                            AR CFEOM2
+                        unknown
+                            AD CFEOM3
+                            AR Tukel syndrome
+                                CFEOM + missing fingers AKA oligodactyly
+                mitochondrial CPEO
+                    usually ptosis precedes strabismus
+                    ± Kearns-Sayre
+                        CPEO
+                        cardiac conduction defects
+                            ALWAYS: ECG
+                        pigmentary retinopathy
+                        chorioretinal atrophy
+                        ataxia
+                        deafness
+                        DM
+                        dementia
+                    RRF on muscle biopsy
+                        abnormal mitochondria accumulate in the muscle
+                        many mitochondrial myopathies will have this
+                mitochondrial MELAS
+                    Mitochondrial myopathy
+                    Encephalopathy
+                        seizures
+                        headaches
+                    Lactic Acidosis
+                        abdominal pain
+                        vomiting
+                        trouble breathing
+                    Stroke-like episodes
+                        transient paresis
 
-    trauma
-      eye rubbing
-        including allergies
-      CTL
+        trauma
+            eye rubbing
+                including allergies
+            CTL
 
-    neurologic
-      Horner syndrome
-        dedicated DDx, but the main concerns
-          1st or 2nd order neuron Horner syndrome
-            medullary tumor OR infarct
-              Wallenberg syndrome AKA lateral medullary syndrome
-                Horner
-                loss of pain and temperature sensation
-                  contralateral body
-                  ipsilateral face
-                dysphagia
-                ataxia
-                  damage to spinocerebellar tracts
-                    loss of proprioceptive input to the cerebellum
-            apical lung tumor
-              Pancoast tumor
-              metastatic neuroblastoma
-            C spine trauma
-          3rd order neuron Horner syndrome
-            carotid dissection
-              spontaneous
-              trauma
-                chiropractic manipulation
-              high risk of hemispheric stroke
-                usually from thromboemboli
-            cavernous sinus aneurysm
-      CN3P covered above
-      RARELY:
-        apraxia of eyelid opening
-        blepharospasm
+        neurologic
+            Horner syndrome
+                dedicated DDx, but the main concerns
+                    1st or 2nd order neuron Horner syndrome
+                        medullary tumor OR infarct
+                            Wallenberg syndrome AKA lateral medullary syndrome
+                                Horner
+                                loss of pain and temperature sensation
+                                    contralateral body
+                                    ipsilateral face
+                                dysphagia
+                                ataxia
+                                    damage to spinocerebellar tracts
+                                        loss of proprioceptive input to the cerebellum
+                        apical lung tumor
+                            Pancoast tumor
+                            metastatic neuroblastoma
+                        C spine trauma
+                    3rd order neuron Horner syndrome
+                        carotid dissection
+                            spontaneous
+                            trauma
+                                chiropractic manipulation
+                            high risk of hemispheric stroke
+                                usually from thromboemboli
+                        cavernous sinus aneurysm
+            CN3P covered above
+            RARELY:
+                apraxia of eyelid opening
+                blepharospasm
 
 
 //
 
 
 ptosis exam
-  cyclorefraction
-    particularly important in children
-    induced astigmatism can cause amblyopia
-      even if the visual axis is clear
-  pupils // Savino rule see pupils.txt
-    CN3P
-    Horner
-      sympathetic anatomy
-        1st order
-          hypothalamus -> C8-T2 CSCB
-        2nd order
-          C8-T2 CSCB -> sympathetic chain in the neck -> SCG
-        3rd order
-          SCG -> ICA plexus -> long ciliary Ns
-            cavernous sinus
-            orbit
-      Horner testing
-        ALWAYS: drop both eyes
-          you are making a comparison of responses
-          post-drop measurements should be taken in a well-lit room
-        cocaine 4-5% (classically 4, but often 5)
-          prevents NE reuptake
-          will fail to dilate any Horner patient
-            they aren't producing NE
-          positive test if post-drop anisocoria is 0.8+ mm
-        apraclonidine 1%
-          will only dilate a hypersensitive Horner pupil
-            mostly alpha2
-            alpha1 effect is not enough to dilate a normal pupil
-            so the anisocoria will flip in a patient with Horner
-              this is easier to detect than the cocaine endpoint
-            NEVER: use apraclonidine in < 1 y baby
-              causes CNS depression in infants
-        phenylephrine 1% (dilute)
-          will only dilate a hypersensitive Horner pupil
-          same endpoint as apraclonidine
-            anisocoria will flip in a patient with Horner
-        hydroxyamphetamine 1%
-          induces NE release
-            will fail to dilate a 3rd-order Horner
-          endpoint
-            anisocoria gets bigger in a 3rd-order Horner
-        so for Horner diagnosis
-          cocaine will not dilate a Horner pupil
-            not commonly used but ALWAYS mention it on exams
-          apraclonidine OR (dilute) phenylephrine
-            will only dilate a Horner pupil
-            flips the anisocoria if positive
-        and for Horner localization
-          hydroxyamphetamine will only dilate if the 3rd-order neuron is intact
-            i.e. Horner is 1st or 2nd order
-        all the agents except cocaine are 1%
-        in practice
-          if there is acute onset of Horner with neck pain
-            you don't have time to do this pharmacologic testing before imaging
-            ALWAYS: MRI + MRA to exclude carotid dissection first
-              brain
-                medullary tumor OR infarct
-                  Wallenberg syndrome AKA lateral medullary syndrome
-              C + T spine
-              neck
-                carotid dissection
-                  look for high-intensity T1 crescent in the carotid
-                    easiest to see in axial views
-              apical chest
-                Pancoast tumor
-                metastatic neuroblastoma
-            most institutions have a Horner protocol for imaging these areas
-              many use CT + CTA instead of MRI + MRA
-            if there is a dissection
-              ADMIT to neurology
-                they will dictate anticoagulation versus antiplatelet therapy
-                  still controversial which you choose
-                some carotid dissections are amenable to intervention
-                  endovascular techniques
-                  surgery
-  EOM // Savino rule see strabismus.txt
-    CN3P
-  MRD1 UL
-    lift the fellow UL
-    re-measure
-    Hering may cause you to underestimate ptosis
-  MRD2 LL
-  fissure height in 1°
-    widest point
-    distance fixation
-    should be MRD1 + MRD2
-    good way to check your numbers
-  lid crease position
-    mm from lid margin
-  levator function
-    downgaze to upgaze
-    don't let them use the frontalis
-      put pressure on the brow if you need to
-    4- mm needs a sling
-    8+ mm is perfect for levator advancement
-    in between is a gray zone
-      careful with big levator advancements
-      can lift the lid off the cornea and cause OSD
-  Muller function
-    phenylephrine test
-      1.5+ mm is positive
-    usually negative for involutional aponeurotic ptosis
-    most helpful for surgical planning in 2- mm small ptosis
-  lid lag in downgaze?
-    common in congenital ptosis
-  Bell reflex
-  sustained upgaze
-    MG
-  synkinesis
-    lid elevates with jaw movement
-      Margus Gunn jaw winking
-    lid elevates in downgaze
-      aberrant regeneration after CN3P
-  OSD
-    exposure
-  corneal sensation
-  iris
-    congenital Horner
-      iris is lighter
+    cyclorefraction
+        particularly important in children
+        induced astigmatism can cause amblyopia
+            even if the visual axis is clear
+    pupils // Savino rule see pupils.txt
+        CN3P
+        Horner
+            sympathetic anatomy
+                1st order
+                    hypothalamus -> C8-T2 CSCB
+                2nd order
+                    C8-T2 CSCB -> sympathetic chain in the neck -> SCG
+                3rd order
+                    SCG -> ICA plexus -> long ciliary Ns
+                        cavernous sinus
+                        orbit
+            Horner testing
+                ALWAYS: drop both eyes
+                    you are making a comparison of responses
+                    post-drop measurements should be taken in a well-lit room
+                cocaine 4-5% (classically 4, but often 5)
+                    prevents NE reuptake
+                    will fail to dilate any Horner patient
+                        they aren't producing NE
+                    positive test if post-drop anisocoria is 0.8+ mm
+                apraclonidine 1%
+                    will only dilate a hypersensitive Horner pupil
+                        mostly alpha2
+                        alpha1 effect is not enough to dilate a normal pupil
+                        so the anisocoria will flip in a patient with Horner
+                            this is easier to detect than the cocaine endpoint
+                        NEVER: use apraclonidine in < 1 y baby
+                            causes CNS depression in infants
+                phenylephrine 1% (dilute)
+                    will only dilate a hypersensitive Horner pupil
+                    same endpoint as apraclonidine
+                        anisocoria will flip in a patient with Horner
+                hydroxyamphetamine 1%
+                    induces NE release
+                        will fail to dilate a 3rd-order Horner
+                    endpoint
+                        anisocoria gets bigger in a 3rd-order Horner
+                so for Horner diagnosis
+                    cocaine will not dilate a Horner pupil
+                        not commonly used but ALWAYS mention it on exams
+                    apraclonidine OR (dilute) phenylephrine
+                        will only dilate a Horner pupil
+                        flips the anisocoria if positive
+                and for Horner localization
+                    hydroxyamphetamine will only dilate if the 3rd-order neuron is intact
+                        i.e. Horner is 1st or 2nd order
+                all the agents except cocaine are 1%
+                in practice
+                    if there is acute onset of Horner with neck pain
+                        you don't have time to do this pharmacologic testing before imaging
+                        ALWAYS: MRI + MRA to exclude carotid dissection first
+                            brain
+                                medullary tumor OR infarct
+                                    Wallenberg syndrome AKA lateral medullary syndrome
+                            C + T spine
+                            neck
+                                carotid dissection
+                                    look for high-intensity T1 crescent in the carotid
+                                        easiest to see in axial views
+                            apical chest
+                                Pancoast tumor
+                                metastatic neuroblastoma
+                        most institutions have a Horner protocol for imaging these areas
+                            many use CT + CTA instead of MRI + MRA
+                        if there is a dissection
+                            ADMIT to neurology
+                                they will dictate anticoagulation versus antiplatelet therapy
+                                    still controversial which you choose
+                                some carotid dissections are amenable to intervention
+                                    endovascular techniques
+                                    surgery
+    EOM // Savino rule see strabismus.txt
+        CN3P
+    MRD1 UL
+        lift the fellow UL
+        re-measure
+        Hering may cause you to underestimate ptosis
+    MRD2 LL
+    fissure height in 1°
+        widest point
+        distance fixation
+        should be MRD1 + MRD2
+        good way to check your numbers
+    lid crease position
+        mm from lid margin
+    levator function
+        downgaze to upgaze
+        don't let them use the frontalis
+            put pressure on the brow if you need to
+        4- mm needs a sling
+        8+ mm is perfect for levator advancement
+        in between is a gray zone
+            careful with big levator advancements
+            can lift the lid off the cornea and cause OSD
+    Muller function
+        phenylephrine test
+            1.5+ mm is positive
+        usually negative for involutional aponeurotic ptosis
+        most helpful for surgical planning in 2- mm small ptosis
+    lid lag in downgaze?
+        common in congenital ptosis
+    Bell reflex
+    sustained upgaze
+        MG
+    synkinesis
+        lid elevates with jaw movement
+            Margus Gunn jaw winking
+        lid elevates in downgaze
+            aberrant regeneration after CN3P
+    OSD
+        exposure
+    corneal sensation
+    iris
+        congenital Horner
+            iris is lighter
 
 
 //
 
 
 surgical treatment
-  Mullerectomy + conjunctival resection
-    2- mm with a positive phenylephrine test
-    avoid epi in the local infiltration to keep measurements accurate
-  Fasanella-Servat
-    2- mm with a positive OR negative phenylephrine test
-    not quite as predictable as Mullerectomy
-    mainly tarsectomy + small mullerectomy
-      so still effective even with a negative phenylephrine test
-      if they do have a positive phenylephrine test
-        do a Mullerectomy
-  levator advancement
-    can correct 2- mm but is best for 3–4 mm
-      patients with 4+ mm ptosis often have poor levator function
-        in that case you need a sling anyway
-    allows you to adjust the height on the table
-      much more predictable under local anesthesia
-    allows concurrent blepharoplasty
-      aponeurotic ptosis repair (anterior approach):
-        mark the skin to show the lid apex and a mini-blepharoplasty
-        local anesthetic infiltration front and back
-        excise the mini-bleph
-        clear OOM off the tarsus
-        ask patient to look up
-          identify the tugging of the levator
-        open through the septum
-          levator is right underneath
-        identify the orbital fat pad superiorly
-          undermine a bit so you are just holding levator
-        double-armed 5–0 ethibond suture
-          passed horizontally through the tarsus
-          just above the lid apex you marked
-        evert the lid
-          ensure you didn't pass full-thickness
-        2nd suture further laterally
-        pull the levator aponeurosis down
-          pass the 2 double-armed sutures through the middle to upper part of the aponeurosis
-        tie a couple throws over a loop
-          check the lid position to make sure you're happy before locking
-        goal is to have the lid margin in line with the superior limbus
-          lid will sit a touch higher than the actual postoperative result
-            2° epinephrine in the anesthetic
-        trim off excess levator in front of the sutures
-        close the OOM
-          capture a small bite of the levator to re-form the lid crease
-        close the skin
-          running 6–0 prolene
-          plan removal about a week after surgery
-  frontalis suspension sling
-    autogenous fascia lata
-      patient 3+ YO for harvesting
-      strong
-      integrates well
-      rejection is rare
-    banked fascia lata
-      patient 3- YO
-      rejection risk is mostly theoretical
-    silicone
-      Silastic rod
-      no harvesting
-      easy to adjust
-      classic pentagon pattern
-        mark skin
-          3 sites along lid margin
-            some docs incise across the full lid
-              this allows direct suturing of the tubing to the tarsus
-              // see alternative by RC
-              // https://www.youtube.com/watch?v=vXsmprEMkbw
-          3 sites along brow
-        local infiltration
-        incise lid margin through OOM
-        incise brow down to periosteum
-          you can wait to make brow incisions if you prefer
-          allows you to check position after securing the lid margin
-        pass rod sub-OOM from center incision to outer incisions in lid margin
-        pull rod up to the brow
-        confirm site of medial and lateral brow incisions
-        pass the silicone through the preaponeurotic (sub-OOM) space
-        anchor the sling to OOM at the medial and lateral incisions
-          5–0 Vicryl
-        close the lid margin incisions
-          6–0 Vicryl
-        pass the Silastic from the outer brow incisions to the central one
-        secure the rod with a silicone sleeve
-          you can tie the rod if you want
-          harder to adjust later
-        adjust height
-          adult acquired ptosis
-            set the lid at 1–3 mm above the pupil
-          congenital ptosis
-            set the lid margin even with the limbus
-        trim with 8 mm to spare for future adjustment
-        protect the cornea after surgery!
+    Mullerectomy + conjunctival resection
+        2- mm with a positive phenylephrine test
+        avoid epi in the local infiltration to keep measurements accurate
+    Fasanella-Servat
+        2- mm with a positive OR negative phenylephrine test
+        not quite as predictable as Mullerectomy
+        mainly tarsectomy + small mullerectomy
+            so still effective even with a negative phenylephrine test
+            if they do have a positive phenylephrine test
+                do a Mullerectomy
+    levator advancement
+        can correct 2- mm but is best for 3–4 mm
+            patients with 4+ mm ptosis often have poor levator function
+                in that case you need a sling anyway
+        allows you to adjust the height on the table
+            much more predictable under local anesthesia
+        allows concurrent blepharoplasty
+            aponeurotic ptosis repair (anterior approach):
+                mark the skin to show the lid apex and a mini-blepharoplasty
+                local anesthetic infiltration front and back
+                excise the mini-bleph
+                clear OOM off the tarsus
+                ask patient to look up
+                    identify the tugging of the levator
+                open through the septum
+                    levator is right underneath
+                identify the orbital fat pad superiorly
+                    undermine a bit so you are just holding levator
+                double-armed 5–0 ethibond suture
+                    passed horizontally through the tarsus
+                    just above the lid apex you marked
+                evert the lid
+                    ensure you didn't pass full-thickness
+                2nd suture further laterally
+                pull the levator aponeurosis down
+                    pass the 2 double-armed sutures through the middle to upper part of the aponeurosis
+                tie a couple throws over a loop
+                    check the lid position to make sure you're happy before locking
+                goal is to have the lid margin in line with the superior limbus
+                    lid will sit a touch higher than the actual postoperative result
+                        2° epinephrine in the anesthetic
+                trim off excess levator in front of the sutures
+                close the OOM
+                    capture a small bite of the levator to re-form the lid crease
+                close the skin
+                    running 6–0 prolene
+                    plan removal about a week after surgery
+    frontalis suspension sling
+        autogenous fascia lata
+            patient 3+ YO for harvesting
+            strong
+            integrates well
+            rejection is rare
+        banked fascia lata
+            patient 3- YO
+            rejection risk is mostly theoretical
+        silicone
+            Silastic rod
+            no harvesting
+            easy to adjust
+            classic pentagon pattern
+                mark skin
+                    3 sites along lid margin
+                        some docs incise across the full lid
+                            this allows direct suturing of the tubing to the tarsus
+                            // see alternative by RC
+                            // https://www.youtube.com/watch?v=vXsmprEMkbw
+                    3 sites along brow
+                local infiltration
+                incise lid margin through OOM
+                incise brow down to periosteum
+                    you can wait to make brow incisions if you prefer
+                    allows you to check position after securing the lid margin
+                pass rod sub-OOM from center incision to outer incisions in lid margin
+                pull rod up to the brow
+                confirm site of medial and lateral brow incisions
+                pass the silicone through the preaponeurotic (sub-OOM) space
+                anchor the sling to OOM at the medial and lateral incisions
+                    5–0 Vicryl
+                close the lid margin incisions
+                    6–0 Vicryl
+                pass the Silastic from the outer brow incisions to the central one
+                secure the rod with a silicone sleeve
+                    you can tie the rod if you want
+                    harder to adjust later
+                adjust height
+                    adult acquired ptosis
+                        set the lid at 1–3 mm above the pupil
+                    congenital ptosis
+                        set the lid margin even with the limbus
+                trim with 8 mm to spare for future adjustment
+                protect the cornea after surgery!
 
 
 //
 
 
 terminology
-  symblepharon
-    fusion of the bulbar and palpebral conj
-  ankyloblepharon
-    fusion of the eyelids
-  euryblepharon
-    temporal widening of the palpebral fissure
-      like someone pulled your outer cheek down
-    can happen in blepharophimosis syndrome
-  epiblepharon
-    pretarsal OOM overrides and turns the lower lashes in
-  epicanthus
-    tarsalis
-      upper eyelid fold
-    inversus
-      lower eyelid fold
-    palpebralis
-      evenly distributed upper + lower fold
-    supraciliaris
-      fold running from the eyebrow to the lacrimal sac
+    symblepharon
+        fusion of the bulbar and palpebral conj
+    ankyloblepharon
+        fusion of the eyelids
+    euryblepharon
+        temporal widening of the palpebral fissure
+            like someone pulled your outer cheek down
+        can happen in blepharophimosis syndrome
+    epiblepharon
+        pretarsal OOM overrides and turns the lower lashes in
+    epicanthus
+        tarsalis
+            upper eyelid fold
+        inversus
+            lower eyelid fold
+        palpebralis
+            evenly distributed upper + lower fold
+        supraciliaris
+            fold running from the eyebrow to the lacrimal sac
 
 
 /*

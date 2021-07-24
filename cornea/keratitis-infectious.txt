@@ -4,277 +4,277 @@ infectious keratitis
 
 /*
 for exam purposes
-  ALWAYS: scrape even if intact epithelium
-    e.g. infectious crystalline keratopathy
-    always establish the diagnosis
+    ALWAYS: scrape even if intact epithelium
+        e.g. infectious crystalline keratopathy
+        always establish the diagnosis
 in practice
-  some cases may be treated presumptively under close monitoring
-  e.g. CTL-associated infectious keratitis with a tiny ED
+    some cases may be treated presumptively under close monitoring
+    e.g. CTL-associated infectious keratitis with a tiny ED
 */
 
 infectious keratitis DDx
 
-  viral
-    HSV or VZV
-      epithelial keratitis
-        dendritic
-          NEVER: put steroids on a dendrite
-          zoster dendrites
-            stain less
-            blunt ends instead of bulbs
-            'stuck on' appearance
-          50+% will have a second event over 5+ years
+    viral
+        HSV or VZV
+            epithelial keratitis
+                dendritic
+                    NEVER: put steroids on a dendrite
+                    zoster dendrites
+                        stain less
+                        blunt ends instead of bulbs
+                        'stuck on' appearance
+                    50+% will have a second event over 5+ years
+                        stromal keratitis
+                        uveitis
+                        Olmsted data
+                geographic
+                NOTE: HEDS does not address recurrent epithelial keratitis
             stromal keratitis
-            uveitis
-            Olmsted data
-        geographic
-        NOTE: HEDS does not address recurrent epithelial keratitis
-      stromal keratitis
-        interstitial keratitis // see below for details
-          nummular stromal keratitis
-            more likely HSV
-        disciform keratitis
-          mostly endotheliitis
-          stromal edema is 2°
-          AC reaction is mild
-            AOT AUNGAU
-        necrotizing stromal keratitis
-          can mimic bacterial OR fungal keratitis
-        HEDS
-          stromal keratitis
-            topical steroids reduce the duration of inflammation
-              q 2 hours
-              taper weekly based on response
-            oral aciclovir 400 bd cuts recurrence in half
-              cost of Valtrex 500 daily ~= aciclovir 400 bd // in AU
-              if kidney function is poor
-                avoid long term aciclovir or Valtrex
-        ZEDS
-          Zoster Eye Disease Study
-          clinical question
-            Does Valtrex reduce recurrences of VZV stromal keratitis?
-          currently underway at multiple centers // as of 2017
-        stromal scarring
-          must be quiet 6 months before considering PK
-          continue oral aciclovir to prevent infection of the graft
-        use preoperative antivirals before CEIOL or PK
-          aciclovir 800 mg bd 3 days before
-          valaciclovir 500 mg bd 2 days before
-          famciclovir 250 bd 2 days before
-          when to stop?
-            1 week to 1 year
-              depending on the severity/number of previous events
-      ± concurrent
-        blepharoconjunctivitis
-        NVK
-        OHTN
-        AUNGAU
-          treat with topical steroids
-          HEDS numbers were too small to say if aciclovir helps AUNGAU
-        CR
-      monitor HZO for complications
-        postherpetic neuralgia
-        CN3P
-      vaccination is good for those who have not had HZO
-        most avoid vaccination in those with recurrent HZO
-          theoretic risk of reactivation
-      poorly responsive
-        consider Acanthamoeba
-    CMV
-      keratitis
-      AUNGAU
+                interstitial keratitis // see below for details
+                    nummular stromal keratitis
+                        more likely HSV
+                disciform keratitis
+                    mostly endotheliitis
+                    stromal edema is 2°
+                    AC reaction is mild
+                        AOT AUNGAU
+                necrotizing stromal keratitis
+                    can mimic bacterial OR fungal keratitis
+                HEDS
+                    stromal keratitis
+                        topical steroids reduce the duration of inflammation
+                            q 2 hours
+                            taper weekly based on response
+                        oral aciclovir 400 bd cuts recurrence in half
+                            cost of Valtrex 500 daily ~= aciclovir 400 bd // in AU
+                            if kidney function is poor
+                                avoid long term aciclovir or Valtrex
+                ZEDS
+                    Zoster Eye Disease Study
+                    clinical question
+                        Does Valtrex reduce recurrences of VZV stromal keratitis?
+                    currently underway at multiple centers // as of 2017
+                stromal scarring
+                    must be quiet 6 months before considering PK
+                    continue oral aciclovir to prevent infection of the graft
+                use preoperative antivirals before CEIOL or PK
+                    aciclovir 800 mg bd 3 days before
+                    valaciclovir 500 mg bd 2 days before
+                    famciclovir 250 bd 2 days before
+                    when to stop?
+                        1 week to 1 year
+                            depending on the severity/number of previous events
+            ± concurrent
+                blepharoconjunctivitis
+                NVK
+                OHTN
+                AUNGAU
+                    treat with topical steroids
+                    HEDS numbers were too small to say if aciclovir helps AUNGAU
+                CR
+            monitor HZO for complications
+                postherpetic neuralgia
+                CN3P
+            vaccination is good for those who have not had HZO
+                most avoid vaccination in those with recurrent HZO
+                    theoretic risk of reactivation
+            poorly responsive
+                consider Acanthamoeba
+        CMV
+            keratitis
+            AUNGAU
 
-  bacterial
-    non-CTL
-      Staph. spp.
-      Strep. spp.
-        also cause infectious crystalline keratopathy
-          alpha hemolytic Strep.
-          intact epithelium
-            ALWAYS: scrape anyway
-          prior corneal surgery
-          chronic steroid use
-            need to balance steroids and antibiotics
-            risk of worsening infection + risk of rejection
-            adjust steroids depending on which aspect concerns you more
-          treatment
-            aggressive topical antibiotics
-              3rd or 4th generation quinolone OR
-              fortified cefazolin 50 mg/mL OR
-              fortified vancomycin 50 mg/mL
-    nocardia
-    Pseudomonas
-      CTL wearers
-      adherent mucopurulent exudate
-    culture
-      blood
-      chocolate
-      thioglycollate
+    bacterial
+        non-CTL
+            Staph. spp.
+            Strep. spp.
+                also cause infectious crystalline keratopathy
+                    alpha hemolytic Strep.
+                    intact epithelium
+                        ALWAYS: scrape anyway
+                    prior corneal surgery
+                    chronic steroid use
+                        need to balance steroids and antibiotics
+                        risk of worsening infection + risk of rejection
+                        adjust steroids depending on which aspect concerns you more
+                    treatment
+                        aggressive topical antibiotics
+                            3rd or 4th generation quinolone OR
+                            fortified cefazolin 50 mg/mL OR
+                            fortified vancomycin 50 mg/mL
+        nocardia
+        Pseudomonas
+            CTL wearers
+            adherent mucopurulent exudate
+        culture
+            blood
+            chocolate
+            thioglycollate
 
-  fungal
-    plant material
-    soil
-    CTL wearers
-    dry feathery infiltrates
-    epithelium can be intact
-    silver stain
-    Sabouraud agar
-    confocal microscopy
-      filaments in the corneal stroma
-    amphotericin B
-      Aspergillus
-      Candida
-    natamycin
-      fusarium
-    voriconazole
-      bad empiric therapy
-        many fungi are resistant
-      good therapy when sensitivities are known
-
-  protozoa
-    Acanthamoeba
-      CTL wearers
-        even more hygiene-related than bacterial keratitis
-        biggest risk factor is overnight wear
-      swimming pool or hot tub
-      nonsuppurative
-      clinical findings
-        epitheliopathy that stains with rose bengal
-          PEE
-          pseudodendrites
-        radial keratoneuritis
-          nearly pathognomonic
-          enlarged corneal nerves DDx
-            acanthamoeba perineuritis
-            leprosy
-            KCN
-            FED
-            multiple myeloma
-            PPCD
-            MEN2[ab]
-            NF1
-            familial dysautonomia AKA Riley-Day syndrome
-            Refsum disease
-            ichthyosis
-            systemic amyloidosis
-        limbitis
-        ring infiltrate
-          classic presentation
-          late disease
-            usually not in the first 4 weeks after onset
-          only 1/5 really have a ring
-      testing
-        Giemsa
-        PAS
-        non-nutrient agar with E. coli overlay
-          hard to culture
-        PCR if available
+    fungal
+        plant material
+        soil
+        CTL wearers
+        dry feathery infiltrates
+        epithelium can be intact
+        silver stain
+        Sabouraud agar
         confocal microscopy
-          cysts are visible
-        corneal biopsy
-          if the patient is not responding to therapy
-          take epithelium and anterior stroma
-          3 mm site is standard
-      do not confuse with HSV
-        Acanthamoeba is more painful
-        Acanthamoeba infiltrates are multifocal
-      treatment
-        biguanides
-          chlorhexidine 0.02%
-          PHMB 0.02%
-          trophozoites are the active infection but you need to kill the cysts
-        diamidines
-          propamidine AKA Brolene 0.1%
-            toxic to the epithelium
-            not used first line
-            not used as monotherapy
-          hexamidine 0.1%
-        before considering topical steroids
-          minimum of 2 weeks biguanide therapy
-        4th gen. quinolone
-          prophylaxis
-          // they probably use oflox in AU
-        PK OR DALK
-          only if quiet for 6 months
+            filaments in the corneal stroma
+        amphotericin B
+            Aspergillus
+            Candida
+        natamycin
+            fusarium
+        voriconazole
+            bad empiric therapy
+                many fungi are resistant
+            good therapy when sensitivities are known
 
-  PUK // see keratitis-and-KC-immune.txt for PUK DDx
+    protozoa
+        Acanthamoeba
+            CTL wearers
+                even more hygiene-related than bacterial keratitis
+                biggest risk factor is overnight wear
+            swimming pool or hot tub
+            nonsuppurative
+            clinical findings
+                epitheliopathy that stains with rose bengal
+                    PEE
+                    pseudodendrites
+                radial keratoneuritis
+                    nearly pathognomonic
+                    enlarged corneal nerves DDx
+                        acanthamoeba perineuritis
+                        leprosy
+                        KCN
+                        FED
+                        multiple myeloma
+                        PPCD
+                        MEN2[ab]
+                        NF1
+                        familial dysautonomia AKA Riley-Day syndrome
+                        Refsum disease
+                        ichthyosis
+                        systemic amyloidosis
+                limbitis
+                ring infiltrate
+                    classic presentation
+                    late disease
+                        usually not in the first 4 weeks after onset
+                    only 1/5 really have a ring
+            testing
+                Giemsa
+                PAS
+                non-nutrient agar with E. coli overlay
+                    hard to culture
+                PCR if available
+                confocal microscopy
+                    cysts are visible
+                corneal biopsy
+                    if the patient is not responding to therapy
+                    take epithelium and anterior stroma
+                    3 mm site is standard
+            do not confuse with HSV
+                Acanthamoeba is more painful
+                Acanthamoeba infiltrates are multifocal
+            treatment
+                biguanides
+                    chlorhexidine 0.02%
+                    PHMB 0.02%
+                    trophozoites are the active infection but you need to kill the cysts
+                diamidines
+                    propamidine AKA Brolene 0.1%
+                        toxic to the epithelium
+                        not used first line
+                        not used as monotherapy
+                    hexamidine 0.1%
+                before considering topical steroids
+                    minimum of 2 weeks biguanide therapy
+                4th gen. quinolone
+                    prophylaxis
+                    // they probably use oflox in AU
+                PK OR DALK
+                    only if quiet for 6 months
 
-  culture
-    cornea
-      anesthesia
-        PF benoxinate minims
-      speculum
-      ALWAYS: do viral swabs for PCR
-        helps eliminate herpetic infection
-      scrape ulcer base and edges
-        RVEEH method
-          21 g needle
-          new needle for each medium (6)
-            slide 1
-              1 drop methanol
-            slide 2
-              1 drop methanol
-            sheep blood agar
-            chocolate agar
-            fungal slope
-              Sabouraud dextrose agar
-            Acanthamoeba slope
-              non-nutrient agar with E. coli overlay
-          alginate swab
-            break into thioglycollate broth
-          label agar-side of plates
-          label slides in pencil
-    if there is significant blepharitis
-      culture the eyelid margin
-    CTLs
-    CTL case
+    PUK // see keratitis-and-KC-immune.txt for PUK DDx
+
+    culture
+        cornea
+            anesthesia
+                PF benoxinate minims
+            speculum
+            ALWAYS: do viral swabs for PCR
+                helps eliminate herpetic infection
+            scrape ulcer base and edges
+                RVEEH method
+                    21 g needle
+                    new needle for each medium (6)
+                        slide 1
+                            1 drop methanol
+                        slide 2
+                            1 drop methanol
+                        sheep blood agar
+                        chocolate agar
+                        fungal slope
+                            Sabouraud dextrose agar
+                        Acanthamoeba slope
+                            non-nutrient agar with E. coli overlay
+                    alginate swab
+                        break into thioglycollate broth
+                    label agar-side of plates
+                    label slides in pencil
+        if there is significant blepharitis
+            culture the eyelid margin
+        CTLs
+        CTL case
 
 
 //
 
 
 neurotrophic ulcers OR neurotrophic overlay
-  acquired CN5 dysfunction
-    HSV
-    VZV
-    CVA
-    MS
-    aneurysm
-    tumor
-    DM
-  congenital CN5 dysfunction
-    familial dysautonomia AKA Riley-Day syndrome
-      Ashkenazi Jews
-    Mobius syndrome
-    Goldenhar syndrome
-  rolled borders
-  nonhealing
-  treatment
-    viral swab for PCR
-    scrape & culture for superinfection
-    stop topical medications with preservatives
-      for HSV or VZV ulcers with a neurotrophic component
-        use oral valaciclovir OR aciclovir rather than aciclovir ointment
-    PF lubricants
-    bandage CTL
-      use with caution
-      usually requires antibiotic prophylaxis
-      preservatives could delay healing
-    autologous serum drops
-    address any ectropion
-      LTS for very lax LL
-    BOTOX-induced therapeutic ptosis
-    temporary OR permanent tarsorrhaphy
-    amniotic membrane graft
-    Gunderson conjunctival flap
-  if the eye perforates
-    glue with cyanoacrylate in the OT
-      gives you much more control than gluing in clinic
-    if the perforation is large enough to collapse the AC
-      poor prognosis
-      urgent PK is sometimes required
-      innervation is still poor after a transplant
-      may need to add partial tarsorrhaphy over the PK
+    acquired CN5 dysfunction
+        HSV
+        VZV
+        CVA
+        MS
+        aneurysm
+        tumor
+        DM
+    congenital CN5 dysfunction
+        familial dysautonomia AKA Riley-Day syndrome
+            Ashkenazi Jews
+        Mobius syndrome
+        Goldenhar syndrome
+    rolled borders
+    nonhealing
+    treatment
+        viral swab for PCR
+        scrape & culture for superinfection
+        stop topical medications with preservatives
+            for HSV or VZV ulcers with a neurotrophic component
+                use oral valaciclovir OR aciclovir rather than aciclovir ointment
+        PF lubricants
+        bandage CTL
+            use with caution
+            usually requires antibiotic prophylaxis
+            preservatives could delay healing
+        autologous serum drops
+        address any ectropion
+            LTS for very lax LL
+        BOTOX-induced therapeutic ptosis
+        temporary OR permanent tarsorrhaphy
+        amniotic membrane graft
+        Gunderson conjunctival flap
+    if the eye perforates
+        glue with cyanoacrylate in the OT
+            gives you much more control than gluing in clinic
+        if the perforation is large enough to collapse the AC
+            poor prognosis
+            urgent PK is sometimes required
+            innervation is still poor after a transplant
+            may need to add partial tarsorrhaphy over the PK
 
 
 //
@@ -282,118 +282,118 @@ neurotrophic ulcers OR neurotrophic overlay
 
 interstitial keratitis
 
-  narrowly defined
-    nonulcerating inflammation
-    confined to the stroma
-    term often used more loosely
-  corneal haze
-  infiltrate
-  stromal NV
-    late ghost vessels
-  lipid keratopathy
+    narrowly defined
+        nonulcerating inflammation
+        confined to the stroma
+        term often used more loosely
+    corneal haze
+    infiltrate
+    stromal NV
+        late ghost vessels
+    lipid keratopathy
 
-  interstitial keratitis DDx
-    HSV + syphilis account for 50% of cases
+    interstitial keratitis DDx
+        HSV + syphilis account for 50% of cases
 
-    IK shortlist
-      HSV
-      syphilis
-      TB
-      Chlamydia
-      Acanthamoeba
-      sarcoid
-      Cogan syndrome
-      RA
-      GPA
+        IK shortlist
+            HSV
+            syphilis
+            TB
+            Chlamydia
+            Acanthamoeba
+            sarcoid
+            Cogan syndrome
+            RA
+            GPA
 
-    infectious
-      viral
-        COMMON: HSV
-        ALSO:
-          VZV
-          EBV
-          HTLV-1
-          mumps
-          measles
-      bacterial
-        COMMON: syphilis
-          usually congenital
-            notched incisors
-            saddle nose
-            prominent forehead
-              frontal bossing
-            deafness
-            intellectual impairment
-          salmon patch deep stromal NVK
-          treatment
-            systemic PCN
-            topical steroids
-            cycloplegics
-          burns itself out over several weeks
-        ALSO:
-          TB
-          Lyme
-          Chlamydia
-          M. leprae
-          Brucella
-          Leptospira
-      fungal
-        microsporidia
-      protozoal
-        Acanthamoeba
-          pseudodendrites
-          radial keratoneuritis
-          ring infiltrate
-          satellite lesions
-          hypopyon
-          pain out of proportion to findings
-        Leishmania
-        Trypanosoma
-      helminthic
-        Onchocerca
+        infectious
+            viral
+                COMMON: HSV
+                ALSO:
+                    VZV
+                    EBV
+                    HTLV-1
+                    mumps
+                    measles
+            bacterial
+                COMMON: syphilis
+                    usually congenital
+                        notched incisors
+                        saddle nose
+                        prominent forehead
+                            frontal bossing
+                        deafness
+                        intellectual impairment
+                    salmon patch deep stromal NVK
+                    treatment
+                        systemic PCN
+                        topical steroids
+                        cycloplegics
+                    burns itself out over several weeks
+                ALSO:
+                    TB
+                    Lyme
+                    Chlamydia
+                    M. leprae
+                    Brucella
+                    Leptospira
+            fungal
+                microsporidia
+            protozoal
+                Acanthamoeba
+                    pseudodendrites
+                    radial keratoneuritis
+                    ring infiltrate
+                    satellite lesions
+                    hypopyon
+                    pain out of proportion to findings
+                Leishmania
+                Trypanosoma
+            helminthic
+                Onchocerca
 
-    inflammatory
-      inflammatory
-        sarcoid
-        CTL-associated immune keratitis
-      autoimmune
-        Cogan syndrome
-          classically
-            IK
-            CN8P
+        inflammatory
+            inflammatory
+                sarcoid
+                CTL-associated immune keratitis
+            autoimmune
+                Cogan syndrome
+                    classically
+                        IK
+                        CN8P
+                        vasculitis
+                    diagnosis
+                        autoimmune IK
+                            not infectious
+                        +
+                        vertigo
+                        tinnitus
+                        deafness
+                        ±
+                        conjunctivitis
+                        episcleritis
+                        scleritis
+                        anterior ± intermediate uveitis
+                        retinal vasculitis
+                        systemic vasculitis
+                            aortitis
+                            IBD
+                            pericarditis
+                    important to catch Cogan syndrome early
+                        can prevent permanent hearing loss
+                        ALWAYS: ask IK patients if they have hearing loss
+                RA
+                relapsing polychondritis
             vasculitis
-          diagnosis
-            autoimmune IK
-              not infectious
-            +
-            vertigo
-            tinnitus
-            deafness
-            ±
-            conjunctivitis
-            episcleritis
-            scleritis
-            anterior ± intermediate uveitis
-            retinal vasculitis
-            systemic vasculitis
-              aortitis
-              IBD
-              pericarditis
-          important to catch Cogan syndrome early
-            can prevent permanent hearing loss
-            ALWAYS: ask IK patients if they have hearing loss
-        RA
-        relapsing polychondritis
-      vasculitis
-        GPA
-        PAN
+                GPA
+                PAN
 
-    idiopathic
+        idiopathic
 
-    neoplastic
-      lymphoproliferative
-        BROADLY: lymphoma
-          mycosis fungoides
+        neoplastic
+            lymphoproliferative
+                BROADLY: lymphoma
+                    mycosis fungoides
 
-    trauma
-      intracorneal FB
+        trauma
+            intracorneal FB

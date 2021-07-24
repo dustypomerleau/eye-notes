@@ -1,18 +1,18 @@
 // https://github.com/dustypomerleau/eye-notes
 
 options for correcting presbyopia
-  ASLA/PRK
-  LASIK
-  SmILE
-  presbyLASIK
-  monovision
-  MFIOL
-  intracor // has fallen out of favor
-  K inlays
-    usually in non-dominant eye
-      Kamra
-      Raindrop
-      Presbia Flexivue
-  RLE
-  scleral spacing
-  Neurovision AKA Revitalvision
+    ASLA/PRK
+    LASIK
+    SmILE
+    presbyLASIK
+    monovision
+    MFIOL
+    intracor // has fallen out of favor
+    K inlays
+        usually in non-dominant eye
+            Kamra
+            Raindrop
+            Presbia Flexivue
+    RLE
+    scleral spacing
+    Neurovision AKA Revitalvision

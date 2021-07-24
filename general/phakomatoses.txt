@@ -2,163 +2,163 @@
 
 phakomatoses AKA neurooculocutaneous syndromes
 
-  NF1
-    1/2 AD
-    1/2 sporadic
-    melanocytic lesions
-      skin
-        cafe au lait spots
-      uveal tract
-        Lisch nodules
-          commonly visible at 5+ YO
-          a few patients don't get them until their teens
-        choroidal nodules
-    glial cell lesions
-      skin
-        nodular neurofibromas
-        plexiform neurofibromas
-          can cause amblyopia
-          difficult to remove
-          can be debulked
-            ± frontalis sling
-          increases risk of glaucoma on the affected side
-      CNS
-        optic nerve gliomas
-        chiasmal gliomas
-          try to watch them
-            if significant proptosis OR
-            elevated ICP
-              debulking
-              ± chemo and radiation
-    glaucoma
-      especially in eyes with plexiform neurofibromas
-    increased risk of secondary tumors
-      JXG
-      retinal capillary hemangioma
-      rhabdomyosarcoma
-      pheochromocytoma
-      Wilms tumor
-      leukemia
-    NF1 diagnostic criteria
-      2+ features
-        1st degree FH
-        6+ cafe au lait spots
-        2+ axillary or inguinal freckles
-        2+ cutaneous neurofibromas
-        1+ plexiform neurofibroma
-        2+ lisch nodules
-        optic pathway glioma
-        osseous dysplasia
-          COMMON: sphenoid dysplasia
-    NOTE: MRI is not necessary at baseline with good VA and a normal nerve
+    NF1
+        1/2 AD
+        1/2 sporadic
+        melanocytic lesions
+            skin
+                cafe au lait spots
+            uveal tract
+                Lisch nodules
+                    commonly visible at 5+ YO
+                    a few patients don't get them until their teens
+                choroidal nodules
+        glial cell lesions
+            skin
+                nodular neurofibromas
+                plexiform neurofibromas
+                    can cause amblyopia
+                    difficult to remove
+                    can be debulked
+                        ± frontalis sling
+                    increases risk of glaucoma on the affected side
+            CNS
+                optic nerve gliomas
+                chiasmal gliomas
+                    try to watch them
+                        if significant proptosis OR
+                        elevated ICP
+                            debulking
+                            ± chemo and radiation
+        glaucoma
+            especially in eyes with plexiform neurofibromas
+        increased risk of secondary tumors
+            JXG
+            retinal capillary hemangioma
+            rhabdomyosarcoma
+            pheochromocytoma
+            Wilms tumor
+            leukemia
+        NF1 diagnostic criteria
+            2+ features
+                1st degree FH
+                6+ cafe au lait spots
+                2+ axillary or inguinal freckles
+                2+ cutaneous neurofibromas
+                1+ plexiform neurofibroma
+                2+ lisch nodules
+                optic pathway glioma
+                osseous dysplasia
+                    COMMON: sphenoid dysplasia
+        NOTE: MRI is not necessary at baseline with good VA and a normal nerve
 
-  NF2
-    RARE
-    1/2 AD
-    1/2 sporadic
-    neurofibromas
-    acoustic neuromas
-    meningioma
-    schwannoma
-    PSC cataracts
+    NF2
+        RARE
+        1/2 AD
+        1/2 sporadic
+        neurofibromas
+        acoustic neuromas
+        meningioma
+        schwannoma
+        PSC cataracts
 
-  sporadic tuberous sclerosis
-    COMMON:
-      intellectual impairment
-      seizures
-      facial angiofibromas
-      retinal hamartomas
-        COMMON: inner-retinal glial tumors AKA astrocytic hamartoma
-          COMMON:
-            flat
-            elevated
-            multinodular
-              classic mulberry
-              ± calcification
-          ALSO: exudative
-            circinate lipid
-            RARELY: exudative RD
-        treatment
-          COMMON: observation
-          RARELY: mTOR inhibitors
-            effective at reducing lesion size in kidneys and brain
-            case-series data suggests this also works on retinal lesions
-            symptomatic patients only
-              pregnancy test first
-              sirolimus 1–4 mg po daily
-                ideally titrate up
-                  1–2 mg po daily
-                  increase to reach serum trough of 5–10 ng/mL
-              primarily aims to stabilize the lesions
-                COMMON:
-                  10–15% reduction in thickness
-                  6–12 months of treatment
-              unlikely to improve vision
-            side effects
-              COMMON: oral ulcers
-              ALSO:
-                hyperlipidemia
-                irregular menses
-    ALSO:
-      punched out RPEA
-      subependymal giant cell astrocytomas
-      renal angiomyolipomas
-      epilepsy
+    sporadic tuberous sclerosis
+        COMMON:
+            intellectual impairment
+            seizures
+            facial angiofibromas
+            retinal hamartomas
+                COMMON: inner-retinal glial tumors AKA astrocytic hamartoma
+                    COMMON:
+                        flat
+                        elevated
+                        multinodular
+                            classic mulberry
+                            ± calcification
+                    ALSO: exudative
+                        circinate lipid
+                        RARELY: exudative RD
+                treatment
+                    COMMON: observation
+                    RARELY: mTOR inhibitors
+                        effective at reducing lesion size in kidneys and brain
+                        case-series data suggests this also works on retinal lesions
+                        symptomatic patients only
+                            pregnancy test first
+                            sirolimus 1–4 mg po daily
+                                ideally titrate up
+                                    1–2 mg po daily
+                                    increase to reach serum trough of 5–10 ng/mL
+                            primarily aims to stabilize the lesions
+                                COMMON:
+                                    10–15% reduction in thickness
+                                    6–12 months of treatment
+                            unlikely to improve vision
+                        side effects
+                            COMMON: oral ulcers
+                            ALSO:
+                                hyperlipidemia
+                                irregular menses
+        ALSO:
+            punched out RPEA
+            subependymal giant cell astrocytomas
+            renal angiomyolipomas
+            epilepsy
 
-  AD VHL
-    retinal and CNS capillary hemangioblastomas
-      ALWAYS: MRI
-      treatment
-        observation
-        for small lesions
-          laser
-        cryo
-        ± antiVEGF
-    renal carcinoma
-    pheochromocytoma
+    AD VHL
+        retinal and CNS capillary hemangioblastomas
+            ALWAYS: MRI
+            treatment
+                observation
+                for small lesions
+                    laser
+                cryo
+                ± antiVEGF
+        renal carcinoma
+        pheochromocytoma
 
-  sporadic Sturge-Weber syndrome AKA encephalotrigeminal angiomatosis
-    CNS calcification
-      ALWAYS: MRI
-    seizures
-    focal neurologic deficits
-    facial port-wine stain
-    glaucoma
-      same side as the PWS
-      bimodal presentation
-        congenital
-        later in life
-      hard to control with medication
-      frequently requires trab
-    diffuse choroidal hemangioma
+    sporadic Sturge-Weber syndrome AKA encephalotrigeminal angiomatosis
+        CNS calcification
+            ALWAYS: MRI
+        seizures
+        focal neurologic deficits
+        facial port-wine stain
+        glaucoma
+            same side as the PWS
+            bimodal presentation
+                congenital
+                later in life
+            hard to control with medication
+            frequently requires trab
+        diffuse choroidal hemangioma
 
-  AR ataxia telangiectasia AKA Louis-Barr syndrome
-    CNS motor dysfunction
-    poor saccades with head thrusting
-    conjunctival telangiectasias
+    AR ataxia telangiectasia AKA Louis-Barr syndrome
+        CNS motor dysfunction
+        poor saccades with head thrusting
+        conjunctival telangiectasias
 
-  XLD incontinentia pigmenti
-    only in girls (boys die)
-    bullous skin lesions
-    hydrocephalus
-    seizures
-    ischemic peripheral retina
-      VH
-      TRD
-      NVG
-    ROP-style laser management
+    XLD incontinentia pigmenti
+        only in girls (boys die)
+        bullous skin lesions
+        hydrocephalus
+        seizures
+        ischemic peripheral retina
+            VH
+            TRD
+            NVG
+        ROP-style laser management
 
-  sporadic Wyburn-Mason syndrome
-    CNS AV malformations
-      ALWAYS: MRI
-    retinal AV malformations
-      watch them unless they bleed or cause glaucoma
+    sporadic Wyburn-Mason syndrome
+        CNS AV malformations
+            ALWAYS: MRI
+        retinal AV malformations
+            watch them unless they bleed or cause glaucoma
 
 
 //
 
 
 pheochromocytoma
-  NF1
-  VHL
-  MEN2B
+    NF1
+    VHL
+    MEN2B

@@ -2,230 +2,230 @@
 
 NLDO
 
-  congenital NLDO
-    mucoid reflux
-    sac distention with digital pressure
-    watch for a year and massage the sac
-    probe and irrigate in OT
-      ALWAYS: irrigate to prove patency after probing
-    if recurrent
-      intubate with Crawford tubing
-        ± turbinate infracture if URI-associated
-      tubing removal in 3–6 months
-    DCR if this fails
-    watch for dacryocystitis // treatment below
+    congenital NLDO
+        mucoid reflux
+        sac distention with digital pressure
+        watch for a year and massage the sac
+        probe and irrigate in OT
+            ALWAYS: irrigate to prove patency after probing
+        if recurrent
+            intubate with Crawford tubing
+                ± turbinate infracture if URI-associated
+            tubing removal in 3–6 months
+        DCR if this fails
+        watch for dacryocystitis // treatment below
 
-  acquired NLDO
+    acquired NLDO
 
-    DDx acquired NLDO with epiphora
-      prior infection
-        canaliculitis
-        dacryocystitis
-          scarring
-      sarcoid
-      GPA
-      allergic rhinitis
-      sinus surgery
-      radiation
-      neoplasm
-      chemo
-      topical glaucoma drops
-      punctal malposition
-      adult lacrimal sac mucocele
-        bluish mass below the medial canthus
-        an acquired version of dacryocystocele
-        can get superinfected
-          dacryocystitis // see bugs below
-        can cause local bony erosion in the lacrimal fossa
-        blockage will be in the canaliculus OR common
-        treatment
-          COMMON: DCR
-          ALSO: polyurethane stent
-      congenital dacryocystocele
-      trauma
+        DDx acquired NLDO with epiphora
+            prior infection
+                canaliculitis
+                dacryocystitis
+                    scarring
+            sarcoid
+            GPA
+            allergic rhinitis
+            sinus surgery
+            radiation
+            neoplasm
+            chemo
+            topical glaucoma drops
+            punctal malposition
+            adult lacrimal sac mucocele
+                bluish mass below the medial canthus
+                an acquired version of dacryocystocele
+                can get superinfected
+                    dacryocystitis // see bugs below
+                can cause local bony erosion in the lacrimal fossa
+                blockage will be in the canaliculus OR common
+                treatment
+                    COMMON: DCR
+                    ALSO: polyurethane stent
+            congenital dacryocystocele
+            trauma
 
-    approach to the patient with epiphora
-      hypersecretion
-        OSD
-        any inflammatory or infectious KC
-        unanesthetized Schirmer1 helps rule out excessive tearing
-      poor lacrimal drainage
-        worse in the windy cold
-        causes
-          punctal malposition
-            LL laxity
-            ectropion
-          lacrimal pump failure
-            LL or MCT laxity
-              test with horizontal traction and digital eversion
-            weak OOM e.g. CN7P
-              test CN7
-          lacrimal obstruction
-            determine level
-              inspect the punctum
-                punctal stenosis
-                punctal obstruction
-                  eyelash
-                  conjunctivochalasis
-                pouting punctum
-                  canaliculitis
-              palpate the lacrimal sac // unless there's obvious dacryocystitis
-                mucopurulent reflux
-                  mucocele
-              dye disappearance test
-                should be gone in 5 minutes
-                high false positive rate
-                  but if the dye disappears it helps you
-                if the dye doesn't disappear
-                  do a Jones1 with an anesthetized swab in the nose
-                    below the inferior turbinate
-                    if you get dye the system is patent
-                      reassess for hypersecretion
-                    if you don't get dye then probe and irrigate
-              probing and irrigation
-                NEVER: irrigate in the setting of active dacryocystitis
-                local anesthetic
-                wash out previous fluorescein
-                dilate the punctum
-                saline in a syringe with a 26 g lacrimal cannula
-                horizontal traction
-                enter punctum and canaliculus
-                  irrigate
-                if irrigation is successful
-                  including from the sac // see below
-                  do a Jones2 with an anesthetized swab in the nose
-                    below the inferior turbinate
-                    if you retrieve dye it means it entered the sac before
-                      the patient probably has a partial obstruction/stenosis
-                    if you don't retrieve dye
-                      the obstruction is probably at or before the common
-                if irrigation fails
-                  attempt to pass probe into the sac
-                    soft stop
-                      canaliculus is blocked
-                        reflux through the lower punctum
-                          indicates lower canaliculus is blocked
-                        reflux through the upper punctum
-                          indicates common canaliculus is blocked
-                    hard stop
-                      you've reached the lacrimal bone at the medial sac wall
-                        try to irrigate again from this point
-                          the lacrimal system may simply be stenosed
-                        if irrigation fails
-                          lacrimal sac might visibly distend
-                          expect upper punctal reflux
-                            note the type of reflux
-                              mucus
-                              blood
-                              pus
-      in dacryocystocele OR mucocele if the anatomy is uncertain
-        digital subtraction dacryocystography (DS-DCG)
-          contrast irrigation under X-ray with digital post-processing
-        CT-DCG
-          helpful if there is abnormal bony anatomy
-            lacrimal fossa
-            sinuses
-          good to visualize a lacrimal sac diverticulum
-        MR-DCG
-        radionucleotide dacryoscintigraphy (DSG)
-          instill Technetium 99 drops and track with a gamma camera
-    investigations
-      culture for
-        purulent reflux
-      MRI for
-        palpable mass
-          neoplasm
-          mucocele
-        bloody reflux
-      bloods based on suspicion
-        sarcoid
-          ACE
-          lysozyme
-          CXR
-        GPA
-          cANCA
-    surgery
-      punctal stenosis
-        3-snip
-      conjunctivochalasis occluding punctum
-        conjunctival resection
-      ectropion causing punctal malposition
-        medial spindle
-      horizontal laxity causing punctal malposition
-        LTS
-      partial occlusion
-        intubate
-      canalicular OR common occlusion
-        COMMON: endoscopic CDCR with a Pyrex Jones tube
-          ± partial middle turbinectomy
-          can dislodge
-          need some maintenance to prevent mucus plugging
-      Rosenmuller or lacrimal sac occlusion
-        external DCR
-          higher success rate than endoscopic DCR
-        if a patient has persistent or recurrent epiphora after DCR
-          first run through the exam above
-            look for a missed or mixed etiology
-              hypersecretion
-                allergy
-                spastic entropion
-              lid laxity
-              punctal malposition
-              canaliculitis
-          repeat your testing
-            DDT
-            Jones1
-              below middle turbinate in the postop setting
-            probe + irrigate
-              be gentle the anatomy is altered
-          blockage after DCR
-            1/2 at the common
-            1/2 at the bony ostium
-          consider stent-related complications
-            scarring
-            pyogenic granuloma
-          review op notes
-            was the sac tissue abnormal?
-              GPA
-              neoplasm
-          symptoms of sump syndrome
-            tearing
-            expressible mucous
-          if the cause is still unclear
-            DCG OR DSG as above
+        approach to the patient with epiphora
+            hypersecretion
+                OSD
+                any inflammatory or infectious KC
+                unanesthetized Schirmer1 helps rule out excessive tearing
+            poor lacrimal drainage
+                worse in the windy cold
+                causes
+                    punctal malposition
+                        LL laxity
+                        ectropion
+                    lacrimal pump failure
+                        LL or MCT laxity
+                            test with horizontal traction and digital eversion
+                        weak OOM e.g. CN7P
+                            test CN7
+                    lacrimal obstruction
+                        determine level
+                            inspect the punctum
+                                punctal stenosis
+                                punctal obstruction
+                                    eyelash
+                                    conjunctivochalasis
+                                pouting punctum
+                                    canaliculitis
+                            palpate the lacrimal sac // unless there's obvious dacryocystitis
+                                mucopurulent reflux
+                                    mucocele
+                            dye disappearance test
+                                should be gone in 5 minutes
+                                high false positive rate
+                                    but if the dye disappears it helps you
+                                if the dye doesn't disappear
+                                    do a Jones1 with an anesthetized swab in the nose
+                                        below the inferior turbinate
+                                        if you get dye the system is patent
+                                            reassess for hypersecretion
+                                        if you don't get dye then probe and irrigate
+                            probing and irrigation
+                                NEVER: irrigate in the setting of active dacryocystitis
+                                local anesthetic
+                                wash out previous fluorescein
+                                dilate the punctum
+                                saline in a syringe with a 26 g lacrimal cannula
+                                horizontal traction
+                                enter punctum and canaliculus
+                                    irrigate
+                                if irrigation is successful
+                                    including from the sac // see below
+                                    do a Jones2 with an anesthetized swab in the nose
+                                        below the inferior turbinate
+                                        if you retrieve dye it means it entered the sac before
+                                            the patient probably has a partial obstruction/stenosis
+                                        if you don't retrieve dye
+                                            the obstruction is probably at or before the common
+                                if irrigation fails
+                                    attempt to pass probe into the sac
+                                        soft stop
+                                            canaliculus is blocked
+                                                reflux through the lower punctum
+                                                    indicates lower canaliculus is blocked
+                                                reflux through the upper punctum
+                                                    indicates common canaliculus is blocked
+                                        hard stop
+                                            you've reached the lacrimal bone at the medial sac wall
+                                                try to irrigate again from this point
+                                                    the lacrimal system may simply be stenosed
+                                                if irrigation fails
+                                                    lacrimal sac might visibly distend
+                                                    expect upper punctal reflux
+                                                        note the type of reflux
+                                                            mucus
+                                                            blood
+                                                            pus
+            in dacryocystocele OR mucocele if the anatomy is uncertain
+                digital subtraction dacryocystography (DS-DCG)
+                    contrast irrigation under X-ray with digital post-processing
+                CT-DCG
+                    helpful if there is abnormal bony anatomy
+                        lacrimal fossa
+                        sinuses
+                    good to visualize a lacrimal sac diverticulum
+                MR-DCG
+                radionucleotide dacryoscintigraphy (DSG)
+                    instill Technetium 99 drops and track with a gamma camera
+        investigations
+            culture for
+                purulent reflux
+            MRI for
+                palpable mass
+                    neoplasm
+                    mucocele
+                bloody reflux
+            bloods based on suspicion
+                sarcoid
+                    ACE
+                    lysozyme
+                    CXR
+                GPA
+                    cANCA
+        surgery
+            punctal stenosis
+                3-snip
+            conjunctivochalasis occluding punctum
+                conjunctival resection
+            ectropion causing punctal malposition
+                medial spindle
+            horizontal laxity causing punctal malposition
+                LTS
+            partial occlusion
+                intubate
+            canalicular OR common occlusion
+                COMMON: endoscopic CDCR with a Pyrex Jones tube
+                    ± partial middle turbinectomy
+                    can dislodge
+                    need some maintenance to prevent mucus plugging
+            Rosenmuller or lacrimal sac occlusion
+                external DCR
+                    higher success rate than endoscopic DCR
+                if a patient has persistent or recurrent epiphora after DCR
+                    first run through the exam above
+                        look for a missed or mixed etiology
+                            hypersecretion
+                                allergy
+                                spastic entropion
+                            lid laxity
+                            punctal malposition
+                            canaliculitis
+                    repeat your testing
+                        DDT
+                        Jones1
+                            below middle turbinate in the postop setting
+                        probe + irrigate
+                            be gentle the anatomy is altered
+                    blockage after DCR
+                        1/2 at the common
+                        1/2 at the bony ostium
+                    consider stent-related complications
+                        scarring
+                        pyogenic granuloma
+                    review op notes
+                        was the sac tissue abnormal?
+                            GPA
+                            neoplasm
+                    symptoms of sump syndrome
+                        tearing
+                        expressible mucous
+                    if the cause is still unclear
+                        DCG OR DSG as above
 
 
 //
 
 
 DCR
-  GA
-  lidocaine 2% to medial canthus and periosteum
-  cocaine 4% gauze packed around middle meatus
-  dilate and probe the punctum
-  determine the need for punctoplasty or canaliculoplasty
-  blade incision about 1 cm medial to MCT
-    from level of MCT to within 2 cm of the nasal ala
-  scissors dissection to the lacrimal bone
-    cauterize as you go
-  assistant retracts the angular vessels medially
-  release the MCT
-  use a periosteal elevator to expose the bone
-  use a bone punch to create a 10 x 10 mm osteotomy
-    don't damage the nasal mucosa
-  open the lacrimal sac using a probe for guidance
-    place radial cuts to create flaps
-  open to the base of the sac to prevent sump syndrome
-  create an H incision in the nasal mucosa with a blade and scissors
-  Sew the posterior nasal mucosa to the lacrimal sac flap
-    2 x 6–0 vicryl to make an anastomosis
-  create an anterior flap in the nasal mucosa as well
-  perform bicanalicular intubation
-    use a probe to push the tubing through
-    tie the tubing together and retrieve it nasally
-  sew the anterior flap anastomosis
-  reattach the MCT
-  close the skin with nylon or gut
+    GA
+    lidocaine 2% to medial canthus and periosteum
+    cocaine 4% gauze packed around middle meatus
+    dilate and probe the punctum
+    determine the need for punctoplasty or canaliculoplasty
+    blade incision about 1 cm medial to MCT
+        from level of MCT to within 2 cm of the nasal ala
+    scissors dissection to the lacrimal bone
+        cauterize as you go
+    assistant retracts the angular vessels medially
+    release the MCT
+    use a periosteal elevator to expose the bone
+    use a bone punch to create a 10 x 10 mm osteotomy
+        don't damage the nasal mucosa
+    open the lacrimal sac using a probe for guidance
+        place radial cuts to create flaps
+    open to the base of the sac to prevent sump syndrome
+    create an H incision in the nasal mucosa with a blade and scissors
+    Sew the posterior nasal mucosa to the lacrimal sac flap
+        2 x 6–0 vicryl to make an anastomosis
+    create an anterior flap in the nasal mucosa as well
+    perform bicanalicular intubation
+        use a probe to push the tubing through
+        tie the tubing together and retrieve it nasally
+    sew the anterior flap anastomosis
+    reattach the MCT
+    close the skin with nylon or gut
 
 medial spindle // see entropion-ectropion-eyelid-anatomy.txt
 
@@ -236,46 +236,46 @@ LTS // see entropion-ectropion-eyelid-anatomy.txt
 
 
 canaliculitis (particularly common after punctal plugs)
-  tearing
-  follicular conjunctivitis
-  pouting punctum
-  bugs
-    COMMON: Actinomyces
-    ALSO:
-      Eikenella
-      Mycobacteria marinatum
-      Strep. spp.
-  treatment
-    massage and express
-    Chlorsig ointment
-    severe cases
-      could add Augmentin
-        usually this is more appropriate in dacryocystitis
-    curettage of actinomyces stones
-      ± canaliculotomy if needed
-      syringe with cefazolin solution after clearing stones
-      heals by 2° intention
+    tearing
+    follicular conjunctivitis
+    pouting punctum
+    bugs
+        COMMON: Actinomyces
+        ALSO:
+            Eikenella
+            Mycobacteria marinatum
+            Strep. spp.
+    treatment
+        massage and express
+        Chlorsig ointment
+        severe cases
+            could add Augmentin
+                usually this is more appropriate in dacryocystitis
+        curettage of actinomyces stones
+            ± canaliculotomy if needed
+            syringe with cefazolin solution after clearing stones
+            heals by 2° intention
 
 
 //
 
 
 dacryocystitis
-  painful overlying cellulitis
-  functional NLDO
-  risk of extension of cellulitis or orbital cellulitis
-  NEVER: probe or irrigate active dacryocystitis
+    painful overlying cellulitis
+    functional NLDO
+    risk of extension of cellulitis or orbital cellulitis
+    NEVER: probe or irrigate active dacryocystitis
 
-  true dacryocystitis
-    same drugs as preseptal/orbital cellulitis
-    same bugs inhabit the sinuses and NL system
-      SA
-      pneumococcus
-      H. flu
-        in nonimmunized
-    Augmentin 22.5 mg + 3.2 mg/kg up to 875/125 po bd x 10 d
-      // for alternate dosing see cellulitis-preseptal-and-orbital.txt
-    or if severe
-      flucloxacillin 50 mg/kg up to 2 g q 6 hours
-      ceftriaxone 50 mg/kg up to 2 g q 8 hours
-    often need a DCR later because of scarring
+    true dacryocystitis
+        same drugs as preseptal/orbital cellulitis
+        same bugs inhabit the sinuses and NL system
+            SA
+            pneumococcus
+            H. flu
+                in nonimmunized
+        Augmentin 22.5 mg + 3.2 mg/kg up to 875/125 po bd x 10 d
+            // for alternate dosing see cellulitis-preseptal-and-orbital.txt
+        or if severe
+            flucloxacillin 50 mg/kg up to 2 g q 6 hours
+            ceftriaxone 50 mg/kg up to 2 g q 8 hours
+        often need a DCR later because of scarring

@@ -4,228 +4,228 @@ eyelid neoplasms
 
 /*
 with any skin or orbit lesion
-  first goal is establish the diagnosis
-    biopsy if it's uncertain
-  with skin cancer the key is margin control
-    Mohs is generally best if available
-    24 h paraffin probably second
-      wait until day 2 to repair the defect
-        that way you can do further excision if necessary
-    routine frozen section can miss things but is better than nothing
-  for cancer in the orbit the patient needs complete staging with an oncologist
-    i.e. is it confined to the orbit or not? // see mass-orbital.txt
+    first goal is establish the diagnosis
+        biopsy if it's uncertain
+    with skin cancer the key is margin control
+        Mohs is generally best if available
+        24 h paraffin probably second
+            wait until day 2 to repair the defect
+                that way you can do further excision if necessary
+        routine frozen section can miss things but is better than nothing
+    for cancer in the orbit the patient needs complete staging with an oncologist
+        i.e. is it confined to the orbit or not? // see mass-orbital.txt
 */
 
 history
-  pace of onset
-  sun exposure
-  prior skin cancer
-  smoking
-  radiation
-  immunosuppression
+    pace of onset
+    sun exposure
+    prior skin cancer
+    smoking
+    radiation
+    immunosuppression
 
 exam
-  ulceration
-  bleeding
-  telangiectasias
-  pigment
-  loss of architecture
-  pagetoid spread to conjunctiva, sclera
-  perineural spread
-    test CN5 and CN7
-  palpate regional lymph nodes
-  punctal or canalicular involvement
-  masquerading as chronic chalazia or blepharitis
-  ALWAYS: perform a complete eye exam
+    ulceration
+    bleeding
+    telangiectasias
+    pigment
+    loss of architecture
+    pagetoid spread to conjunctiva, sclera
+    perineural spread
+        test CN5 and CN7
+    palpate regional lymph nodes
+    punctal or canalicular involvement
+    masquerading as chronic chalazia or blepharitis
+    ALWAYS: perform a complete eye exam
 
 DDx
-  size influences biopsy type
-    incisional
-      in practice
-        usually a 3 mm punch biopsy under local anesthesia
-    excisional
+    size influences biopsy type
+        incisional
+            in practice
+                usually a 3 mm punch biopsy under local anesthesia
+        excisional
 
-  benign
-    generally observe
-    if cystic
-      shave
-      marsupialize
-    if viral OR small/multifocal
-      electrocautery
-      cryo
-    squamous papilloma
-    seborrheic keratosis
-    epidermal inclusion cysts
-      contains yellow-white laminated keratin
-    milia
-      multiple
-      keratin filled
-    sweat gland cysts
-      COMMON: syringomas
-        multifocal bumps
-        clear contents (not yellow like xanthelasma)
-      ALSO: sudoriforous cyst AKA hidrocystoma AKA cyst of Moll
-        transilluminates
-        can be apocrine or eccrine in origin
-        apocrine hidrocystoma can be multiple
-          often near the eyelid margin
-    molluscum
-    xanthelasma
-    trichoepithelioma
-      most common of many benign tumors of hair follicles
-    nevi
-      can be pearly and nonpigmented like a BCC
-      but
-        conform to the globe
-        no ulceration
-        lashes and lid architecture are not disturbed
-      if nonpigmented
-        vessels may be prominent
-    oculodermal melanocytosis AKA nevus of Ota
-      RARELY: develops uveal melanoma
-    pyogenic granuloma AKA lobular capillary hemangioma
-      COMMON: at a site of trauma
-    granulation tissue polyp
-      clinically looks like a pyogenic granuloma
-      histologically does not contain a lobular capillary hemangioma
+    benign
+        generally observe
+        if cystic
+            shave
+            marsupialize
+        if viral OR small/multifocal
+            electrocautery
+            cryo
+        squamous papilloma
+        seborrheic keratosis
+        epidermal inclusion cysts
+            contains yellow-white laminated keratin
+        milia
+            multiple
+            keratin filled
+        sweat gland cysts
+            COMMON: syringomas
+                multifocal bumps
+                clear contents (not yellow like xanthelasma)
+            ALSO: sudoriforous cyst AKA hidrocystoma AKA cyst of Moll
+                transilluminates
+                can be apocrine or eccrine in origin
+                apocrine hidrocystoma can be multiple
+                    often near the eyelid margin
+        molluscum
+        xanthelasma
+        trichoepithelioma
+            most common of many benign tumors of hair follicles
+        nevi
+            can be pearly and nonpigmented like a BCC
+            but
+                conform to the globe
+                no ulceration
+                lashes and lid architecture are not disturbed
+            if nonpigmented
+                vessels may be prominent
+        oculodermal melanocytosis AKA nevus of Ota
+            RARELY: develops uveal melanoma
+        pyogenic granuloma AKA lobular capillary hemangioma
+            COMMON: at a site of trauma
+        granulation tissue polyp
+            clinically looks like a pyogenic granuloma
+            histologically does not contain a lobular capillary hemangioma
 
-  potentially premalignant
-    actinic keratosis
-      observe
-    SCC in-situ
-      biopsy and excise
-    keratoacanthoma
-      think of as pre-SCC
-      treat as SCC
+    potentially premalignant
+        actinic keratosis
+            observe
+        SCC in-situ
+            biopsy and excise
+        keratoacanthoma
+            think of as pre-SCC
+            treat as SCC
+                incisional biopsy
+                excision with margin control
+        lentigo maligna melanoma
+            biopsy
+            excise with margins
+
+    malignant
         incisional biopsy
-        excision with margin control
-    lentigo maligna melanoma
-      biopsy
-      excise with margins
-
-  malignant
-    incisional biopsy
-      usually a 3 mm punch // in AU
-    for large or aggressive lesions
-      involve the GP ± oncologist
-    excision with margins
-      Mohs OR frozen sections
-    BCC (3 mm)
-      if young patient
-        rule out
-          AR xeroderma pigmentosum
-          AD basal cell nevus syndrome
-      BCC in the lateral canthus is a unique case
-        structures near the lateral canthus
-          CN[57]
-            palsies
-            perineural tumor spread
-          lymphatics from the eyelids to the preauricular nodes
-          LCT
-          TA
-          lacrimal gland
-          eyebrow
-            can be affected by some flap closures
-          unique skin
-            canthal skin is more like eyelid skin
-            neighbouring areas don't have this type of skin
-              harder to get good flap outcomes
-          canthal angle must be reformed after surgery
-        despite all these structures
-          BCC is a surgical disease
-          adjunctive therapies have a small role
-            radiation
-            imiquimod (Aldara) cream
-            5-FU (Efudix)
-        assess
-          size
-          depth
-          mobility
-          lid involvement
-          spread into the orbit
-        ALWAYS: consider and document your method of margin control
-          Mohs
-          24 hour paraffin
-            requires a delay in repair until you have results
-          frozen section
-            least reliable but most convenient
-            depends on the skill of your local pathologist at reading these
-        surgical repair
-          1° closure
-            best if the lesion is small enough
-            orient closure along the laugh lines
-          FTSG
-            easy
-            can cover a large area
-            color and texture aren't predictable
-            may pincushion slightly less than flaps
-              pincushioning refers to rising above the surrounding skin
-              intradermal triamcinolone can help
-          flaps
-            advancement flaps
-              Tenzel semicircular flap OR
-                too large a flap will round the canthus
-              mini Mustarde flap
-                watch out for CN7 with either of these
-                tack the flap down with at least 1 deep periosteal suture
-            rhomboid AKA Limberg flap
-            transposition flaps
-              forehead rotation Fricke flap
-              not possible to close this primarily because of the eyebrow
-                means using a less cosmetic FTSG to finish the procedure
-    SCC (4 mm)
-      perineural invasion of SCC can affect the orbit and cavernous sinus
-      if there is a CNP associated with SCC
-        scan
-          thin cut MRI ± gad of orbit and cavernous sinus
-      if you can't see the whole lesion
-        scan
-    sebaceous cell carcinoma (4+ mm)
-      very aggressive
-      need workup for systemic malignancies
-        Muir-Torre syndrome
-          colon CA
-          genitourinary CA
-      if localized
-        full-thickness excision
-        need excellent margin control
-      if there is pagetoid spread into the orbit
-        exenteration
-    malignant melanoma (5 mm)
-    Kaposi sarcoma
-      in immunosuppressed
+            usually a 3 mm punch // in AU
+        for large or aggressive lesions
+            involve the GP ± oncologist
+        excision with margins
+            Mohs OR frozen sections
+        BCC (3 mm)
+            if young patient
+                rule out
+                    AR xeroderma pigmentosum
+                    AD basal cell nevus syndrome
+            BCC in the lateral canthus is a unique case
+                structures near the lateral canthus
+                    CN[57]
+                        palsies
+                        perineural tumor spread
+                    lymphatics from the eyelids to the preauricular nodes
+                    LCT
+                    TA
+                    lacrimal gland
+                    eyebrow
+                        can be affected by some flap closures
+                    unique skin
+                        canthal skin is more like eyelid skin
+                        neighbouring areas don't have this type of skin
+                            harder to get good flap outcomes
+                    canthal angle must be reformed after surgery
+                despite all these structures
+                    BCC is a surgical disease
+                    adjunctive therapies have a small role
+                        radiation
+                        imiquimod (Aldara) cream
+                        5-FU (Efudix)
+                assess
+                    size
+                    depth
+                    mobility
+                    lid involvement
+                    spread into the orbit
+                ALWAYS: consider and document your method of margin control
+                    Mohs
+                    24 hour paraffin
+                        requires a delay in repair until you have results
+                    frozen section
+                        least reliable but most convenient
+                        depends on the skill of your local pathologist at reading these
+                surgical repair
+                    1° closure
+                        best if the lesion is small enough
+                        orient closure along the laugh lines
+                    FTSG
+                        easy
+                        can cover a large area
+                        color and texture aren't predictable
+                        may pincushion slightly less than flaps
+                            pincushioning refers to rising above the surrounding skin
+                            intradermal triamcinolone can help
+                    flaps
+                        advancement flaps
+                            Tenzel semicircular flap OR
+                                too large a flap will round the canthus
+                            mini Mustarde flap
+                                watch out for CN7 with either of these
+                                tack the flap down with at least 1 deep periosteal suture
+                        rhomboid AKA Limberg flap
+                        transposition flaps
+                            forehead rotation Fricke flap
+                            not possible to close this primarily because of the eyebrow
+                                means using a less cosmetic FTSG to finish the procedure
+        SCC (4 mm)
+            perineural invasion of SCC can affect the orbit and cavernous sinus
+            if there is a CNP associated with SCC
+                scan
+                    thin cut MRI ± gad of orbit and cavernous sinus
+            if you can't see the whole lesion
+                scan
+        sebaceous cell carcinoma (4+ mm)
+            very aggressive
+            need workup for systemic malignancies
+                Muir-Torre syndrome
+                    colon CA
+                    genitourinary CA
+            if localized
+                full-thickness excision
+                need excellent margin control
+            if there is pagetoid spread into the orbit
+                exenteration
+        malignant melanoma (5 mm)
+        Kaposi sarcoma
+            in immunosuppressed
 
 
 lid reconstruction
-  at least one of the lamellae must be local
-  ladder
-    1° repair (25-% of lid margin)
-    1° repair with canthotomy and cantholysis
-    Tenzel semicircular flap
-      too large a flap will round the canthus
-    upper lid:
-      contralateral upper lid free tarsoconjunctival graft OR
-      hard palate
-      + skin-muscle flap
-      more natural/mobile lid than Cutler-Beard (50+% of lid margin)
-        for Cutler-Beard
-          free tarsoconjunctival graft from fellow UL
-          sew conj to the bottom of the TC graft
-          then attach skin + muscle flap tucked through full-thickness incision
-            muscle to levator
-            skin to skin
-          other option is to attach conj at the top of the defect
-            then add hard palate or similar
-            like a sandwich
-    lower lid:
-      adjacent tarsoconjunctival flap
-      + free full-thickness skin graft
-    lower lid:
-      contralateral upper lid free tarsoconjunctival graft OR
-      hard palate
-      + skin-muscle flap
-    lower lid:
-      modified Hughes (50+% of lid margin)
-        tarsoconjunctival flap from the upper lid
-        postauricular skin graft
-        cut free several weeks later
+    at least one of the lamellae must be local
+    ladder
+        1° repair (25-% of lid margin)
+        1° repair with canthotomy and cantholysis
+        Tenzel semicircular flap
+            too large a flap will round the canthus
+        upper lid:
+            contralateral upper lid free tarsoconjunctival graft OR
+            hard palate
+            + skin-muscle flap
+            more natural/mobile lid than Cutler-Beard (50+% of lid margin)
+                for Cutler-Beard
+                    free tarsoconjunctival graft from fellow UL
+                    sew conj to the bottom of the TC graft
+                    then attach skin + muscle flap tucked through full-thickness incision
+                        muscle to levator
+                        skin to skin
+                    other option is to attach conj at the top of the defect
+                        then add hard palate or similar
+                        like a sandwich
+        lower lid:
+            adjacent tarsoconjunctival flap
+            + free full-thickness skin graft
+        lower lid:
+            contralateral upper lid free tarsoconjunctival graft OR
+            hard palate
+            + skin-muscle flap
+        lower lid:
+            modified Hughes (50+% of lid margin)
+                tarsoconjunctival flap from the upper lid
+                postauricular skin graft
+                cut free several weeks later

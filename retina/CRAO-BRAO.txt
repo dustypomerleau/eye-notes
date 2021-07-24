@@ -1,58 +1,58 @@
 // https://github.com/dustypomerleau/eye-notes
 
 CRAO
-  DDx
-    embolic
-      atherosclerosis
-        COMMON: carotid
-      valvular
-      atrial myxoma
-    inflammatory
-      inflammatory
-        sarcoid
-      autoimmune
-        lupus
-      vasculitis
-        GCA
-    thrombotic
-      hypercoagulable states // see CRVO-BRVO.txt
-      sickle cell disease
-      disc drusen
-      arterial loops
-    traumatic
+    DDx
+        embolic
+            atherosclerosis
+                COMMON: carotid
+            valvular
+            atrial myxoma
+        inflammatory
+            inflammatory
+                sarcoid
+            autoimmune
+                lupus
+            vasculitis
+                GCA
+        thrombotic
+            hypercoagulable states // see CRVO-BRVO.txt
+            sickle cell disease
+            disc drusen
+            arterial loops
+        traumatic
 
-  ancillary tests
-    none are essential
-    consider
-      OCT
-      FFA
-        delayed RV filling and transit time
-        choroidal filling should be normal
-          if delayed
-            consider ophthalmic artery OR carotid occlusion
+    ancillary tests
+        none are essential
+        consider
+            OCT
+            FFA
+                delayed RV filling and transit time
+                choroidal filling should be normal
+                    if delayed
+                        consider ophthalmic artery OR carotid occlusion
 
-  investigations
-    BP
-    cholesterol
-    ECG
-    ALWAYS: carotid US
-    TTE
-    ESR
-      old patients
-      no obvious emboli
-    hypercoagulable workup // see CRVO-BRVO.txt
-      when indicated
-    don't delay
-      highest risk of stroke is in the first 1 week
+    investigations
+        BP
+        cholesterol
+        ECG
+        ALWAYS: carotid US
+        TTE
+        ESR
+            old patients
+            no obvious emboli
+        hypercoagulable workup // see CRVO-BRVO.txt
+            when indicated
+        don't delay
+            highest risk of stroke is in the first 1 week
 
-  gonio @ 1 month for NVI
-    1-/5 cases
+    gonio @ 1 month for NVI
+        1-/5 cases
 
-  treatment // none widely accepted
-    in transit to the ophthalmologist
-      hyperventilation into a bag
-        reduced CO2 causes vasodilation
-    aqueous suppressants
-    Diamox
-    AC paracentesis
-    hyperbaric oxygen
+    treatment // none widely accepted
+        in transit to the ophthalmologist
+            hyperventilation into a bag
+                reduced CO2 causes vasodilation
+        aqueous suppressants
+        Diamox
+        AC paracentesis
+        hyperbaric oxygen

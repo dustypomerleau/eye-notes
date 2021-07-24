@@ -7,107 +7,107 @@ orbital fractures
 ALWAYS: confirm that the globe is intact before proceeding with exam
 
 exam
-  oculocardiac reflex
-    bradycardia
-  complete eye exam for associated injury
-    first rule out globe rupture
-    acuity
-    pupils
-    IOP
-      1° versus upgaze
-    color
-    anterior uveitis
-    hyphema
-    angle recession
-      gonio
-    cataract
-    zonular dehiscence
-      subluxation
-    VH
-    optic neuropathy
-    commotio
-    choroidal rupture
-    retinal tear
-    RRD
-    periocular
-      medial canthal rounding
-      traumatic telecanthus
-  ecchymosis
-  enophthalmos
-    Hertel
-  hypoglobus
-  EOMs
-    ductions
-    versions
-    forced ductions
-      both paretic and restrictive elements are possible with trauma
-    force generation test
-    cover testing in all gazes
-    Hess chart
-  saccadic velocity
-  lid lag in downgaze
-  infraorbital nerve hypoesthesia
+    oculocardiac reflex
+        bradycardia
+    complete eye exam for associated injury
+        first rule out globe rupture
+        acuity
+        pupils
+        IOP
+            1° versus upgaze
+        color
+        anterior uveitis
+        hyphema
+        angle recession
+            gonio
+        cataract
+        zonular dehiscence
+            subluxation
+        VH
+        optic neuropathy
+        commotio
+        choroidal rupture
+        retinal tear
+        RRD
+        periocular
+            medial canthal rounding
+            traumatic telecanthus
+    ecchymosis
+    enophthalmos
+        Hertel
+    hypoglobus
+    EOMs
+        ductions
+        versions
+        forced ductions
+            both paretic and restrictive elements are possible with trauma
+        force generation test
+        cover testing in all gazes
+        Hess chart
+    saccadic velocity
+    lid lag in downgaze
+    infraorbital nerve hypoesthesia
 
 investigations
-  non-contrast CT
-    fractures
-    orbital apex syndrome
-    orbital emphysema
-    brain tissue prolapse
+    non-contrast CT
+        fractures
+        orbital apex syndrome
+        orbital emphysema
+        brain tissue prolapse
 
 treatment
-  canthotomy and cantholysis for orbital compartment syndrome
-  urgent repair
-    bradycardia
-  repair 1–2 weeks (max 4 weeks)
-    diplopia in 1° + positive forced ductions
-    large fracture
-      1/2+ the orbital floor
-    enophthalmos 2+ mm
-  surgery
-    infraciliary OR conjunctival
-    miniplating
-    alloplastic implant
-    complications
-      over or undercorrection
-      lid retraction
-      infraorbital nerve damage
-      damage to lacrimal system
-      infected implant
-      extruded implant
-    neurosurgery assist
-      brain prolapse
-      CSF leak
-  if the patient presents late (months later)
-    orbital floor may not be reparable
-    can attempt subperiosteal implant if patient has realistic expectations
-    may need to manage diplopia with strabismus surgery
+    canthotomy and cantholysis for orbital compartment syndrome
+    urgent repair
+        bradycardia
+    repair 1–2 weeks (max 4 weeks)
+        diplopia in 1° + positive forced ductions
+        large fracture
+            1/2+ the orbital floor
+        enophthalmos 2+ mm
+    surgery
+        infraciliary OR conjunctival
+        miniplating
+        alloplastic implant
+        complications
+            over or undercorrection
+            lid retraction
+            infraorbital nerve damage
+            damage to lacrimal system
+            infected implant
+            extruded implant
+        neurosurgery assist
+            brain prolapse
+            CSF leak
+    if the patient presents late (months later)
+        orbital floor may not be reparable
+        can attempt subperiosteal implant if patient has realistic expectations
+        may need to manage diplopia with strabismus surgery
 
 enophthalmos DDx
-  orbital floor fracture
-  silent sinus syndrome // picture hypoglobus/enophthalmos with finger to lips
-    chronic maxillary sinusitis
-      ostium gets blocked
-      negative pressure develops
-    collapse of the orbital floor
-      enophthalmos
-      hypoglobus
-      diplopia
-    CT is diagnostic
-  sclerosing orbital tumor
-    COMMON: breast CA
-  bony erosion
-    orbital varix
-      valsalva should push the eye out
-  orbital fat atrophy
-    age
-    trauma
-    surgery
-      after orbital decompression for TED
-    medications
-      prostaglandin-associated periorbitopathy
-  radiation
-  pseudoenophthalmos
-    ptosis
-    microphthalmia
-    fellow eye proptosis
+    orbital floor fracture
+    silent sinus syndrome // picture hypoglobus/enophthalmos with finger to lips
+        chronic maxillary sinusitis
+            ostium gets blocked
+            negative pressure develops
+        collapse of the orbital floor
+            enophthalmos
+            hypoglobus
+            diplopia
+        CT is diagnostic
+    sclerosing orbital tumor
+        COMMON: breast CA
+    bony erosion
+        orbital varix
+            valsalva should push the eye out
+    orbital fat atrophy
+        age
+        trauma
+        surgery
+            after orbital decompression for TED
+        medications
+            prostaglandin-associated periorbitopathy
+    radiation
+    pseudoenophthalmos
+        ptosis
+        microphthalmia
+        fellow eye proptosis

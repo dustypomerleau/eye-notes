@@ -3,316 +3,316 @@
 retinal dystrophies
 
 ERG interpretation
-  global AKA full-field ERG
-    can be done with relatively poor fixation
-    most ERGs are done dilated
-    waveform
-      a-wave
-        negative
-        measured from baseline
-        outer retina
-          PRs
-      OPs
-        on the rising phase of the b-wave
-        amacrine cells
-      b-wave
-        positive
-        measured from the trough of the a-wave
-        inner retina
-          'on' bipolar cells
-          Muller cells
-        selective loss of the b-wave AKA negative ERG
-          know these
-            CSNB
-              type 2
-              Oguchi disease
-            JXLR
-              RS1 (retinoschisin) mutation
-              macular retinoschisis
-                ±
-                  peripheral retinoschisis
-                  tapetal reflex
-                  peripheral white flecks
-              poor vision
-                variable start
-                  birth to 40s
-              selective loss of the B-wave
-                negative ERG
-              severe cases
-                nystagmus
-              treatment
-                dorzolamide 2%
-                  may reduce the cystoid spaces
-            myotonic dystrophy
-              /*
-              see also
-                ptosis.txt
-                cataract.txt
-                cataract-pediatric.txt
-              */
-              ptosis
-              Christmas tree cataract
-                high ACCS risk postop
-              macular changes
-                hypopigmented halo
-                stellate IR pigment
-                ERM
-              peripheral bone spicules
-              RARELY: occlusive vasculitis
-                more common in FSHD
-          you won't get an ERG for these
-            CRVO
-            CRAO
-            Coats
-            storage diseases
-              AR juvenile ceroid lipofuscinosis AKA Batten disease
-            prions
-              Creutzfeldt-Jacob disease
-      c-wave
-        RPE
-      d-wave
-        inner retina
-          'off' bipolar cells
-      implicit times // see Parvaresh (2009) for normal values by age group
-        for each event
-          from flash onset to peak OR trough of the waveform
-        ~ normal values
-          a-wave max
-            15–25 ms
-          b-wave max
-            30–50 ms
-    separating rod and cone responses
-      rods are 3-log more sensitive than cones
-      cones recover faster than rods
-      rod peak sensitivity 510 nm
-        green
-      cones peak sensitivity (collectively) 560 nm
-        tennis ball yellow
-      review of visible color wavelengths
-        400- ultraviolet
-        400 violet
-        445 indigo
-        475 blue
-        510 green
-        570 yellow
-        590 orange
-        650 red
-        700+ infrared
-      testing rods primarily
-        dim blue flash
-        very dim white flash
-      testing cones primarily
-        30 Hz flicker
-          rod recovery is limited to 20- Hz
-    ERG technique
-      most modern machines are LED-based
-      all tests use a 300 Hz low-pass filter
-      30 minutes dark adaptation
-      dark-adapted 0.01 cd•s/m2 rod ERG
-        rod-driven response of 'on' bipolar cells
-      dark-adapted 3 cd•s/m2 rod-cone ERG
-        rod-dominated response of PRs + (rod and cone) bipolar cells
-      dark-adapted 3 cd•s/m2 OPs
-        amacrine cells
-        not always recorded separately
-        can be derived from the 3 cd•s/m2 ERG using a 75 Hz high-pass filter
-        look for 3 main positive peaks ± a 4th small peak
-          interpretation beyond noting presence or absence is much debated
-        reduced OPs
-          conditions where you would actually order an ERG
-            RP
-            CSNB
-            birdshot CR
-            JXLR
-          conditions where an ERG is purely academic
-            Takayasu arteritis
-            HTN retinopathy
-            CRVO
-            CRAO
-            CSC
-            DR
-      dark-adapted 10 cd•s/m2 ERG
-        not always done
-        better definition of peak time
-        better distinction of negative waveforms with very little b-wave
-        better OPs
-        better results with media opacity
-        major difference is a larger amplitude a-wave
-          this also results in a larger b-wave
-          remember the b-wave is measured from the a-wave trough
-      light-adapted 3 cd•s/m2 cone ERG
-        a-wave
-          cones
-          cone 'off' bipolar cells
-        b-wave
-          'on' cone bipolar cells
-          'off' cone bipolar cells
-      light-adapted 3 cd•s/m2 30 Hz flicker cone ERG
-    pattern ERG
-      requires good fixation
-      best for looking at ganglion cell function
-        glaucoma
-        OHTN
-        DR
-        optic neuritis
-        hereditary optic neuropathies
-        ON drusen
-        compressive ON
-        macular versus ON cases
-          to determine which is causing the bulk of the vision loss
-        not good for ruling out ON disease
-          only 1/2 of optic neuropathies will show an abormal PERG
-            usually an increase in N95 peak time
-      peaks are named by average peak time
-        N35
-        P50
-          amacrine cells
-          RARELY: decreased
-            very poor visual prognosis
-        N95 // 9 looks like the g in ganglion
-          ganglion cells
-          decreased N95/P50 is typical of compressive ON
-      compare with VEP
-        increase in P100 peak time supports ON disease
-        normal P100 peak time + delayed PERG is usually retinal disease
+    global AKA full-field ERG
+        can be done with relatively poor fixation
+        most ERGs are done dilated
+        waveform
+            a-wave
+                negative
+                measured from baseline
+                outer retina
+                    PRs
+            OPs
+                on the rising phase of the b-wave
+                amacrine cells
+            b-wave
+                positive
+                measured from the trough of the a-wave
+                inner retina
+                    'on' bipolar cells
+                    Muller cells
+                selective loss of the b-wave AKA negative ERG
+                    know these
+                        CSNB
+                            type 2
+                            Oguchi disease
+                        JXLR
+                            RS1 (retinoschisin) mutation
+                            macular retinoschisis
+                                ±
+                                    peripheral retinoschisis
+                                    tapetal reflex
+                                    peripheral white flecks
+                            poor vision
+                                variable start
+                                    birth to 40s
+                            selective loss of the B-wave
+                                negative ERG
+                            severe cases
+                                nystagmus
+                            treatment
+                                dorzolamide 2%
+                                    may reduce the cystoid spaces
+                        myotonic dystrophy
+                            /*
+                            see also
+                                ptosis.txt
+                                cataract.txt
+                                cataract-pediatric.txt
+                            */
+                            ptosis
+                            Christmas tree cataract
+                                high ACCS risk postop
+                            macular changes
+                                hypopigmented halo
+                                stellate IR pigment
+                                ERM
+                            peripheral bone spicules
+                            RARELY: occlusive vasculitis
+                                more common in FSHD
+                    you won't get an ERG for these
+                        CRVO
+                        CRAO
+                        Coats
+                        storage diseases
+                            AR juvenile ceroid lipofuscinosis AKA Batten disease
+                        prions
+                            Creutzfeldt-Jacob disease
+            c-wave
+                RPE
+            d-wave
+                inner retina
+                    'off' bipolar cells
+            implicit times // see Parvaresh (2009) for normal values by age group
+                for each event
+                    from flash onset to peak OR trough of the waveform
+                ~ normal values
+                    a-wave max
+                        15–25 ms
+                    b-wave max
+                        30–50 ms
+        separating rod and cone responses
+            rods are 3-log more sensitive than cones
+            cones recover faster than rods
+            rod peak sensitivity 510 nm
+                green
+            cones peak sensitivity (collectively) 560 nm
+                tennis ball yellow
+            review of visible color wavelengths
+                400- ultraviolet
+                400 violet
+                445 indigo
+                475 blue
+                510 green
+                570 yellow
+                590 orange
+                650 red
+                700+ infrared
+            testing rods primarily
+                dim blue flash
+                very dim white flash
+            testing cones primarily
+                30 Hz flicker
+                    rod recovery is limited to 20- Hz
+        ERG technique
+            most modern machines are LED-based
+            all tests use a 300 Hz low-pass filter
+            30 minutes dark adaptation
+            dark-adapted 0.01 cd•s/m2 rod ERG
+                rod-driven response of 'on' bipolar cells
+            dark-adapted 3 cd•s/m2 rod-cone ERG
+                rod-dominated response of PRs + (rod and cone) bipolar cells
+            dark-adapted 3 cd•s/m2 OPs
+                amacrine cells
+                not always recorded separately
+                can be derived from the 3 cd•s/m2 ERG using a 75 Hz high-pass filter
+                look for 3 main positive peaks ± a 4th small peak
+                    interpretation beyond noting presence or absence is much debated
+                reduced OPs
+                    conditions where you would actually order an ERG
+                        RP
+                        CSNB
+                        birdshot CR
+                        JXLR
+                    conditions where an ERG is purely academic
+                        Takayasu arteritis
+                        HTN retinopathy
+                        CRVO
+                        CRAO
+                        CSC
+                        DR
+            dark-adapted 10 cd•s/m2 ERG
+                not always done
+                better definition of peak time
+                better distinction of negative waveforms with very little b-wave
+                better OPs
+                better results with media opacity
+                major difference is a larger amplitude a-wave
+                    this also results in a larger b-wave
+                    remember the b-wave is measured from the a-wave trough
+            light-adapted 3 cd•s/m2 cone ERG
+                a-wave
+                    cones
+                    cone 'off' bipolar cells
+                b-wave
+                    'on' cone bipolar cells
+                    'off' cone bipolar cells
+            light-adapted 3 cd•s/m2 30 Hz flicker cone ERG
+        pattern ERG
+            requires good fixation
+            best for looking at ganglion cell function
+                glaucoma
+                OHTN
+                DR
+                optic neuritis
+                hereditary optic neuropathies
+                ON drusen
+                compressive ON
+                macular versus ON cases
+                    to determine which is causing the bulk of the vision loss
+                not good for ruling out ON disease
+                    only 1/2 of optic neuropathies will show an abormal PERG
+                        usually an increase in N95 peak time
+            peaks are named by average peak time
+                N35
+                P50
+                    amacrine cells
+                    RARELY: decreased
+                        very poor visual prognosis
+                N95 // 9 looks like the g in ganglion
+                    ganglion cells
+                    decreased N95/P50 is typical of compressive ON
+            compare with VEP
+                increase in P100 peak time supports ON disease
+                normal P100 peak time + delayed PERG is usually retinal disease
 
-    MFERG
-      requires good fixation
-        an unreliable patient renders the test useless
-      only good for cone responses
-      hydroxychloroquine
-      macular dystrophies
-      hexagonal pattern changing @ 75 Hz across central 50°
-      N1
-        analogous to a-wave in terms of involved cells
-      P1
-      N2
-        together P1 and N2 contain contributions from cells causing
-          light-adapted b-wave
-          OPs
+        MFERG
+            requires good fixation
+                an unreliable patient renders the test useless
+            only good for cone responses
+            hydroxychloroquine
+            macular dystrophies
+            hexagonal pattern changing @ 75 Hz across central 50°
+            N1
+                analogous to a-wave in terms of involved cells
+            P1
+            N2
+                together P1 and N2 contain contributions from cells causing
+                    light-adapted b-wave
+                    OPs
 
 ERG is also abnormal in autoimmune retinopathy
-  photopsia
-  night blindness
-  blind spots
-    COMMON: central
-  color vision abnormalities
-  essential criteria
-    no other cause
-      rule out
-        infection
-        uveitis
-        drug
-        genetic
-    abnormal ERG
-      HVF can be normal
-    antiretinal antibodies
-  supportive criteria
-    autoimmune disease or family history
-    photopsias
-    blind spots
+    photopsia
     night blindness
-    light sensitivity
+    blind spots
+        COMMON: central
     color vision abnormalities
-    fast onset 6- months
+    essential criteria
+        no other cause
+            rule out
+                infection
+                uveitis
+                drug
+                genetic
+        abnormal ERG
+            HVF can be normal
+        antiretinal antibodies
+    supportive criteria
+        autoimmune disease or family history
+        photopsias
+        blind spots
+        night blindness
+        light sensitivity
+        color vision abnormalities
+        fast onset 6- months
 
 VEP interpretation
-  clinical uses
-    optic neuritis
-    compressive ON
-    NOVL
-    maculopathy versus ON
-      VEP + MFERG compared
-    infant acuity
-      sweep VEP
-  types
-    COMMON: pattern reversal VEP
-      sometimes just called pattern VEP
-    ALSO:
-      pattern onset/offset VEP
-      flash VEP
-        3 cd•s/m2 as with ERG
-    RARELY: sweep, motion, MFVEP,...
-  pattern VEP
-    1° and 0.25° grid stimuli
-    prechiasmal and postchiasmal electrodes
-    naming of peaks is based on typical mean peak time
-      N75
-      P100
-      N135
+    clinical uses
+        optic neuritis
+        compressive ON
+        NOVL
+        maculopathy versus ON
+            VEP + MFERG compared
+        infant acuity
+            sweep VEP
+    types
+        COMMON: pattern reversal VEP
+            sometimes just called pattern VEP
+        ALSO:
+            pattern onset/offset VEP
+            flash VEP
+                3 cd•s/m2 as with ERG
+        RARELY: sweep, motion, MFVEP,...
+    pattern VEP
+        1° and 0.25° grid stimuli
+        prechiasmal and postchiasmal electrodes
+        naming of peaks is based on typical mean peak time
+            N75
+            P100
+            N135
 
 RP syndromes
-  AR Usher syndrome
-    Usher1
-      near-total deafness in the first year
-      vestibular symptoms
-        vertigo
-        poor balance
-      vision loss starts in childhood
-    Usher2
-      mild-moderate hearing loss from birth
-      vision loss from adolescence+
-      no vestibular symptoms
-    Usher3
-      symptoms start in late childhood or adolescence
-        progressive hearing loss
-        vision loss
-        some have vestibular symptoms
-  AR Bardet-Biedl syndrome
-    RP-like pigmentary retinopathy
-      ± bullseye
-    polydactyly
-    hypogonadism
-    obesity
-    renal failure
-    mental retardation
-  AR Refsum disease
-    peroxisome defect causes phytanic acid storage
-    RP
-    anosmia
-    hearing loss
-    later in life
-      ataxia
-      muscle wasting
-  mitochondrial NARP
-    neuropathy
-      paresthesias
-      pain
-      weakness
-    ataxia
-    RP
-  additional DDx pigmentary retinopathy
-    rubella
-    syphilis
-    CAR
-      COMMON:
-        anti-
-          alpha enolase
-          recoverin
-      RARELY:
-        //... clarify retinal relevance of each of these
-        anti-
-          titin
-          SOX1
-          ANNA-1
-          ANNA-2
-          PCA-1
-          Ma-2
-          Cv-2
-          Amphiphysin
-    Kearns-Sayre variant of CPEO
+    AR Usher syndrome
+        Usher1
+            near-total deafness in the first year
+            vestibular symptoms
+                vertigo
+                poor balance
+            vision loss starts in childhood
+        Usher2
+            mild-moderate hearing loss from birth
+            vision loss from adolescence+
+            no vestibular symptoms
+        Usher3
+            symptoms start in late childhood or adolescence
+                progressive hearing loss
+                vision loss
+                some have vestibular symptoms
+    AR Bardet-Biedl syndrome
+        RP-like pigmentary retinopathy
+            ± bullseye
+        polydactyly
+        hypogonadism
+        obesity
+        renal failure
+        mental retardation
+    AR Refsum disease
+        peroxisome defect causes phytanic acid storage
+        RP
+        anosmia
+        hearing loss
+        later in life
+            ataxia
+            muscle wasting
+    mitochondrial NARP
+        neuropathy
+            paresthesias
+            pain
+            weakness
+        ataxia
+        RP
+    additional DDx pigmentary retinopathy
+        rubella
+        syphilis
+        CAR
+            COMMON:
+                anti-
+                    alpha enolase
+                    recoverin
+            RARELY:
+                //... clarify retinal relevance of each of these
+                anti-
+                    titin
+                    SOX1
+                    ANNA-1
+                    ANNA-2
+                    PCA-1
+                    Ma-2
+                    Cv-2
+                    Amphiphysin
+        Kearns-Sayre variant of CPEO
 
-  older patient with RP + relatively good vision
-    assume AD
+    older patient with RP + relatively good vision
+        assume AD
 
 //... reformat list below and integrate with list above
 
 /*
 longer list of RP-associated syndromes
 whether these are
-  'RP + syndrome' OR
-  'RP-like'
-  is up for debate on a case-by-case basis
+    'RP + syndrome' OR
+    'RP-like'
+    is up for debate on a case-by-case basis
 remember RP is really just a phenotype
 */
 
@@ -349,335 +349,335 @@ trough, normal 1.8+), but isn't that sensitive compared to ERG so isn't
 typically done.
 
 AD WARD
-  white annular retinal dystrophy with severe glaucoma
-  PP white ring
-  peripheral white ring
-  severe glaucoma
-  loss of ERG
+    white annular retinal dystrophy with severe glaucoma
+    PP white ring
+    peripheral white ring
+    severe glaucoma
+    loss of ERG
 
 Oguchi disease
-  AR CSNB variant // most CSNB is XLR
-  negative ERG like other CSNB
-  Mizuo-Nakamura phenomenon
-    light-adapted fundus is golden-brown with a metallic sheen
-    dark-adapted fundus is normal
+    AR CSNB variant // most CSNB is XLR
+    negative ERG like other CSNB
+    Mizuo-Nakamura phenomenon
+        light-adapted fundus is golden-brown with a metallic sheen
+        dark-adapted fundus is normal
 
 bullseye maculopathy DDx
-  Plaquenil
-    high risk for toxicity
-      6.5+ mg/kg/d
-        use actual body weight
-      5+ y
-        at any dose
-      concurrent tamoxifen
-        tamoxifen potentiates Plaquenil
-        increases the risk of Plaquenil toxicity 5-fold
-      kidney disease
-        reduces clearance of Plaquenil
-    aim for 5- mg/kg/d when prescribing
-    patterns
-      COMMON: pericentral PR loss
-        often starts inferiorly
-      ALSO:
-        parafoveal
-        along the arcades
-          Asians
-    screening
-      baseline
-        BAF
-          early hyperBAF glow -> late hypoBAF
-        OCT
-        HVF
-          24–2 + 10–2 if possible
-          SITA Fast protocols are OK for screening if
-            patients are fatiguing
-            there is no known toxicity
-      repeat annually at 5+ years
-  cone dystrophy
-  cone > rod dystrophy
-  AR Stargardt disease
-    in young patients VA loss may be seen before visible findings
-  AD SLMD
-  CACD
-  AD fenestrated sheen macular dystrophy
-  AR Bardet-Biedl
-  AR juvenile ceroid lipofuscinosis AKA Batten disease
-    with broad CNS dysfunction (late)
-    like Stargardt, may present in a young person with only VA loss
-  concentric annular macular dystrophy
-    progresses to an RP-like pattern
+    Plaquenil
+        high risk for toxicity
+            6.5+ mg/kg/d
+                use actual body weight
+            5+ y
+                at any dose
+            concurrent tamoxifen
+                tamoxifen potentiates Plaquenil
+                increases the risk of Plaquenil toxicity 5-fold
+            kidney disease
+                reduces clearance of Plaquenil
+        aim for 5- mg/kg/d when prescribing
+        patterns
+            COMMON: pericentral PR loss
+                often starts inferiorly
+            ALSO:
+                parafoveal
+                along the arcades
+                    Asians
+        screening
+            baseline
+                BAF
+                    early hyperBAF glow -> late hypoBAF
+                OCT
+                HVF
+                    24–2 + 10–2 if possible
+                    SITA Fast protocols are OK for screening if
+                        patients are fatiguing
+                        there is no known toxicity
+            repeat annually at 5+ years
+    cone dystrophy
+    cone > rod dystrophy
+    AR Stargardt disease
+        in young patients VA loss may be seen before visible findings
+    AD SLMD
+    CACD
+    AD fenestrated sheen macular dystrophy
+    AR Bardet-Biedl
+    AR juvenile ceroid lipofuscinosis AKA Batten disease
+        with broad CNS dysfunction (late)
+        like Stargardt, may present in a young person with only VA loss
+    concentric annular macular dystrophy
+        progresses to an RP-like pattern
 
 crystalline retinopathy
-  genetic diseases
-    AR Bietti crystalline dystrophy
-      Chinese
-      Japanese
-      CYP4V2 mutation
-    AR gyrate atrophy
-      ornithine aminotransferase deficiency
-      COMMON:
-        Finnish
-        myopia
-        night blindness
-        concentric vision loss
-      ALSO:
-        muscle weakness
-        paresthesias
-      RARELY:
-        high ammonia levels at birth
-          vomiting
-          seizures
-    AR cystinosis
-      photophobia
-      decreased acuity
-      VF constriction
-      diminished ERG (late)
-      corneal crystals
-      IR crystals
-      RPE mottling
-        progressive
-        moves centrally from the periphery
-      nephropathy in juveniles
-        renal disease can cause 2° anemia
-      topical and oral cysteamine
-    AD snowflake vitreoretinal degeneration
-      //...
-    Sjogren-Larrson syndrome // distinct from Sjogren syndrome
-      congenital ichthyosis
-      spasticity
-      intellectual disability
-      Muller cell dysfunction
-        crystals
-          IPL
-          OPL
-      white intraretinal accumulations
-        fatty aldehydes
-        fatty alcohols
-        similar to what accumulates in the skin
-      late
-        lipofuscin accumulation
-        PR loss
-        retinal thinning and atrophy
-      treatment still very experimental
-        fatty aldehyde-scavenging drugs
-        gene therapy
-  hyperoxaluria
-    primary hereditary
-    secondary
-      sarcoid
-      liver cirrhosis
-      small bowel resection
-      renal failure
-  IMT
-    some cases of IMT1 are probably a Coats variant
-      look for far peripheral changes on FFA
-        nonperfusion
-        telangiectasias
-        aneurysms
-    crystals occur in IMT2
-  toxicity
-    canthaxanthine
-      treatment for cystinosis
-        //...
-    tamoxifen
-    nitrofurantoin
-    methoxyflurane
-    ethylene glycol
-  FUS
-    not true retinal crystals
-    adherent to the posterior hyaloid
+    genetic diseases
+        AR Bietti crystalline dystrophy
+            Chinese
+            Japanese
+            CYP4V2 mutation
+        AR gyrate atrophy
+            ornithine aminotransferase deficiency
+            COMMON:
+                Finnish
+                myopia
+                night blindness
+                concentric vision loss
+            ALSO:
+                muscle weakness
+                paresthesias
+            RARELY:
+                high ammonia levels at birth
+                    vomiting
+                    seizures
+        AR cystinosis
+            photophobia
+            decreased acuity
+            VF constriction
+            diminished ERG (late)
+            corneal crystals
+            IR crystals
+            RPE mottling
+                progressive
+                moves centrally from the periphery
+            nephropathy in juveniles
+                renal disease can cause 2° anemia
+            topical and oral cysteamine
+        AD snowflake vitreoretinal degeneration
+            //...
+        Sjogren-Larrson syndrome // distinct from Sjogren syndrome
+            congenital ichthyosis
+            spasticity
+            intellectual disability
+            Muller cell dysfunction
+                crystals
+                    IPL
+                    OPL
+            white intraretinal accumulations
+                fatty aldehydes
+                fatty alcohols
+                similar to what accumulates in the skin
+            late
+                lipofuscin accumulation
+                PR loss
+                retinal thinning and atrophy
+            treatment still very experimental
+                fatty aldehyde-scavenging drugs
+                gene therapy
+    hyperoxaluria
+        primary hereditary
+        secondary
+            sarcoid
+            liver cirrhosis
+            small bowel resection
+            renal failure
+    IMT
+        some cases of IMT1 are probably a Coats variant
+            look for far peripheral changes on FFA
+                nonperfusion
+                telangiectasias
+                aneurysms
+        crystals occur in IMT2
+    toxicity
+        canthaxanthine
+            treatment for cystinosis
+                //...
+        tamoxifen
+        nitrofurantoin
+        methoxyflurane
+        ethylene glycol
+    FUS
+        not true retinal crystals
+        adherent to the posterior hyaloid
 
 AD late-onset retinal degeneration (LORD)
-  onset 50s and 60s
-  scalloped peripheral CRA and honeycomb pigmentary degeneration
-  drusenoid deposits
-  1 report of long anterior zonular insertions
-    may be a risk for complicated cataract surgery
-  C1QTNF5
+    onset 50s and 60s
+    scalloped peripheral CRA and honeycomb pigmentary degeneration
+    drusenoid deposits
+    1 report of long anterior zonular insertions
+        may be a risk for complicated cataract surgery
+    C1QTNF5
 
 sporadic pigmented paravenous retinochoroidal atrophy
-  PPRCA
-  many inheritance patterns proposed
-    none proven
-  asymptomatic
-    or mild vision loss
-  primarily a disease of the RPE
-  COMMON:
-    middle-aged
-    bilateral
-    nonprogressive or slowly progressive
-  consider RP if
-    poor vision
-    poor dark adaption
-    poor night vision
-  unlike RP
-    the disc should look normal
-  borders of the RPEA are hyperFAF
-  ERG
-    low normal or below normal
-    rods affected more than cones
-  can be 2° AKA pseudoPPRCA
-    TB
-    syphilis
-    Behcet
-    measles
-    rubeola
-  reports of anterior and intermediate uveitis
-    probably pseudoPPRCA
-  DDx
-    infectious/inflammatory
-    RP
-    AD helicoid (Sveinsson) PPCRD/PPCRA
-      icelandic
-      TEAD1
-      no inflammation
-      big radiating spokes of PPCRA
-      NOTE: overlying retinal vessels are intact
-      doesn't really follow the vessels
-      pigment doesn't predominate
-      wait why is this on the DDx?
+    PPRCA
+    many inheritance patterns proposed
+        none proven
+    asymptomatic
+        or mild vision loss
+    primarily a disease of the RPE
+    COMMON:
+        middle-aged
+        bilateral
+        nonprogressive or slowly progressive
+    consider RP if
+        poor vision
+        poor dark adaption
+        poor night vision
+    unlike RP
+        the disc should look normal
+    borders of the RPEA are hyperFAF
+    ERG
+        low normal or below normal
+        rods affected more than cones
+    can be 2° AKA pseudoPPRCA
+        TB
+        syphilis
+        Behcet
+        measles
+        rubeola
+    reports of anterior and intermediate uveitis
+        probably pseudoPPRCA
+    DDx
+        infectious/inflammatory
+        RP
+        AD helicoid (Sveinsson) PPCRD/PPCRA
+            icelandic
+            TEAD1
+            no inflammation
+            big radiating spokes of PPCRA
+            NOTE: overlying retinal vessels are intact
+            doesn't really follow the vessels
+            pigment doesn't predominate
+            wait why is this on the DDx?
 
 types of colorblindness
-  protanopia - redblind
-  deuteranopia - greenblind
-  tritanopia - blueblind (also affects yellow)
+    protanopia - redblind
+    deuteranopia - greenblind
+    tritanopia - blueblind (also affects yellow)
 
 photophobia in a child (without epiphora)
-  // see overlapping DDx for child with nystagmus in nystagmus...txt
-  BROADLY: elevated IOP
-    1° or 2°
-  BROADLY: uveitis
-  albinism
-  cone dysfunction
-    AR achromatopsia AKA rod monochromatism
-      AOT to XLR blue cone monochromatism AKA ESCS
-        which usually lacks nystagmus and photophobia
-        blue cone VA can be as good as 6 hours
-      VA 6/60- but generally stable
-        better in the dark as you would expect
-      ERG
-        photopic + 30 Hz are nearly absent
-        scotopic is nearly normal
-      counseling
-        AR therefore risk to siblings 1/4
-      red tinted glasses
-      low vision referral
-      inherited retinal disease register in WA
-    cone or cone > rod dystrophy (with hemeralopia)
-  LCA
+    // see overlapping DDx for child with nystagmus in nystagmus...txt
+    BROADLY: elevated IOP
+        1° or 2°
+    BROADLY: uveitis
+    albinism
+    cone dysfunction
+        AR achromatopsia AKA rod monochromatism
+            AOT to XLR blue cone monochromatism AKA ESCS
+                which usually lacks nystagmus and photophobia
+                blue cone VA can be as good as 6 hours
+            VA 6/60- but generally stable
+                better in the dark as you would expect
+            ERG
+                photopic + 30 Hz are nearly absent
+                scotopic is nearly normal
+            counseling
+                AR therefore risk to siblings 1/4
+            red tinted glasses
+            low vision referral
+            inherited retinal disease register in WA
+        cone or cone > rod dystrophy (with hemeralopia)
+    LCA
 
 carrier female findings
-  XLR RP
-    sectoral bone spicules
-    normal disc and vessels
-  XLR OA
-    mud-splattered peripheral fundus
-  XLR choroideremia
-    COMMON: peripheral pigmentary change
-    ALSO: choroidal atrophy
-    RARELY:
-      X-inactivated (lyonized) carrier female
-      severe choroideremia phenotype
+    XLR RP
+        sectoral bone spicules
+        normal disc and vessels
+    XLR OA
+        mud-splattered peripheral fundus
+    XLR choroideremia
+        COMMON: peripheral pigmentary change
+        ALSO: choroidal atrophy
+        RARELY:
+            X-inactivated (lyonized) carrier female
+            severe choroideremia phenotype
 
 midperipheral and peripheral CRA
-  infectious
-    viral
-      rubella
-        usually pigmentary retinopathy
-  drugs
-    medications
-      thorazine
-      thioridazine
-      didanosine
-        anti-retroviral
-  genetic
-    AD LORD
-    AR gyrate atrophy
-    AR Bietti crystalline dystrophy
-    XLR choroideremia
-      mutations in the CHM gene
-        encodes Rab escort protein-1 AKA REP-1
-          directs proteins + organelles in intracellular trafficking
-        intracellular protein stasis -> cell death
-        affects both retina + choroid
-        140+ mutations reported
-      night blindness -> peripheral field loss -> late adult central vision loss
-    XLR BCM
-    mitochondrial CPEO
-    mitochondrial MELAS
-      // see ptosis.txt
-    mitochondrial MIDD
-      maternally inherited diabetes and deafness
-      usually pigmentary retinopathy
-      may have CRA
-  //...
+    infectious
+        viral
+            rubella
+                usually pigmentary retinopathy
+    drugs
+        medications
+            thorazine
+            thioridazine
+            didanosine
+                anti-retroviral
+    genetic
+        AD LORD
+        AR gyrate atrophy
+        AR Bietti crystalline dystrophy
+        XLR choroideremia
+            mutations in the CHM gene
+                encodes Rab escort protein-1 AKA REP-1
+                    directs proteins + organelles in intracellular trafficking
+                intracellular protein stasis -> cell death
+                affects both retina + choroid
+                140+ mutations reported
+            night blindness -> peripheral field loss -> late adult central vision loss
+        XLR BCM
+        mitochondrial CPEO
+        mitochondrial MELAS
+            // see ptosis.txt
+        mitochondrial MIDD
+            maternally inherited diabetes and deafness
+            usually pigmentary retinopathy
+            may have CRA
+    //...
 
 //...
 
 genetic testing
-  /*
-    RetNet provides the most up-to-date list of mapped genes by disease
-      https://sph.uth.edu/retnet/sum-dis.htm
-    patients may opt-in to research participation at
-      https://myretinatracker.org/
-    testing sites
-      Molecular Vision // see below
-        https://www.molecularvisionlab.com/
-      University of Iowa (Carver Nonprofit Genetic Testing Laboratory)
-        https://www.carverlab.org/
-      Blueprint Genetics
-        https://blueprintgenetics.com/
-      Foundation Fighting Blindness
-        http://blindness.org/genetic-testing
-        Spark Therapeutics may fund some FFB testing
-          their goal is to recruit RPE65 mutations for gene therapy trials
-          so this may be limited to the USA
-    genetic counseling information and up-to-date review articles by phenotype
-      Gene Reviews
-        https://www.ncbi.nlm.nih.gov/books/NBK1116/
-    more concise and patient-centric reviews
-      Genetics Home Reference
-        https://ghr.nlm.nih.gov/
-    AU researchers who test
-      Andrea Vincent
-      Alex Hewitt
-      David Mackey
-    AU options for end-stage dystrophies
-      Vision Australia
-        http://www.visionaustralia.org/
-      Australian Inherited Retinal Disease Register
-        http://www.scgh.health.wa.gov.au/Research/InheritedRetinal.html
-      Guide Dogs Australia
-        http://www.guidedogsaustralia.com/
-  */
-  mostly done in panels
-  individual gene testing decreasing
-  Oragene collection kit // see detailed panels from OHSU below
-    http://www.dnagenotek.com/
-    LCA
-      19 genes
-      1800 USD
-    CSNB
-      14 genes
-      950 USD
-    retinal dystrophy
-      127 genes
-      2500 USD
-    macular dystrophy
-      8 genes
-      500 USD
-    enhanced S cone AKA XLR blue cone monochromatism
-      Goldmann-Favre is severe BCM
-        +
-          peripheral retinoschisis
-          vitreous degeneration
-      1 gene (NR2E3)
-      400 USD
-  ALWAYS: involve a clinical geneticist for counseling
+    /*
+        RetNet provides the most up-to-date list of mapped genes by disease
+            https://sph.uth.edu/retnet/sum-dis.htm
+        patients may opt-in to research participation at
+            https://myretinatracker.org/
+        testing sites
+            Molecular Vision // see below
+                https://www.molecularvisionlab.com/
+            University of Iowa (Carver Nonprofit Genetic Testing Laboratory)
+                https://www.carverlab.org/
+            Blueprint Genetics
+                https://blueprintgenetics.com/
+            Foundation Fighting Blindness
+                http://blindness.org/genetic-testing
+                Spark Therapeutics may fund some FFB testing
+                    their goal is to recruit RPE65 mutations for gene therapy trials
+                    so this may be limited to the USA
+        genetic counseling information and up-to-date review articles by phenotype
+            Gene Reviews
+                https://www.ncbi.nlm.nih.gov/books/NBK1116/
+        more concise and patient-centric reviews
+            Genetics Home Reference
+                https://ghr.nlm.nih.gov/
+        AU researchers who test
+            Andrea Vincent
+            Alex Hewitt
+            David Mackey
+        AU options for end-stage dystrophies
+            Vision Australia
+                http://www.visionaustralia.org/
+            Australian Inherited Retinal Disease Register
+                http://www.scgh.health.wa.gov.au/Research/InheritedRetinal.html
+            Guide Dogs Australia
+                http://www.guidedogsaustralia.com/
+    */
+    mostly done in panels
+    individual gene testing decreasing
+    Oragene collection kit // see detailed panels from OHSU below
+        http://www.dnagenotek.com/
+        LCA
+            19 genes
+            1800 USD
+        CSNB
+            14 genes
+            950 USD
+        retinal dystrophy
+            127 genes
+            2500 USD
+        macular dystrophy
+            8 genes
+            500 USD
+        enhanced S cone AKA XLR blue cone monochromatism
+            Goldmann-Favre is severe BCM
+                +
+                    peripheral retinoschisis
+                    vitreous degeneration
+            1 gene (NR2E3)
+            400 USD
+    ALWAYS: involve a clinical geneticist for counseling
 
 XLRP
-  myopia
-    strong association
+    myopia
+        strong association
 
 
 //
@@ -688,507 +688,507 @@ http://www.mvisionlab.com/
 (previously housed by the Casey Eye Institute @ OHSU but was spun off)
 
 retinal dystrophy panel (NGS)
-  2500 USD
-  127 genes
-  //... add in disease phenotype names for each cluster
-    ABCA4
-    ABHD12
-    ADAM9
-    AIPL1
-    ALMSI
-    ASCC3L1/SNRNP200
-    BBS1–7, 9–13, 15–17
-    BEST1
-    C1QTNF5
-    C2orf71
-    C8orf37
-    CA4
-    CABP4
-    CACNA2D4
-    CACNA1F
-    CDH23
-    CDHR1
-    CEP290/BBS14
-    CERKL
-    CHM
-    CLRN1
-    CNGA1
-    CNGA3
-    CNGB1
-    CNGB3
-    CNNM4
-    CRB1
-    CRX
-    DFNB31
-    DHDDS
-    ELOV4
-    EYS
-    FAM161A
-    FSCN2
-    GNAT1
-    GNAT2
-    GPR98
-    GPR179
-    GRK1
-    GRM6
-    GUCA1A
-    GUCA1B
-    GUCY2D
-    HARS
-    IDH3B
-    INPP5E
-    IMPDH1
-    IMPG2
-    IQCB1
-    KCNJ13
-    KCNV2
-    KLHL7
-    LCA5
-    LRAT
-    LRIT3
-    MAK
-    MERTK
-    MYO7A
-    NMNAT1
-    NR2E3
-    NRL
-    NYX
-    OFD1
-    OPA1
-    OPA3
-    OTX2
-    PCDH15
-    PDE6A
-    PDE6B
-    PDE6C
-    PDE6H
-    PDE6G
-    PDZD7
-    PITPNM3
-    PRCD
-    PROM1
-    PRPF3
-    PRPF6
-    PRPF8
-    PRPF31
-    RAX2
-    RBP3
-    RD3
-    RDH5
-    RDH12
-    RDS/PRPH2
-    RGR
-    RHO
-    RIMSI
-    RLBP1
-    ROM1
-    RP1
-    RP1L1
-    RP2
-    RP9
-    RPE65
-    RPGR
-    RPGRIP1
-    RS1
-    SAG
-    SEMA4A
-    SLC24A1
-    SPATA7
-    TOPORS
-    TRPM1
-    TTC8/BBS8
-    TULP1
-    USH1C
-    USH1G
-    USH1J-CIB2
-    UNC119
-    USH2A
-    ZNF513
+    2500 USD
+    127 genes
+    //... add in disease phenotype names for each cluster
+        ABCA4
+        ABHD12
+        ADAM9
+        AIPL1
+        ALMSI
+        ASCC3L1/SNRNP200
+        BBS1–7, 9–13, 15–17
+        BEST1
+        C1QTNF5
+        C2orf71
+        C8orf37
+        CA4
+        CABP4
+        CACNA2D4
+        CACNA1F
+        CDH23
+        CDHR1
+        CEP290/BBS14
+        CERKL
+        CHM
+        CLRN1
+        CNGA1
+        CNGA3
+        CNGB1
+        CNGB3
+        CNNM4
+        CRB1
+        CRX
+        DFNB31
+        DHDDS
+        ELOV4
+        EYS
+        FAM161A
+        FSCN2
+        GNAT1
+        GNAT2
+        GPR98
+        GPR179
+        GRK1
+        GRM6
+        GUCA1A
+        GUCA1B
+        GUCY2D
+        HARS
+        IDH3B
+        INPP5E
+        IMPDH1
+        IMPG2
+        IQCB1
+        KCNJ13
+        KCNV2
+        KLHL7
+        LCA5
+        LRAT
+        LRIT3
+        MAK
+        MERTK
+        MYO7A
+        NMNAT1
+        NR2E3
+        NRL
+        NYX
+        OFD1
+        OPA1
+        OPA3
+        OTX2
+        PCDH15
+        PDE6A
+        PDE6B
+        PDE6C
+        PDE6H
+        PDE6G
+        PDZD7
+        PITPNM3
+        PRCD
+        PROM1
+        PRPF3
+        PRPF6
+        PRPF8
+        PRPF31
+        RAX2
+        RBP3
+        RD3
+        RDH5
+        RDH12
+        RDS/PRPH2
+        RGR
+        RHO
+        RIMSI
+        RLBP1
+        ROM1
+        RP1
+        RP1L1
+        RP2
+        RP9
+        RPE65
+        RPGR
+        RPGRIP1
+        RS1
+        SAG
+        SEMA4A
+        SLC24A1
+        SPATA7
+        TOPORS
+        TRPM1
+        TTC8/BBS8
+        TULP1
+        USH1C
+        USH1G
+        USH1J-CIB2
+        UNC119
+        USH2A
+        ZNF513
 
 achromatopsia AKA AR rod-monochromatism panel (NGS)
-  950 USD
-  5 genes
-    CNGA3
-    CNGB3
-    GNAT2
-    PDE6C
-    PDE6H
+    950 USD
+    5 genes
+        CNGA3
+        CNGB3
+        GNAT2
+        PDE6C
+        PDE6H
 
 Ashkenazi Jewish panel
-  550 USD
-  8 genes
-    CLRN1-N48K
-    DHDDS-K42E
-    MAK-K429insAlu
-    FAM161A-c.1355–6delCA
-    FAM161A-c.1567C>T
-    LCA5-Q279X
-    PCDH15-R245X
-    CACNA2D4-delExon17–26
-    TRPM1-delExon2–7
+    550 USD
+    8 genes
+        CLRN1-N48K
+        DHDDS-K42E
+        MAK-K429insAlu
+        FAM161A-c.1355–6delCA
+        FAM161A-c.1567C>T
+        LCA5-Q279X
+        PCDH15-R245X
+        CACNA2D4-delExon17–26
+        TRPM1-delExon2–7
 
 anterior segment dysgenesis panel
-  950 USD
-  13 genes
-    DCDC1
-    ELP4
-    FOXE3
-    PAX6
-    LAMB2
-    PITX2
-    PITX3
-    FOXC2
-    FOXC1
-    CYP1B1
-    COL4A1
-    BMP4
-    B3GALTL
+    950 USD
+    13 genes
+        DCDC1
+        ELP4
+        FOXE3
+        PAX6
+        LAMB2
+        PITX2
+        PITX3
+        FOXC2
+        FOXC1
+        CYP1B1
+        COL4A1
+        BMP4
+        B3GALTL
 
 Bardet-Biedl syndrome panel (NGS)
-  1500 USD
-  16 genes
-    BBS1–16
+    1500 USD
+    16 genes
+        BBS1–16
 
 blue cone monochromatism panel (NGS)
-  500 USD
-  2 genes
-    Locus Control Region
-    OPN1LW-OPN1MW
+    500 USD
+    2 genes
+        Locus Control Region
+        OPN1LW-OPN1MW
 
 Cockayne syndrome panel
-  500 USD
-  2 genes
-    ERCC6
-    ERCC8
+    500 USD
+    2 genes
+        ERCC6
+        ERCC8
 
 common hearing loss panel
-  3 genes
-  650 USD
-  SLC26A4
-  GJB2
-  GJB6
+    3 genes
+    650 USD
+    SLC26A4
+    GJB2
+    GJB6
 
 cone > rod dystrophy panel (NGS)
-  1950 USD
-  26 genes
-    ABCA4
-    ADAM9
-    AIPL1
-    BEST1/VMD2
-    c8ORF37
-    CACNA1F
-    CACNA2D4
-    CDHR1
-    CERKL
-    CNGB3
-    CNNM4
-    CRX
-      pre-genetic terminology includes Adult-onset macular dystrophy
-    GUCA1A
-    GUCY2D
-    KCNV2
-    PDE6C
-    PDE6H
-    PITPNM3
-    PROM1
-    PRPH2/RDS
-    RAX2
-    RDH5
-    RIMS1
-    RPGRIP1
-    SEMA4A
-    UNC119
+    1950 USD
+    26 genes
+        ABCA4
+        ADAM9
+        AIPL1
+        BEST1/VMD2
+        c8ORF37
+        CACNA1F
+        CACNA2D4
+        CDHR1
+        CERKL
+        CNGB3
+        CNNM4
+        CRX
+            pre-genetic terminology includes Adult-onset macular dystrophy
+        GUCA1A
+        GUCY2D
+        KCNV2
+        PDE6C
+        PDE6H
+        PITPNM3
+        PROM1
+        PRPH2/RDS
+        RAX2
+        RDH5
+        RIMS1
+        RPGRIP1
+        SEMA4A
+        UNC119
 
 CSNB panel (NGS)
-  950 USD
-  14 genes
-    CABP4
-    CACNA1F
-    GNAT1
-    GPR179
-    GRK1
-    GRM6
-    LRIT3
-    NYX
-    PDE6B
-    RDH5
-    RHO
-    SAG
-    SLC24A1
-    TRPM1
+    950 USD
+    14 genes
+        CABP4
+        CACNA1F
+        GNAT1
+        GPR179
+        GRK1
+        GRM6
+        LRIT3
+        NYX
+        PDE6B
+        RDH5
+        RHO
+        SAG
+        SLC24A1
+        TRPM1
 
 hereditary hemorrhagic telangiectasia panel (NGS)
-  650 USD
-  3 genes
-    ENG
-    ACVRL1
-    SMAD4
+    650 USD
+    3 genes
+        ENG
+        ACVRL1
+        SMAD4
 
 OCA and Hermansky-Pudlak syndrome panel (NGS)
-  1500 USD
-  15 genes
-    HPS1
-    HPS2
-    HPS3
-    HPS4
-    HPS5
-    HPS6
-    HPS7
-    HPS8
-    HPS9
-    OCA1
-    OCA2
-    OCA3
-    OCA4
-    OA1
-    LYST1
+    1500 USD
+    15 genes
+        HPS1
+        HPS2
+        HPS3
+        HPS4
+        HPS5
+        HPS6
+        HPS7
+        HPS8
+        HPS9
+        OCA1
+        OCA2
+        OCA3
+        OCA4
+        OA1
+        LYST1
 
 Hirschsprung disease panel (NGS)
-  650 USD
-  3 genes
-    RET
-    EDNRB
-    EDN3
+    650 USD
+    3 genes
+        RET
+        EDNRB
+        EDN3
 
 Joubert syndrome panel
-  1950 USD
-  18 genes
-    CEP290
-    NPHP1
-    OFD1
-    AHI1
-    RPGRIP1L
-    ARL13B
-    C5ORF42
-    CC2D2A
-    CEP41
-    INPP5E
-    KIF7
-    TCTN1
-    TCTN2
-    TMEM138
-    TMEM216
-    TMEM237
-    TMEM67
-    TTC21B
+    1950 USD
+    18 genes
+        CEP290
+        NPHP1
+        OFD1
+        AHI1
+        RPGRIP1L
+        ARL13B
+        C5ORF42
+        CC2D2A
+        CEP41
+        INPP5E
+        KIF7
+        TCTN1
+        TCTN2
+        TMEM138
+        TMEM216
+        TMEM237
+        TMEM67
+        TTC21B
 
 LCA panel (NGS)
-  1800 USD
-  19 genes
-    AIPL1
-    CABP4
-    CEP290
-    CRB1
-    CRX
-    GUCY2D
-    IMPDH1
-    IQCB1
-    KCNJ13
-    LCA5
-    LRAT
-    NMNAT1
-    OTX2
-    RD3
-    RDH12
-    RPE65
-    RPGRIP1
-    SPATA7
-    TULP1
+    1800 USD
+    19 genes
+        AIPL1
+        CABP4
+        CEP290
+        CRB1
+        CRX
+        GUCY2D
+        IMPDH1
+        IQCB1
+        KCNJ13
+        LCA5
+        LRAT
+        NMNAT1
+        OTX2
+        RD3
+        RDH12
+        RPE65
+        RPGRIP1
+        SPATA7
+        TULP1
 
 NF panel (NGS)
-  950 USD
-  3 genes
-    KIT
-    NF1
-    SPRED1
+    950 USD
+    3 genes
+        KIT
+        NF1
+        SPRED1
 
 NCLs AKA Batten disease panel
-  950 USD
-   9 genes
-    PPT1/CLN1
-    TPP1/CLN2
-    CLN3
-    DNAJC5/CLN4
-    CLN5
-    CLN6
-    MFSD8
-    CLN8
-    CTSD/CLN10
+    950 USD
+      9 genes
+        PPT1/CLN1
+        TPP1/CLN2
+        CLN3
+        DNAJC5/CLN4
+        CLN5
+        CLN6
+        MFSD8
+        CLN8
+        CTSD/CLN10
 
 optic atrophy panel
-  500 USD
-  2 genes
-    OPA1
-    OPA3
+    500 USD
+    2 genes
+        OPA1
+        OPA3
 
 osteogenesis imperfecta panel
-  950 USD
-  4 genes
-    COL1A1
-    COL1A2
-    CRTAP
-    LEPRE1
+    950 USD
+    4 genes
+        COL1A1
+        COL1A2
+        CRTAP
+        LEPRE1
 
 Rubinstein-Taybi syndrome panel (NGS)
-  950 USD
-  3 genes
-    CREBBP
-    EP300
-    SRCAP
+    950 USD
+    3 genes
+        CREBBP
+        EP300
+        SRCAP
 
 Senior-Loken syndrome panel
-  1500 USD
-  4 genes
-    CEP290
-    IQCB1
-    NPHP1
-    NPHP4
+    1500 USD
+    4 genes
+        CEP290
+        IQCB1
+        NPHP1
+        NPHP4
 
 septo-optic dysplasia AKA De Morsier syndrome panel
-  650 USD
-  4 genes
-    HESX1
-    OTX2
-    SOX2
-    PAX6
+    650 USD
+    4 genes
+        HESX1
+        OTX2
+        SOX2
+        PAX6
 
 macular dystrophy panel
-  500 USD
-  8 genes
-    ABCA4
-      Stargardt disease
-    BEST1
-      AD Best disease // AR bestrophinopathies also exist
-        childhood onset
-          if adult onset
-            see RDS AKA PRPH2
-        genetics
-          BEST1 encodes Bestrophin-1
-            an RPE cell membrane ion channel
-        COMMON:
-          normal ERG
-          abnormal EOG
-            light peak/dark trough (Arden) 1.5-
-        ALSO: 1/5 will have a normal EOG
-        stages
-          vitelliform -> pseudohypopyon -> scrambled egg -> CRA ± SR fibrosis
-          ALSO: secondary CNV
-    EFEMP1
-      Doyne Honeycomb retinal dystrophy
-      malattia Leventinese
-      AD familial drusen
-    ELOVL4
-      AD Stargardt-like macular dystrophy
-    IMPG1
-      VMD4 adult vitelliform
-        AVLs have many stages
-          pigment clump over fovea
-            may not have any vitelliform material
-          pigment ring with yellow center
-          vitelliform lesion without pigment
-          breakdown of vitelliform material
-            can mimic CNV
-          late atrophy
-            pregenetic terminology for the atrophic stage includes
-              benign concentric annular macular dystrophy AKA BCAMD
-      adult vitelliform DDx
-        AMD
-        VMT
-        CSC
-        solar retinopathy
-          laser injury is a specific subset
-            hyperreflective columns at the site of injury
-              predict late PR loss
-        poppers maculopathy
-          inhaled alkyl nitrites
-            isobutyl nitrite
-            isopropyl nitrite
-        NOTE:
-          majority of AVLs have unknown mutations (i.e. not in this panel)
-    IMPG2
-      VMD5 adult vitelliform
-    PROM1
-      depending on mutation
-        RP
-        Stargardt disease
-        Cone > rod dystrophy
-    RDS AKA PRPH2
-      AD pattern dystrophy
-        PP sparing previously thought to be exclusive to ABCA4
-          now known to occur in RDS/PRPH also
-      many phenotypically different AVLs are probably RDS
-      RDS-like lesions
-        drug toxicities
-          MEKI
-            also cause intermediate uveitis
-            used in
-              COMMON:
-                melanoma
-              ALSO:
-                lung cancer
-                colon cancer
-                breast cancer
-            sometimes combined with BRAF inhibitors
-          desferrioxamine
-            iron chelator
-          PPS (pentosan polysulfate sodium)
-            intravesical treatment for interstitial cystitis
-        paraneoplastic vitelliform lesions
-          paraneoplastic antibody panels are offered by Mayo clinic
-            helpful to rule out
-              PAIR
-                including paraneoplastic VMD
-              paraneoplastic autoimmune optic neuropathy
-              ischemic scleritis secondary to paraneoplastic vasculitis
-            looks at 4 autoantibody classes
-              neuronal nuclear
-                ANNA-[1–3]
-              anti-glial neuronal nuclear
-                AGNA-1 AKA Sox1
-              neuronal and muscle cytoplasmic
-                PCA-[1, 2, Tr]
-                CRMP-5
-                amphiphysin
-                striational
-              plasma membrane
-                cation channel
-                calcium channel
-                potassium channel
-                nicotinic acetylcholine receptor
-                  neuronal
-                  muscle
-            has reflex panels for further differentiation of positives
+    500 USD
+    8 genes
+        ABCA4
+            Stargardt disease
+        BEST1
+            AD Best disease // AR bestrophinopathies also exist
+                childhood onset
+                    if adult onset
+                        see RDS AKA PRPH2
+                genetics
+                    BEST1 encodes Bestrophin-1
+                        an RPE cell membrane ion channel
+                COMMON:
+                    normal ERG
+                    abnormal EOG
+                        light peak/dark trough (Arden) 1.5-
+                ALSO: 1/5 will have a normal EOG
+                stages
+                    vitelliform -> pseudohypopyon -> scrambled egg -> CRA ± SR fibrosis
+                    ALSO: secondary CNV
+        EFEMP1
+            Doyne Honeycomb retinal dystrophy
+            malattia Leventinese
+            AD familial drusen
+        ELOVL4
+            AD Stargardt-like macular dystrophy
+        IMPG1
+            VMD4 adult vitelliform
+                AVLs have many stages
+                    pigment clump over fovea
+                        may not have any vitelliform material
+                    pigment ring with yellow center
+                    vitelliform lesion without pigment
+                    breakdown of vitelliform material
+                        can mimic CNV
+                    late atrophy
+                        pregenetic terminology for the atrophic stage includes
+                            benign concentric annular macular dystrophy AKA BCAMD
+            adult vitelliform DDx
+                AMD
+                VMT
+                CSC
+                solar retinopathy
+                    laser injury is a specific subset
+                        hyperreflective columns at the site of injury
+                            predict late PR loss
+                poppers maculopathy
+                    inhaled alkyl nitrites
+                        isobutyl nitrite
+                        isopropyl nitrite
+                NOTE:
+                    majority of AVLs have unknown mutations (i.e. not in this panel)
+        IMPG2
+            VMD5 adult vitelliform
+        PROM1
+            depending on mutation
+                RP
+                Stargardt disease
+                Cone > rod dystrophy
+        RDS AKA PRPH2
+            AD pattern dystrophy
+                PP sparing previously thought to be exclusive to ABCA4
+                    now known to occur in RDS/PRPH also
+            many phenotypically different AVLs are probably RDS
+            RDS-like lesions
+                drug toxicities
+                    MEKI
+                        also cause intermediate uveitis
+                        used in
+                            COMMON:
+                                melanoma
+                            ALSO:
+                                lung cancer
+                                colon cancer
+                                breast cancer
+                        sometimes combined with BRAF inhibitors
+                    desferrioxamine
+                        iron chelator
+                    PPS (pentosan polysulfate sodium)
+                        intravesical treatment for interstitial cystitis
+                paraneoplastic vitelliform lesions
+                    paraneoplastic antibody panels are offered by Mayo clinic
+                        helpful to rule out
+                            PAIR
+                                including paraneoplastic VMD
+                            paraneoplastic autoimmune optic neuropathy
+                            ischemic scleritis secondary to paraneoplastic vasculitis
+                        looks at 4 autoantibody classes
+                            neuronal nuclear
+                                ANNA-[1–3]
+                            anti-glial neuronal nuclear
+                                AGNA-1 AKA Sox1
+                            neuronal and muscle cytoplasmic
+                                PCA-[1, 2, Tr]
+                                CRMP-5
+                                amphiphysin
+                                striational
+                            plasma membrane
+                                cation channel
+                                calcium channel
+                                potassium channel
+                                nicotinic acetylcholine receptor
+                                    neuronal
+                                    muscle
+                        has reflex panels for further differentiation of positives
 
 tuberous sclerosis AKA Bourneville disease panel
-  650 USD
-  2 genes
-    TSC1
-    TSC2
+    650 USD
+    2 genes
+        TSC1
+        TSC2
 
 Usher syndrome panel (NGS)
-  1950 USD
-  13 genes
-    ABHD12
-    CDH23
-    CLRN1
-    DFNB31
-    GPR98
-    HARS/USH3B
-    MYO7A
-    PCDH15
-    PDZD7
-    USH1C
-    USH1G
-    USH2A
-    USH1J/CIB
+    1950 USD
+    13 genes
+        ABHD12
+        CDH23
+        CLRN1
+        DFNB31
+        GPR98
+        HARS/USH3B
+        MYO7A
+        PCDH15
+        PDZD7
+        USH1C
+        USH1G
+        USH2A
+        USH1J/CIB
 
 Waardenburg syndrome panel
-  1500 USD
-  7 genes
-    EDN3
-    EDNRB
-    MITF
-    PAX3
-    RET
-    SNAI2
-    SOX10
+    1500 USD
+    7 genes
+        EDN3
+        EDNRB
+        MITF
+        PAX3
+        RET
+        SNAI2
+        SOX10

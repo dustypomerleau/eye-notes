@@ -3,145 +3,145 @@
 RD
 
 pseudophakic RRD risk factors
-  PC tear OR 20
-  zonular dehiscence OR 12
-  RRD in fellow eye OR 12
-  posterior uveitis OR 12
-  LD OR 8
-  AL 23+ mm OR 3
-  male sex OR 2
+    PC tear OR 20
+    zonular dehiscence OR 12
+    RRD in fellow eye OR 12
+    posterior uveitis OR 12
+    LD OR 8
+    AL 23+ mm OR 3
+    male sex OR 2
 
 PVR risk factors
-  VH
-  preop PVR
-  giant tear
-  large breaks
-  large detachment
-  longstanding detachment
-  uveitis
-  suprachoroidal effusion
+    VH
+    preop PVR
+    giant tear
+    large breaks
+    large detachment
+    longstanding detachment
+    uveitis
+    suprachoroidal effusion
 
 non-rhegmatogenous SRF DDx
-  inflammatory
     inflammatory
-      sarcoid
-      posterior scleritis
-    autoimmune
-      VKH
-        distinguishing VKH from multifocal bilateral CSC
-          headache
-          hearing loss
-          tinnitus
-          vitiligo
-            may be perilimbal AKA Sugiura sign
-          poliosis
-          AC cell
-          hyperemic disc
-            leaks on FFA
-        RARELY: presents as meningoencephalitis
-          LP shows melanin-laden macrophages
-          LP is not needed if diagnosis is clear
-        treatment
-          prednisolone 1 mg/kg/d
-            monitor for steroid-related complications
-              // see anterior-and-intermediate-uveitis.txt
-          start methotrexate OR mycophenolate at the same time as steroids
-            even with SSIMT
-              patients often require 10+ mg prednisolone x 6+ months
-            but try to taper off steroids in 4–8 weeks
-              monitor
-                symptoms
-                VA
-                OCT
-      SO
-      RARELY: RA
-  vascular
+        inflammatory
+            sarcoid
+            posterior scleritis
+        autoimmune
+            VKH
+                distinguishing VKH from multifocal bilateral CSC
+                    headache
+                    hearing loss
+                    tinnitus
+                    vitiligo
+                        may be perilimbal AKA Sugiura sign
+                    poliosis
+                    AC cell
+                    hyperemic disc
+                        leaks on FFA
+                RARELY: presents as meningoencephalitis
+                    LP shows melanin-laden macrophages
+                    LP is not needed if diagnosis is clear
+                treatment
+                    prednisolone 1 mg/kg/d
+                        monitor for steroid-related complications
+                            // see anterior-and-intermediate-uveitis.txt
+                    start methotrexate OR mycophenolate at the same time as steroids
+                        even with SSIMT
+                            patients often require 10+ mg prednisolone x 6+ months
+                        but try to taper off steroids in 4–8 weeks
+                            monitor
+                                symptoms
+                                VA
+                                OCT
+            SO
+            RARELY: RA
     vascular
-      malignant HTN
-      eclampsia
-    vasoocclusive
-      CRVO
-    hypercoagulable
-      hyperviscosity syndromes
-  neoplastic
-    solid tumors
-      nevus
-      melanoma
-    lymphoproliferative
-      PIOL
-      PCNSL
-    hematologic
-      AML
-    metastatic
-      mets
-    paraneoplastic
-      BDUMP
-  degeneration
+        vascular
+            malignant HTN
+            eclampsia
+        vasoocclusive
+            CRVO
+        hypercoagulable
+            hyperviscosity syndromes
+    neoplastic
+        solid tumors
+            nevus
+            melanoma
+        lymphoproliferative
+            PIOL
+            PCNSL
+        hematologic
+            AML
+        metastatic
+            mets
+        paraneoplastic
+            BDUMP
     degeneration
-      AMD
-    dysfunction
-      CSC
-      UES
-  endocrine
+        degeneration
+            AMD
+        dysfunction
+            CSC
+            UES
     endocrine
-      DME
+        endocrine
+            DME
 
 combined ERD + suprachoroidal effusion
-  inflammatory
-    NSOI
-    BROADLY: uveitis
-  iatrogenic
-    inflammation 2° cryo
-  vascular
+    inflammatory
+        NSOI
+        BROADLY: uveitis
+    iatrogenic
+        inflammation 2° cryo
     vascular
-      malignant HTN
-      dural AV fistula
-  neoplastic
-    lymphoproliferative
-      lymphoma
-    paraneoplastic
-      BDUMP
-  DAMS
-    medications
-      gemcitabine toxicity
-  degeneration
-    dysfunction
-      hypotony
+        vascular
+            malignant HTN
+            dural AV fistula
+    neoplastic
+        lymphoproliferative
+            lymphoma
+        paraneoplastic
+            BDUMP
+    DAMS
+        medications
+            gemcitabine toxicity
+    degeneration
+        dysfunction
+            hypotony
 
 expansile gases
-  air
-    nonexpansile
-    half-life 1 day
-    PR volume 0.5–1 mL
-  SF6
-    expands 2–2.5x @ 100%
-    isoexpansile @ 18%
-    PR volume 0.5 mL
-  C3F8
-    expands 4x @ 100%
-    isoexpansile @ 14%
-    PR volume 0.3 mL
-  PR arc of contact
-    final bubble size
-      0.3 mL gives 90° contact
-      1 mL gives 120° contact
-      3.0 mL gives 180° contact
+    air
+        nonexpansile
+        half-life 1 day
+        PR volume 0.5–1 mL
+    SF6
+        expands 2–2.5x @ 100%
+        isoexpansile @ 18%
+        PR volume 0.5 mL
+    C3F8
+        expands 4x @ 100%
+        isoexpansile @ 14%
+        PR volume 0.3 mL
+    PR arc of contact
+        final bubble size
+            0.3 mL gives 90° contact
+            1 mL gives 120° contact
+            3.0 mL gives 180° contact
 
 AD Wagner syndrome
-  RARE
-    14 families reported
-  mutations in versican (VCAN)
-    chondroitin sulfate proteoglycan
-  childhood onset
-  features
-    COMMON:
-      optically empty vitreous
-      fibrillary vitreous core
-      peripheral vitreous veils
-      progressive chorioretinal degeneration
-      2° TRD
-    ALSO:
-      myopia
-      cataract
-      glaucoma
-      uveitis
+    RARE
+        14 families reported
+    mutations in versican (VCAN)
+        chondroitin sulfate proteoglycan
+    childhood onset
+    features
+        COMMON:
+            optically empty vitreous
+            fibrillary vitreous core
+            peripheral vitreous veils
+            progressive chorioretinal degeneration
+            2° TRD
+        ALSO:
+            myopia
+            cataract
+            glaucoma
+            uveitis

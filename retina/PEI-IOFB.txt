@@ -2,134 +2,134 @@
 
 IOFB
 
-  essential history
-    mechanism
-      high velocity
-        machinery
-        metal-on-metal
-        more likely to have small IOFB that are hard to detect
-    composition
-      most inflammatory
-        pure aluminum
-        copper
-        iron
-        zinc
-      chronic inflammation
-        copper alloys 85-% elemental copper
-          brass
-          bronze
-          chronic chalcosis
-            Wilson-like peripheral Descemet deposition
-            sunflower cataract
-            metallic ILM flecks
-        iron
-          chronic siderosis
-            oxidative damage
-              iris
-                heterochromia
-              lens
-                cataract
-              retina
-                RAPD
-                ON pallor
-                pigmentary retinopathy
-                reduced ERG b-wave
-              RPE
-    how recent?
-    risk factors for endophthalmities after PEI
-      rural location
-      disruption of the lens
-        effectively a unicameral eye
-        lens protein may nourish bacteria
-      tissue prolapse
-      organic IOFB
-      delayed primary closure
-        24+ hours means 4x greater risk of infection
+    essential history
+        mechanism
+            high velocity
+                machinery
+                metal-on-metal
+                more likely to have small IOFB that are hard to detect
+        composition
+            most inflammatory
+                pure aluminum
+                copper
+                iron
+                zinc
+            chronic inflammation
+                copper alloys 85-% elemental copper
+                    brass
+                    bronze
+                    chronic chalcosis
+                        Wilson-like peripheral Descemet deposition
+                        sunflower cataract
+                        metallic ILM flecks
+                iron
+                    chronic siderosis
+                        oxidative damage
+                            iris
+                                heterochromia
+                            lens
+                                cataract
+                            retina
+                                RAPD
+                                ON pallor
+                                pigmentary retinopathy
+                                reduced ERG b-wave
+                            RPE
+        how recent?
+        risk factors for endophthalmities after PEI
+            rural location
+            disruption of the lens
+                effectively a unicameral eye
+                lens protein may nourish bacteria
+            tissue prolapse
+            organic IOFB
+            delayed primary closure
+                24+ hours means 4x greater risk of infection
 
-  ocular trauma scoring
-    include all of these in your documentation
-      can't score unless you've documented all factors
-    lose points for
-      RAPD (-10)
-      RRD (-11)
-      perforation (-14) // sharp
-      endophthalmitis (-17)
-      rupture (-23) // blunt
-    gain points for
-      VA
-        NPL (+60)
-        HM- (+70)
-        6/63- (+80)
-        6/15- (+90)
-        6/12+ (+100)
-    convert total of points into an OTS category
-      44- (1)
-      65- (2)
-      80- (3)
-      91- (4)
-      92+ (5)
-      1 is the worst prognosis
-        3/4 NPL
-      5 is the best prognosis
-        nearly all 6/12+
+    ocular trauma scoring
+        include all of these in your documentation
+            can't score unless you've documented all factors
+        lose points for
+            RAPD (-10)
+            RRD (-11)
+            perforation (-14) // sharp
+            endophthalmitis (-17)
+            rupture (-23) // blunt
+        gain points for
+            VA
+                NPL (+60)
+                HM- (+70)
+                6/63- (+80)
+                6/15- (+90)
+                6/12+ (+100)
+        convert total of points into an OTS category
+            44- (1)
+            65- (2)
+            80- (3)
+            91- (4)
+            92+ (5)
+            1 is the worst prognosis
+                3/4 NPL
+            5 is the best prognosis
+                nearly all 6/12+
 
-  essential decision points
-    lens and capsule status
-    retinal status
-    infection versus sterile inflammation
+    essential decision points
+        lens and capsule status
+        retinal status
+        infection versus sterile inflammation
 
-  surgical timing
-    1–3 weeks probably best
-    too early
-      clot not liquefied
-    too late
-      socked in and fibrosed
-    indications for early PPV
-      poor VA in fellow eye
-      corneal decompensation
-      torn lens capsule
-        cataract with intact capsule may benefit from delay
-          to get proper biometry
-      endophthalmitis
-        sterile OR
-        infectious
-          Bacillus spp.
-          GPC
-          fungal
-      VH precluding adequate assessment of the retina
-      ambiguous BSUS findings
-      mac-on RRD OR
-      progressive VR traction
+    surgical timing
+        1–3 weeks probably best
+        too early
+            clot not liquefied
+        too late
+            socked in and fibrosed
+        indications for early PPV
+            poor VA in fellow eye
+            corneal decompensation
+            torn lens capsule
+                cataract with intact capsule may benefit from delay
+                    to get proper biometry
+            endophthalmitis
+                sterile OR
+                infectious
+                    Bacillus spp.
+                    GPC
+                    fungal
+            VH precluding adequate assessment of the retina
+            ambiguous BSUS findings
+            mac-on RRD OR
+            progressive VR traction
 
-  IOFB is a subset of PEI
-    observe TICS
-      tetanus
-      IV antibiotics
-        IV vancomycin + ceftazidime 1 g each q 12 hours OR
-        a 4th generation quinolone such as IV moxifloxacin OR
-        po cipro 500–750 mg bd x 7–10 days // common AU protocol
-        ± voriconazole 200 mg IV OR po q 12 hours
-      CT scan
-        IOFB
-        bony fractures
-        orbital compartment syndrome
-      shield
+    IOFB is a subset of PEI
+        observe TICS
+            tetanus
+            IV antibiotics
+                IV vancomycin + ceftazidime 1 g each q 12 hours OR
+                a 4th generation quinolone such as IV moxifloxacin OR
+                po cipro 500–750 mg bd x 7–10 days // common AU protocol
+                ± voriconazole 200 mg IV OR po q 12 hours
+            CT scan
+                IOFB
+                bony fractures
+                orbital compartment syndrome
+            shield
 
-  removal technique
-    via PP OR
-    tunneled CS incision
-      rare-earth magnet
-      FB forceps
+    removal technique
+        via PP OR
+        tunneled CS incision
+            rare-earth magnet
+            FB forceps
 
-  prophylactic antibiotics
-    consider in every case
-    ALWAYS: use antibiotics in PEI cases with organic matter
-      vancomycin
-      ceftazidime
-      ± amphotericin B
+    prophylactic antibiotics
+        consider in every case
+        ALWAYS: use antibiotics in PEI cases with organic matter
+            vancomycin
+            ceftazidime
+            ± amphotericin B
 
-  monitor the fellow eye for SO
-  leave corneal sutures in ~ 3 months
+    monitor the fellow eye for SO
+    leave corneal sutures in ~ 3 months
 
-  if any question of retained iron
-    serial ERGs
+    if any question of retained iron
+        serial ERGs

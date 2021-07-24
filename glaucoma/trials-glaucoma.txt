@@ -2,108 +2,108 @@
 
 classic glaucoma trials
 
-  GLT (1990)
-    ALT was better than timolol as an initial therapy
-      better control
-      better durability
-      fewer supplementary drops
-    NOTE: study predates other drops
-      prostaglandins
-      CAI
-      alpha-2 agonists
-    so we still use drops first
+    GLT (1990)
+        ALT was better than timolol as an initial therapy
+            better control
+            better durability
+            fewer supplementary drops
+        NOTE: study predates other drops
+            prostaglandins
+            CAI
+            alpha-2 agonists
+        so we still use drops first
 
-  AGIS (1998)
-    looked at patients who had already failed drops
-    ATT versus TAT
-    blacks did better when ALT was used first
-    whites did better going straight to trab
-    consistent IOP 18- prevented progression
-      '18 and under, blacks @ white tats'
+    AGIS (1998)
+        looked at patients who had already failed drops
+        ATT versus TAT
+        blacks did better when ALT was used first
+        whites did better going straight to trab
+        consistent IOP 18- prevented progression
+            '18 and under, blacks @ white tats'
 
-  CNTGS (1998)
-    lowering IOP 30% helps even in NTG
-      allowed
-        Xalatan (1996+)
-        topical CAIs
-        ALT
-        surgery
-      not allowed
-        beta blockers
-        adrenergic agonists
-          concern for confounding cardiovascular effects
-        systemic CAI
-          would have interfered with the fellow eye control
-    worse prognosis in NTG
-      female sex
-      migraine OR Raynaud
-      disc hemorrhage
-      NOT Asian
-        slower progression in Asians
-          not many blacks in the study
-          mostly compared to whites
-          the few blacks included had rapid progression consistent with OHTS
+    CNTGS (1998)
+        lowering IOP 30% helps even in NTG
+            allowed
+                Xalatan (1996+)
+                topical CAIs
+                ALT
+                surgery
+            not allowed
+                beta blockers
+                adrenergic agonists
+                    concern for confounding cardiovascular effects
+                systemic CAI
+                    would have interfered with the fellow eye control
+        worse prognosis in NTG
+            female sex
+            migraine OR Raynaud
+            disc hemorrhage
+            NOT Asian
+                slower progression in Asians
+                    not many blacks in the study
+                    mostly compared to whites
+                    the few blacks included had rapid progression consistent with OHTS
 
-  CIGTS (2001)
-    drops versus trab
-      rescue ALT OK in both groups
-    trab
-      lowered the IOP more
-      had many more adverse events
-        including high rates of CEIOL
-    neither group had significant HVF progression
-    can't use a fixed % IOP reduction as your goal
-      it will undertreat those who start with a high IOP or advanced disease
+    CIGTS (2001)
+        drops versus trab
+            rescue ALT OK in both groups
+        trab
+            lowered the IOP more
+            had many more adverse events
+                including high rates of CEIOL
+        neither group had significant HVF progression
+        can't use a fixed % IOP reduction as your goal
+            it will undertreat those who start with a high IOP or advanced disease
 
-  OHTS (2002)
-    dropping the IOP below 24 cut the risk of glaucoma in half
-    confirmed CNTGS finding that disc hemorrhage indicates faster progression
-    ALT increases cataract
-    risk factors
-      age
-      male sex
-      African American race
-      ischemic heart disease
-      IOP
-      thin CCT
-        average 575 µm
-        OHTS risk increased at 555- µm
-      VCDR > HCDR
-      higher HVF PSD
-    CCT 555- & IOP 24+ is a high risk group
-      treat aggressively
-    key stats
-      for CCT 555-
-        POAG developed over 5 years in
-          1/3 for IOP 26+
-          1/8 for IOP 24+
-          1/4 for VCDR 0.3+
-        numbers are much lower in normal CCT
+    OHTS (2002)
+        dropping the IOP below 24 cut the risk of glaucoma in half
+        confirmed CNTGS finding that disc hemorrhage indicates faster progression
+        ALT increases cataract
+        risk factors
+            age
+            male sex
+            African American race
+            ischemic heart disease
+            IOP
+            thin CCT
+                average 575 µm
+                OHTS risk increased at 555- µm
+            VCDR > HCDR
+            higher HVF PSD
+        CCT 555- & IOP 24+ is a high risk group
+            treat aggressively
+        key stats
+            for CCT 555-
+                POAG developed over 5 years in
+                    1/3 for IOP 26+
+                    1/8 for IOP 24+
+                    1/4 for VCDR 0.3+
+                numbers are much lower in normal CCT
 
-  EMGT (2002)
-    ALT + betaxolol lowered IOP by 25% compared to observation
-    treatment cut progression by 1/3 compared to observation
-      nearly 1/2 of patients still progressed
-    confirmed OHTS finding that ALT increases cataract
-    risk factors
-      age
-      IOP
-      bilateral disease
-      higher HVF PSD
-      PXF
+    EMGT (2002)
+        ALT + betaxolol lowered IOP by 25% compared to observation
+        treatment cut progression by 1/3 compared to observation
+            nearly 1/2 of patients still progressed
+        confirmed OHTS finding that ALT increases cataract
+        risk factors
+            age
+            IOP
+            bilateral disease
+            higher HVF PSD
+            PXF
 
-  LoGTS (2011)
-    Does brimonidine's neuroprotection make it better than timolol in NTG?
-    brimonidine reduced progression in NTG compared to timolol
-      VF progression
-        1/10+ of the brimonidine group
-        1/3+ of the timolol group
-    but brimonidine wasn't well tolerated
-      dropouts
-        1/4+ of the brimonidine group
-        1/10+ of the timolol group
-    VF progression did not correlate with IOP in NTG
-      asymmetric VF progression did not match statistically with asymmetric IOP
+    LoGTS (2011)
+        Does brimonidine's neuroprotection make it better than timolol in NTG?
+        brimonidine reduced progression in NTG compared to timolol
+            VF progression
+                1/10+ of the brimonidine group
+                1/3+ of the timolol group
+        but brimonidine wasn't well tolerated
+            dropouts
+                1/4+ of the brimonidine group
+                1/10+ of the timolol group
+        VF progression did not correlate with IOP in NTG
+            asymmetric VF progression did not match statistically with asymmetric IOP
 
 
 //
@@ -111,47 +111,47 @@ classic glaucoma trials
 
 summary of risk factors and factors influencing progression:
 
-  FH
-    not confirmed by OHTS but smaller studies support this
+    FH
+        not confirmed by OHTS but smaller studies support this
 
-  age
-  black race
-  sex
-    male sex
-      POAG (OHTS)
-    female sex
-      NTG (CNTGS)
+    age
+    black race
+    sex
+        male sex
+            POAG (OHTS)
+        female sex
+            NTG (CNTGS)
 
-  ischemic heart disease
-  vasospasm
-    migraine
-    Raynaud
-  OSA
+    ischemic heart disease
+    vasospasm
+        migraine
+        Raynaud
+    OSA
 
-  CCT 555-
-    ± low hysteresis
-      thin corneas correlate with low hysteresis
-      unclear whether low hysteresis is a separate risk factor from thinness
-      hysteresis is a measure of elasticity and ability to absorb energy
-        higher hysteresis means greater ability to dissipate an applied load
-      normal hysteresis is about 10 mm Hg
-        studies have shown patients with progressive GON averaging in the 7s
-        too early to really say what's pathologic
-      low hysteresis patients *seem* to get greater % IOP reduction per drop
-        probably an artifact
-      patients with high hysteresis
-        probably responding better than we can measure
-  IOP 24+
-  PXF
-  VCDR > HCDR
-  disc hemorrhage
-  bilateral disease
+    CCT 555-
+        ± low hysteresis
+            thin corneas correlate with low hysteresis
+            unclear whether low hysteresis is a separate risk factor from thinness
+            hysteresis is a measure of elasticity and ability to absorb energy
+                higher hysteresis means greater ability to dissipate an applied load
+            normal hysteresis is about 10 mm Hg
+                studies have shown patients with progressive GON averaging in the 7s
+                too early to really say what's pathologic
+            low hysteresis patients *seem* to get greater % IOP reduction per drop
+                probably an artifact
+            patients with high hysteresis
+                probably responding better than we can measure
+    IOP 24+
+    PXF
+    VCDR > HCDR
+    disc hemorrhage
+    bilateral disease
 
-  higher HVF PSD
+    higher HVF PSD
 
-  genetics
-    CYP1B1
-      PCG
-    MYOC
-      JOAG
-      POAG
+    genetics
+        CYP1B1
+            PCG
+        MYOC
+            JOAG
+            POAG

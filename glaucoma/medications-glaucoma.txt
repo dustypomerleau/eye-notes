@@ -2,97 +2,97 @@
 
 glaucoma medications in pregnancy and breastfeeding
 
-  Typically the IOP is a bit lower in pregnant women, but don't rely on this.
+    Typically the IOP is a bit lower in pregnant women, but don't rely on this.
 
-  1st line
-    observation
-    SLT
+    1st line
+        observation
+        SLT
 
-  drug categories
-    A - safe
-    B - contradictory data
-    C - risk to the fetus in animal studies
-    D - risk to the fetus in human studies
-    X - strong evidence of birth defects
+    drug categories
+        A - safe
+        B - contradictory data
+        C - risk to the fetus in animal studies
+        D - risk to the fetus in human studies
+        X - strong evidence of birth defects
 
-    brimonidine
-      category B
-      safest early in the pregnancy
-      should be avoided when nursing
-        in children it causes
-          CNS depression
-          apnea
-    beta blockers
-      category C
-      cross placenta
-      enter breast milk
-      low doses can be used throughout
-      monitor fetal heart rate
-    CAI
-      category C
-        low fetal body weight in animal studies
-        unclear if breastmilk affected
-      low doses can be used throughout
-      monitor fetal body weight
-    prostaglandins
-      category C
-      miscarriages and uterine contractions in animal studies
-      most docs don't use at all
-      definitely avoid in 3rd trimester
+        brimonidine
+            category B
+            safest early in the pregnancy
+            should be avoided when nursing
+                in children it causes
+                    CNS depression
+                    apnea
+        beta blockers
+            category C
+            cross placenta
+            enter breast milk
+            low doses can be used throughout
+            monitor fetal heart rate
+        CAI
+            category C
+                low fetal body weight in animal studies
+                unclear if breastmilk affected
+            low doses can be used throughout
+            monitor fetal body weight
+        prostaglandins
+            category C
+            miscarriages and uterine contractions in animal studies
+            most docs don't use at all
+            definitely avoid in 3rd trimester
 
-  ways to avoid systemic toxicity
-    lowest drug concentration
-    least frequent dosing
-    closed eyelids after administration
-    manual punctal occlusion
-    punctal plugs
+    ways to avoid systemic toxicity
+        lowest drug concentration
+        least frequent dosing
+        closed eyelids after administration
+        manual punctal occlusion
+        punctal plugs
 
-  avoid glaucoma surgery in pregnancy
-    particularly 1st trimester
-    anesthetics and antimetabolites can be teratogenic
+    avoid glaucoma surgery in pregnancy
+        particularly 1st trimester
+        anesthetics and antimetabolites can be teratogenic
 
 
 //
 
 
-  other medications in pregnancy //...
-    oral antibiotics
-      avoid
-        tetracyclines
-        fluoroquinolones
-    topical antibiotics
-      effect of topical quinolones is unclear
-      tobramycin is often substituted if coverage is adequate
-    oral antivirals
-      aciclovir is safe
-      valaciclovir is probably safe but less studied
-        category B
-    dry eye
-      avoid cyclosporine
+    other medications in pregnancy //...
+        oral antibiotics
+            avoid
+                tetracyclines
+                fluoroquinolones
+        topical antibiotics
+            effect of topical quinolones is unclear
+            tobramycin is often substituted if coverage is adequate
+        oral antivirals
+            aciclovir is safe
+            valaciclovir is probably safe but less studied
+                category B
+        dry eye
+            avoid cyclosporine
 
 
 //
 
 
 toxicity issues not specific to pregnancy
-  beta blockers
-    asthma
-    bradycardia
-  CAI
-    endothelial toxicity
-    metabolic acidosis
-    sulfa allergy
-    induces sickling in S(S|T|C)
-    Diamox
-      metabolic acidosis
-      hyponatremia
-      hypokalemia
-  prostaglandins
-    thicker lashes
-    longer lashes
-    skin darkening
-    iris darkening
-    AC inflammation
+    beta blockers
+        asthma
+        bradycardia
+    CAI
+        endothelial toxicity
+        metabolic acidosis
+        sulfa allergy
+        induces sickling in S(S|T|C)
+        Diamox
+            metabolic acidosis
+            hyponatremia
+            hypokalemia
+    prostaglandins
+        thicker lashes
+        longer lashes
+        skin darkening
+        iris darkening
+        AC inflammation
 
 
 //
@@ -100,59 +100,59 @@ toxicity issues not specific to pregnancy
 
 glaucoma drops (AU)
 
-  combination drops
-    Xalacom
-      latanoprost
-      timolol
-    Duotrav
-      travoprost
-      timolol
-    Ganfort
-      bimatoprost
-      timolol
-    Combigan
-      brimonidine
-      timolol
-      adverse effects
-        COMMON: fatigue
-          also reported independently with both brimonidine and timolol
-    Azarga
-      brinzolamide
-      timolol
-    Cosopt
-      dorzolamide
-      timolol
-    Simbrinza
-      brimonidine
-      brinzolamide
+    combination drops
+        Xalacom
+            latanoprost
+            timolol
+        Duotrav
+            travoprost
+            timolol
+        Ganfort
+            bimatoprost
+            timolol
+        Combigan
+            brimonidine
+            timolol
+            adverse effects
+                COMMON: fatigue
+                    also reported independently with both brimonidine and timolol
+        Azarga
+            brinzolamide
+            timolol
+        Cosopt
+            dorzolamide
+            timolol
+        Simbrinza
+            brimonidine
+            brinzolamide
 
-  preservative free
-    Saflutan
-      tafluprost
-    Lumigan PF
-      bimatoprost
-    Ganfort PF
-      bimatoprost
-      timolol
+    preservative free
+        Saflutan
+            tafluprost
+        Lumigan PF
+            bimatoprost
+        Ganfort PF
+            bimatoprost
+            timolol
 
-  single agents
-    Alphagan
-    Alphagan P
-      brimonidine
-    Azopt
-      brinzolamide
-    Betoptic
-    Betoptic S
-      betaxolol
-    Iopidine
-    Lumigan
-      bimatoprost
-    Timoptol
-    Timoptol XE
-      timolol
-    Trusopt
-      dorzolamide
-    Travatan
-      travoprost
-    Xalatan
-      latanoprost
+    single agents
+        Alphagan
+        Alphagan P
+            brimonidine
+        Azopt
+            brinzolamide
+        Betoptic
+        Betoptic S
+            betaxolol
+        Iopidine
+        Lumigan
+            bimatoprost
+        Timoptol
+        Timoptol XE
+            timolol
+        Trusopt
+            dorzolamide
+        Travatan
+            travoprost
+        Xalatan
+            latanoprost

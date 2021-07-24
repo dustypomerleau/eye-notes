@@ -1,22 +1,22 @@
 // https://github.com/dustypomerleau/eye-notes
 
 episcleritis
-  mild
-  transient
-  interpalpebral
-  blanches with phenylephrine
-  RARELY: nodules
-    should be mobile
-  lubrication
-  NSAIDs
-    topical OR oral
-  recurrent cases
-    limited workup
-      VZV
-      Lyme
-      TB
-      syphilis
-      RA
+    mild
+    transient
+    interpalpebral
+    blanches with phenylephrine
+    RARELY: nodules
+        should be mobile
+    lubrication
+    NSAIDs
+        topical OR oral
+    recurrent cases
+        limited workup
+            VZV
+            Lyme
+            TB
+            syphilis
+            RA
 
 
 //
@@ -26,190 +26,190 @@ scleritis
 
 // scleritis due to adjacent infectious keratitis is not covered here
 
-  "The pain wakes me up at night"
-    reproduced by valsalva with the head between the knees
-    press through the lid
-      active scleritis is usually tender
-  if there is significant thinning
-    Seidel the area
+    "The pain wakes me up at night"
+        reproduced by valsalva with the head between the knees
+        press through the lid
+            active scleritis is usually tender
+    if there is significant thinning
+        Seidel the area
 
-  scleritis DDx
+    scleritis DDx
 
-    infectious
-      viral
-        HSV
-        VZV
-      bacterial
-        COMMON:
-          Pseudomonas
-          Nocardia
-        ALSO:
-          TB
-          syphilis
-          Bartonella
-          Lyme
-      fungal
-        COMMON:
-          Aspergillus
-          fusarium
-          Candida
+        infectious
+            viral
+                HSV
+                VZV
+            bacterial
+                COMMON:
+                    Pseudomonas
+                    Nocardia
+                ALSO:
+                    TB
+                    syphilis
+                    Bartonella
+                    Lyme
+            fungal
+                COMMON:
+                    Aspergillus
+                    fusarium
+                    Candida
 
-    inflammatory
-      inflammatory
-        sarcoid
-      autoimmune
-        RA
-        lupus
-          NOTE: SRF in lupus has multiple causes
-            COMMON: posterior scleritis
-              diffuse leakage on FFA
-            RARELY: lupus choroidopathy
-              multifocal pinpoint leakage on FFA
-            both of the above respond to systemic steroids
-              unlike CSC
-        HLA B27 SS
-          AS
-          reactive arthritis
-          IBD
-          psoriatic arthritis
-        relapsing polychondritis
-          red eyes and red ears
-          // see optic-neuropathy.txt
-      vasculitis
-        GCA
-        GPA
-        PAN
+        inflammatory
+            inflammatory
+                sarcoid
+            autoimmune
+                RA
+                lupus
+                    NOTE: SRF in lupus has multiple causes
+                        COMMON: posterior scleritis
+                            diffuse leakage on FFA
+                        RARELY: lupus choroidopathy
+                            multifocal pinpoint leakage on FFA
+                        both of the above respond to systemic steroids
+                            unlike CSC
+                HLA B27 SS
+                    AS
+                    reactive arthritis
+                    IBD
+                    psoriatic arthritis
+                relapsing polychondritis
+                    red eyes and red ears
+                    // see optic-neuropathy.txt
+            vasculitis
+                GCA
+                GPA
+                PAN
 
-    idiopathic
+        idiopathic
 
-    iatrogenic
-      iatrogenic
-        radiation
-      surgical
-        SINS
-        antimetabolites
-        postoperative infectious
-          COMMON: Pseudomonas
-          ALSO:
-            atypical mycobacteria
-            MRSA
-            coag. negative Staph
-    neoplastic
-      ischemic scleritis
-        secondary to paraneoplastic vasculitis
-      hematologic
-        type 2 mixed cryoglobulinemia
-          COMMON: 2° hep C
+        iatrogenic
+            iatrogenic
+                radiation
+            surgical
+                SINS
+                antimetabolites
+                postoperative infectious
+                    COMMON: Pseudomonas
+                    ALSO:
+                        atypical mycobacteria
+                        MRSA
+                        coag. negative Staph
+        neoplastic
+            ischemic scleritis
+                secondary to paraneoplastic vasculitis
+            hematologic
+                type 2 mixed cryoglobulinemia
+                    COMMON: 2° hep C
 
-    DAMS
-      medications
-        bisphosphonates
-          also cause uveitis
-        examples
-          alendronate
-          risedronate
-          ibandronate
-          zoledronic acid
+        DAMS
+            medications
+                bisphosphonates
+                    also cause uveitis
+                examples
+                    alendronate
+                    risedronate
+                    ibandronate
+                    zoledronic acid
 
-    endocrine
-      metabolic
-        gout
+        endocrine
+            metabolic
+                gout
 
-    trauma
+        trauma
 
 
 //
 
 
-  testing
-    // order only based on suspicion
-    if purulent OR
-    history suspicious for infectious causes
-      scrape in OT
-        PCR
-          HSV
-          VZV
-        culture
-          bacterial
-          fungal
-    Qgold
-      TB
-    RPR + FTA-ABS
-      syphilis
-    bartonella titers
-    Lyme titers
-    ACE + lysozyme
-      sarcoid
-        value debateable
-    CXR
-      TB
-      sarcoid
-    RF
-    anti-cyclic citrullinated peptide antibody (anti-CCP)
-      RA
-      anti-CCP is more specific than RF
-        sensitivity is equal to RF
-    ANA
-      lupus
-    urinalysis
-      lupus
-      BROADLY: vasculitis
-      gout
-    HLA-B27
-      B27+ SS
-    sacroiliac Xray
-      AS
-    colonoscopy
-      IBD
-    skin exam
-      psoriatic arthritis
-        psoriasis
-      reactive arthritis
-        keratoderma blennorrhagicum
-    ESR + CRP
-      GCA
-      GPA
-      PAN
-    cANCA
-      GPA
-    pANCA
-      IBD
-      PAN
-    serum uric acid
-      gout
-    FBC
-    UEC
-    LFT
+    testing
+        // order only based on suspicion
+        if purulent OR
+        history suspicious for infectious causes
+            scrape in OT
+                PCR
+                    HSV
+                    VZV
+                culture
+                    bacterial
+                    fungal
+        Qgold
+            TB
+        RPR + FTA-ABS
+            syphilis
+        bartonella titers
+        Lyme titers
+        ACE + lysozyme
+            sarcoid
+                value debateable
+        CXR
+            TB
+            sarcoid
+        RF
+        anti-cyclic citrullinated peptide antibody (anti-CCP)
+            RA
+            anti-CCP is more specific than RF
+                sensitivity is equal to RF
+        ANA
+            lupus
+        urinalysis
+            lupus
+            BROADLY: vasculitis
+            gout
+        HLA-B27
+            B27+ SS
+        sacroiliac Xray
+            AS
+        colonoscopy
+            IBD
+        skin exam
+            psoriatic arthritis
+                psoriasis
+            reactive arthritis
+                keratoderma blennorrhagicum
+        ESR + CRP
+            GCA
+            GPA
+            PAN
+        cANCA
+            GPA
+        pANCA
+            IBD
+            PAN
+        serum uric acid
+            gout
+        FBC
+        UEC
+        LFT
 
-    consults
-      infectious disease
-      rheumatology
-      dermatology
-      gastroenterology
+        consults
+            infectious disease
+            rheumatology
+            dermatology
+            gastroenterology
 
-  treatment
-    ladder
-      ibuprofen 600 mg po tds
-        NSAIDs are usually not effective in scleritis
-        OK to try them in mild cases
-      prednisone 1 mg/kg/d po
-      SSIMT
-        methotrexate
-          good in RA
-        cyclophosphamide OR
-        mycophenolate
-          good in vasculitis
-        TNF inhibitors
-    OK to add topical PF but the main treatment is systemic
-    infectious scleritis treatment
-      both systemic and topical
-      agent is variable depending on the culture
-        Pseudomonas
-          ceftazidime
-        Nocardia
-          gram positive but often resistant
-          amikacin is a good first choice
-        fungal
-          natamycin is an acceptable empiric fungal therapy
-      severe cases
-        may need surgical debridement at the time of culture
+    treatment
+        ladder
+            ibuprofen 600 mg po tds
+                NSAIDs are usually not effective in scleritis
+                OK to try them in mild cases
+            prednisone 1 mg/kg/d po
+            SSIMT
+                methotrexate
+                    good in RA
+                cyclophosphamide OR
+                mycophenolate
+                    good in vasculitis
+                TNF inhibitors
+        OK to add topical PF but the main treatment is systemic
+        infectious scleritis treatment
+            both systemic and topical
+            agent is variable depending on the culture
+                Pseudomonas
+                    ceftazidime
+                Nocardia
+                    gram positive but often resistant
+                    amikacin is a good first choice
+                fungal
+                    natamycin is an acceptable empiric fungal therapy
+            severe cases
+                may need surgical debridement at the time of culture

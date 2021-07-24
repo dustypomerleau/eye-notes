@@ -4,670 +4,670 @@ anterior and intermediate uveitis
 
 /*
 see also
-  toxoplasmosis.txt
-  chorioretinitis.txt
-  scleritis-episcleritis.txt
-  vasculitis-retinal.txt
+    toxoplasmosis.txt
+    chorioretinitis.txt
+    scleritis-episcleritis.txt
+    vasculitis-retinal.txt
 
 conditions here may overlap
-  panuveitis
-  retinal vasculitis
+    panuveitis
+    retinal vasculitis
 if there is clear chorioretinitis then use the chorioretinitis DDx
 
 my breakdown of the uveitis spectrum
-  scleritis
-  anterior and intermediate uveitis
-    some causes highlighted as 'predominantly intermediate'
-  chorioretinitis
-  retinal vasculitis
-    not associated with chorioretinitis
+    scleritis
+    anterior and intermediate uveitis
+        some causes highlighted as 'predominantly intermediate'
+    chorioretinitis
+    retinal vasculitis
+        not associated with chorioretinitis
 
 a separate panuveitis DDx is not helpful
-  defining feature is choroidal/retinal involvement
-    we already have a DDx for that
+    defining feature is choroidal/retinal involvement
+        we already have a DDx for that
 
 grading inflammation
-  SUN grading system
-    WBC in 1 x 1 mm HPF
-      5-    1/2+
-      15-   1+
-      25-   2+
-      50-   3+
-      50+   4+
-    flare
-      faint               1+
-      iris + lens clear   2+
-      iris + lens hazy    3+
-      fibrin              4+
-    vitritis
-      loss of NFL reflex    1/2+
-      blurring of ON + RV   1+
-      RV just visible       2+
-      ON just visible       3+
-      ON not visible        4+
+    SUN grading system
+        WBC in 1 x 1 mm HPF
+            5-    1/2+
+            15-   1+
+            25-   2+
+            50-   3+
+            50+   4+
+        flare
+            faint               1+
+            iris + lens clear   2+
+            iris + lens hazy    3+
+            fibrin              4+
+        vitritis
+            loss of NFL reflex    1/2+
+            blurring of ON + RV   1+
+            RV just visible       2+
+            ON just visible       3+
+            ON not visible        4+
 
 "granulomatous" uveitis short DDx
-  COMMON:
-    TB
-    syphilis
-    sarcoid
-    VKH
-    MS
-  ALSO:
-    HSV
-    VZV
-      especially in ARN
-    Lyme
-    Toxoplasma
-    endophthalmitis
-    SO
-    lens-associated
+    COMMON:
+        TB
+        syphilis
+        sarcoid
+        VKH
+        MS
+    ALSO:
+        HSV
+        VZV
+            especially in ARN
+        Lyme
+        Toxoplasma
+        endophthalmitis
+        SO
+        lens-associated
 */
 
 anterior and intermediate uveitis DDx
 
-    infectious
-      viral
-        HSV
-          for typical HSV OHTN uveitis
-            aciclovir 400 bd is enough
-              AOT to full treatment dose
-        VZV
-        CMV
+        infectious
+            viral
+                HSV
+                    for typical HSV OHTN uveitis
+                        aciclovir 400 bd is enough
+                            AOT to full treatment dose
+                VZV
+                CMV
+                HTLV-1
+                    endemic areas
+                        Japan
+                        Caribbean
+                        Central and South America
+                        Central Africa
+                FUS
+                    probably rubella
+                RARELY: EBV
+                    usually conjunctivitis
+            bacterial
+                TB
+                syphilis
+                Lyme
+                leptospirosis
+                BROADLY: endophthalmitis
+                    if not postop
+                        ask about
+                            travel
+                            sexual history
+                            animal exposure
+                            drug use
+                            immunosuppression
+                    bleb-associated
+                        H. flu
+                        Strep spp.
+                RARELY:
+                    Whipple disease
+                    leprosy
+                        lash loss
+                        nodular scleritis
+                        neurotrophic keratopathy
+                        chronic anterior uveitis
+                        iris pearls
+                        iris atrophy
+                        miosis
+            helminths
+                peripheral Toxocara
+                onchocerciasis
+
+        inflammatory
+            inflammatory
+                sarcoid
+                    of the *many* possible eye manifestations of sarcoid
+                        COMMON:
+                            dry eye from 2° Sjogren syndrome
+                            anterior uveitis
+                        SPECIFIC: millet seed conjunctival granulomas
+                            COMMON: inferior fornix
+                            conjunctival biopsy to confirm the diagnosis
+                        //... flesh this out with a full section on sarcoid
+                lens-associated uveitis
+                    settings
+                        hypermature cataract leaking
+                            phacolytic glaucoma
+                                TM clogged
+                                    lens protein
+                                    macrophages
+                        trauma
+                        postop CEIOL
+                    KP
+                        granulomatous OR nongranulomatous
+                    temporize medically
+                        aggressive topical steroids
+                        IOP control
+                    definitive therapy is surgical
+                        CEIOL
+                        remove residual lens material
+                RARELY: CMV-GCC
+            autoimmune
+                B27-associated uveitis
+                    ± SS
+                        IBD
+                        AS
+                        psoriatic arthritis
+                        reactive arthritis
+                    if you see hypopyon anterior uveitis + fibrin
+                        B27 is more likely than Behcet
+                            assuming you've ruled out endophthalmitis
+                JIA
+                    for diagnosed JIA patients that haven't developed uveitis
+                        oligoarthritis
+                            1–4 joints affected over 6 months
+                            follow q 3 months x 2 years then q 6 months
+                        polyarthritis
+                            5+ joints affected over 6 months
+                            follow q 6 months
+                        systemic arthritis
+                            follow annually
+                        overall
+                            you can stretch the follow up a bit if they are ANA negative
+                            OK to discharge if no uveitis over 5 years
+                        NOTE:
+                            previously JIA-associated uveitis was thought to be bimodal
+                                young ANA+ girls
+                                older B27+ boys
+                            B27+ boys > 6 YO are now excluded from the JIA classification
+                                think of these boys as being on the B27 SS spectrum instead
+                        when topical steroids fail in JIA
+                            OFT
+                            oral prednisolone
+                                BRIEFLY
+                                    these are kids
+                            methotrexate
+                            TNFI
+                        cataract surgery in JIA
+                            preferable to wait until the uveitis is inactive 6 months
+                            if amblyopia is an issue and the uveitis is active
+                                operate early
+                                leave them aphakic
+                                bifocal aphakic spectacles
+                                2° IOL after they are quiet
+                        glaucoma in JIA
+                            if they fail drops
+                                tube
+                                    the usual choice if the uveitis is active
+                                    more likely to succeed but won't get the pressure as low
+                                trab + MMC
+                                    likely to fail
+                                        will certainly fail if they have active uveitis
+                                    can be tried in a quiet eye
+                TINU
+                    young females
+                    nephritis usually comes before uveitis
+                    urinalysis
+                        elevated beta2 microglobulin
+                    renal biopsy
+                        diffuse TIN
+                            lymphocytes all around the tubules
+                MS
+                1° Sjogren syndrome
+            vasculitis
+                Behcet syndrome
+
+        idiopathic
+            idiopathic anterior uveitis
+            idiopathic intermediate uveitis
+                == pars planitis if snowballs OR snowbanking
+            Fuchs uveitis syndrome
+                hotly debated but might be rubella
+                CC is usually vitreous floaters OR cataract
+                roughly 1/20 cases are bilateral
+                diffuse, stellate KP
+                AC WBC
+                    usually mild
+                iris stromal atrophy
+                    diffuse
+                    makes dark irides lighter
+                    loss of iris crypts
+                    radial iris vessels stand out on the atrophic background
+                small nodules on the pupillary border
+                    1/3 of cases
+                iris crystals
+                    probably plasma cell-derived IgG AKA Russell bodies
+                    not specific
+                        can be seen in other chronic uveitides
+                absence of synechiae
+                gonio
+                    small, sparse PAS
+                    radial angle vessels
+                        NOTE: angle is prone to bleeding during CEIOL
+                            Amsler sign
+                COMMON:
+                    cataract
+                        often a presenting complaint
+                    glaucoma
+                        patients have wide IOP fluctuations
+                        follow them for glaucoma even if the IOP seems normal
+                        get baseline glaucoma studies
+                        very hard to treat when it occurs
+                    anterior vitritis and vitreous opacities
+                    absence of CME despite inflammation
+                treatment
+                    topical steroids are notoriously ineffective
+                        sometimes trying and failing helps you make the diagnosis, however
+                    most patients don't need treatment
+                    for patients with severe floaters
+                        OFT for vitritis is an option
+                            short lived and not favored
+                        floaterectomy for noninflammatory vitreous debris
+                    cataract surgery
+                        Amsler sign
+                        PS
+                            even though they aren't common preop
+                        IOP spikes
+                            watch them carefully for postop elevation
+                            once the pressure spikes it tends to resist treatment
+                        perioperative steroids are OK
+                            preop topical is probably enough
+                            some surgeons use oral also
+                            increase your postop steroids
+                        acrylic IOLs are the least inflammatory
+                    ALWAYS: address glaucoma even if the presenting IOP is normal
+                        poor response to MMT
+                        NEVER: SLT
+                            too much inflammation
+                            underlying cause is a trabeculitis
+                        high trab failure rates
+                        tube is preferred for those that fail drops
+                for testing purposes
+                    FUS
+                        findings
+                            iris heterochromia
+                            KP
+                                diffuse
+                                stellate
+                            iris nodules
+                            iris crystals
+                            iris stromal atrophy with PP iris TID
+                            no PS
+                            cataract
+                            gonio
+                                angle vessels and sparse PAS
+                            vitreous opacities
+                            no CME
+                            observe
+                                no steroids because they don't work
+                            Amsler during CEIOL
+                            acrylic IOL
+                                least inflammatory
+                            postop IOP spikes
+                            postop PAS angle closure
+                                AOT preop when they are unlikely to have any PAS
+                iris heterochromia DDx
+                    loss of pigment // darker or lighter really depends on iris color
+                        HSV
+                        VZV
+                        FUS
+                        GCC AKA Posner Schlossman syndrome
+                            probably CMV
+                        congenital Horner syndrome // see ptosis.txt
+                        Waardenburg syndrome // see albinism.txt
+                    gain of pigment
+                        diffuse iris nevus // see neoplasms-iris.txt
+                        melanoma // see neoplasms-iris.txt
+                        prostaglandins // see medications-glaucoma.txt
+                        oculodermal melanocytosis AKA nevus of Ota
+                            // see glaucoma-pediatric.txt
+                        Sturge Weber syndrome AKA encephalotrigeminal angiomatosis
+                            // see phakomatoses.txt
+                        siderosis // see PEI-IOFB.txt
+
+        iatrogenic
+            iatrogenic
+                IOL-associated uveitis
+                    including UGH syndrome
+            surgical
+                postoperative inflammation
+                lens-associated uveitis
+
+        neoplastic
+            lymphoproliferative
+                PCNSL
+                PIOL
+
+        DAMS
+            medications
+                drug-induced uveitis
+                    rifabutin
+                    cidofovir
+                    bisphosphonates
+                        also cause scleritis
+                    sulfonamides
+                    quinolones
+                    OCPs
+                    monoclonal antibodies
+                        //...
+                            add detail
+                                drug names
+                                indications for each class
+                                nature of uveitis
+                                other ophthalmic complications
+                        TNFI
+                        CTLA4I
+                            ipilimumab
+                                used to treat metastatic melanoma
+                                anti-T-cell (anti-CTLA-4)
+                                many inflammatory ophthalmic complications
+                                    anterior uveitis
+                                    orbital inflammation
+                                    OR + SR inflammation
+                                        SR debris + fluid on OCT
+                                    VKH-like syndrome
+                                        including skin depigmentation
+                        MEKI // see dystrophies-retinal.txt
+                            COMMON: intermediate uveitis
+                            ALSO: RDS-like lesions
+                        BRAFI
+                            COMMON: intermediate uveitis
+                        PD1I
+                    drops
+                        prostaglandins
+                        metipranolol
+                    intravitreal agents
+                        antiVEGFs
+                        cidofovir
+                    vaccines
+                        BCG
+                        flu
+                    PPD
+
+        trauma
+
+        neurologic
+            MS
+
+
+//
+
+
+    When the uveitis is predominantly intermediate, favor:
         HTLV-1
-          endemic areas
-            Japan
-            Caribbean
-            Central and South America
-            Central Africa
-        FUS
-          probably rubella
-        RARELY: EBV
-          usually conjunctivitis
-      bacterial
-        TB
         syphilis
         Lyme
-        leptospirosis
-        BROADLY: endophthalmitis
-          if not postop
-            ask about
-              travel
-              sexual history
-              animal exposure
-              drug use
-              immunosuppression
-          bleb-associated
-            H. flu
-            Strep spp.
-        RARELY:
-          Whipple disease
-          leprosy
-            lash loss
-            nodular scleritis
-            neurotrophic keratopathy
-            chronic anterior uveitis
-            iris pearls
-            iris atrophy
-            miosis
-      helminths
         peripheral Toxocara
-        onchocerciasis
-
-    inflammatory
-      inflammatory
         sarcoid
-          of the *many* possible eye manifestations of sarcoid
-            COMMON:
-              dry eye from 2° Sjogren syndrome
-              anterior uveitis
-            SPECIFIC: millet seed conjunctival granulomas
-              COMMON: inferior fornix
-              conjunctival biopsy to confirm the diagnosis
-            //... flesh this out with a full section on sarcoid
-        lens-associated uveitis
-          settings
-            hypermature cataract leaking
-              phacolytic glaucoma
-                TM clogged
-                  lens protein
-                  macrophages
-            trauma
-            postop CEIOL
-          KP
-            granulomatous OR nongranulomatous
-          temporize medically
-            aggressive topical steroids
-            IOP control
-          definitive therapy is surgical
-            CEIOL
-            remove residual lens material
-        RARELY: CMV-GCC
-      autoimmune
-        B27-associated uveitis
-          ± SS
-            IBD
-            AS
-            psoriatic arthritis
-            reactive arthritis
-          if you see hypopyon anterior uveitis + fibrin
-            B27 is more likely than Behcet
-              assuming you've ruled out endophthalmitis
-        JIA
-          for diagnosed JIA patients that haven't developed uveitis
-            oligoarthritis
-              1–4 joints affected over 6 months
-              follow q 3 months x 2 years then q 6 months
-            polyarthritis
-              5+ joints affected over 6 months
-              follow q 6 months
-            systemic arthritis
-              follow annually
-            overall
-              you can stretch the follow up a bit if they are ANA negative
-              OK to discharge if no uveitis over 5 years
-            NOTE:
-              previously JIA-associated uveitis was thought to be bimodal
-                young ANA+ girls
-                older B27+ boys
-              B27+ boys > 6 YO are now excluded from the JIA classification
-                think of these boys as being on the B27 SS spectrum instead
-            when topical steroids fail in JIA
-              OFT
-              oral prednisolone
-                BRIEFLY
-                  these are kids
-              methotrexate
-              TNFI
-            cataract surgery in JIA
-              preferable to wait until the uveitis is inactive 6 months
-              if amblyopia is an issue and the uveitis is active
-                operate early
-                leave them aphakic
-                bifocal aphakic spectacles
-                2° IOL after they are quiet
-            glaucoma in JIA
-              if they fail drops
-                tube
-                  the usual choice if the uveitis is active
-                  more likely to succeed but won't get the pressure as low
-                trab + MMC
-                  likely to fail
-                    will certainly fail if they have active uveitis
-                  can be tried in a quiet eye
-        TINU
-          young females
-          nephritis usually comes before uveitis
-          urinalysis
-            elevated beta2 microglobulin
-          renal biopsy
-            diffuse TIN
-              lymphocytes all around the tubules
         MS
-        1° Sjogren syndrome
-      vasculitis
-        Behcet syndrome
-
-    idiopathic
-      idiopathic anterior uveitis
-      idiopathic intermediate uveitis
-        == pars planitis if snowballs OR snowbanking
-      Fuchs uveitis syndrome
-        hotly debated but might be rubella
-        CC is usually vitreous floaters OR cataract
-        roughly 1/20 cases are bilateral
-        diffuse, stellate KP
-        AC WBC
-          usually mild
-        iris stromal atrophy
-          diffuse
-          makes dark irides lighter
-          loss of iris crypts
-          radial iris vessels stand out on the atrophic background
-        small nodules on the pupillary border
-          1/3 of cases
-        iris crystals
-          probably plasma cell-derived IgG AKA Russell bodies
-          not specific
-            can be seen in other chronic uveitides
-        absence of synechiae
-        gonio
-          small, sparse PAS
-          radial angle vessels
-            NOTE: angle is prone to bleeding during CEIOL
-              Amsler sign
-        COMMON:
-          cataract
-            often a presenting complaint
-          glaucoma
-            patients have wide IOP fluctuations
-            follow them for glaucoma even if the IOP seems normal
-            get baseline glaucoma studies
-            very hard to treat when it occurs
-          anterior vitritis and vitreous opacities
-          absence of CME despite inflammation
-        treatment
-          topical steroids are notoriously ineffective
-            sometimes trying and failing helps you make the diagnosis, however
-          most patients don't need treatment
-          for patients with severe floaters
-            OFT for vitritis is an option
-              short lived and not favored
-            floaterectomy for noninflammatory vitreous debris
-          cataract surgery
-            Amsler sign
-            PS
-              even though they aren't common preop
-            IOP spikes
-              watch them carefully for postop elevation
-              once the pressure spikes it tends to resist treatment
-            perioperative steroids are OK
-              preop topical is probably enough
-              some surgeons use oral also
-              increase your postop steroids
-            acrylic IOLs are the least inflammatory
-          ALWAYS: address glaucoma even if the presenting IOP is normal
-            poor response to MMT
-            NEVER: SLT
-              too much inflammation
-              underlying cause is a trabeculitis
-            high trab failure rates
-            tube is preferred for those that fail drops
-        for testing purposes
-          FUS
-            findings
-              iris heterochromia
-              KP
-                diffuse
-                stellate
-              iris nodules
-              iris crystals
-              iris stromal atrophy with PP iris TID
-              no PS
-              cataract
-              gonio
-                angle vessels and sparse PAS
-              vitreous opacities
-              no CME
-              observe
-                no steroids because they don't work
-              Amsler during CEIOL
-              acrylic IOL
-                least inflammatory
-              postop IOP spikes
-              postop PAS angle closure
-                AOT preop when they are unlikely to have any PAS
-        iris heterochromia DDx
-          loss of pigment // darker or lighter really depends on iris color
-            HSV
-            VZV
-            FUS
-            GCC AKA Posner Schlossman syndrome
-              probably CMV
-            congenital Horner syndrome // see ptosis.txt
-            Waardenburg syndrome // see albinism.txt
-          gain of pigment
-            diffuse iris nevus // see neoplasms-iris.txt
-            melanoma // see neoplasms-iris.txt
-            prostaglandins // see medications-glaucoma.txt
-            oculodermal melanocytosis AKA nevus of Ota
-              // see glaucoma-pediatric.txt
-            Sturge Weber syndrome AKA encephalotrigeminal angiomatosis
-              // see phakomatoses.txt
-            siderosis // see PEI-IOFB.txt
-
-    iatrogenic
-      iatrogenic
-        IOL-associated uveitis
-          including UGH syndrome
-      surgical
-        postoperative inflammation
-        lens-associated uveitis
-
-    neoplastic
-      lymphoproliferative
+            MRI if history or neurologic exam points to MS in appropriate demographic
+        IBD
+        COMMON: idiopathic (most common by far)
         PCNSL
-        PIOL
-
-    DAMS
-      medications
-        drug-induced uveitis
-          rifabutin
-          cidofovir
-          bisphosphonates
-            also cause scleritis
-          sulfonamides
-          quinolones
-          OCPs
-          monoclonal antibodies
-            //...
-              add detail
-                drug names
-                indications for each class
-                nature of uveitis
-                other ophthalmic complications
-            TNFI
-            CTLA4I
-              ipilimumab
-                used to treat metastatic melanoma
-                anti-T-cell (anti-CTLA-4)
-                many inflammatory ophthalmic complications
-                  anterior uveitis
-                  orbital inflammation
-                  OR + SR inflammation
-                    SR debris + fluid on OCT
-                  VKH-like syndrome
-                    including skin depigmentation
-            MEKI // see dystrophies-retinal.txt
-              COMMON: intermediate uveitis
-              ALSO: RDS-like lesions
+            ALWAYS: mention vitreous biopsy if the case doesn't respond to treatment
+        ALSO:
+            MEKI
             BRAFI
-              COMMON: intermediate uveitis
-            PD1I
-          drops
-            prostaglandins
-            metipranolol
-          intravitreal agents
-            antiVEGFs
-            cidofovir
-          vaccines
-            BCG
-            flu
-          PPD
 
-    trauma
-
-    neurologic
-      MS
+    vitreous string of pearls DDx
+        COMMON: fungal endophthalmitis
+            Candida
+            Aspergillus
+            Coccidioides
+            Cryptococcus
+        ALSO:
+            TB
+            syphilis
+            sarcoid
+            Toxoplasma
+            other causes of intermediate uveitis above
 
 
 //
 
 
-  When the uveitis is predominantly intermediate, favor:
-    HTLV-1
-    syphilis
-    Lyme
-    peripheral Toxocara
-    sarcoid
-    MS
-      MRI if history or neurologic exam points to MS in appropriate demographic
-    IBD
-    COMMON: idiopathic (most common by far)
-    PCNSL
-      ALWAYS: mention vitreous biopsy if the case doesn't respond to treatment
-    ALSO:
-      MEKI
-      BRAFI
-
-  vitreous string of pearls DDx
-    COMMON: fungal endophthalmitis
-      Candida
-      Aspergillus
-      Coccidioides
-      Cryptococcus
-    ALSO:
-      TB
-      syphilis
-      sarcoid
-      Toxoplasma
-      other causes of intermediate uveitis above
+    When the uveitis is in a child, favor:
+        HSV
+        VZV
+        CMV
+        syphilis
+        peripheral Toxocara
+        B27 ± SS
+        JIA
+        TINU
+        with chorioretinitis add
+            Toxoplasma
+            rubella
+                pigmentary retinopathy without inflammation is more common
+            leukemia
+                IRH and CWS are more common
+            masquerade syndromes
+                Rb
+                Coats
 
 
 //
 
 
-  When the uveitis is in a child, favor:
-    HSV
-    VZV
-    CMV
-    syphilis
-    peripheral Toxocara
-    B27 ± SS
-    JIA
-    TINU
-    with chorioretinitis add
-      Toxoplasma
-      rubella
-        pigmentary retinopathy without inflammation is more common
-      leukemia
-        IRH and CWS are more common
-      masquerade syndromes
-        Rb
-        Coats
+    short DDx for diffuse OR stellate KP
+    // some say stellate is specific to FUS but several sources list:
+        HSV
+        VZV
+        CMV-GCC
+        Toxoplasma
+        sarcoid
+        FUS
 
+    short DDx for uveitis with elevated IOP or OHTN
+        HSV
+        VZV
+        CMV-GCC
+        syphilis
+        Toxoplasma
+        sarcoid
 
-//
-
-
-  short DDx for diffuse OR stellate KP
-  // some say stellate is specific to FUS but several sources list:
-    HSV
-    VZV
-    CMV-GCC
-    Toxoplasma
-    sarcoid
-    FUS
-
-  short DDx for uveitis with elevated IOP or OHTN
-    HSV
-    VZV
-    CMV-GCC
-    syphilis
-    Toxoplasma
-    sarcoid
-
-  short DDx for hypopyon uveitis
-    COMMON:
-      HLA-B27
-      Behcet
-      endophthalmitis
-        including endogenenous
-    ALSO:
-      sarcoid
-      drug-induced // see list above
-      pseudohypopyon
-        triamcinolone
-        Coats
-        Rb
-        lymphoma
-        multiple myeloma
-        AML
-        metastases
-          lung CA
-    RARELY:
-      TB
-      syphilis
+    short DDx for hypopyon uveitis
+        COMMON:
+            HLA-B27
+            Behcet
+            endophthalmitis
+                including endogenenous
+        ALSO:
+            sarcoid
+            drug-induced // see list above
+            pseudohypopyon
+                triamcinolone
+                Coats
+                Rb
+                lymphoma
+                multiple myeloma
+                AML
+                metastases
+                    lung CA
+        RARELY:
+            TB
+            syphilis
 
 
 //
 
 
 investigations
-  // only order based on suspicion
-  PCR
-    aqueous (100+ µL) OR vitreous
-      HSV
-      VZV
-      CMV
-      EBV
-      Toxoplasma
-    PCR exists for other diagnoses but not widely used
-  blood serology
-    HTLV-1
-    syphilis
-      ALWAYS:
-        perform reflex HIV testing on patients diagnosed with syphilis
-        COMMON: broad immunoassay -> reflex HIV subtype immunoassay
-    Lyme
-    leptospirosis
-    Whipple
-    Toxocara
-    onchocerciasis
-  blood labs
-    FBC
-      elevated WBC
-        BROADLY:
-          infection
-          lymphoma
-      anemia
-        TINU
-      baseline for SSIMT
-    UEC
-      elevated creatinine
-        lupus
-        TINU
-      baseline for SSIMT
-    LFT
-      baseline for SSIMT
-    QGold
-      TB
-    RPR + FTA-ABS
-      syphilis
-    ACE + lysozyme
-      sarcoid
-        value debateable
-        not very sensitive
-          40% of sarcoid patients have a normal ACE
-        only moderately specific
-          ACE elevations are common
-            DM
-            other granulomatous diseases
-            liver disease
-              COMMON: alcoholics
-        40% higher in healthy kids than in healthy adults
-    HLA-B27
-      B27-associated uveitis
-        ± SS
-      B27-associated JIA
-    HLA-B51
-      Behcet disease
-        strong association
-        not diagnostic
-    ANA
-      JIA
-      lupus
-      1° Sjogren syndrome
-    ENA
-      lupus
-      1° Sjogren syndrome
-        includes
-          anti-Ro
-          anti-La
-          many others
-      generally only performed if ANA is positive
-    RF
-      JIA
-        usually negative in the group that gets uveitis
-  urinalysis
-    protein
-      lupus
-      TINU
-        beta2 microglobulin
-    RBC casts
-      lupus
-    WBC casts
-      TINU
-      BROADLY: interstitial nephritis
-        1° Sjogren syndrome
-        many medications
-  LP
-    PCNSL
-      cytology shows atypical lymphocytes
-  imaging
-    CXR
-      TB
-      sarcoid
-        if CXR suspicious for sarcoid
-          CT chest
-          gallium scan
-          serum calcium
-          review primary sites
-            lung
-            skin
-            heart
-            eye and orbit
-            CN and spinal cord
-              neurosarcoid
-    MRI
-      MS
-      PCNSL
-    sacroiliac Xray
-      AS
-    colonoscopy
-      IBD
-  skin tests
-    PPD
-      TB
-    pathergy test
-      Behcet disease
-        low sensitivity and specificity
-  skin exam
-    psoriatic arthritis
-      psoriasis
-    reactive arthritis
-      keratoderma blennorrhagicum
-        palms and soles
-      circinate balanitis
+    // only order based on suspicion
+    PCR
+        aqueous (100+ µL) OR vitreous
+            HSV
+            VZV
+            CMV
+            EBV
+            Toxoplasma
+        PCR exists for other diagnoses but not widely used
+    blood serology
+        HTLV-1
+        syphilis
+            ALWAYS:
+                perform reflex HIV testing on patients diagnosed with syphilis
+                COMMON: broad immunoassay -> reflex HIV subtype immunoassay
+        Lyme
+        leptospirosis
+        Whipple
+        Toxocara
+        onchocerciasis
+    blood labs
+        FBC
+            elevated WBC
+                BROADLY:
+                    infection
+                    lymphoma
+            anemia
+                TINU
+            baseline for SSIMT
+        UEC
+            elevated creatinine
+                lupus
+                TINU
+            baseline for SSIMT
+        LFT
+            baseline for SSIMT
+        QGold
+            TB
+        RPR + FTA-ABS
+            syphilis
+        ACE + lysozyme
+            sarcoid
+                value debateable
+                not very sensitive
+                    40% of sarcoid patients have a normal ACE
+                only moderately specific
+                    ACE elevations are common
+                        DM
+                        other granulomatous diseases
+                        liver disease
+                            COMMON: alcoholics
+                40% higher in healthy kids than in healthy adults
+        HLA-B27
+            B27-associated uveitis
+                ± SS
+            B27-associated JIA
+        HLA-B51
+            Behcet disease
+                strong association
+                not diagnostic
+        ANA
+            JIA
+            lupus
+            1° Sjogren syndrome
+        ENA
+            lupus
+            1° Sjogren syndrome
+                includes
+                    anti-Ro
+                    anti-La
+                    many others
+            generally only performed if ANA is positive
+        RF
+            JIA
+                usually negative in the group that gets uveitis
+    urinalysis
+        protein
+            lupus
+            TINU
+                beta2 microglobulin
+        RBC casts
+            lupus
+        WBC casts
+            TINU
+            BROADLY: interstitial nephritis
+                1° Sjogren syndrome
+                many medications
+    LP
+        PCNSL
+            cytology shows atypical lymphocytes
+    imaging
+        CXR
+            TB
+            sarcoid
+                if CXR suspicious for sarcoid
+                    CT chest
+                    gallium scan
+                    serum calcium
+                    review primary sites
+                        lung
+                        skin
+                        heart
+                        eye and orbit
+                        CN and spinal cord
+                            neurosarcoid
+        MRI
+            MS
+            PCNSL
+        sacroiliac Xray
+            AS
+        colonoscopy
+            IBD
+    skin tests
+        PPD
+            TB
+        pathergy test
+            Behcet disease
+                low sensitivity and specificity
+    skin exam
+        psoriatic arthritis
+            psoriasis
+        reactive arthritis
+            keratoderma blennorrhagicum
+                palms and soles
+            circinate balanitis
 
 treatment
 
-  when treating endophthalmitis
-    mention systemic steroids
-      1 mg/kg po prednisolone is expected in AU
+    when treating endophthalmitis
+        mention systemic steroids
+            1 mg/kg po prednisolone is expected in AU
 
-  approach to noninfectious uveitis
-    steroids
-      topical steroids
-        PF hourly
-        taper at 5- WBC/HPF
-          start at qid
-          hold at each level for the time it took to reach 5- WBC/HPF on hourly
-            longer time to initial control means slower taper
-          if you use oral or injectable steroid to gain initial control
-            taper 1 drop every 4 weeks
-      oral steroids
-        if oral prednisolone is required for initial control
-          periocular triamcinolone may allow faster taper of systemic steroids
-            OFT 40 mg in 1 mL
-              plan on IOP elevation and cataract if used repeatedly
-              if inadequate but IOP OK
-                try IVT
-        in pregnancy
-          prednisolone probably safe
-          triamcinolone unclear
-            probably OK as a local injection
-          dexamethasone should be avoided
-            crosses the placenta
-      IVMP
-        useful for systemic diseases that present with severe uveitis
-        e.g. aggressive VKH
-          IVMP 1 g daily x 3 days          then switch to prednisolone 1 mg/kg/day po
-            ± OFT
-          aggressive disease (VKH, Behcet) with heavy bilateral presentation
-            start SSIMT at the same time as steroids
-            can even consider combinations
-              methotrexate + infliximab
-              mycophenolate + cyclosporine
-      for all systemic steroids
-        counsel about side effects
-          short term
-            hyperglycemia
-            weight gain
-            depression
-          long term
-            osteoporosis
-            thin skin
-            peptic ulcers
-            excess cortisol
-              Cushing syndrome
-                Cushingoid body habitus
-                adrenal insufficiency
-        monitor
-          BS
-          BP
-        give omeprazole for reflux
-    SSIMT // notes moved to SSIMT.txt
+    approach to noninfectious uveitis
+        steroids
+            topical steroids
+                PF hourly
+                taper at 5- WBC/HPF
+                    start at qid
+                    hold at each level for the time it took to reach 5- WBC/HPF on hourly
+                        longer time to initial control means slower taper
+                    if you use oral or injectable steroid to gain initial control
+                        taper 1 drop every 4 weeks
+            oral steroids
+                if oral prednisolone is required for initial control
+                    periocular triamcinolone may allow faster taper of systemic steroids
+                        OFT 40 mg in 1 mL
+                            plan on IOP elevation and cataract if used repeatedly
+                            if inadequate but IOP OK
+                                try IVT
+                in pregnancy
+                    prednisolone probably safe
+                    triamcinolone unclear
+                        probably OK as a local injection
+                    dexamethasone should be avoided
+                        crosses the placenta
+            IVMP
+                useful for systemic diseases that present with severe uveitis
+                e.g. aggressive VKH
+                    IVMP 1 g daily x 3 days          then switch to prednisolone 1 mg/kg/day po
+                        ± OFT
+                    aggressive disease (VKH, Behcet) with heavy bilateral presentation
+                        start SSIMT at the same time as steroids
+                        can even consider combinations
+                            methotrexate + infliximab
+                            mycophenolate + cyclosporine
+            for all systemic steroids
+                counsel about side effects
+                    short term
+                        hyperglycemia
+                        weight gain
+                        depression
+                    long term
+                        osteoporosis
+                        thin skin
+                        peptic ulcers
+                        excess cortisol
+                            Cushing syndrome
+                                Cushingoid body habitus
+                                adrenal insufficiency
+                monitor
+                    BS
+                    BP
+                give omeprazole for reflux
+        SSIMT // notes moved to SSIMT.txt
 
 
 
@@ -675,121 +675,121 @@ treatment
 
 
 TB therapy
-  TB disease
-    4-drug therapy (I REP (you know, like a drug rep, get it???))
-      isoniazid
-      rifampin
-      ethambutol
-      pyrazinamide
-    WHO recommends
-      8 weeks of 4-drug therapy
-      16 weeks of 2-drug therapy
-        isoniazid
-        rifampin
-    but there is no consensus on treating intraocular TB
-      BROADLY:
-        6-12 months of treatment
-        less than half of doctors use oral steroids
-  latent TB
-    4 approved regimens
-    various doses of
-      isoniazid only
-      isoniazid + rifapentine
-      rifampin
+    TB disease
+        4-drug therapy (I REP (you know, like a drug rep, get it???))
+            isoniazid
+            rifampin
+            ethambutol
+            pyrazinamide
+        WHO recommends
+            8 weeks of 4-drug therapy
+            16 weeks of 2-drug therapy
+                isoniazid
+                rifampin
+        but there is no consensus on treating intraocular TB
+            BROADLY:
+                6-12 months of treatment
+                less than half of doctors use oral steroids
+    latent TB
+        4 approved regimens
+        various doses of
+            isoniazid only
+            isoniazid + rifapentine
+            rifampin
 
 
 //
 
 
 endogenous endophthalmitis
-  history
-    HIV
-    hep C
-    syphilis
-    IVDU
-    DM
-    immunosuppressed
-      transplant
-      systemic steroids
-      SSIMT
-  exam
-    venous puncture injection sites
-    other sites of infection
-    IOP
-    evidence of prior episodes
-      old KP
-      PS
-      CR scars
-    active CR
-    vasculitis
-  COMMON:
-    Strep
-      pneumococcus
-    SA
-    Klebsiella
-      East Asia
-    fungal
-      see below
-  ALSO:
-    Bacillus
-    Neisseria
-    E. coli
-    H. flu
-  RARELY:
-    Nocardia
-    Rickettsia
-    Whipple disease
-  sources
-    liver abscess
-    sinus infection
-    endocarditis
-    meningitis
-    indwelling catheter
-    source is only found in 1/2 of cases
-  treatment
-    systemic ± intravitreal
-      systemic
-        good vitreous penetration
-          moxifloxacin
-          levofloxacin
-        moderate vitreous penetration
-          ciprofloxacin
-  fungal cause
-    delayed onset 6+ weeks after seeding
-    string of pearls
-    fluffy subhyaloid infiltrates
-    PPV + vitreous biopsy
-      PPV is nearly always needed in fungal endophthalmitis
-    intravitreal amphotericin B 5 micrograms
-      cover for bacterial causes while waiting on results
-        intravitreal
-          vancomycin 1 mg
-          ceftazidime 2.25 mg
-        if penicillin allergic
-          amikacin 0.4 mg/0.1 mL
-          + clindamycin 1 mg/0.1 mL
-    voriconazole 200 mg po q 12 hours
-      also available IV
-      excellent against
-        Candida
-        Aspergillus
-      not as good as IV Amphotericin B for empiric coverage of others
-        keep this in mind if they aren't responding
-      keep them on po antifungals for 8 weeks
-        ask for help
-          ID consult
-  bloods
-    ALWAYS: blood cultures
-    HIV Ab
-    hep C Ab
-    RPR
-    FTA-ABS
-    FBC
-    serum glucose
-    serum beta glucan assay
-      high negative predictive value for invasive fungal infection
-      combine with blood cultures
-  imaging
-    TEE for valve vegetations
-  outcomes
-    ~ 1/2 of patients achieve 6/60+
+    history
+        HIV
+        hep C
+        syphilis
+        IVDU
+        DM
+        immunosuppressed
+            transplant
+            systemic steroids
+            SSIMT
+    exam
+        venous puncture injection sites
+        other sites of infection
+        IOP
+        evidence of prior episodes
+            old KP
+            PS
+            CR scars
+        active CR
+        vasculitis
+    COMMON:
+        Strep
+            pneumococcus
+        SA
+        Klebsiella
+            East Asia
+        fungal
+            see below
+    ALSO:
+        Bacillus
+        Neisseria
+        E. coli
+        H. flu
+    RARELY:
+        Nocardia
+        Rickettsia
+        Whipple disease
+    sources
+        liver abscess
+        sinus infection
+        endocarditis
+        meningitis
+        indwelling catheter
+        source is only found in 1/2 of cases
+    treatment
+        systemic ± intravitreal
+            systemic
+                good vitreous penetration
+                    moxifloxacin
+                    levofloxacin
+                moderate vitreous penetration
+                    ciprofloxacin
+    fungal cause
+        delayed onset 6+ weeks after seeding
+        string of pearls
+        fluffy subhyaloid infiltrates
+        PPV + vitreous biopsy
+            PPV is nearly always needed in fungal endophthalmitis
+        intravitreal amphotericin B 5 micrograms
+            cover for bacterial causes while waiting on results
+                intravitreal
+                    vancomycin 1 mg
+                    ceftazidime 2.25 mg
+                if penicillin allergic
+                    amikacin 0.4 mg/0.1 mL
+                    + clindamycin 1 mg/0.1 mL
+        voriconazole 200 mg po q 12 hours
+            also available IV
+            excellent against
+                Candida
+                Aspergillus
+            not as good as IV Amphotericin B for empiric coverage of others
+                keep this in mind if they aren't responding
+            keep them on po antifungals for 8 weeks
+                ask for help
+                    ID consult
+    bloods
+        ALWAYS: blood cultures
+        HIV Ab
+        hep C Ab
+        RPR
+        FTA-ABS
+        FBC
+        serum glucose
+        serum beta glucan assay
+            high negative predictive value for invasive fungal infection
+            combine with blood cultures
+    imaging
+        TEE for valve vegetations
+    outcomes
+        ~ 1/2 of patients achieve 6/60+

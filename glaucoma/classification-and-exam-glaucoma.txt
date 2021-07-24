@@ -3,13 +3,13 @@
 glaucoma exam
 
 ALWAYS: gonio
-  options
-    direct Koeppe
-    indirect
-      Posner & Zeiss 'on a stick'
-      Sussman // my preference
-      Goldmann
-    compression
+    options
+        direct Koeppe
+        indirect
+            Posner & Zeiss 'on a stick'
+            Sussman // my preference
+            Goldmann
+        compression
 
 
 //
@@ -17,70 +17,70 @@ ALWAYS: gonio
 
 bleb grading systems
 
-  Indiana
-    height
-      0 flat
-      1
-      2
-      3
-      4 high
-    extent
-      0 1- CH
-      1
-      2
-      3 4+ CH
-    vascularity
-      0 avascular
-      1
-      2
-      3
-      4 extensive vessels
-    Seidel
-      0 no leak
-      1 pinpoint leak
-      2 streaming leak
+    Indiana
+        height
+            0 flat
+            1
+            2
+            3
+            4 high
+        extent
+            0 1- CH
+            1
+            2
+            3 4+ CH
+        vascularity
+            0 avascular
+            1
+            2
+            3
+            4 extensive vessels
+        Seidel
+            0 no leak
+            1 pinpoint leak
+            2 streaming leak
 
-  Moorfields
-    area
-      central
-        1 0% of photo area
-        2
-        3
-        4
-        5 100% of photo area
-      maximal
-        1
-        2
-        3
-        4
-        5
-    height
-      1 low
-      2
-      3
-      4 high
-    vascularity
-      central
-        1 avascular
-        2 normal
-        3
-        4
-        5 severe vascularity
-      peripheral
-        1
-        2
-        3
-        4
-        5
-      nonbleb
-        1
-        2
-        3
-        4
-        5
-    SCH
-      0 smaller than scleral trap door
-      1 larger than scleral trap door
+    Moorfields
+        area
+            central
+                1 0% of photo area
+                2
+                3
+                4
+                5 100% of photo area
+            maximal
+                1
+                2
+                3
+                4
+                5
+        height
+            1 low
+            2
+            3
+            4 high
+        vascularity
+            central
+                1 avascular
+                2 normal
+                3
+                4
+                5 severe vascularity
+            peripheral
+                1
+                2
+                3
+                4
+                5
+            nonbleb
+                1
+                2
+                3
+                4
+                5
+        SCH
+            0 smaller than scleral trap door
+            1 larger than scleral trap door
 
 
 //
@@ -88,263 +88,263 @@ bleb grading systems
 
 glaucoma classification
 
-  POAG
-    definitions
-      AAO and SEAGIG
-        typical POAG rim loss OR
-        notch OR
-        NFL defect OR
-        VF defect
-        +
-        adult onset
-        open angle
-      EGS adds
-        age 35+
-        IOP 21+
-    assessment
-      exam
-        disc asymmetry
-        rim loss
-        notch
-        NFL defect
-        disc hemorrhage
-        vertically enlarged cup
-          usually 0.7+
-      imaging
-        red free photographs of the NFL
-        stereo disc photos
-        OCT RNFL
-        ± HRA OR GDx
-      automated perimetry
-        VF defect should correlate with structure
-        repeatable
-        COMMON: vertical hemifield asymmetry
-        cluster of depressed points
-        progressive
-        // see ON-imaging-and-VFs.txt
-    treatment
-      target IOP at least 20% below baseline
-      tailor target IOP based on risk
-        low OR moderate risk suspect
-          normal VF
-        high risk suspect OR moderate POAG
-        high risk POAG
-          VF loss within 5° of fixation OR
-          VF defects in both hemifields
-  JOAG
-  NTG
-  OHTN
-  glaucoma suspect (regardless of IOP)
-  2° OAG
-    pigmentary glaucoma
-      COMMON: myopic males in their 30s+
-      ALSO:
-        FH
-        blurred vision after strenuous exercise
-      flat Ks
-      Krukenberg spindle
-      radial spoke-like midperipheral TID
-      gonio
-        posterior iris bowing
-          reverse pupillary block
-          value of LPI much debated
-            Scott (2011)
-              LPI did not reduce progression from PDS to PG
-            Gandolfi (2014)
-              LPI reduced IOP elevation 5 mm Hg above baseline phasing
-                from 60% to 15%
-        heavy angle pigment
-          may be greater superiorly
-            helps to distinguish from other causes of angle pigment
-      1/10 progress from PDS to PG @ 10 years
-      treatment
-        LPI
-          debated
-        medical therapy
-        SLT with low settings
-        surgery only in advanced disease
-    uveitic glaucoma
-    lens-associated glaucoma
-      topical steroids
-      temporize medically
-      urgent CEIOL
-    PXF glaucoma
-      Sampaolesi line
-        pigment anterior to the SL on gonio
-    steroid-induced glaucoma
-    angle recession glaucoma
-    ghost-cell glaucoma
-    Schwartz syndrome
-    elevated episcleral venous pressure (e.g. CC fistula)
-    in a patient with apparent disc damage and normal pressure
-      ALWAYS: consider the possibility of a previously elevated IOP
+    POAG
+        definitions
+            AAO and SEAGIG
+                typical POAG rim loss OR
+                notch OR
+                NFL defect OR
+                VF defect
+                +
+                adult onset
+                open angle
+            EGS adds
+                age 35+
+                IOP 21+
+        assessment
+            exam
+                disc asymmetry
+                rim loss
+                notch
+                NFL defect
+                disc hemorrhage
+                vertically enlarged cup
+                    usually 0.7+
+            imaging
+                red free photographs of the NFL
+                stereo disc photos
+                OCT RNFL
+                ± HRA OR GDx
+            automated perimetry
+                VF defect should correlate with structure
+                repeatable
+                COMMON: vertical hemifield asymmetry
+                cluster of depressed points
+                progressive
+                // see ON-imaging-and-VFs.txt
+        treatment
+            target IOP at least 20% below baseline
+            tailor target IOP based on risk
+                low OR moderate risk suspect
+                    normal VF
+                high risk suspect OR moderate POAG
+                high risk POAG
+                    VF loss within 5° of fixation OR
+                    VF defects in both hemifields
+    JOAG
+    NTG
+    OHTN
+    glaucoma suspect (regardless of IOP)
+    2° OAG
+        pigmentary glaucoma
+            COMMON: myopic males in their 30s+
+            ALSO:
+                FH
+                blurred vision after strenuous exercise
+            flat Ks
+            Krukenberg spindle
+            radial spoke-like midperipheral TID
+            gonio
+                posterior iris bowing
+                    reverse pupillary block
+                    value of LPI much debated
+                        Scott (2011)
+                            LPI did not reduce progression from PDS to PG
+                        Gandolfi (2014)
+                            LPI reduced IOP elevation 5 mm Hg above baseline phasing
+                                from 60% to 15%
+                heavy angle pigment
+                    may be greater superiorly
+                        helps to distinguish from other causes of angle pigment
+            1/10 progress from PDS to PG @ 10 years
+            treatment
+                LPI
+                    debated
+                medical therapy
+                SLT with low settings
+                surgery only in advanced disease
+        uveitic glaucoma
+        lens-associated glaucoma
+            topical steroids
+            temporize medically
+            urgent CEIOL
+        PXF glaucoma
+            Sampaolesi line
+                pigment anterior to the SL on gonio
+        steroid-induced glaucoma
+        angle recession glaucoma
+        ghost-cell glaucoma
+        Schwartz syndrome
+        elevated episcleral venous pressure (e.g. CC fistula)
+        in a patient with apparent disc damage and normal pressure
+            ALWAYS: consider the possibility of a previously elevated IOP
 
-  PACD // based on Walland (2012)
-    in general
-      treat 3+ quads of ATM or less (PACS, PAC ± G)
-        LPI
-        ± ALPI
-        + meds if the IOP is still too high
-      if the IOP is too high after that
-        CEIOL
-          VS cataract
-          very shallow AC
-        trabeculectomy
-          GON
-          PAS 180+°
-            i.e. don't do CEIOL alone with PAS 180+°
-            even if the IOP is OK
-    PACS AKA occludable angles
-      3+ quads of ATM or less
-        some use 180° of ATM or less but wouldn't treat until 3+ quads
-      no PAS
-      normal IOP
-      treatment
-        indications
-          3+ quads of ATM or less OR
-          FH OR
-          symptoms
-        LPI
-        early CEIOL
-          evidence for clear lens extraction is increasing
-            Tarongoy review in Survey of Ophthalmology (2009)
-              cataract taken into account during decision-making
-            Azuara-Blanco EAGLE RCT in The Lancet (2016)
-              cataract not considered in decision-making
-              included PACS and PACG
-              CEIOL versus LPI
-                CEIOL achieved lower IOP
-    PAC
-      PACS +
-        PAS OR
-        IOP 22+
-      treatment
-        LPI
-        if angle doesn't open
-          ALPI
-            avoid areas of PAS
-        add meds if needed
-        if IOP still too high
-          for PAS 180-°
-            VS cataract
-              CEIOL
-            clear lens but very shallow AC
-              CEIOL
-            clear lens with reasonable AC depth
-              try to avoid surgery
-                MMT
-                repeat ALPI
-                SLT to open angle only
-          for PAS 180+°
-            VS cataract
-              phacotrab
-            clear lens but very shallow AC
-              phacotrab
-            clear lens with reasonable AC depth
-              trab alone
-    PACG
-      PAC + structural disc damage OR VF loss
-      treatment
-        same as PAC except never do CEIOL alone
-        if the IOP is too high after LPI ± ALPI + meds
-          trab alone versus phacotrab depending on cataract and AC depth
-    APAC
-      PAC + some combination of
-        pain
-        nausea
-        conj injection
-        MCE
-        shallow AC
-        mid-dilated NR pupil
-      may be intermittent
-        patients complain of
-          frontal or bifrontal HA
-          blurred vision
-          halos
-          worse in the dark
-            or brought on by a dark room
-      treatment
-        LPI is the definitive therapy
-        debate about miotics as you know
-        topical antihypertensives to temporize
-        mannitol
-          hang 500 mL 20% mannitol
-          give 1 g/kg over 1 hour
-            (100 g if you give the whole bag)
-        LPI
-        RARELY: ALPI to improve success at LPI creation
-          technically difficult because of peripheral MCE
-        RARELY: tap the AC to break an attack
-          use a 30 g needle rather than a paracentesis
-        surgery
-          for PAS 180-°
-            // all surgery assumes you've waited for a quiet eye
-            if IOP is controlled
-              VS cataract
+    PACD // based on Walland (2012)
+        in general
+            treat 3+ quads of ATM or less (PACS, PAC ± G)
+                LPI
+                ± ALPI
+                + meds if the IOP is still too high
+            if the IOP is too high after that
                 CEIOL
-              clear lens
-                observe
-            if IOP is still too high over 3 days              VS cataract
-                phacotrab
-              clear lens but very shallow AC
-                phacotrab
-              clear lens with reasonable AC depth
-                trab alone
-          for PAS 180+°
-            // all surgery assumes you've waited for a quiet eye
-            same as PAS 180-° except you never do CEIOL alone
-              phacotrab even if IOP relatively controlled
-                you can tie the sutures tight and lyse them later as needed
-        ALWAYS: fellow eye LPI
-      trabeculectomy alone
-      if VS cataract OR very shallow AC
-        trabeculectomy + CEIOL
+                    VS cataract
+                    very shallow AC
+                trabeculectomy
+                    GON
+                    PAS 180+°
+                        i.e. don't do CEIOL alone with PAS 180+°
+                        even if the IOP is OK
+        PACS AKA occludable angles
+            3+ quads of ATM or less
+                some use 180° of ATM or less but wouldn't treat until 3+ quads
+            no PAS
+            normal IOP
+            treatment
+                indications
+                    3+ quads of ATM or less OR
+                    FH OR
+                    symptoms
+                LPI
+                early CEIOL
+                    evidence for clear lens extraction is increasing
+                        Tarongoy review in Survey of Ophthalmology (2009)
+                            cataract taken into account during decision-making
+                        Azuara-Blanco EAGLE RCT in The Lancet (2016)
+                            cataract not considered in decision-making
+                            included PACS and PACG
+                            CEIOL versus LPI
+                                CEIOL achieved lower IOP
+        PAC
+            PACS +
+                PAS OR
+                IOP 22+
+            treatment
+                LPI
+                if angle doesn't open
+                    ALPI
+                        avoid areas of PAS
+                add meds if needed
+                if IOP still too high
+                    for PAS 180-°
+                        VS cataract
+                            CEIOL
+                        clear lens but very shallow AC
+                            CEIOL
+                        clear lens with reasonable AC depth
+                            try to avoid surgery
+                                MMT
+                                repeat ALPI
+                                SLT to open angle only
+                    for PAS 180+°
+                        VS cataract
+                            phacotrab
+                        clear lens but very shallow AC
+                            phacotrab
+                        clear lens with reasonable AC depth
+                            trab alone
+        PACG
+            PAC + structural disc damage OR VF loss
+            treatment
+                same as PAC except never do CEIOL alone
+                if the IOP is too high after LPI ± ALPI + meds
+                    trab alone versus phacotrab depending on cataract and AC depth
+        APAC
+            PAC + some combination of
+                pain
+                nausea
+                conj injection
+                MCE
+                shallow AC
+                mid-dilated NR pupil
+            may be intermittent
+                patients complain of
+                    frontal or bifrontal HA
+                    blurred vision
+                    halos
+                    worse in the dark
+                        or brought on by a dark room
+            treatment
+                LPI is the definitive therapy
+                debate about miotics as you know
+                topical antihypertensives to temporize
+                mannitol
+                    hang 500 mL 20% mannitol
+                    give 1 g/kg over 1 hour
+                        (100 g if you give the whole bag)
+                LPI
+                RARELY: ALPI to improve success at LPI creation
+                    technically difficult because of peripheral MCE
+                RARELY: tap the AC to break an attack
+                    use a 30 g needle rather than a paracentesis
+                surgery
+                    for PAS 180-°
+                        // all surgery assumes you've waited for a quiet eye
+                        if IOP is controlled
+                            VS cataract
+                                CEIOL
+                            clear lens
+                                observe
+                        if IOP is still too high over 3 days              VS cataract
+                                phacotrab
+                            clear lens but very shallow AC
+                                phacotrab
+                            clear lens with reasonable AC depth
+                                trab alone
+                    for PAS 180+°
+                        // all surgery assumes you've waited for a quiet eye
+                        same as PAS 180-° except you never do CEIOL alone
+                            phacotrab even if IOP relatively controlled
+                                you can tie the sutures tight and lyse them later as needed
+                ALWAYS: fellow eye LPI
+            trabeculectomy alone
+            if VS cataract OR very shallow AC
+                trabeculectomy + CEIOL
 
-  2° ACG // based on the AAO guidelines
-    with pupillary block
-      intumescent lens
-        if ACG has a phacomorphic component
-          may need urgent CEIOL
-      secluded pupil
-    without pupillary block
-      posterior pushing
-        suprachoroidal effusion or hemorrhage
-        scleral buckle
-        posterior segment tumor
-      anterior pulling
-        NVI
-        inflammation with PAS
-        anterior segment dysgenesis
-  after treating ACG
-    mention prophylactic treatment in the fellow eye
-      LPI
-      CEIOL
+    2° ACG // based on the AAO guidelines
+        with pupillary block
+            intumescent lens
+                if ACG has a phacomorphic component
+                    may need urgent CEIOL
+            secluded pupil
+        without pupillary block
+            posterior pushing
+                suprachoroidal effusion or hemorrhage
+                scleral buckle
+                posterior segment tumor
+            anterior pulling
+                NVI
+                inflammation with PAS
+                anterior segment dysgenesis
+    after treating ACG
+        mention prophylactic treatment in the fellow eye
+            LPI
+            CEIOL
 
-  plateau iris
-    COMMON:
-      middle-aged women
-      hyperopic
-    gonio
-      double bump sign
-        normal bump of the central lens
-        peripheral bump from anterior displacement of ciliary processes
-    UBM
-      anterior position of ciliary processes
-    treatment
-      peripheral iridoplasty
-        avoid areas of PAS
+    plateau iris
+        COMMON:
+            middle-aged women
+            hyperopic
+        gonio
+            double bump sign
+                normal bump of the central lens
+                peripheral bump from anterior displacement of ciliary processes
+        UBM
+            anterior position of ciliary processes
+        treatment
+            peripheral iridoplasty
+                avoid areas of PAS
 
-  PCG
-    glaucoma 2° congenital anomalies or diseases
-      // see glaucoma-pediatric.txt
-      anterior segment dysgenesis including aniridia
-      Sturge-Weber
-      NF1
-  children may have 2° OAG or ACG similar to causes above
-    inflammation
-    retinoblastoma
-    trauma
-    ...
+    PCG
+        glaucoma 2° congenital anomalies or diseases
+            // see glaucoma-pediatric.txt
+            anterior segment dysgenesis including aniridia
+            Sturge-Weber
+            NF1
+    children may have 2° OAG or ACG similar to causes above
+        inflammation
+        retinoblastoma
+        trauma
+        ...
 
 
 //
@@ -352,116 +352,116 @@ glaucoma classification
 
 unilateral glaucoma
 
-  shortlist
-    infectious
-      herpetic
-      endophthalmitis
-    inflammatory
-      uveitis
-      GCC AKA Posner Schlossman syndrome
-        probably CMV
-      FUS
-      lens-associated
-    iatrogenic
-      postop complication
-      steroids
-    vascular
-      NVG
-    neoplastic
-      BROADLY
-    degeneration
-      dysfunction
-        ICE
-        ACG
-    congenital
-      anterior segment dysgenesis
-    genetic
-      subluxed lens
-    trauma
-      angle recession
-      subluxed lens
+    shortlist
+        infectious
+            herpetic
+            endophthalmitis
+        inflammatory
+            uveitis
+            GCC AKA Posner Schlossman syndrome
+                probably CMV
+            FUS
+            lens-associated
+        iatrogenic
+            postop complication
+            steroids
+        vascular
+            NVG
+        neoplastic
+            BROADLY
+        degeneration
+            dysfunction
+                ICE
+                ACG
+        congenital
+            anterior segment dysgenesis
+        genetic
+            subluxed lens
+        trauma
+            angle recession
+            subluxed lens
 
-  unilateral glaucoma DDx
-    infectious
-      BROADLY: anterior uveitis
-        // see anterior-and-intermediate-uveitis
-    inflammatory
-      inflammatory
-        BROADLY: anterior uveitis
-          // see anterior-and-intermediate-uveitis
-        GCC AKA Posner Schlossman syndrome
-          probably CMV
-        FUS
-        lens-associated uveitis
-      vasculitis
-        BROADLY
-    iatrogenic
-      iatrogenic
-        radiation
-      surgical
-        expansile gas
-        retained OVD
-        epithelial downgrowth
-    vascular
-      vascular
-        NVG
-          DM
-          CRVO
-          CRAO
-          OIS
-          Coats
-          ROP
-          Rb
-          PFV
-          ...
-        CC fistula
-      aneurysmal
-        Coats
-          AC cholesterolosis
-          2° NVG
-      hemorrhagic
-        ghost cell glaucoma
-    neoplastic
-      solid tumors
-        melanoma
-          iris
-          CB
-          choroid
-            AC seeding
-            direct extension
-        JXG
-        Rb
-          AC seeding
-          2° NVG
-        leukemia
-      metastatic
-    DAMS
-      medications
-        steroid response
-    degeneration
-      dysfunction
-        ICE syndrome
-          // see dystrophies-corneal.txt
-        ACG
-          PACG
-          intermittent ACG
-          posterior pressure
-            suprachoroidal hemorrhage
-            aqueous misdirection
-            uveal effusion syndrome
-        RRD
-          Schwartz syndrome
-    congenital
-      congenital
-        BROADLY: anterior segment dysgenesis
-          // see corneal-opacity-infantile-and-anterior-segment-dysgenesis.txt
-        Sturge-Weber AKA encephalotrigeminal angiomatosis
-    genetic
-      genetic
-        AD (VP) PPCD
-        lens subluxation
-          AD OR sporadic Marfan
-          AR homocystinuria
-    trauma
-      angle recession
-      chemical burns
+    unilateral glaucoma DDx
+        infectious
+            BROADLY: anterior uveitis
+                // see anterior-and-intermediate-uveitis
+        inflammatory
+            inflammatory
+                BROADLY: anterior uveitis
+                    // see anterior-and-intermediate-uveitis
+                GCC AKA Posner Schlossman syndrome
+                    probably CMV
+                FUS
+                lens-associated uveitis
+            vasculitis
+                BROADLY
+        iatrogenic
+            iatrogenic
+                radiation
+            surgical
+                expansile gas
+                retained OVD
+                epithelial downgrowth
+        vascular
+            vascular
+                NVG
+                    DM
+                    CRVO
+                    CRAO
+                    OIS
+                    Coats
+                    ROP
+                    Rb
+                    PFV
+                    ...
+                CC fistula
+            aneurysmal
+                Coats
+                    AC cholesterolosis
+                    2° NVG
+            hemorrhagic
+                ghost cell glaucoma
+        neoplastic
+            solid tumors
+                melanoma
+                    iris
+                    CB
+                    choroid
+                        AC seeding
+                        direct extension
+                JXG
+                Rb
+                    AC seeding
+                    2° NVG
+                leukemia
+            metastatic
+        DAMS
+            medications
+                steroid response
+        degeneration
+            dysfunction
+                ICE syndrome
+                    // see dystrophies-corneal.txt
+                ACG
+                    PACG
+                    intermittent ACG
+                    posterior pressure
+                        suprachoroidal hemorrhage
+                        aqueous misdirection
+                        uveal effusion syndrome
+                RRD
+                    Schwartz syndrome
+        congenital
+            congenital
+                BROADLY: anterior segment dysgenesis
+                    // see corneal-opacity-infantile-and-anterior-segment-dysgenesis.txt
+                Sturge-Weber AKA encephalotrigeminal angiomatosis
+        genetic
+            genetic
+                AD (VP) PPCD
+                lens subluxation
+                    AD OR sporadic Marfan
+                    AR homocystinuria
+        trauma
+            angle recession
+            chemical burns

@@ -1,396 +1,396 @@
 // https://github.com/dustypomerleau/eye-notes
 
 DES
-  TBUT
-    highly dependent on the amount of fluorescein instilled
-  commercial tests
-    Schirmer1
-      not sensitive
-    impression cytology
-      difficult to get a good sample
-    assays
-      tear osmolarity
-      increased MMP-9
-        elevated in MGD
-        very elevated in Sjogren syndrome
-      increased lactoferrin
-        versus IgE in allergic KC
-      Sjogren testing
-        traditional
-          not sensitive or specific
-          antibodies to
-            ENAs
-              SS-A (Ro)
-                70% of Sjogren patients
-              SS-B (La)
-                less common than Ro
-            ENA panel usually also includes antibodies to
-              RNP
-              Sm
-              Scl-70
-              Jo 1
-              PCNA
-              Ribosomal P
-              PM-Scl
-          ANA
-          RF Ig[AGM]
-        newer
-          Sjo test
-            Bausch and Lomb proprietary test
-            may be more specific
-            Ig[AGM] to
-              salivary protein 1 (SP-1)
-                highly sensitive and specific for Sjogren
-              carbonic anhydrase 6 (CA-6)
-                adds sensitivity in early disease
-              parotid secretory protein
-                adds sensitivity in early disease
-    imaging
-      tear film stability
-        tear film interfermometry
-          Lipiflow's Lipiview
-          Tomey
-            includes information on patient's blinking pattern
-      MGD
-        infrared meibomography
-    treatment
-      MGD
-        standard regimen
-          warm compresses
-          lid hygiene
-          ± doxy 50–100 mg bd
-        IPL
-          visible light + IR
-          eliminates telangiectasias by coagulating RBCs
-          not clear that it actually helps MGD
-        Lipiflow
-          40° C + compression
-          strong subjective benefit
-          not much clinically visible change
-        Blephex
-          eyelid Dremel tool
-        Miboflo
-          eyelid flat iron
-      ATD
-        AT
-        punctal
-          occlusion
-          cauterization
-        autologous serum drops
-          first test
-            HIV
-            Hep. [BC]
-            syphilis
-          100 mL peripheral blood
-            clot for 2 hours
-            spin @ 3000 RPM x 15 minutes
-            dilute supernatant to 20% with BSS
-            filter
-            store up to 3 months @ -20° C
-            refrigerate and use within a week
-              don't push it they are easily contaminated
-          may inhibit MMPs
-          contain many factors
-            EGF
-            TGF-B
-            hepatocyte growth factor
-            PDGF
-            albumin
-            neurotrophic factors
-              nerve growth factor
-              substance P
-              IGF
-            fibronectin
-              promotes epithelial migration in wound healing
-            vitamin [AE]
-              maintain goblet cells
-            cytokines
-          useful for
-            severe DES
-            persistent ED
-            RCES
-            GVHD
-            Sjogren syndrome
-            post refractive surgery
-            LSCD
-            SLK
-        moisture chambers
-        moisture inserts
-          lacrisert
-            patient can apply at home
-        topical acetylcysteine
-          mucolytic
-          collagenase inhibitor
-          COMMON: when there are filaments
-        antiinflammatory
-          topical steroids
-          cyclosporine A
-          T-cell inhibitors
-            lifitegrast
-        scleral CTL
-        tarsorrhaphy
-          temporary
-          permanent
-      Demodex
-        100% of adults have some on their face
-          role in blepharitis is debated
-        feed at night on skin and sebum
-        live 2–3 weeks total
-          start as larvae in the glands
-          about 1 week as adults
-        types
-          folliculorum
-            MG
-          brevis
-            sebaceous glands
-        4 terpinol
-          tea tree oil or shampoo
-            not much data but may work
-            ± coconut oil
-              Blephadex
-          eucalyptus oil
-          Cliradex
-            burns
-        hypochlorous acid AKA Avenova
-          does not burn
-        povidone iodine AKA Betadine
-        oral
-          ivermectin 200 µg/kg/day x 2 weeks
-          metronidazole 250 mg tds x 2 weeks
-            can combine ivermectin + metronidazole
-        treatment is temporary
-          patients recolonize within 6 months
+    TBUT
+        highly dependent on the amount of fluorescein instilled
+    commercial tests
+        Schirmer1
+            not sensitive
+        impression cytology
+            difficult to get a good sample
+        assays
+            tear osmolarity
+            increased MMP-9
+                elevated in MGD
+                very elevated in Sjogren syndrome
+            increased lactoferrin
+                versus IgE in allergic KC
+            Sjogren testing
+                traditional
+                    not sensitive or specific
+                    antibodies to
+                        ENAs
+                            SS-A (Ro)
+                                70% of Sjogren patients
+                            SS-B (La)
+                                less common than Ro
+                        ENA panel usually also includes antibodies to
+                            RNP
+                            Sm
+                            Scl-70
+                            Jo 1
+                            PCNA
+                            Ribosomal P
+                            PM-Scl
+                    ANA
+                    RF Ig[AGM]
+                newer
+                    Sjo test
+                        Bausch and Lomb proprietary test
+                        may be more specific
+                        Ig[AGM] to
+                            salivary protein 1 (SP-1)
+                                highly sensitive and specific for Sjogren
+                            carbonic anhydrase 6 (CA-6)
+                                adds sensitivity in early disease
+                            parotid secretory protein
+                                adds sensitivity in early disease
+        imaging
+            tear film stability
+                tear film interfermometry
+                    Lipiflow's Lipiview
+                    Tomey
+                        includes information on patient's blinking pattern
+            MGD
+                infrared meibomography
+        treatment
+            MGD
+                standard regimen
+                    warm compresses
+                    lid hygiene
+                    ± doxy 50–100 mg bd
+                IPL
+                    visible light + IR
+                    eliminates telangiectasias by coagulating RBCs
+                    not clear that it actually helps MGD
+                Lipiflow
+                    40° C + compression
+                    strong subjective benefit
+                    not much clinically visible change
+                Blephex
+                    eyelid Dremel tool
+                Miboflo
+                    eyelid flat iron
+            ATD
+                AT
+                punctal
+                    occlusion
+                    cauterization
+                autologous serum drops
+                    first test
+                        HIV
+                        Hep. [BC]
+                        syphilis
+                    100 mL peripheral blood
+                        clot for 2 hours
+                        spin @ 3000 RPM x 15 minutes
+                        dilute supernatant to 20% with BSS
+                        filter
+                        store up to 3 months @ -20° C
+                        refrigerate and use within a week
+                            don't push it they are easily contaminated
+                    may inhibit MMPs
+                    contain many factors
+                        EGF
+                        TGF-B
+                        hepatocyte growth factor
+                        PDGF
+                        albumin
+                        neurotrophic factors
+                            nerve growth factor
+                            substance P
+                            IGF
+                        fibronectin
+                            promotes epithelial migration in wound healing
+                        vitamin [AE]
+                            maintain goblet cells
+                        cytokines
+                    useful for
+                        severe DES
+                        persistent ED
+                        RCES
+                        GVHD
+                        Sjogren syndrome
+                        post refractive surgery
+                        LSCD
+                        SLK
+                moisture chambers
+                moisture inserts
+                    lacrisert
+                        patient can apply at home
+                topical acetylcysteine
+                    mucolytic
+                    collagenase inhibitor
+                    COMMON: when there are filaments
+                antiinflammatory
+                    topical steroids
+                    cyclosporine A
+                    T-cell inhibitors
+                        lifitegrast
+                scleral CTL
+                tarsorrhaphy
+                    temporary
+                    permanent
+            Demodex
+                100% of adults have some on their face
+                    role in blepharitis is debated
+                feed at night on skin and sebum
+                live 2–3 weeks total
+                    start as larvae in the glands
+                    about 1 week as adults
+                types
+                    folliculorum
+                        MG
+                    brevis
+                        sebaceous glands
+                4 terpinol
+                    tea tree oil or shampoo
+                        not much data but may work
+                        ± coconut oil
+                            Blephadex
+                    eucalyptus oil
+                    Cliradex
+                        burns
+                hypochlorous acid AKA Avenova
+                    does not burn
+                povidone iodine AKA Betadine
+                oral
+                    ivermectin 200 µg/kg/day x 2 weeks
+                    metronidazole 250 mg tds x 2 weeks
+                        can combine ivermectin + metronidazole
+                treatment is temporary
+                    patients recolonize within 6 months
 
 vitamin A deficiency
-  night blindness
-  Bitot spots
-  dry eye AKA xerophthalmia
-    late sequelae
-      corneal scarring
-      ulceration
-      secondary infection
+    night blindness
+    Bitot spots
+    dry eye AKA xerophthalmia
+        late sequelae
+            corneal scarring
+            ulceration
+            secondary infection
 
 band keratopathy
-  inflammation e.g. uveitis
-  medication toxicity
-    pilocarpine
-  hypercalcemia
-  silicone oil in the AC
-  trauma
-  exposure keratopathy
+    inflammation e.g. uveitis
+    medication toxicity
+        pilocarpine
+    hypercalcemia
+    silicone oil in the AC
+    trauma
+    exposure keratopathy
 
 LSCD
-  MMP
-  SJS
-  GVHD
-  rosacea
-  Mooren ulcer
-  aniridia
-  chemical and thermal burns
-  CTL
-    ALSO:
-      increase in CCT
-      reduced 6A
-        % of cells which are hexagonal
-  surgery
-    particularly with complete removal of epithelium
-  MMC OR 5FU toxicity
-  radiation
-  vitamin A deficiency
-  pterygium
-  neurotrophic keratopathy
+    MMP
+    SJS
+    GVHD
+    rosacea
+    Mooren ulcer
+    aniridia
+    chemical and thermal burns
+    CTL
+        ALSO:
+            increase in CCT
+            reduced 6A
+                % of cells which are hexagonal
+    surgery
+        particularly with complete removal of epithelium
+    MMC OR 5FU toxicity
+    radiation
+    vitamin A deficiency
+    pterygium
+    neurotrophic keratopathy
 
 neurotrophic keratopathy DDx
 
-  infectious
-    viral
-      HSV
-      VZV
-    protozoal
-      Acanthamoeba
+    infectious
+        viral
+            HSV
+            VZV
+        protozoal
+            Acanthamoeba
 
-  iatrogenic
-    CTL wear
-    PRP over ciliary nerves
-    surgical disruption
-      LASIK
-      PK
-      large limbal incision
+    iatrogenic
+        CTL wear
+        PRP over ciliary nerves
+        surgical disruption
+            LASIK
+            PK
+            large limbal incision
 
-  vascular
-    // see CN5 CVA below
+    vascular
+        // see CN5 CVA below
 
-  neoplastic
-    // see CN5 compressive CPA tumor below
+    neoplastic
+        // see CN5 compressive CPA tumor below
 
-  DAMS
-    drugs
-      anesthetic abuse
-      methamphetamines
-        usually smoked
-        varying levels of purity
-          ICE AKA crystal meth (purest)
-            TVOs
-              probably vascular in origin
-            OSD with 2° corneal ulceration
-            retinal vasculitis
-            crystalline retinopathy
-              reported in a patient who snorted
-          base
-          speed (least pure)
-    medications
-      beta blockers
-      CAI
-      NSAIDs
-      antivirals
+    DAMS
+        drugs
+            anesthetic abuse
+            methamphetamines
+                usually smoked
+                varying levels of purity
+                    ICE AKA crystal meth (purest)
+                        TVOs
+                            probably vascular in origin
+                        OSD with 2° corneal ulceration
+                        retinal vasculitis
+                        crystalline retinopathy
+                            reported in a patient who snorted
+                    base
+                    speed (least pure)
+        medications
+            beta blockers
+            CAI
+            NSAIDs
+            antivirals
 
-  congenital
     congenital
-      sporadic mobius syndrome
-      RARELY: congenital trigeminal anesthesia
-        only a couple reported cases
+        congenital
+            sporadic mobius syndrome
+            RARELY: congenital trigeminal anesthesia
+                only a couple reported cases
 
-  genetic
-    inherited
-      TGFBI corneal dystrophies
-        lattice
-        granular
-      familial dysautonomia AKA Riley-Day syndrome
-      RARELY: familial corneal hypoesthesia
-        only a couple reported cases
+    genetic
+        inherited
+            TGFBI corneal dystrophies
+                lattice
+                granular
+            familial dysautonomia AKA Riley-Day syndrome
+            RARELY: familial corneal hypoesthesia
+                only a couple reported cases
 
-  endocrine
     endocrine
-      DM
-    nutritional
-      vitamin A deficiency
+        endocrine
+            DM
+        nutritional
+            vitamin A deficiency
 
-  trauma
-    chemical burns
+    trauma
+        chemical burns
 
-  neurologic
-    CN5 damage
-      compressive tumor
-        CPA tumors // see strabismus.txt for CPA tumor DDx
-        COMMON: CN8 schwannoma AKA acoustic neuroma ± NF2
-      vascular CN5 damage
-        ischemic CN5P
-        CVA
-      iatrogenic
-        trigeminal neuralgia
-          usually after therapeutic trigeminal ablation
+    neurologic
+        CN5 damage
+            compressive tumor
+                CPA tumors // see strabismus.txt for CPA tumor DDx
+                COMMON: CN8 schwannoma AKA acoustic neuroma ± NF2
+            vascular CN5 damage
+                ischemic CN5P
+                CVA
+            iatrogenic
+                trigeminal neuralgia
+                    usually after therapeutic trigeminal ablation
 
-  treatment
-    lubrication
-    eliminate preservatives
-    BCTL
-    autologous serum drops
-    temporary tarsorrhaphy
-    permanent tarsorrhaphy
-    Gunderson conjunctival flap
-    //...
+    treatment
+        lubrication
+        eliminate preservatives
+        BCTL
+        autologous serum drops
+        temporary tarsorrhaphy
+        permanent tarsorrhaphy
+        Gunderson conjunctival flap
+        //...
 
 RCES
-  COMMON:
-    fingernail injury
-    plant injury
-    EBMD
-      trauma + EBMD account for 9/10 cases
-        DES exacerbates both causes
-  exam
-    loose epithelium
-    DES
-    corneal dystrophies
-      COMMON: EBMD
-        look at the fellow eye for subtle map lines
-      ALSO:
-        AD CDB1 AKA Reis-Buckers
-        stromal dystrophies
-          lattice
-          granular
-          macular
-  remove loose epithelium
-    forceps
-    moist cotton tip
-  PF lubricants
-  hypertonic saline 5% drops
-  FML
-    better than other steroids
-    has collagenase activity
-  punctal plugs
-    if DES is a factor
-  doxycycline 50 mg po bd
-    helps rosacea MGD and inhibits MMP
-  BCTL
-    antibiotic cover with Chlorsig drops
-    wear continuously for 8 weeks
-    check q 1 week and replace if lost or protein buildup is seen
-  debridement
-    down to the Bowman layer with a 15 blade
-    apply absolute alcohol with a cotton tip
-      causes mild inflammation so the epithelium will stick
-  stromal micropuncture // out of favor given success with PTK
-    80% effective
-      complications
-        blurred vision from visual axis scarring
-        glare
-    27 g needle
-      through intact epithelium and the Bowman layer
-        you need them to epithelialize first
-      avoid the visual axis
-    BCTL
-    Chlorsig x 3 d
-    if no better
-      PTK
-  PTK
-    remove epithelium
-    excimer laser removes 5–10 µm of BL
-    BCTL
-    Chlorsig drops
+    COMMON:
+        fingernail injury
+        plant injury
+        EBMD
+            trauma + EBMD account for 9/10 cases
+                DES exacerbates both causes
+    exam
+        loose epithelium
+        DES
+        corneal dystrophies
+            COMMON: EBMD
+                look at the fellow eye for subtle map lines
+            ALSO:
+                AD CDB1 AKA Reis-Buckers
+                stromal dystrophies
+                    lattice
+                    granular
+                    macular
+    remove loose epithelium
+        forceps
+        moist cotton tip
+    PF lubricants
+    hypertonic saline 5% drops
     FML
-    90% success rate
-  counsel the patient to protect the eye from trauma
+        better than other steroids
+        has collagenase activity
+    punctal plugs
+        if DES is a factor
+    doxycycline 50 mg po bd
+        helps rosacea MGD and inhibits MMP
+    BCTL
+        antibiotic cover with Chlorsig drops
+        wear continuously for 8 weeks
+        check q 1 week and replace if lost or protein buildup is seen
+    debridement
+        down to the Bowman layer with a 15 blade
+        apply absolute alcohol with a cotton tip
+            causes mild inflammation so the epithelium will stick
+    stromal micropuncture // out of favor given success with PTK
+        80% effective
+            complications
+                blurred vision from visual axis scarring
+                glare
+        27 g needle
+            through intact epithelium and the Bowman layer
+                you need them to epithelialize first
+            avoid the visual axis
+        BCTL
+        Chlorsig x 3 d
+        if no better
+            PTK
+    PTK
+        remove epithelium
+        excimer laser removes 5–10 µm of BL
+        BCTL
+        Chlorsig drops
+        FML
+        90% success rate
+    counsel the patient to protect the eye from trauma
 
 iron lines
-  Hudson-Stahli
-    tear film
-  Fleischer ring
-    KCN
-  post-KRS
-    RK
-    PRK
-    LASIK
+    Hudson-Stahli
+        tear film
+    Fleischer ring
+        KCN
+    post-KRS
+        RK
+        PRK
+        LASIK
 
 topical medication toxicity
-  types
-    direct toxicity
-    delayed hypersensitivity response
-      weeks after starting the drop
-  COMMON:
-    brimonidine
-    atropine
-    neomycin
-    preservatives
-      benzalkonium chloride
-      phenylmercuric nitrate
-    lanolin
-      in some ointments
+    types
+        direct toxicity
+        delayed hypersensitivity response
+            weeks after starting the drop
+    COMMON:
+        brimonidine
+        atropine
+        neomycin
+        preservatives
+            benzalkonium chloride
+            phenylmercuric nitrate
+        lanolin
+            in some ointments
 
 Sjogren syndrome
-  1° Sjogren syndrome
-  2° Sjogren syndrome
-    COMMON:
-      lupus
-      RA
-    ALSO:
-      mixed connective tissue disease
-      systemic sclerosis
-      sarcoidosis
-    RARELY:
-      autoimmune hepatitis
-      Grave disease
-      hypothyroidism
-      lymphoma
-      NMO
-      polymyositis
-      primary biliary cirrhosis
+    1° Sjogren syndrome
+    2° Sjogren syndrome
+        COMMON:
+            lupus
+            RA
+        ALSO:
+            mixed connective tissue disease
+            systemic sclerosis
+            sarcoidosis
+        RARELY:
+            autoimmune hepatitis
+            Grave disease
+            hypothyroidism
+            lymphoma
+            NMO
+            polymyositis
+            primary biliary cirrhosis

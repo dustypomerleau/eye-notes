@@ -2,150 +2,150 @@
 
 ocular surface neoplasia
 
-  OSSN
-    risk factors
-      immunosuppression
-        HIV
-          COMMON: under 50
-      HPV
-        also causes benign papillomas
-        if benign papillomas are recurrent after excision
-          heavy cryo
-      age
-      sun exposure
-      smoking
-      petrochemicals
-      arsenic
-        soldering
-    no FH BHID
-      Native Americans
-        Haliwa-Saponi ancestry
-        North Carolina
-      observe
-        fulminant recurrence after excision
-    gelatinous
-    feeder vessels
-    ALWAYS: do impression cytology if you suspect OSSN
-      does not show depth
-      confirms dysplasia
-      won't tell if you if it's invasive
-    biopsy
-      overall practice pattern in AU
-        favors direct excision over incisional biopsy
-      large lesions 4+ CH
-        incisional biopsy if unsure OR
-        straight to chemoreduction + excision if fairly certain
-      small lesions
-        chemoreduction without biopsy
-        excisional biopsy
-    preinvasive
-      MMC OR 5FU OR interferon alpha 2b
-        COMMON: MMC 0.04% qid
-        interferon alone requires a long course
-          6–12 months
-        chemoreduction very toxic
-          may need 1 week on 1 week off
-          risks
-            LSCD
-            RARELY: punctal stenosis
-        follow monthly for regression
-    invasive
-      ± MMC OR 5FU OR interferon alpha 2b chemoreduction
-        practice varies here
-        options
-          chemoreduction only
-            small lesions might just melt away
-          excision only
+    OSSN
+        risk factors
+            immunosuppression
+                HIV
+                    COMMON: under 50
+            HPV
+                also causes benign papillomas
+                if benign papillomas are recurrent after excision
+                    heavy cryo
+            age
+            sun exposure
+            smoking
+            petrochemicals
+            arsenic
+                soldering
+        no FH BHID
+            Native Americans
+                Haliwa-Saponi ancestry
+                North Carolina
+            observe
+                fulminant recurrence after excision
+        gelatinous
+        feeder vessels
+        ALWAYS: do impression cytology if you suspect OSSN
+            does not show depth
+            confirms dysplasia
+            won't tell if you if it's invasive
+        biopsy
+            overall practice pattern in AU
+                favors direct excision over incisional biopsy
+            large lesions 4+ CH
+                incisional biopsy if unsure OR
+                straight to chemoreduction + excision if fairly certain
             small lesions
-          chemoreduction + excision
-            large lesions
-            4+ CH chemoreduction is very important
-              risk of LSCD if you excise with margins
-              probably outweighs risk of LSCD from chemoreduction itself
-      excision
-        3 mm margins
-          some say 4 mm
-        no touch dry technique
-        alcohol may help wth corneal epithelium
-        beaver blade
-        lamellar dissection of involved corneal or scleral bed
-          avoid penetrating the Bowman layer
-            forms a natural barrier
-      cryo to bed
-        double freeze-thaw
-      if primary closure not possible
-        amniotic membrane graft
-      ±
-        MMC OR 5FU OR interferon alpha 2b postoperatively
-      ongoing biopsies all 4 quads
-        twice a year initially
-        50+% recur
-      treating LSCD
-        autograft
-          once host eye no longer inflamed
-        allografts from cadaveric donors do poorly
-          still sometimes necessary
-          e.g. aniridia
-            both eyes affected
-            autograft not an option
+                chemoreduction without biopsy
+                excisional biopsy
+        preinvasive
+            MMC OR 5FU OR interferon alpha 2b
+                COMMON: MMC 0.04% qid
+                interferon alone requires a long course
+                    6–12 months
+                chemoreduction very toxic
+                    may need 1 week on 1 week off
+                    risks
+                        LSCD
+                        RARELY: punctal stenosis
+                follow monthly for regression
+        invasive
+            ± MMC OR 5FU OR interferon alpha 2b chemoreduction
+                practice varies here
+                options
+                    chemoreduction only
+                        small lesions might just melt away
+                    excision only
+                        small lesions
+                    chemoreduction + excision
+                        large lesions
+                        4+ CH chemoreduction is very important
+                            risk of LSCD if you excise with margins
+                            probably outweighs risk of LSCD from chemoreduction itself
+            excision
+                3 mm margins
+                    some say 4 mm
+                no touch dry technique
+                alcohol may help wth corneal epithelium
+                beaver blade
+                lamellar dissection of involved corneal or scleral bed
+                    avoid penetrating the Bowman layer
+                        forms a natural barrier
+            cryo to bed
+                double freeze-thaw
+            if primary closure not possible
+                amniotic membrane graft
+            ±
+                MMC OR 5FU OR interferon alpha 2b postoperatively
+            ongoing biopsies all 4 quads
+                twice a year initially
+                50+% recur
+            treating LSCD
+                autograft
+                    once host eye no longer inflamed
+                allografts from cadaveric donors do poorly
+                    still sometimes necessary
+                    e.g. aniridia
+                        both eyes affected
+                        autograft not an option
 
-  conjunctival melanoma
-    BAM in blacks, not so concerning
-    unilateral PAM in whites is concerning
-    if melanoma - mortality 25%
-    DFE to ensure it's not a choroidal breakthrough
-    treatment similar to OSSN but:
-      always biopsy first
-      interferon doesn't work
-      adjunctive radiation with a plaque may be needed after excision
-      patient needs metastatic workup
-        evaluation of regional lymph nodes
+    conjunctival melanoma
+        BAM in blacks, not so concerning
+        unilateral PAM in whites is concerning
+        if melanoma - mortality 25%
+        DFE to ensure it's not a choroidal breakthrough
+        treatment similar to OSSN but:
+            always biopsy first
+            interferon doesn't work
+            adjunctive radiation with a plaque may be needed after excision
+            patient needs metastatic workup
+                evaluation of regional lymph nodes
 
-  oncocytoma
-    reddish-brown nodule on the caruncle
-    slow-growing tumor of the accessory lacrimal glands
+    oncocytoma
+        reddish-brown nodule on the caruncle
+        slow-growing tumor of the accessory lacrimal glands
 
-  conjunctival lymphoma
-    biopsy
-    flow cytometry
-    EBRT
-    ± chemo if systemic
+    conjunctival lymphoma
+        biopsy
+        flow cytometry
+        EBRT
+        ± chemo if systemic
 
-  pterygium
-    isle de Fuchs are pathognomonic
-      can calcify
-    indications for surgery
-      abutting or occluding visual axis
-      approaching visual axis with documented growth
-      induction of visually significant astigmatism
-      premalignant changes
-        CIN
-        keratinization
-    surgical technique
-      conj autograft
-        recommended
-          reduces recurrence to 1/10
-        sutures OR fibrin glue
-      bare sclera
-        1/2 will recur
-        not acceptable
-      beta radiation
-        not recommended
-          SINS
-          superinfection
-            COMMON: Pseudomonas
-      adjunctive MMC
-        MMC drops 0.02% bd x 5 days postop
-        not commonly used
-          scleral necrosis
-          superinfection
-      postop steroids
-        taper slowly
-        usually 3 months total
+    pterygium
+        isle de Fuchs are pathognomonic
+            can calcify
+        indications for surgery
+            abutting or occluding visual axis
+            approaching visual axis with documented growth
+            induction of visually significant astigmatism
+            premalignant changes
+                CIN
+                keratinization
+        surgical technique
+            conj autograft
+                recommended
+                    reduces recurrence to 1/10
+                sutures OR fibrin glue
+            bare sclera
+                1/2 will recur
+                not acceptable
+            beta radiation
+                not recommended
+                    SINS
+                    superinfection
+                        COMMON: Pseudomonas
+            adjunctive MMC
+                MMC drops 0.02% bd x 5 days postop
+                not commonly used
+                    scleral necrosis
+                    superinfection
+            postop steroids
+                taper slowly
+                usually 3 months total
 
-  conjunctival squamous papilloma
-    observation
-    excision
-    chemoreduction
-      MMC
-      interferon alpha 2b
+    conjunctival squamous papilloma
+        observation
+        excision
+        chemoreduction
+            MMC
+            interferon alpha 2b

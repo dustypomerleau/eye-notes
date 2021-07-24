@@ -3,226 +3,226 @@
 choroidal and retinal neoplasms
 
 pigmented fundus lesion DDx
-  RPE hypertrophy
-  CHRPE
-  hemorrhage
-  nevus
-  melanoma
-  melanocytoma
-    COMMON: optic nerve
-      symptoms wildly variable
-        COMMON: asymptomatic
-        ALSO:
-          vision loss
-            mild–NPL
-          pain
-            none–severe
-        any combination
-    RARELY:
-      choroid
-      CB
-      2° iris seeding
-    2% progress to melanoma
-    RARELY:
-      2° RAO
-      2° RVO
-  simple RPE hamartoma
-    RARE
-    usually congenital
-  combined hamartoma
-  RPE adenoma
-    high IR
-    feeding artery
-    draining vein
-  RPE adenocarcinoma
+    RPE hypertrophy
+    CHRPE
+    hemorrhage
+    nevus
+    melanoma
+    melanocytoma
+        COMMON: optic nerve
+            symptoms wildly variable
+                COMMON: asymptomatic
+                ALSO:
+                    vision loss
+                        mild–NPL
+                    pain
+                        none–severe
+                any combination
+        RARELY:
+            choroid
+            CB
+            2° iris seeding
+        2% progress to melanoma
+        RARELY:
+            2° RAO
+            2° RVO
+    simple RPE hamartoma
+        RARE
+        usually congenital
+    combined hamartoma
+    RPE adenoma
+        high IR
+        feeding artery
+        draining vein
+    RPE adenocarcinoma
 
 choroidal melanoma
 
-  risk factors for choroidal melanoma
-    caucasian
-    fair skin
-      tendency to sunburn
-    freckled skin
-      marker of sun exposure
-    light eyes
-    iris nevi
-    UV exposure
-      outdoor activities
-      arc welding
-    symptoms
-    growth
-    thickness 2+ mm
-    3- mm from the disc
-    no drusen
-    no halo
-    orange pigment
-    SRF
-    BAF
-      increased BAF is reassuring
-        typical of a nevus
-    BSUS
-      acoustic hollowness
-        nevus is homogeneous
-      low-medium IR
-        nevus has medium+ IR
-      choroidal excavation
-      orbital shadowing
-      spontaneous vascular pulsations
-    may need to follow several years to distinguish
-    "To Find Small Ocular Melanoma Using Helpful Hints Daily" // Shields
-      Thickness 2+ mm
-      Fluid
-      Symptoms
-      Orange pigment
-      Margin within 3 mm of disc
-      Ultrasound Hollowness
-      Halo absent
-      Drusen absent
-      2+ risk factors
-        half will grow
-          presumed melanoma
-        probably treat
-        ultimately clinician judgement based on full picture
-  COMS study
-    medium tumors
-      2.5–10 mm thick
-      5–16 mm in diameter
-      equal survival rates for I125 PBT and enucleation
-    large tumors
-      equal survival rates whether you radiated before enucleation or not
-  melanoma biopsy
-    //... add details about genetic tumor types
-    //... add biopsy techniques
-    send samples to
-      Impact Genetics
-        http://impactgenetics.com/
-      Castle Biosciences
-        http://castlebiosciences.com/
-      University of Pennsylvania
-        https://www.med.upenn.edu/genetics/gdl/UvealMelanoma.shtml
+    risk factors for choroidal melanoma
+        caucasian
+        fair skin
+            tendency to sunburn
+        freckled skin
+            marker of sun exposure
+        light eyes
+        iris nevi
+        UV exposure
+            outdoor activities
+            arc welding
+        symptoms
+        growth
+        thickness 2+ mm
+        3- mm from the disc
+        no drusen
+        no halo
+        orange pigment
+        SRF
+        BAF
+            increased BAF is reassuring
+                typical of a nevus
+        BSUS
+            acoustic hollowness
+                nevus is homogeneous
+            low-medium IR
+                nevus has medium+ IR
+            choroidal excavation
+            orbital shadowing
+            spontaneous vascular pulsations
+        may need to follow several years to distinguish
+        "To Find Small Ocular Melanoma Using Helpful Hints Daily" // Shields
+            Thickness 2+ mm
+            Fluid
+            Symptoms
+            Orange pigment
+            Margin within 3 mm of disc
+            Ultrasound Hollowness
+            Halo absent
+            Drusen absent
+            2+ risk factors
+                half will grow
+                    presumed melanoma
+                probably treat
+                ultimately clinician judgement based on full picture
+    COMS study
+        medium tumors
+            2.5–10 mm thick
+            5–16 mm in diameter
+            equal survival rates for I125 PBT and enucleation
+        large tumors
+            equal survival rates whether you radiated before enucleation or not
+    melanoma biopsy
+        //... add details about genetic tumor types
+        //... add biopsy techniques
+        send samples to
+            Impact Genetics
+                http://impactgenetics.com/
+            Castle Biosciences
+                http://castlebiosciences.com/
+            University of Pennsylvania
+                https://www.med.upenn.edu/genetics/gdl/UvealMelanoma.shtml
 
 combined hamartoma of the retina and RPE
-  associations
-    NF2
-  diagnosis
-    may have a vascular component
-      vascular tortuosity is out of proportion to traction
-      FFA helps to distinguish from melanocytoma
-    glial component is rarely seen in melanocytoma
-  treatment
-    observe
-    you can't peel the 'ERM' because it isn't an ERM
-      the glial tissue is integrated with the retina
+    associations
+        NF2
+    diagnosis
+        may have a vascular component
+            vascular tortuosity is out of proportion to traction
+            FFA helps to distinguish from melanocytoma
+        glial component is rarely seen in melanocytoma
+    treatment
+        observe
+        you can't peel the 'ERM' because it isn't an ERM
+            the glial tissue is integrated with the retina
 
 subretinal infiltrates in a leopard skin pattern
-  lymphoma // see chorioretinitis.txt
+    lymphoma // see chorioretinitis.txt
 
 choroidal mets
-  leopard spot pigment clumping pattern
-    don't confuse this with the lymphoma pattern
-      an unfortunate coincidence in terminology
-    one is light and one is dark
-    one is a reticular pattern and one is the spots themselves
+    leopard spot pigment clumping pattern
+        don't confuse this with the lymphoma pattern
+            an unfortunate coincidence in terminology
+        one is light and one is dark
+        one is a reticular pattern and one is the spots themselves
 
 choroidal folds
-  THIN RPE
-    tumors
-    hypotony
-    inflammation
-    idiopathic
-    neovascular membrane
-    retrobulbar mass
-    papilledema
-    extraocular hardware
-      juxtascleral
-        SB
-      orbital
-  for most purposes
-    shorten this list to HIM
-      hypotony
-      inflammation
-        scleritis
-      mechanical
-        SB
-        orbital mass
-        TED
+    THIN RPE
+        tumors
+        hypotony
+        inflammation
+        idiopathic
+        neovascular membrane
+        retrobulbar mass
+        papilledema
+        extraocular hardware
+            juxtascleral
+                SB
+            orbital
+    for most purposes
+        shorten this list to HIM
+            hypotony
+            inflammation
+                scleritis
+            mechanical
+                SB
+                orbital mass
+                TED
 
 choroidal osteoma
-  usually PP
-  orange-red -> yellow white as overlying RPE loses pigment
-  look for small vascular networks on the tumor surface
-  BSUS
-    highly reflective
-  if SRF
-    PDT
-      any SRF
-    antiVEGF
-      SRF 2° CNV
+    usually PP
+    orange-red -> yellow white as overlying RPE loses pigment
+    look for small vascular networks on the tumor surface
+    BSUS
+        highly reflective
+    if SRF
+        PDT
+            any SRF
+        antiVEGF
+            SRF 2° CNV
 
 choroidal granuloma
-  COMMON:
-    TB
-    sarcoid
-      if there is a choroidal granuloma
-        the incidence of neurosarcoid is doubled
-        image the CNS
-      responds well to sytemic steroids
-  stippled hyperfluorescence on FFA
-  ± SRF
-  DDx
-    amelanotic melanoma
-    mets
-  workup
-    OCT
-      COMMON:
-        choroidal thickening
-        large hyporeflective spaces
-        not specific to any one cause of granuloma
-      ALSO:
-        subretinal granulomas
-          consolidate with treatment
-            hyperreflective when consolidated
-        late ORA and CRA
-        2° CNV
-    ICG shows blocking lesions
-    BSUS
-      high surface reflectivity
-      low IR
-      ± SRF
-    Qgold
-    CXR OR chest CT
-    ±
-      ACE
-      lysozyme
-      PET scan
-        if you suspect mets
+    COMMON:
+        TB
+        sarcoid
+            if there is a choroidal granuloma
+                the incidence of neurosarcoid is doubled
+                image the CNS
+            responds well to sytemic steroids
+    stippled hyperfluorescence on FFA
+    ± SRF
+    DDx
+        amelanotic melanoma
+        mets
+    workup
+        OCT
+            COMMON:
+                choroidal thickening
+                large hyporeflective spaces
+                not specific to any one cause of granuloma
+            ALSO:
+                subretinal granulomas
+                    consolidate with treatment
+                        hyperreflective when consolidated
+                late ORA and CRA
+                2° CNV
+        ICG shows blocking lesions
+        BSUS
+            high surface reflectivity
+            low IR
+            ± SRF
+        Qgold
+        CXR OR chest CT
+        ±
+            ACE
+            lysozyme
+            PET scan
+                if you suspect mets
 
 torpedo maculopathy
-  many alternative names
-    solitary hypopigmented nevus
-    amelanotic nevus
-    hypomelanotic nevus
-    albinotic nevus
-    solitary amelanotic spot
-    hypomelanotic freckle
-    paramacular coloboma
-      NOTE: torpedo is not really a coloboma in any sense
-  congenital
-  COMMON: temporal macula
-  RPE lacks pigment
-    may be pigmented at the edges
-  very well circumscribed
-    like CHRPE
-      but the overlying retina is minimally affected
-      some PR disruption is possible
-  COMMON: asymptomatic
-  RARELY: scotomas
-  OCT
-    mild transmission
-    ±
-      mild PR disruption
-      OR thinning
-      OR cavitation
-      inner retina should be continuous over the lesion
-        AOT a coloboma
-  observe
+    many alternative names
+        solitary hypopigmented nevus
+        amelanotic nevus
+        hypomelanotic nevus
+        albinotic nevus
+        solitary amelanotic spot
+        hypomelanotic freckle
+        paramacular coloboma
+            NOTE: torpedo is not really a coloboma in any sense
+    congenital
+    COMMON: temporal macula
+    RPE lacks pigment
+        may be pigmented at the edges
+    very well circumscribed
+        like CHRPE
+            but the overlying retina is minimally affected
+            some PR disruption is possible
+    COMMON: asymptomatic
+    RARELY: scotomas
+    OCT
+        mild transmission
+        ±
+            mild PR disruption
+            OR thinning
+            OR cavitation
+            inner retina should be continuous over the lesion
+                AOT a coloboma
+    observe

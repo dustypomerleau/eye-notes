@@ -2,68 +2,68 @@
 
 visual fields
 
-  ALWAYS: order a HVF for
-    good VA and normal exam but
-      subjectively blurry vision OR
-      trouble reading
+    ALWAYS: order a HVF for
+        good VA and normal exam but
+            subjectively blurry vision OR
+            trouble reading
 
-  before you try to localize a VF defect
-    describe what you see in a way that will trigger keywords
-      'This is an incongruous, homonymous VF defect involving fixation'
-      'This is a bitemporal hemianopia restricted to the central vision'
+    before you try to localize a VF defect
+        describe what you see in a way that will trigger keywords
+            'This is an incongruous, homonymous VF defect involving fixation'
+            'This is a bitemporal hemianopia restricted to the central vision'
 
-  'hemianopia' doesn't necessarily mean the whole hemifield is missing
-    tends to be used for anything bigger than a quadrantanopia
+    'hemianopia' doesn't necessarily mean the whole hemifield is missing
+        tends to be used for anything bigger than a quadrantanopia
 
-  From the chiasm forward you are more likely to see:
-    APD
-    poor color vision
-    abnormality of the disc on exam
+    From the chiasm forward you are more likely to see:
+        APD
+        poor color vision
+        abnormality of the disc on exam
 
-  legal vision for driving in AU
+    legal vision for driving in AU
 
-    private license
-      6/12+ binocular vision
-      Esterman binocular VF test
-        110° horizontally
-        20° vertically
-        unacceptable scotoma
-          cluster of 4 adjoining points touching the central 20°
-          any point
-            in the central 20°
-            contiguous with a hemianopia or quadrantanopia
-        single-point-width scotoma is Ok, regardless of the vertical extent
-      no diplopia in the central 20°
+        private license
+            6/12+ binocular vision
+            Esterman binocular VF test
+                110° horizontally
+                20° vertically
+                unacceptable scotoma
+                    cluster of 4 adjoining points touching the central 20°
+                    any point
+                        in the central 20°
+                        contiguous with a hemianopia or quadrantanopia
+                single-point-width scotoma is Ok, regardless of the vertical extent
+            no diplopia in the central 20°
 
-    conditional private license
-      6/24+
-      VF 90° x 20°
-      diplopia managed with corrective lenses or an occluder
-      subject to periodic review
+        conditional private license
+            6/24+
+            VF 90° x 20°
+            diplopia managed with corrective lenses or an occluder
+            subject to periodic review
 
-    commercial license
-      6/9+ better eye
-      6/18+ worse eye
-      no VF defects
-        140° x 20°
-      no diplopia in the central 20°
+        commercial license
+            6/9+ better eye
+            6/18+ worse eye
+            no VF defects
+                140° x 20°
+            no diplopia in the central 20°
 
-    conditional commercial license
-      6/9+ better eye
-      fellow eye 6/18-
-        must not be monocular
-      VF 140° x 20°
-        no VF defect that is 'likely to impede driving performance'
-      no diplopia in the central 20°
-      subject to periodic review
+        conditional commercial license
+            6/9+ better eye
+            fellow eye 6/18-
+                must not be monocular
+            VF 140° x 20°
+                no VF defect that is 'likely to impede driving performance'
+            no diplopia in the central 20°
+            subject to periodic review
 
-  sudden unilateral vision loss
-    no driving for 3 months
-    same for diplopia managed with an occluder
+    sudden unilateral vision loss
+        no driving for 3 months
+        same for diplopia managed with an occluder
 
-  legal blindness in AU
-    6/60- in the better eye OR
-    10-° combined central VF using both eyes
+    legal blindness in AU
+        6/60- in the better eye OR
+        10-° combined central VF using both eyes
 
 
 //
@@ -71,159 +71,159 @@ visual fields
 
 VF patterns by lesion location
 
-  optic nerve
-    PMB
-      central
-      cecocentral
-        connects to blind spot
-      paracentral
-    temporal fibers
-      enter at S & I poles of the disc
-      extension of the blind spot
-        comma shape
-      arcuate
-      nasal step
-    nasal fibers
-      temporal VF wedge
-        originates from the blind spot
-        spares fixation
-          AOT lesions behind the chiasm that originate from fixation
-    ON drusen can cause any pattern of VF loss
-      if an unexplained VF defect is leaving you stumped
-        ALWAYS: BSUS for disc drusen
+    optic nerve
+        PMB
+            central
+            cecocentral
+                connects to blind spot
+            paracentral
+        temporal fibers
+            enter at S & I poles of the disc
+            extension of the blind spot
+                comma shape
+            arcuate
+            nasal step
+        nasal fibers
+            temporal VF wedge
+                originates from the blind spot
+                spares fixation
+                    AOT lesions behind the chiasm that originate from fixation
+        ON drusen can cause any pattern of VF loss
+            if an unexplained VF defect is leaving you stumped
+                ALWAYS: BSUS for disc drusen
 
-  junction of ON and chiasm
-    junctional scotoma
-      poor vision in one eye
-        central scotoma
-      ST wedge in the fellow eye
-        from compression of the decussating fibers in Wilbrand's knee
-          // no one knows if it exists but it helps explain the pattern
+    junction of ON and chiasm
+        junctional scotoma
+            poor vision in one eye
+                central scotoma
+            ST wedge in the fellow eye
+                from compression of the decussating fibers in Wilbrand's knee
+                    // no one knows if it exists but it helps explain the pattern
 
-  // VF defects from this point on originate from fixation
+    // VF defects from this point on originate from fixation
 
-  chiasm
-    nerve may show band atrophy
-    full bitemporal hemianopia
-    macular bitemporal hemianopia
+    chiasm
+        nerve may show band atrophy
+        full bitemporal hemianopia
+        macular bitemporal hemianopia
 
-  // VF defects from this point on are opposite the side of the lesion
-  // congruity increases as you move further back
+    // VF defects from this point on are opposite the side of the lesion
+    // congruity increases as you move further back
 
-  optic tract
-    subtle APD in the opposite eye is possible
-      more fibers decussate
-    incongruous homonymous hemianopia
+    optic tract
+        subtle APD in the opposite eye is possible
+            more fibers decussate
+        incongruous homonymous hemianopia
 
-  LGB
-    lesions here are RARE in real life
-    relatively congruous homonymous hemianopia or wedge
+    LGB
+        lesions here are RARE in real life
+        relatively congruous homonymous hemianopia or wedge
 
-  /*
-  temporal and parietal lobe lesions can cause almost anything congruous
-    small wedge to a nearly complete hemianopia
-    depends on how big the lesion is and how far back
-    usually temporal or parietal lobe lesions have other neurologic signs
-    homonymous defect in isolation
-      COMMON: occipital lobe lesions
-  */
+    /*
+    temporal and parietal lobe lesions can cause almost anything congruous
+        small wedge to a nearly complete hemianopia
+        depends on how big the lesion is and how far back
+        usually temporal or parietal lobe lesions have other neurologic signs
+        homonymous defect in isolation
+            COMMON: occipital lobe lesions
+    */
 
-  anterior temporal lobe
-    Meyer's loop
-      inferior fibers
-    homonymous pie in the sky defect
-      more congruous than an optic tract lesion
-    usually won't reach fixation
-      macular fibers don't course very far forward
-      the larger the temporal lobe lesion, the closer the wedge gets to fixation
+    anterior temporal lobe
+        Meyer's loop
+            inferior fibers
+        homonymous pie in the sky defect
+            more congruous than an optic tract lesion
+        usually won't reach fixation
+            macular fibers don't course very far forward
+            the larger the temporal lobe lesion, the closer the wedge gets to fixation
 
-  parietal lobe
-    homonymous pie on the floor defect
-      more congruous than an optic tract lesion
-    additional parietal lobe neurologic signs
-      contralateral sensory impairment
-        reduced pain OR touch
-      poor object recognition
-      poor position sense
-      dominant parietal lobe
-        apraxia
-          poor motor planning
-        aphasia
-        acalculia
-        finger agnosia
-        right-left disorientation
-      nondominant parietal lobe
-        hemispacial neglect
-        denial of neurologic impairment
-        abnormal drawing and copying
+    parietal lobe
+        homonymous pie on the floor defect
+            more congruous than an optic tract lesion
+        additional parietal lobe neurologic signs
+            contralateral sensory impairment
+                reduced pain OR touch
+            poor object recognition
+            poor position sense
+            dominant parietal lobe
+                apraxia
+                    poor motor planning
+                aphasia
+                acalculia
+                finger agnosia
+                right-left disorientation
+            nondominant parietal lobe
+                hemispacial neglect
+                denial of neurologic impairment
+                abnormal drawing and copying
 
-  occipital lobe
-    highly congruous homonymous hemianopia
-      COMMON: macula and periphery both affected
-        complete homonymous defect
-      inner occipital lobe lesion with sparing of the tip
-        macular VF may be spared
-      lesion of the tip only
-        macular VF may be affected with sparing of the periphery
-    for any relatively homonymous hemianopia
-      check the OKN response
-      pure occipital lesions will have a normal OKN response
-      large parietal OR parieto + occipital lesions
-        may show abnormal OKN responses
-          abnormal OKN when rotating the drum to the patient's right
-            indicates a R parieto-occipital lesion
+    occipital lobe
+        highly congruous homonymous hemianopia
+            COMMON: macula and periphery both affected
+                complete homonymous defect
+            inner occipital lobe lesion with sparing of the tip
+                macular VF may be spared
+            lesion of the tip only
+                macular VF may be affected with sparing of the periphery
+        for any relatively homonymous hemianopia
+            check the OKN response
+            pure occipital lesions will have a normal OKN response
+            large parietal OR parieto + occipital lesions
+                may show abnormal OKN responses
+                    abnormal OKN when rotating the drum to the patient's right
+                        indicates a R parieto-occipital lesion
 
 
 //
 
 
 Goldmann VF
-  stimulus
-    size
-      0-V
-    intensity
-      1–4 in 5 dB increments
-      a-e in 1 dB increments
-    dB are a relative measurement
-      1 dB is the brightest light the machine can produce
-        1 dB = (1/10^0)(the brightest light the machine can produce)
-      10 dB = (1/10^1)(the brightest light the machine can produce)
-      20 dB = (1/10^2)(the brightest light the machine can produce)
-    to clarify
-      lower dB values are brighter lights
-      4 and e are the brightest lights in their groups
-      4 and e have the lowest dB values in their groups
-  typical settings
-    normal eye with 6/6 VA
-      macular isopter mapped with I 2e
-      peripheral isopter mapped with I 4e
-    increase stimulus size based on VA
-      size I is good until about 6/60
-      VA 6/60-
-        ALWAYS: use the brightest (4e) stimulus
-        increase from I-IV until they see it
-    once you have mapped the macular isopter
-      if there is a defect
-        map that area with increasing brightness
-          I 2e -> I 3e -> I 4e
-      if the defect persists
-        map that area with increasing target size
-          II 4e -> III 4e -> IV 4e -> V 4e
-    once you have mapped the peripheral isopter
-      generally you are already on the brightest (4e) stimulus
-      map any defect with increasing target size
-        II 4e -> III 4e -> IV 4e -> V 4e
-  interpreting Goldmann VF
-    first look at the shape
-      Are there dents in the isopter?
-        normal Goldmann VF should be ovoid
-    then look at the size
-      roughly
-        normal macular isopter
-          30+° horizontally (each direction)
-          20+° vertically (usually more inferiorly)
-        normal peripheral isopter
-          50+° nasally
-          60+° temporally
-        typical blind spot
-          10° across
+    stimulus
+        size
+            0-V
+        intensity
+            1–4 in 5 dB increments
+            a-e in 1 dB increments
+        dB are a relative measurement
+            1 dB is the brightest light the machine can produce
+                1 dB = (1/10^0)(the brightest light the machine can produce)
+            10 dB = (1/10^1)(the brightest light the machine can produce)
+            20 dB = (1/10^2)(the brightest light the machine can produce)
+        to clarify
+            lower dB values are brighter lights
+            4 and e are the brightest lights in their groups
+            4 and e have the lowest dB values in their groups
+    typical settings
+        normal eye with 6/6 VA
+            macular isopter mapped with I 2e
+            peripheral isopter mapped with I 4e
+        increase stimulus size based on VA
+            size I is good until about 6/60
+            VA 6/60-
+                ALWAYS: use the brightest (4e) stimulus
+                increase from I-IV until they see it
+        once you have mapped the macular isopter
+            if there is a defect
+                map that area with increasing brightness
+                    I 2e -> I 3e -> I 4e
+            if the defect persists
+                map that area with increasing target size
+                    II 4e -> III 4e -> IV 4e -> V 4e
+        once you have mapped the peripheral isopter
+            generally you are already on the brightest (4e) stimulus
+            map any defect with increasing target size
+                II 4e -> III 4e -> IV 4e -> V 4e
+    interpreting Goldmann VF
+        first look at the shape
+            Are there dents in the isopter?
+                normal Goldmann VF should be ovoid
+        then look at the size
+            roughly
+                normal macular isopter
+                    30+° horizontally (each direction)
+                    20+° vertically (usually more inferiorly)
+                normal peripheral isopter
+                    50+° nasally
+                    60+° temporally
+                typical blind spot
+                    10° across

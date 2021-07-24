@@ -2,55 +2,55 @@
 
 antibiotic susceptibilities // ideally you would know these for your region
 
-  cephalosporins
-    1st generation
-      Staphand Strep but no MRSA
-      minimal gram-negative coverage
-      cephalexin
-      cefazolin
-    2nd generation
-      terrible for gram-positives
-      better gram-negative coverage than 1st generation
-      cefaclor
-      cefuroxime
-      cefotetan
-    3rd generation
-      moderate gram-positive coverage but not great
-      good gram-negative coverage
-      good CNS penetration
-      ceftriaxone
-        not good for Pseudomonas
-      ceftazidime
-        good for Pseudomonas
-    4th generation
-      as good as 1st generation for gram-positives
-      excellent gram-negative coverage
-        including Pseudomonas
-      good CNS penetration
-      cefepime
+    cephalosporins
+        1st generation
+            Staphand Strep but no MRSA
+            minimal gram-negative coverage
+            cephalexin
+            cefazolin
+        2nd generation
+            terrible for gram-positives
+            better gram-negative coverage than 1st generation
+            cefaclor
+            cefuroxime
+            cefotetan
+        3rd generation
+            moderate gram-positive coverage but not great
+            good gram-negative coverage
+            good CNS penetration
+            ceftriaxone
+                not good for Pseudomonas
+            ceftazidime
+                good for Pseudomonas
+        4th generation
+            as good as 1st generation for gram-positives
+            excellent gram-negative coverage
+                including Pseudomonas
+            good CNS penetration
+            cefepime
 
-  fluoroquinolones
-    2nd generation
-      moderate gram-positive coverage
-        covers SA but not pneumococcus
-      good gram-negative coverage
-        including Pseudomonas
-      ciprofloxacin
-      ofloxacin
-    3rd generation
-      better gram-positive coverage than 2nd generation
-        including pneumococcus
-      better atypical coverage than 2nd generation
-      nearly as good gram-negative coverage as 2nd generation
-      levofloxacin
-    4th generation
-      better gram-positive coverage than 3rd generation
-        for MRSA you still need vancomycin
-      similar gram-negative coverage to 3rd generation
-      broad anaerobic coverage
-      good coverage of atypical mycobacteria
-        common in post-LASIK infections
-          M. fortuitum
-          M. chelonae
-      moxifloxacin
-      gatifloxacin
+    fluoroquinolones
+        2nd generation
+            moderate gram-positive coverage
+                covers SA but not pneumococcus
+            good gram-negative coverage
+                including Pseudomonas
+            ciprofloxacin
+            ofloxacin
+        3rd generation
+            better gram-positive coverage than 2nd generation
+                including pneumococcus
+            better atypical coverage than 2nd generation
+            nearly as good gram-negative coverage as 2nd generation
+            levofloxacin
+        4th generation
+            better gram-positive coverage than 3rd generation
+                for MRSA you still need vancomycin
+            similar gram-negative coverage to 3rd generation
+            broad anaerobic coverage
+            good coverage of atypical mycobacteria
+                common in post-LASIK infections
+                    M. fortuitum
+                    M. chelonae
+            moxifloxacin
+            gatifloxacin

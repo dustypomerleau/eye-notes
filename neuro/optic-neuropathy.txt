@@ -1,191 +1,191 @@
 // https://github.com/dustypomerleau/eye-notes
 
 history
-  gradual onset
-    compressive
-    toxic
-    hereditary
-      very slow (years)
-  TVOs
-    seconds long
-    with change in body position
-    suspicious for high ICP
-    look for papilledema
-      ask about pulse synchronous tinnitus (PST)
-  color vision
-    in macular disease
-      poor color vision usually comes with poor VA
-    if VA is only down a little but color is poor
-      very likely to be optic neuropathy
-    red desats
-      faded
-      pink
-      washed out
-  difference in brightness
-    ask patient during swinging penlight
-    subjective confirmation of objective RAPD in subtle cases
-  distinguish true papilledema from pseudopapilledema
-    true papilledema
-      HA
-        worse
-          lying down
-          in the morning
-      other neuro symptoms
-        weakness
-        ataxia
-        incontinence
-        diplopia
-        cognitive problems
-      NFL swelling obscures retinal vessels
-      NFL hemorrhage
-      CWS
-      exudates
-      no SVP
-      may have diplopia
-        early CN6P with elevated ICP
-        // see ET.txt for discussion of the 6 syndromes of CN6P
-      RNFL OCT
-        thickened
-      FFA
-        disc leak
-      HVF
-        enlarged blind spot
-    pseudopapilledema
-      disc drusen
-        ALWAYS: confirm suspected disc drusen by BSUS
-          high reflectivity persists even at low gain
-        exposed drusen are fluorescent on RF photos and FAF
-          usually not exposed in young patients
-          FAF better than RF
-            may pick up drusen slightly deeper
-        bilateral disc swelling in the setting of disc drusen
-          does NOT preclude intracranial pathology
-          if there is disc edema
-            scan them
-      high hyperopia
-      SVP present
-        or VP easily induced when you put pressure on the eye
-      RNFL OCT
-        normal or thinned
-      FFA
-        no disc leak
-  ALWAYS:
-    HVF even if CVF are normal
-      for any suspected ON
-      including other CNPs where lesion location could threaten ON
-    check Hertels if you suspect CON
-    if you suspect papilledema
-      BSUS to rule out drusen
-      check BP for malignant HTN
-      MRI
-        unless it's post traumatic
-          CT will rule out an acute bleed
-        CT also good when MRI is not available quickly
-      MRV
-        DVST
-          can be 2°
-            infectious meningitis
-            Behcet disease
-            hypercoagulable states
-              lupus
-              protein C & S deficiency
-              antithrombin 3 deficiency
-              antiphospholipid Ab syndrome
-              pregnancy or postpartum
-              oral contraceptives
-            lymphoma
-          NEVER: diagnose IIH until you have ruled out DVST
-      if the MR studies are normal
-        LP
-          IIH
-            NOTE: specifically request opening pressure
-            can be 2°
-              DAMS
-                excessive vitamin A
-                steroid withdrawal
-                isoretinoin family of drugs
-                cyclosporine
-                tetracyclines
-              sarcoid
-              lupus
-              Behcet
-          meningitis
-    Lee approach to papilledema
-      complete ocular and neurologic exam
-      Is there an exogenous cause?
-        medication-induced IIH as above
-      Are there risk factors for DVST?
-        trauma
-        hypercoagulable states // see above
-      Do they fit the demographic for IIH?
-        young, obese female
-        neurologic findings can be explained by elevated ICP alone
-        obtain MRI + MRV
-          if DVST
-            ADMIT
-            neurology consultation
-            anticoagulation
-              usually heparin
-              if there is neurologic decompensation on heparin
-                RARELY: endovascular recanalization
-          if the MRI + MRV are negative
-            LP with opening pressure and CSF analysis
-              if CSF normal and high opening pressure
-                treat as IIH
-                  Diamox 1 g daily in 2–4 divided doses
-                    titrate to a max of 4 g daily
-                      may be limited by adverse effects
-                        tingling
-                        lethargy
-                        altered taste
-                        dehydration
-                        hypokalemia
-                          monitor UEC
-                        ALWAYS: counsel the patient about these
-                      debate about use of Diamox in pregnancy
-                        animal studies showed teratogenicity at very high doses
-                        currently category C
-                        no human studies have backed this up
-                        many different approaches
-                          reduce dose
-                          avoid during first 1/3
-                          avoid entirely
-                    assuming neurologic signs have been controlled
-                      HA is the major quality of life issue in IIH
-                        topiramate is helpful
-                    refractory cases
-                      if HA is the 1° issue
-                      ± worsening VF
-                        CSF diversion procedures
-                        VS stenting OR angioplasty
-                          despite lack of true DVST in IIH
-                      if vision loss is the 1° issue
-                        VF constriction
-                        central acuity loss
-                        as a general rule
-                          EBS is not considered the same as vision loss
-                      + ICP controlled
-                        ONSD
-                          does not help with ICP or HA
-      papilledema in the presence of fever
-        intracranial abscess
-          ring enhancing lesion on CT
-          bright DWI on MRI
-          FBC may be normal
-            don't let this throw you
-          causes
-            COMMON: spread of a middle ear infection
-            ALSO: septic emboli
-              heart valve
-              piercings
-              dental surgery
-            bugs
-              Staph. spp.
-              Strep. spp.
-              H. flu
-              Enterobacter
-              ...
-        infectious meningitis
+    gradual onset
+        compressive
+        toxic
+        hereditary
+            very slow (years)
+    TVOs
+        seconds long
+        with change in body position
+        suspicious for high ICP
+        look for papilledema
+            ask about pulse synchronous tinnitus (PST)
+    color vision
+        in macular disease
+            poor color vision usually comes with poor VA
+        if VA is only down a little but color is poor
+            very likely to be optic neuropathy
+        red desats
+            faded
+            pink
+            washed out
+    difference in brightness
+        ask patient during swinging penlight
+        subjective confirmation of objective RAPD in subtle cases
+    distinguish true papilledema from pseudopapilledema
+        true papilledema
+            HA
+                worse
+                    lying down
+                    in the morning
+            other neuro symptoms
+                weakness
+                ataxia
+                incontinence
+                diplopia
+                cognitive problems
+            NFL swelling obscures retinal vessels
+            NFL hemorrhage
+            CWS
+            exudates
+            no SVP
+            may have diplopia
+                early CN6P with elevated ICP
+                // see ET.txt for discussion of the 6 syndromes of CN6P
+            RNFL OCT
+                thickened
+            FFA
+                disc leak
+            HVF
+                enlarged blind spot
+        pseudopapilledema
+            disc drusen
+                ALWAYS: confirm suspected disc drusen by BSUS
+                    high reflectivity persists even at low gain
+                exposed drusen are fluorescent on RF photos and FAF
+                    usually not exposed in young patients
+                    FAF better than RF
+                        may pick up drusen slightly deeper
+                bilateral disc swelling in the setting of disc drusen
+                    does NOT preclude intracranial pathology
+                    if there is disc edema
+                        scan them
+            high hyperopia
+            SVP present
+                or VP easily induced when you put pressure on the eye
+            RNFL OCT
+                normal or thinned
+            FFA
+                no disc leak
+    ALWAYS:
+        HVF even if CVF are normal
+            for any suspected ON
+            including other CNPs where lesion location could threaten ON
+        check Hertels if you suspect CON
+        if you suspect papilledema
+            BSUS to rule out drusen
+            check BP for malignant HTN
+            MRI
+                unless it's post traumatic
+                    CT will rule out an acute bleed
+                CT also good when MRI is not available quickly
+            MRV
+                DVST
+                    can be 2°
+                        infectious meningitis
+                        Behcet disease
+                        hypercoagulable states
+                            lupus
+                            protein C & S deficiency
+                            antithrombin 3 deficiency
+                            antiphospholipid Ab syndrome
+                            pregnancy or postpartum
+                            oral contraceptives
+                        lymphoma
+                    NEVER: diagnose IIH until you have ruled out DVST
+            if the MR studies are normal
+                LP
+                    IIH
+                        NOTE: specifically request opening pressure
+                        can be 2°
+                            DAMS
+                                excessive vitamin A
+                                steroid withdrawal
+                                isoretinoin family of drugs
+                                cyclosporine
+                                tetracyclines
+                            sarcoid
+                            lupus
+                            Behcet
+                    meningitis
+        Lee approach to papilledema
+            complete ocular and neurologic exam
+            Is there an exogenous cause?
+                medication-induced IIH as above
+            Are there risk factors for DVST?
+                trauma
+                hypercoagulable states // see above
+            Do they fit the demographic for IIH?
+                young, obese female
+                neurologic findings can be explained by elevated ICP alone
+                obtain MRI + MRV
+                    if DVST
+                        ADMIT
+                        neurology consultation
+                        anticoagulation
+                            usually heparin
+                            if there is neurologic decompensation on heparin
+                                RARELY: endovascular recanalization
+                    if the MRI + MRV are negative
+                        LP with opening pressure and CSF analysis
+                            if CSF normal and high opening pressure
+                                treat as IIH
+                                    Diamox 1 g daily in 2–4 divided doses
+                                        titrate to a max of 4 g daily
+                                            may be limited by adverse effects
+                                                tingling
+                                                lethargy
+                                                altered taste
+                                                dehydration
+                                                hypokalemia
+                                                    monitor UEC
+                                                ALWAYS: counsel the patient about these
+                                            debate about use of Diamox in pregnancy
+                                                animal studies showed teratogenicity at very high doses
+                                                currently category C
+                                                no human studies have backed this up
+                                                many different approaches
+                                                    reduce dose
+                                                    avoid during first 1/3
+                                                    avoid entirely
+                                        assuming neurologic signs have been controlled
+                                            HA is the major quality of life issue in IIH
+                                                topiramate is helpful
+                                        refractory cases
+                                            if HA is the 1° issue
+                                            ± worsening VF
+                                                CSF diversion procedures
+                                                VS stenting OR angioplasty
+                                                    despite lack of true DVST in IIH
+                                            if vision loss is the 1° issue
+                                                VF constriction
+                                                central acuity loss
+                                                as a general rule
+                                                    EBS is not considered the same as vision loss
+                                            + ICP controlled
+                                                ONSD
+                                                    does not help with ICP or HA
+            papilledema in the presence of fever
+                intracranial abscess
+                    ring enhancing lesion on CT
+                    bright DWI on MRI
+                    FBC may be normal
+                        don't let this throw you
+                    causes
+                        COMMON: spread of a middle ear infection
+                        ALSO: septic emboli
+                            heart valve
+                            piercings
+                            dental surgery
+                        bugs
+                            Staph. spp.
+                            Strep. spp.
+                            H. flu
+                            Enterobacter
+                            ...
+                infectious meningitis
 
 
 //
@@ -193,352 +193,352 @@ history
 
 optic neuropathy DDx // lengthy list of rare causes below
 
-  infectious
-    viral
-      HSV
-      VZV // usually followed by ARN
-      Lyme
-      hep B
-      hep C
-      ZIKV // see chorioretinitis.txt
-      post-vaccination demyelinating disease
-        COMMON: yellow fever vaccine
-    bacterial
-      TB
-      syphilis
-      bartonella
-        usually as neuroretinitis
-    fungal
-      fungal infiltrative ON
-        usually during orbital infection
-          COMMON:
-            Aspergillus
-            Mucor
-    helminths
-      DUSN
+    infectious
+        viral
+            HSV
+            VZV // usually followed by ARN
+            Lyme
+            hep B
+            hep C
+            ZIKV // see chorioretinitis.txt
+            post-vaccination demyelinating disease
+                COMMON: yellow fever vaccine
+        bacterial
+            TB
+            syphilis
+            bartonella
+                usually as neuroretinitis
+        fungal
+            fungal infiltrative ON
+                usually during orbital infection
+                    COMMON:
+                        Aspergillus
+                        Mucor
+        helminths
+            DUSN
 
-  inflammatory
     inflammatory
-      sarcoid
-    autoimmune
-      TED compressive ON
-      MS
-      NMO
-        ±
-          lupus
-          Sjogren syndrome
-      postinfectious demyelinating disease
-        usually post-viral
-      IBD
-      RA
-      relapsing polychondritis
-        cartilagenous structures inflamed
-          ears
-            cauliflower ear
-          nose
-          larynx
-            speech difficulties
-          trachea
-          joints
-          severe cases
-            cardiovascular inflammation
-            renal failure
-      PMR
-        painful morning stiffness
-          shoulders
-          pelvic girdle
-        synovitis
-    vasculitis
-      GCA
-        symptoms
-          localized HA
-          jaw claudication
-            by far the most specific for GCA
-            maxillary artery ischemia to the masseter muscle
-          scalp tenderness
-            Does it hurt to comb your hair or shampoo?
-          TA pain with palpation
-            may be visibly bulging
-          diplopia
-          acute vision loss
-          TMVL
-          constitutional symptoms
-            fever
-            weight loss
-          PMR symptoms
-            painful morning stiffness
-              shoulders
-              pelvic girdle
-            synovitis
-              swollen, spongy knees or elbows
-        1990 ACR GCA criteria (3+/5)
-          age 50+
-          new onset localized HA
-          abnormal superficial temporal artery
-            tenderness
-            reduced pulsation
-            beading
-            nodularity
-          ESR 50+
-            alternative, more specific formulas
-              Miller
-                men (age)/2
-                women (age + 10)/2
-              Hayreh
-                men 0.18(age) + 17.3
-                women 0.18(age) + 22.1
-          abnormal TAB
-            technique
-              try to palpate the TA first
-                feel just in front of where the pinnae takes off superiorly
-                very difficult to find if you can't palpate it
-                feel both sides and go for the easiest to feel
-                generally in front of or straight up from the ear
-                  main branch of the TA runs vertically in front of the ear
-                  parietal branch arches back over the ear
-                  frontal branch angles forward up to the forehead
-                  most biopsies are taken from the frontal branch
-                some surgeons use a doppler probe to confirm
-              shave away the overlying hair
-              mark the path of the artery on the overlying skin
-              infiltrate with 2% lidocaine
-                stay parallel to the vessels in the skin
-                going deep can hit the vessels and cause a large hematoma
-              cut down over the artery
-                don't go deep at this point
-              lift the edge of the incision
-                use scissors to cut the full thickness of the skin
-                blunt dissect beneath the skin to make a pocket as you go
-              cauterize to obtain hemostasis
-              stretch the incision with 2 rakes
-              lift the fascial layer and open it with scissors
-                TA is immediately below the fascia
-              expose the top and bottom of the TA
-                make a pocket beneath the TA with your scissors
-                you don't need to clean the middle portion
-                feel the artery and confirm pulsation
-                  you don't want to get vein accidentally
-              pass 4–0 vicryl needle backwards under the TA in both sites & tie
-                or you can pass artery forceps under and retrieve the suture
-                2+ cm is best
-                you can tie off tributaries at this point if they are obvious
-              cut the TA segment out inside the sutures
-                if it bleeds look for tributaries that must also be tied off
-              close the scalp
-                interrupted subcuticular 6–0 vicryl
-                steri strips on the skin
-            findings
-              lymphocytes
-              epithelioid histiocytes
-              giant cells
-              loss of the internal elastic lamina
-            if clinical suspicion is high and the TAB is negative
-              TAB the other side
-              you are committing them to months or years of therapy
-              it's important to be sure
-            other options
-              unilateral frozen section
-                2nd side only if the frozen is negative
-              bilateral biopsy
-                some centers do this as an SOP
-          using only ACR criteria has a high false positive rate
-            up to 40% have a negative TAB despite scoring 3+/5
-        Additional GCA tests
-          FBC with platelets 400k+/µL
-          CRP 5+ mg/L
-            some references will say CRP 0.5+
-              they are referring to mg/dL
-            normal ~ 5- mg/L
-            abnormal ~ 10+ mg/L
-          TA duplex US
-          TA MRI
-            looks for vessel wall thickening and stenosis
-          aortic PET-CT
-            only good for large, extracranial vessels
-            not useful on the TA itself
-          NOTE: patients with CRAO suspicious for GCA still need a carotid US
-        AAION
-          pallid swelling
-          CWS
-        treatment
-          systemic steroids
-            1+ mg/kg po prednisolone
-            value of IV steroids isn't clear
-              with severe vision loss
-                ADMIT for IVMP
-                  1 g daily until stabilized
-            ASA OK
-              common practice
-                because platelet levels tend to be elevated
-              no specific evidence for this
-        ESR 90+ DDx
-          infectious
-            bacterial
-              TB
-              syphilis
-              BROADLY:
-                osteomyelitis
-                endocarditis
-      GPA
-      PAN
+        inflammatory
+            sarcoid
+        autoimmune
+            TED compressive ON
+            MS
+            NMO
+                ±
+                    lupus
+                    Sjogren syndrome
+            postinfectious demyelinating disease
+                usually post-viral
+            IBD
+            RA
+            relapsing polychondritis
+                cartilagenous structures inflamed
+                    ears
+                        cauliflower ear
+                    nose
+                    larynx
+                        speech difficulties
+                    trachea
+                    joints
+                    severe cases
+                        cardiovascular inflammation
+                        renal failure
+            PMR
+                painful morning stiffness
+                    shoulders
+                    pelvic girdle
+                synovitis
+        vasculitis
+            GCA
+                symptoms
+                    localized HA
+                    jaw claudication
+                        by far the most specific for GCA
+                        maxillary artery ischemia to the masseter muscle
+                    scalp tenderness
+                        Does it hurt to comb your hair or shampoo?
+                    TA pain with palpation
+                        may be visibly bulging
+                    diplopia
+                    acute vision loss
+                    TMVL
+                    constitutional symptoms
+                        fever
+                        weight loss
+                    PMR symptoms
+                        painful morning stiffness
+                            shoulders
+                            pelvic girdle
+                        synovitis
+                            swollen, spongy knees or elbows
+                1990 ACR GCA criteria (3+/5)
+                    age 50+
+                    new onset localized HA
+                    abnormal superficial temporal artery
+                        tenderness
+                        reduced pulsation
+                        beading
+                        nodularity
+                    ESR 50+
+                        alternative, more specific formulas
+                            Miller
+                                men (age)/2
+                                women (age + 10)/2
+                            Hayreh
+                                men 0.18(age) + 17.3
+                                women 0.18(age) + 22.1
+                    abnormal TAB
+                        technique
+                            try to palpate the TA first
+                                feel just in front of where the pinnae takes off superiorly
+                                very difficult to find if you can't palpate it
+                                feel both sides and go for the easiest to feel
+                                generally in front of or straight up from the ear
+                                    main branch of the TA runs vertically in front of the ear
+                                    parietal branch arches back over the ear
+                                    frontal branch angles forward up to the forehead
+                                    most biopsies are taken from the frontal branch
+                                some surgeons use a doppler probe to confirm
+                            shave away the overlying hair
+                            mark the path of the artery on the overlying skin
+                            infiltrate with 2% lidocaine
+                                stay parallel to the vessels in the skin
+                                going deep can hit the vessels and cause a large hematoma
+                            cut down over the artery
+                                don't go deep at this point
+                            lift the edge of the incision
+                                use scissors to cut the full thickness of the skin
+                                blunt dissect beneath the skin to make a pocket as you go
+                            cauterize to obtain hemostasis
+                            stretch the incision with 2 rakes
+                            lift the fascial layer and open it with scissors
+                                TA is immediately below the fascia
+                            expose the top and bottom of the TA
+                                make a pocket beneath the TA with your scissors
+                                you don't need to clean the middle portion
+                                feel the artery and confirm pulsation
+                                    you don't want to get vein accidentally
+                            pass 4–0 vicryl needle backwards under the TA in both sites & tie
+                                or you can pass artery forceps under and retrieve the suture
+                                2+ cm is best
+                                you can tie off tributaries at this point if they are obvious
+                            cut the TA segment out inside the sutures
+                                if it bleeds look for tributaries that must also be tied off
+                            close the scalp
+                                interrupted subcuticular 6–0 vicryl
+                                steri strips on the skin
+                        findings
+                            lymphocytes
+                            epithelioid histiocytes
+                            giant cells
+                            loss of the internal elastic lamina
+                        if clinical suspicion is high and the TAB is negative
+                            TAB the other side
+                            you are committing them to months or years of therapy
+                            it's important to be sure
+                        other options
+                            unilateral frozen section
+                                2nd side only if the frozen is negative
+                            bilateral biopsy
+                                some centers do this as an SOP
+                    using only ACR criteria has a high false positive rate
+                        up to 40% have a negative TAB despite scoring 3+/5
+                Additional GCA tests
+                    FBC with platelets 400k+/µL
+                    CRP 5+ mg/L
+                        some references will say CRP 0.5+
+                            they are referring to mg/dL
+                        normal ~ 5- mg/L
+                        abnormal ~ 10+ mg/L
+                    TA duplex US
+                    TA MRI
+                        looks for vessel wall thickening and stenosis
+                    aortic PET-CT
+                        only good for large, extracranial vessels
+                        not useful on the TA itself
+                    NOTE: patients with CRAO suspicious for GCA still need a carotid US
+                AAION
+                    pallid swelling
+                    CWS
+                treatment
+                    systemic steroids
+                        1+ mg/kg po prednisolone
+                        value of IV steroids isn't clear
+                            with severe vision loss
+                                ADMIT for IVMP
+                                    1 g daily until stabilized
+                        ASA OK
+                            common practice
+                                because platelet levels tend to be elevated
+                            no specific evidence for this
+                ESR 90+ DDx
+                    infectious
+                        bacterial
+                            TB
+                            syphilis
+                            BROADLY:
+                                osteomyelitis
+                                endocarditis
+            GPA
+            PAN
 
-  idiopathic
-    IIH
-    anomalous discs with false appearance of ON
+    idiopathic
+        IIH
+        anomalous discs with false appearance of ON
 
-  iatrogenic
     iatrogenic
-      radiation
-      // see medications below
-    surgical
-      surgical traumatic ON
-      retrobulbar block trauma
+        iatrogenic
+            radiation
+            // see medications below
+        surgical
+            surgical traumatic ON
+            retrobulbar block trauma
 
-  vascular
-    vasoocclusive
-      NAION
-    aneurysmal
-      aneurysmal compressive ON
+    vascular
+        vasoocclusive
+            NAION
+        aneurysmal
+            aneurysmal compressive ON
 
-  neoplastic
-    solid tumors
-      compressive ON
-        COMMON:
-          meningioma
-            COMMON: sphenoid wing meningioma
-              hyperostosis on CT
-                can also be seen with bony tumors below
-                AOT malignant lacrimal tumors and mets
-                  can be lytic OR hyperostotic
-              typically middle-aged women
-              grow 1–3 mm/y
-              treatment
-                observe if you can
-                if the nerve is functionally compromised you'll need to treat
-                  surgical resection
-                    mainstay in the sphenoid wing location
-                      unlike ONSM below
-                    systemic steroids along with resection
-                  radiation
-                    FSRT
-                    IMRT
-                    particle radiotherapy AKA proton beam
-                    stereotactic radiosurgery
-          pituitary adenoma
-        ALSO:
-          other bony tumors of the sphenoid ridge
-            osteoma
-            fibrous dysplasia
-            ossifying fibroma
-            malignant lacrimal gland tumor
-            mets
-      intrinsic tumors of the ON
-        COMMON:
-          optic glioma
-          optic nerve sheath meningioma (ONSM)
-            middle-aged women
-            younger kids with NF2
-            tram track sign
-            radiotherapy is the mainstay
-              EBRT
-              FSRT
-              IMRT
-              ...
-            surgical resection nearly always ends in blindness
-              almost never operate
-              may debulk in some cases where the vision is lost already
-            histopathology is similar to other meningiomas
-              meningothelial whorls
-              ± psammoma bodies
-    lymphoproliferative
-      lymphoma infiltrative ON
-      orbital lymphoma compressive ON
-    hematologic
-      leukemia
-        infiltrative ON
-          COMMON: retrolaminar infiltration
-            disc swelling is variable
-            congested retinal vessels
-              RVO
-              RAO
-              IR hemorrhages
-            vision loss can be severe
-          ALSO: anterior infiltration of the disc
-            fluffy, white infiltrate in the substance of the disc
-            vision loss is mild
-          ALWAYS: confirm that the patient does not have papilledema
-            leukemia can infiltrate the meninges and increase ICP
-              LP would show WBC
-          treatment for infiltrative ON
-            oncology consult
-            orbital radiotherapy often very effective acutely
+    neoplastic
+        solid tumors
+            compressive ON
+                COMMON:
+                    meningioma
+                        COMMON: sphenoid wing meningioma
+                            hyperostosis on CT
+                                can also be seen with bony tumors below
+                                AOT malignant lacrimal tumors and mets
+                                    can be lytic OR hyperostotic
+                            typically middle-aged women
+                            grow 1–3 mm/y
+                            treatment
+                                observe if you can
+                                if the nerve is functionally compromised you'll need to treat
+                                    surgical resection
+                                        mainstay in the sphenoid wing location
+                                            unlike ONSM below
+                                        systemic steroids along with resection
+                                    radiation
+                                        FSRT
+                                        IMRT
+                                        particle radiotherapy AKA proton beam
+                                        stereotactic radiosurgery
+                    pituitary adenoma
+                ALSO:
+                    other bony tumors of the sphenoid ridge
+                        osteoma
+                        fibrous dysplasia
+                        ossifying fibroma
+                        malignant lacrimal gland tumor
+                        mets
+            intrinsic tumors of the ON
+                COMMON:
+                    optic glioma
+                    optic nerve sheath meningioma (ONSM)
+                        middle-aged women
+                        younger kids with NF2
+                        tram track sign
+                        radiotherapy is the mainstay
+                            EBRT
+                            FSRT
+                            IMRT
+                            ...
+                        surgical resection nearly always ends in blindness
+                            almost never operate
+                            may debulk in some cases where the vision is lost already
+                        histopathology is similar to other meningiomas
+                            meningothelial whorls
+                            ± psammoma bodies
+        lymphoproliferative
+            lymphoma infiltrative ON
+            orbital lymphoma compressive ON
+        hematologic
+            leukemia
+                infiltrative ON
+                    COMMON: retrolaminar infiltration
+                        disc swelling is variable
+                        congested retinal vessels
+                            RVO
+                            RAO
+                            IR hemorrhages
+                        vision loss can be severe
+                    ALSO: anterior infiltration of the disc
+                        fluffy, white infiltrate in the substance of the disc
+                        vision loss is mild
+                    ALWAYS: confirm that the patient does not have papilledema
+                        leukemia can infiltrate the meninges and increase ICP
+                            LP would show WBC
+                    treatment for infiltrative ON
+                        oncology consult
+                        orbital radiotherapy often very effective acutely
+                        chemotherapy
+                        immunotherapy
+                orbital compressive ON
+        metastatic
+            carcinomatous ON
+                COMMON:
+                    breast
+                    lung
+                    melanoma
+            paraneoplastic ON // see Mayo clinic panel in dystrophies-retinal.txt
+                COMMON: lung
+                ALSO: CAR with ON
+
+    DAMS
+        drugs
+            methanol
+            ethylene glycol
+            (tobacco exacerbates nutritional ON)
+        alcohol
+            causes nutritional ON
+        medications // see list below
             chemotherapy
-            immunotherapy
-        orbital compressive ON
-    metastatic
-      carcinomatous ON
-        COMMON:
-          breast
-          lung
-          melanoma
-      paraneoplastic ON // see Mayo clinic panel in dystrophies-retinal.txt
-        COMMON: lung
-        ALSO: CAR with ON
+            ethambutol
+            isoniazid (INH)
+            amiodarone
+            BROADLY: TNFI
+                including Golimumab
+                may have demyelinating features
 
-  DAMS
-    drugs
-      methanol
-      ethylene glycol
-      (tobacco exacerbates nutritional ON)
-    alcohol
-      causes nutritional ON
-    medications // see list below
-      chemotherapy
-      ethambutol
-      isoniazid (INH)
-      amiodarone
-      BROADLY: TNFI
-        including Golimumab
-        may have demyelinating features
-
-  degenerative
     degenerative
-      nutritional ON
-        COMMON:
-          B12 deficiency
-          folate deficiencies
-          thiamine (B1) deficiency
-            limited EOM
-            ataxia
-            confusion
+        degenerative
+            nutritional ON
+                COMMON:
+                    B12 deficiency
+                    folate deficiencies
+                    thiamine (B1) deficiency
+                        limited EOM
+                        ataxia
+                        confusion
 
-  genetic
-    inherited
-      AD dominant optic atrophy
-      mitochondrial LHON
-        young men
-        progressive
-          bilateral VA 6/60-
-        pseudoedema
-        peripapillary telangiectasia
-        arteriolar tortuosity
-        mitochondrial inheritance
-          only women transmit
-          if no FH: MRI
-        LHON+
-          tremors
-          cardiac conduction defects
+    genetic
+        inherited
+            AD dominant optic atrophy
+            mitochondrial LHON
+                young men
+                progressive
+                    bilateral VA 6/60-
+                pseudoedema
+                peripapillary telangiectasia
+                arteriolar tortuosity
+                mitochondrial inheritance
+                    only women transmit
+                    if no FH: MRI
+                LHON+
+                    tremors
+                    cardiac conduction defects
 
-  endocrine
     endocrine
-      DM papillopathy
-      DM NAION
+        endocrine
+            DM papillopathy
+            DM NAION
 
-  trauma
-    traumatic ON
+    trauma
+        traumatic ON
 
-  neurologic
-    glaucoma
+    neurologic
+        glaucoma
 
 
 /*

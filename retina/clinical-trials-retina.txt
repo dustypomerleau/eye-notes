@@ -4,24 +4,24 @@
 //... add or reference DME data from DR.txt
 
 DME
-  Eylea
-    VISTA
-    VIVID
-    confirm that laser patients don't have the same vision gains as antiVEGF
-      // see Dilsher Dhoot's post-hoc analysis from ASRS 2016
+    Eylea
+        VISTA
+        VIVID
+        confirm that laser patients don't have the same vision gains as antiVEGF
+            // see Dilsher Dhoot's post-hoc analysis from ASRS 2016
 
 BRVO
-  VIBRANT (2015)
-    Eylea versus grid
-      rescue laser allowed in either group
-    @ 6 months Eylea doubled the number of 3-line gainers compared to baseline grid
-      1/2 versus 1/4
+    VIBRANT (2015)
+        Eylea versus grid
+            rescue laser allowed in either group
+        @ 6 months Eylea doubled the number of 3-line gainers compared to baseline grid
+            1/2 versus 1/4
 
 CRVO
-  GALILEO (2014)
-    Eylea versus sham
-    @ 6 months Eylea tripled the number of 3-line gainers compared to sham
-      60% versus 22%
+    GALILEO (2014)
+        Eylea versus sham
+        @ 6 months Eylea tripled the number of 3-line gainers compared to sham
+            60% versus 22%
 
 bvos
 

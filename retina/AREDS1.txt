@@ -5,15 +5,15 @@
 AREDS 1
 
 categories
-  1. no drusen OR 14- small drusen with no pigment change.
-  2. 15+ small drusen or pigment change regardless of drusen.
-  3. vision 20/32 or better unless vision decline is not due to AMD.
-  any large drusen (125 µm), 1/16 DA intermediate soft drusen, 1/5 DA
-  intermediate hard drusen, extrafoveal GA (if fellow eye < 20/32 from non-AMD
-  then 3b).
-  4. < 20/32 from AMD in either eye (regardless of level of fellow eye AMD).
-  4b if GA or NVAMD in either eye (bilateral advanced AMD would have excluded
-  pt. from AREDS so they are off the grading scale).
+    1. no drusen OR 14- small drusen with no pigment change.
+    2. 15+ small drusen or pigment change regardless of drusen.
+    3. vision 20/32 or better unless vision decline is not due to AMD.
+    any large drusen (125 µm), 1/16 DA intermediate soft drusen, 1/5 DA
+    intermediate hard drusen, extrafoveal GA (if fellow eye < 20/32 from non-AMD
+    then 3b).
+    4. < 20/32 from AMD in either eye (regardless of level of fellow eye AMD).
+    4b if GA or NVAMD in either eye (bilateral advanced AMD would have excluded
+    pt. from AREDS so they are off the grading scale).
 
 The key here is that anyone whose vision is 20/40 or worse because of their
 AMD is category 4. If they're better than 20/40 then apply size and area
@@ -28,15 +28,15 @@ Formula:
 15 mg ß-carotene
 80 mg Zn
 2 mg Cu
-  to prevent Zn-induced copper deficiency anemia
-    Zn upregulates metallothionein in enterocytes
-    Cu is preferentially bound by metallothionein
-    Cu gets trapped in the enterocytes
-    enterocytes are later shed into the gut lumen
-    the enzymes that transport Fe from the gut to the blood depend on Cu
-    Cu deficiency therefore causes Fe deficiency
-    Fe is required to synthesize hemoglobin
-    Fe deficiency causes anemia
+    to prevent Zn-induced copper deficiency anemia
+        Zn upregulates metallothionein in enterocytes
+        Cu is preferentially bound by metallothionein
+        Cu gets trapped in the enterocytes
+        enterocytes are later shed into the gut lumen
+        the enzymes that transport Fe from the gut to the blood depend on Cu
+        Cu deficiency therefore causes Fe deficiency
+        Fe is required to synthesize hemoglobin
+        Fe deficiency causes anemia
 
 67% of study participants took centrum multivitamins during the study - i'm
 not sure this is a trivial amount despite the much lower doses of

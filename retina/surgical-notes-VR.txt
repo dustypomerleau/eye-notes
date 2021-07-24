@@ -3,10 +3,10 @@
 //... stub for future expansion
 
 IOFB can be removed with a kidney basket if it is sharp
-  smallest size is 20 g
-  requires an assistant to operate the open/close mechanism
-  made by Cook Medical in the USA
+    smallest size is 20 g
+    requires an assistant to operate the open/close mechanism
+    made by Cook Medical in the USA
 
 subretinal injection
-  safest is to use the footpedal on VFC injection
-  ~ 10 µL/s, particularly as fluid approaches the fovea
+    safest is to use the footpedal on VFC injection
+    ~ 10 µL/s, particularly as fluid approaches the fovea

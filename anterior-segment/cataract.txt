@@ -4,431 +4,431 @@ cataract surgery
 
 preop
 //...
-  medical conditions
-    DM control
-    cardiac or pulmonary function
-    CVA
-    ...
-  ability to lie flat
-    cardiac
-    pulmonary
-    arthritis
-  ability to lay still
-    claustrophobia
-    epilepsy
-    dementia
-    young patient
-  anesthetic risk
-    neuromuscular dystrophies
-      especially myotonic dystrophy
-        higher risk of respiratory depression
-  ophthalmic risk factors
-    blepharitis
-    conjunctivitis
-    OSD
-    FED
-      if intraoperative MCE
-        topical glycerin OR
-        scrape epithelium
-    uveitis
-    OHTN
-    PXF
-    PS
-    cataract type
-      brunescent
-      white
-        difficult rhexis
-          use VB
-          Argentinean flag risk
-      capsular scar or posterior polar
-        minimize hydrodissection
-    CSDME
-    LD
-    high myopia
+    medical conditions
+        DM control
+        cardiac or pulmonary function
+        CVA
+        ...
+    ability to lie flat
+        cardiac
+        pulmonary
+        arthritis
+    ability to lay still
+        claustrophobia
+        epilepsy
+        dementia
+        young patient
+    anesthetic risk
+        neuromuscular dystrophies
+            especially myotonic dystrophy
+                higher risk of respiratory depression
+    ophthalmic risk factors
+        blepharitis
+        conjunctivitis
+        OSD
+        FED
+            if intraoperative MCE
+                topical glycerin OR
+                scrape epithelium
+        uveitis
+        OHTN
+        PXF
+        PS
+        cataract type
+            brunescent
+            white
+                difficult rhexis
+                    use VB
+                    Argentinean flag risk
+            capsular scar or posterior polar
+                minimize hydrodissection
+        CSDME
+        LD
+        high myopia
 
 
 //
 
 
 if a patient has thin corneas on biometry
-  ask about prior KRS
+    ask about prior KRS
 
 /*
 do we routinely measure CCT pre-CEIOL?
-  seems like we should
-  though proper history will usually yield this data
+    seems like we should
+    though proper history will usually yield this data
 */
 
 determining true corneal power and proper IOL power after KRS
-  the corneal index of refraction is changed after LASIK OR PRK
-  ELP calcs are usually based on corneal power
-    post-KRS ELP is more posterior than the calcs would indicate
+    the corneal index of refraction is changed after LASIK OR PRK
+    ELP calcs are usually based on corneal power
+        post-KRS ELP is more posterior than the calcs would indicate
 
 /*
 for exam purposes
-  just say
-    if I have sufficient data I would use the ASCRS online calculator
-    if I don't have good preop data
-      CTL overrefraction
-      Haigis-L on the IOL Master
+    just say
+        if I have sufficient data I would use the ASCRS online calculator
+        if I don't have good preop data
+            CTL overrefraction
+            Haigis-L on the IOL Master
 */
 
-  summary of post-KRS options for calculating IOL
-    post-myopic-KRS
-      clinical history
-      corneal bypass
-      double K
-      CTL overrefraction
-      topography-based
-        some methods use posterior Ks
-      online calculators
-        often use multiple methods
-    post-hyperopic-KRS
-      much easier
-      central K power
-        Zeiss Humphrey Atlas
-          average 1, 2, 3 mm zones
-        EyeSys
-          use EffRP
-        more recent topographers would work similarly
-        correct K power with a nomogram based on the amount of LASIK
-          http://www.doctor-hill.com/iol-main/lasik-hyperopic.htm
-      take ELP into account when using the corrected Ks
-        Aramberri double K method
-        IOL Master Haigis-L
+    summary of post-KRS options for calculating IOL
+        post-myopic-KRS
+            clinical history
+            corneal bypass
+            double K
+            CTL overrefraction
+            topography-based
+                some methods use posterior Ks
+            online calculators
+                often use multiple methods
+        post-hyperopic-KRS
+            much easier
+            central K power
+                Zeiss Humphrey Atlas
+                    average 1, 2, 3 mm zones
+                EyeSys
+                    use EffRP
+                more recent topographers would work similarly
+                correct K power with a nomogram based on the amount of LASIK
+                    http://www.doctor-hill.com/iol-main/lasik-hyperopic.htm
+            take ELP into account when using the corrected Ks
+                Aramberri double K method
+                IOL Master Haigis-L
 
-  post-myopic-KRS correction methods in detail
+    post-myopic-KRS correction methods in detail
 
-    if you have access to some pre-KRS data
+        if you have access to some pre-KRS data
 
-      clinical history method
-          many variations
+            clinical history method
+                    many variations
 
-            Holladay & Hoffer historical method
-              variables
-                K1/SE1 - pre-refractive-surgery data
-                K2/SE2 - post-refractive-surgery data
-              K2 = K1 + SE1 - SE2
+                        Holladay & Hoffer historical method
+                            variables
+                                K1/SE1 - pre-refractive-surgery data
+                                K2/SE2 - post-refractive-surgery data
+                            K2 = K1 + SE1 - SE2
 
-            Feiz & Mannis historical method
-              least likely to give a hyperopic surprise
-              variables
-                IOL1 - based on pre-refractive-surgery calcs
-                IOL2 - correct post-refractive-surgery IOL
-              IOL2 = IOL1 - ((SE1-SE2)/0.7)
+                        Feiz & Mannis historical method
+                            least likely to give a hyperopic surprise
+                            variables
+                                IOL1 - based on pre-refractive-surgery calcs
+                                IOL2 - correct post-refractive-surgery IOL
+                            IOL2 = IOL1 - ((SE1-SE2)/0.7)
 
-            Latkany historical method
-              requires only the pre-KRS refraction
-              IOL1 - flattest K post-KRS fed into SRK/T
-              IOL2 - corrected IOL power where
-                IOL2 = IOL1 - 0.47(SE1) + 0.85
+                        Latkany historical method
+                            requires only the pre-KRS refraction
+                            IOL1 - flattest K post-KRS fed into SRK/T
+                            IOL2 - corrected IOL power where
+                                IOL2 = IOL1 - 0.47(SE1) + 0.85
 
-      Masket method
-        LSE - spherical equivalent of the total laser KRS correction
-        IOL1 - calculated with 1st gen formulas using post-KRS biometry
-          Holladay 1 for AL 23+ mm
-          Hoffer Q for AL 23- mm
-        IOL2 = IOL1 - 0.326(LSE) + 0.101
-      modified Masket (Hill) method
-        same formula, different constants
-        IOL2 = IOL1 - 0.4385(LSE) + 0.0295
+            Masket method
+                LSE - spherical equivalent of the total laser KRS correction
+                IOL1 - calculated with 1st gen formulas using post-KRS biometry
+                    Holladay 1 for AL 23+ mm
+                    Hoffer Q for AL 23- mm
+                IOL2 = IOL1 - 0.326(LSE) + 0.101
+            modified Masket (Hill) method
+                same formula, different constants
+                IOL2 = IOL1 - 0.4385(LSE) + 0.0295
 
-      Walter corneal bypass method
-        pre-KRS Ks
-        post-KRS AL
-        pre-KRS SE is set as the target refraction
+            Walter corneal bypass method
+                pre-KRS Ks
+                post-KRS AL
+                pre-KRS SE is set as the target refraction
 
-      Aramberri double K method
-        use the pre-KRS Ks to calculate ELP
-        plug this ELP into a standard IOL formula with the post-KRS Ks
-          SRK/T
-          Holladay
-          Hoffer Q
+            Aramberri double K method
+                use the pre-KRS Ks to calculate ELP
+                plug this ELP into a standard IOL formula with the post-KRS Ks
+                    SRK/T
+                    Holladay
+                    Hoffer Q
 
-    if you don't have access to any pre-KRS data
+        if you don't have access to any pre-KRS data
 
-      machine-based methods
+            machine-based methods
 
-        BESSt
-          Borasio's improvement on the Gaussian optics formula
-          requires anterior and posterior K curvature
-            Galilei
-            Pentacam
-            Orbscan
-          one of many formulas that use A & P curvature to determine K power
+                BESSt
+                    Borasio's improvement on the Gaussian optics formula
+                    requires anterior and posterior K curvature
+                        Galilei
+                        Pentacam
+                        Orbscan
+                    one of many formulas that use A & P curvature to determine K power
 
-        Koch & Wang modified Maloney method
-          converts central topography to central keratometry
-          K1 = central power
-            Zeiss Humphrey Atlas
-              value in diopters when cursor is placed at the exact corneal center
-          K2 = 1.114(K1) - 6.1
-            plug K2 into your IOL formula
+                Koch & Wang modified Maloney method
+                    converts central topography to central keratometry
+                    K1 = central power
+                        Zeiss Humphrey Atlas
+                            value in diopters when cursor is placed at the exact corneal center
+                    K2 = 1.114(K1) - 6.1
+                        plug K2 into your IOL formula
 
-        Koch & Wang topographic central K power adjustment
-          variables
-            K1 = post-KRS central K power
-              Zeiss Humphrey Atlas
-                powers of 1, 2, 3, 4 mm topography zones are averaged
-              EyeSys Corneal Analysis System
-                EffRP (effective refractive power) is used
-            ∆D = change in refractive power at the spectacle plane
-              usually negative for myopic LASIK
-          K2 = K1 + 0.19(∆D)
-            plug K2 into your IOL formula
+                Koch & Wang topographic central K power adjustment
+                    variables
+                        K1 = post-KRS central K power
+                            Zeiss Humphrey Atlas
+                                powers of 1, 2, 3, 4 mm topography zones are averaged
+                            EyeSys Corneal Analysis System
+                                EffRP (effective refractive power) is used
+                        ∆D = change in refractive power at the spectacle plane
+                            usually negative for myopic LASIK
+                    K2 = K1 + 0.19(∆D)
+                        plug K2 into your IOL formula
 
-        Haigis-L formula
-          built into the Zeiss IOL Master
-          generates a corrected corneal power
-            regression-derived algorithm
-          feeds this into the regular Haigis formula
-          ELP is not an issue here
-            2nd gen formulas like Haigis don't tie ELP to central K power
-            1st gen formulas require the double K method to adjust ELP
+                Haigis-L formula
+                    built into the Zeiss IOL Master
+                    generates a corrected corneal power
+                        regression-derived algorithm
+                    feeds this into the regular Haigis formula
+                    ELP is not an issue here
+                        2nd gen formulas like Haigis don't tie ELP to central K power
+                        1st gen formulas require the double K method to adjust ELP
 
-      plano CTL overrefraction
-        variables
-          SE-MRx
-            spherical equivalent of the patient's manifest refraction
-          SE-CTL-MRx
-            spherical equivalent of the patient's plano CTL overrefraction
-          CTL-BC-(D)
-            base curve of the CTL used for overrefraction (diopters)
-        if SE-CTL-MRx is more myopic than SE-MRx
-          CTL-BC-(D) is steeper than the patient's average Ks
-          true average K = CTL-BC-(D) - |SE-CTL-MRx - SE-MRx|
-        if SE-CTL-MRx is more hyperopic than SE-MRx
-          CTL-BC-(D) is flatter than the patient's average Ks
-          true average K = CTL-BC-(D) + |SE-CTL-MRx - SE-MRx|
+            plano CTL overrefraction
+                variables
+                    SE-MRx
+                        spherical equivalent of the patient's manifest refraction
+                    SE-CTL-MRx
+                        spherical equivalent of the patient's plano CTL overrefraction
+                    CTL-BC-(D)
+                        base curve of the CTL used for overrefraction (diopters)
+                if SE-CTL-MRx is more myopic than SE-MRx
+                    CTL-BC-(D) is steeper than the patient's average Ks
+                    true average K = CTL-BC-(D) - |SE-CTL-MRx - SE-MRx|
+                if SE-CTL-MRx is more hyperopic than SE-MRx
+                    CTL-BC-(D) is flatter than the patient's average Ks
+                    true average K = CTL-BC-(D) + |SE-CTL-MRx - SE-MRx|
 
-    ASCRS online calculator (iolcalc.org)
-      chooses the best method for the data you have available
+        ASCRS online calculator (iolcalc.org)
+            chooses the best method for the data you have available
 
-    APACRS Barrett post-KRS online calculator
-      http://www.apacrs.org/Barrett_True_K_Universal_2105/
+        APACRS Barrett post-KRS online calculator
+            http://www.apacrs.org/Barrett_True_K_Universal_2105/
 
 
 //
 
 
 IOL formulas
-  1st generation
-    SRK/T
-    Holladay 1
-    Hoffer Q
-    all 1st generation formulas tie ELP to AL and Ks
-  2nd generation
-    Haigis
-      treats ACD independently of AL
-        entire curve shifts based on ACD
-      only works well if you personalize your 3 constants
-        Warren Hill will do this if you send him a spreadsheet of your outcomes
-    Holladay 2
-      use requires purchase via the Holladay IOL Consultant software
-      actual formula has never been published
-      7 variables
-      disadvantage
-        estimates LT rather than measuring
-  3rd+ generation
-    Barrett 2 universal
-      thick lens formula
-      http://www.apacrs.org/barrett_universal2/
-      APACRS website also include Barrett formulas for
-        post-KRS
-        toric
-        piggyback OR IOL exchange
-    Olsen // papers in 2006 and 2009
-      available in
-        standalone PhacoOptics IOL software
-          http://phacooptics.net
-        Lenstar
-        IOLMaster 700
-      Gaussian optics
-        thick lens formula
-          uses measured LT
-            an advantage over Holladay 2
-            uses a C constant
-              derived from ACD and LT only
-              unique that K readings are not needed to calculate ELP
-                big advantage if Ks are atypical
-          accounts for both anterior and posterior corneal curvature
-        paraxial ray tracing formula improves ELP
-  summary
-    you should be using Barrett 2 OR Olsen
-      both are excellent
-    Barrett 2 is free online
-    Olsen is only available on certain machines or in paid software
+    1st generation
+        SRK/T
+        Holladay 1
+        Hoffer Q
+        all 1st generation formulas tie ELP to AL and Ks
+    2nd generation
+        Haigis
+            treats ACD independently of AL
+                entire curve shifts based on ACD
+            only works well if you personalize your 3 constants
+                Warren Hill will do this if you send him a spreadsheet of your outcomes
+        Holladay 2
+            use requires purchase via the Holladay IOL Consultant software
+            actual formula has never been published
+            7 variables
+            disadvantage
+                estimates LT rather than measuring
+    3rd+ generation
+        Barrett 2 universal
+            thick lens formula
+            http://www.apacrs.org/barrett_universal2/
+            APACRS website also include Barrett formulas for
+                post-KRS
+                toric
+                piggyback OR IOL exchange
+        Olsen // papers in 2006 and 2009
+            available in
+                standalone PhacoOptics IOL software
+                    http://phacooptics.net
+                Lenstar
+                IOLMaster 700
+            Gaussian optics
+                thick lens formula
+                    uses measured LT
+                        an advantage over Holladay 2
+                        uses a C constant
+                            derived from ACD and LT only
+                            unique that K readings are not needed to calculate ELP
+                                big advantage if Ks are atypical
+                    accounts for both anterior and posterior corneal curvature
+                paraxial ray tracing formula improves ELP
+    summary
+        you should be using Barrett 2 OR Olsen
+            both are excellent
+        Barrett 2 is free online
+        Olsen is only available on certain machines or in paid software
 
 biometry factors by importance
-  AL
-  K
-    Galilei for irregular Ks or ectasia // see ectasia-corneal.txt
-  WTW
-  MRx
-  ACD
-  LT
-  age
+    AL
+    K
+        Galilei for irregular Ks or ectasia // see ectasia-corneal.txt
+    WTW
+    MRx
+    ACD
+    LT
+    age
 
 biometry platforms
-  Lenstar
-    more accurate Ks than IOL Master
-      32 points measured versus 6
-    still need Galilei for ectasia
+    Lenstar
+        more accurate Ks than IOL Master
+            32 points measured versus 6
+        still need Galilei for ectasia
 
 asymmetric biometry
-  postoperative aniseikonia is more common with
-    COMMON: 1+ mm axial anisometropia
-    RARELY: 8+ D corneal anisometropia
-  /*
-  theoretically pure axial anisometropia should not cause aniseikonia
-    even with spectacle correction
-      Knapp's law
-    unlike corneal or lenticular anisometropia
-    but clinical experience seems to contradict this
-  */
-  to estimate postop aniseikonia in axial anisometropia
-    AL1/AL2 = % aniseikonia
-      most people can tolerate 2% easily
-    those with preop aniseikonia can tolerate as much as they already have
-      many patients have preoperative aniseikonia if you check for it
-        requires an eikonometer
-          not commercially available
-          most are homebrewed for research
-      don't go above 4% without a good reason
-  calculating aniseikonia in corneal anisometropia is more complex
-    but also rarely needed // see Gobin, JCRS 2008
+    postoperative aniseikonia is more common with
+        COMMON: 1+ mm axial anisometropia
+        RARELY: 8+ D corneal anisometropia
+    /*
+    theoretically pure axial anisometropia should not cause aniseikonia
+        even with spectacle correction
+            Knapp's law
+        unlike corneal or lenticular anisometropia
+        but clinical experience seems to contradict this
+    */
+    to estimate postop aniseikonia in axial anisometropia
+        AL1/AL2 = % aniseikonia
+            most people can tolerate 2% easily
+        those with preop aniseikonia can tolerate as much as they already have
+            many patients have preoperative aniseikonia if you check for it
+                requires an eikonometer
+                    not commercially available
+                    most are homebrewed for research
+            don't go above 4% without a good reason
+    calculating aniseikonia in corneal anisometropia is more complex
+        but also rarely needed // see Gobin, JCRS 2008
 
 intraoperative aberrometry
-  most promising
-    Holos Clarity
-  ALSO:
-    Wavetec
+    most promising
+        Holos Clarity
+    ALSO:
+        Wavetec
 
 adjustments when moving from bag to sulcus
-  ideally this is pre-calculated
-  in an emergency
-    Pomerleau simplification of Dubey (2012) and others
-      +10+ D // read as 'above plus ten diopters'
-        subtract 0.5 D
-      +18+ D
-        subtract 1 D
-      +25+ D
-        subtract 1.5 D
+    ideally this is pre-calculated
+    in an emergency
+        Pomerleau simplification of Dubey (2012) and others
+            +10+ D // read as 'above plus ten diopters'
+                subtract 0.5 D
+            +18+ D
+                subtract 1 D
+            +25+ D
+                subtract 1.5 D
 
 IOL calcs in 26+ mm long eyes
-  Warren Hill's interpretation of data from Doug Koch and Li Wang
-    // http://www.doctor-hill.com/iol-main/extreme_axial_myopia.htm
-    target moderate myopia
-    Holladay 1 formula using an optimized optical biometry AL:
-      AL = (0.8289 * measured AL) + 4.2663
-      no need to adjust the A-constant when using this method
-      not for use in prior KRS
-        KRS formulas above are already optimized for long eyes
+    Warren Hill's interpretation of data from Doug Koch and Li Wang
+        // http://www.doctor-hill.com/iol-main/extreme_axial_myopia.htm
+        target moderate myopia
+        Holladay 1 formula using an optimized optical biometry AL:
+            AL = (0.8289 * measured AL) + 4.2663
+            no need to adjust the A-constant when using this method
+            not for use in prior KRS
+                KRS formulas above are already optimized for long eyes
 
 IOL calcs in 22- mm short eyes
-  Haigis consistently best
-  Hoffer Q also good // most common in AU
+    Haigis consistently best
+    Hoffer Q also good // most common in AU
 
 cataract surgery in very short eyes
-  nanophthalmos
-  microphthalmos
-    look for other abnormalities
-      colobomas
-      cyst
-        inferior scleral outpouching
-  evaluate distribution of smallness
-    small ACD + small AL
-      microphthalmos
-      nanophthalmos
-        AL 20.5- mm
-        small cornea
-        convex iris
-        thick lens relative to the eye
-        thickened sclera
-          risk of uveal effusion
-        thickened choroid
-        COMMON:
-          FED
-          PXF
-        preoperatively
-          control glaucoma
-            topicals
-            LPI
-          address any preexisting uveal effusion
-            2 x inferior sclerectomies
-              full thickness
-              can be done at the time of CEIOL
-    small ACD + normal AL
-      relative anterior microphthalmos
-        still get ACG like nanophthalmos or microphthalmos
-        sclera is normal
-          no uveal effusions
-        COMMON:
-          FED
-          PXF
-    normal ACD + short AL
-      axial hyperopia
-        4/5 hyperopes are in this category
-        biometry is the main issue
-          // see above for IOL calcs
-        intraoperative complication rates are normal
-  if lens power falls in the 40+ D range
-    expect to place 2 IOLs AKA polypseudophakia
-      in the bag
-      + sulcus piggyback
-        usually Rayner Sulcoflex in AU
-    may be better to do a piggyback even when a custom IOL is available
-      less spherical aberration with a piggyback
-      generally use piggyback for 34+ D
-    Holladay IOL Consultant software can make this easier
-      Holladay 2 for main IOL
-      Holladay R formula for piggyback
+    nanophthalmos
+    microphthalmos
+        look for other abnormalities
+            colobomas
+            cyst
+                inferior scleral outpouching
+    evaluate distribution of smallness
+        small ACD + small AL
+            microphthalmos
+            nanophthalmos
+                AL 20.5- mm
+                small cornea
+                convex iris
+                thick lens relative to the eye
+                thickened sclera
+                    risk of uveal effusion
+                thickened choroid
+                COMMON:
+                    FED
+                    PXF
+                preoperatively
+                    control glaucoma
+                        topicals
+                        LPI
+                    address any preexisting uveal effusion
+                        2 x inferior sclerectomies
+                            full thickness
+                            can be done at the time of CEIOL
+        small ACD + normal AL
+            relative anterior microphthalmos
+                still get ACG like nanophthalmos or microphthalmos
+                sclera is normal
+                    no uveal effusions
+                COMMON:
+                    FED
+                    PXF
+        normal ACD + short AL
+            axial hyperopia
+                4/5 hyperopes are in this category
+                biometry is the main issue
+                    // see above for IOL calcs
+                intraoperative complication rates are normal
+    if lens power falls in the 40+ D range
+        expect to place 2 IOLs AKA polypseudophakia
+            in the bag
+            + sulcus piggyback
+                usually Rayner Sulcoflex in AU
+        may be better to do a piggyback even when a custom IOL is available
+            less spherical aberration with a piggyback
+            generally use piggyback for 34+ D
+        Holladay IOL Consultant software can make this easier
+            Holladay 2 for main IOL
+            Holladay R formula for piggyback
 
 /*
 for exam purposes
-  given that you have to pay for the Holladay software
-  probably best to say you would use Rayner's online piggyback calculator
+    given that you have to pay for the Holladay software
+    probably best to say you would use Rayner's online piggyback calculator
 */
 
-  intraoperatively
-    topical is better
-      retrobulbar blocks increase
-        posterior pressure
-        vortex vein congestion
-    if patient has glaucoma or IOP 25+ mm Hg
-      perioperative mannitol
-        (2 mL 20% mannitol)/kg
-    BSUS available in OT
-      for preexisting effusions
-      to assess posterior segment after closing the eye
-        if you lose the red reflex
-    inferior sclerectomies if preexisting uveal effusions
-    temporal approach
-    clear corneal incisions
-      bimanual incisions best in small corneas
-    dispersive OVD
-      soft shell
-    frequent reforming of the AC
-      high risk of suprachoroidal hemorrhage with hypotony
-    microincision capsulorhexis if possible
-      helps keep the chamber deep and stable
-      rhexis tend to radialize due to lens shape in nanophthalmos
-    if AC is very shallow
-      limited 1-port PPV
-      PP anatomy is not normal
-        retina can run very anteriorly in nanophthalmos
-          nearly to the pars plicata
-        if there is a PP it's very small
-    abort if
-      you lose the red reflex
-      eye becomes hard
-    suture the wound to prevent hypotony
+    intraoperatively
+        topical is better
+            retrobulbar blocks increase
+                posterior pressure
+                vortex vein congestion
+        if patient has glaucoma or IOP 25+ mm Hg
+            perioperative mannitol
+                (2 mL 20% mannitol)/kg
+        BSUS available in OT
+            for preexisting effusions
+            to assess posterior segment after closing the eye
+                if you lose the red reflex
+        inferior sclerectomies if preexisting uveal effusions
+        temporal approach
+        clear corneal incisions
+            bimanual incisions best in small corneas
+        dispersive OVD
+            soft shell
+        frequent reforming of the AC
+            high risk of suprachoroidal hemorrhage with hypotony
+        microincision capsulorhexis if possible
+            helps keep the chamber deep and stable
+            rhexis tend to radialize due to lens shape in nanophthalmos
+        if AC is very shallow
+            limited 1-port PPV
+            PP anatomy is not normal
+                retina can run very anteriorly in nanophthalmos
+                    nearly to the pars plicata
+                if there is a PP it's very small
+        abort if
+            you lose the red reflex
+            eye becomes hard
+        suture the wound to prevent hypotony
 
 cataract surgery with a trabeculectomy in place
-  counseling about risk of trab failure
-  wait 6 months after trab before doing the cataract
-  5FU 0.1 mL of 50 mg/mL at the time of surgery
-  increased postoperative steroids to q 2 h
+    counseling about risk of trab failure
+    wait 6 months after trab before doing the cataract
+    5FU 0.1 mL of 50 mg/mL at the time of surgery
+    increased postoperative steroids to q 2 h
 
 
 //
@@ -436,74 +436,74 @@ cataract surgery with a trabeculectomy in place
 
 intraop
 
-  poor dilation
-    malyugin ring // or iris hooks
-      COMMON: 6.25 mm
-      ALSO: 7 mm
-    intracameral phenylephrine // see more on IFIS below
-      0.1 mL of 0.4% Moorfields intracameral phenylephrine
+    poor dilation
+        malyugin ring // or iris hooks
+            COMMON: 6.25 mm
+            ALSO: 7 mm
+        intracameral phenylephrine // see more on IFIS below
+            0.1 mL of 0.4% Moorfields intracameral phenylephrine
 
-  wound burn
-    whitening and gaping of the wound
-    bubbling along the length of the phaco tip
-    causes
-      the incision is too narrow and too long
-        crimps the irrigation sleeve
-        cooling the irrigation fluid may help
-      irrigation deflection
-        happens right at the start of surgery
-        OVD prevents irrigation from reaching the phaco tip
-        ALWAYS: run the irrigation for a few seconds before phaco
-          continuous irrigation helps here
-      excessive phaco power
-    once you note wound burn
-      check irrigation line for blockage or disconnection
-      if severe
-        close and open a new wound
-      reduce phaco power
-      if AC is shallowing from wound leak
-        elevate the bottle OR increase infusion pressure
-      closure
-        horizontal mattress suture
-          less astigmatism than multiple radial sutures
-        scleral patch graft
-          best taken ST
-          small peritomy
-          rectangle of appropriate size
-          dissect to 1/2 scleral thickness
-          attach over wound with 4 cardinal 10–0 nylon sutures
-          then run a 10–0 around the edge to seal
-          close the peritomy with interrupteds
-        sliding scleral flap
-          only useful if your incision is off-axis
-            i.e. not useful right @ 12, 3, 9
-            otherwise you risk cutting a rectus muscle insertion
-          5 mm wide strip parallel to the limbus
-          undermine to 1/2 scleral thickness but leave the ends attached
-            helps healing to have the blood supply
-          fold the flap over and suture it upside-down over the wound
+    wound burn
+        whitening and gaping of the wound
+        bubbling along the length of the phaco tip
+        causes
+            the incision is too narrow and too long
+                crimps the irrigation sleeve
+                cooling the irrigation fluid may help
+            irrigation deflection
+                happens right at the start of surgery
+                OVD prevents irrigation from reaching the phaco tip
+                ALWAYS: run the irrigation for a few seconds before phaco
+                    continuous irrigation helps here
+            excessive phaco power
+        once you note wound burn
+            check irrigation line for blockage or disconnection
+            if severe
+                close and open a new wound
+            reduce phaco power
+            if AC is shallowing from wound leak
+                elevate the bottle OR increase infusion pressure
+            closure
+                horizontal mattress suture
+                    less astigmatism than multiple radial sutures
+                scleral patch graft
+                    best taken ST
+                    small peritomy
+                    rectangle of appropriate size
+                    dissect to 1/2 scleral thickness
+                    attach over wound with 4 cardinal 10–0 nylon sutures
+                    then run a 10–0 around the edge to seal
+                    close the peritomy with interrupteds
+                sliding scleral flap
+                    only useful if your incision is off-axis
+                        i.e. not useful right @ 12, 3, 9
+                        otherwise you risk cutting a rectus muscle insertion
+                    5 mm wide strip parallel to the limbus
+                    undermine to 1/2 scleral thickness but leave the ends attached
+                        helps healing to have the blood supply
+                    fold the flap over and suture it upside-down over the wound
 
-  retrobulbar or suprachoroidal hemorrhage
-    50 g IV mannitol over 15 minutes
-      faster than AACG protocol but this is an emergency
-    500 mg IV Diamox
-    suprachoroidal hemorrhage
-      don't drain acutely
-        hemorrhage will expand
-      serial BSUS
-        to look for liquefaction
-      drain 1–2 weeks
-        AC maintainer
-          25 g PPV infusion through the limbus can be used
-        radial sclerotomies 4+ mm from the limbus in the affected quad
-          transconj drainage is possible using a trochar
-            about 7 mm back
-            danger of trauma to choroid and retina
-              watch your angle
-        cyclodialysis spatula to open the wound if needed
-        if you are planning subsequent PPV
-          drain as much blood as possible before placing trochars
-          anatomy is dramatically distorted with high choroidals
+    retrobulbar or suprachoroidal hemorrhage
+        50 g IV mannitol over 15 minutes
+            faster than AACG protocol but this is an emergency
+        500 mg IV Diamox
+        suprachoroidal hemorrhage
+            don't drain acutely
+                hemorrhage will expand
+            serial BSUS
+                to look for liquefaction
+            drain 1–2 weeks
+                AC maintainer
+                    25 g PPV infusion through the limbus can be used
+                radial sclerotomies 4+ mm from the limbus in the affected quad
+                    transconj drainage is possible using a trochar
+                        about 7 mm back
+                        danger of trauma to choroid and retina
+                            watch your angle
+                cyclodialysis spatula to open the wound if needed
+                if you are planning subsequent PPV
+                    drain as much blood as possible before placing trochars
+                    anatomy is dramatically distorted with high choroidals
 
 
 //
@@ -511,245 +511,245 @@ intraop
 
 postop
 
-  postop CME
-    for 2nd eye
-      history of CME with first surgery
-        complications
-          iris trauma
-          PC tear
-          vitreous loss
-          sulcus or ACIOL
-          IOL malposition
-        early YAG?
-          for exam purposes
-            no YAG before 3 months
-              increased risk of
-                RD
-                CME
-              is there any evidence for this?
-              examiners seem to believe it
-              may be something from this article
-                http://www.ncbi.nlm.nih.gov/pubmed/1928237
-                not stated in summary
-                not available online
-        course
-          agents used to treat CME
-          easy or hard to control
-          steroid response?
-        patient factors
-          drop compliance
-    control systemic disease
-      DM
-      HTN
-    treat concurrent ocular disease
-      uveitis
-        quiet 6 months before surgery
-        non-B27 anterior uveitis
-          5 days topical pretreatment
-        B27 anterior uveitis OR
-        anterior uveitis with CME OR
-        posterior uveitis
-          5 days 50 mg/day oral prednisolone
-        local treatment is becoming more popular
-          2–4 mg triamcinolone
-            intravitreal OR intracameral
-        taper oral and topical agents over 4 weeks if quiet
-      glaucoma
-        risk of steroid response
-        switch prostaglandins to another agent perioperatively
-      DR ± DME
-    pretreat with PF and NSAIDs
-    intraoperative triamcinolone
-      high risk cases
-      options
-        subconj
-          replacement for subconj dex
-        OFT
-          more often used preop than intraop
-        IVT
+    postop CME
+        for 2nd eye
+            history of CME with first surgery
+                complications
+                    iris trauma
+                    PC tear
+                    vitreous loss
+                    sulcus or ACIOL
+                    IOL malposition
+                early YAG?
+                    for exam purposes
+                        no YAG before 3 months
+                            increased risk of
+                                RD
+                                CME
+                            is there any evidence for this?
+                            examiners seem to believe it
+                            may be something from this article
+                                http://www.ncbi.nlm.nih.gov/pubmed/1928237
+                                not stated in summary
+                                not available online
+                course
+                    agents used to treat CME
+                    easy or hard to control
+                    steroid response?
+                patient factors
+                    drop compliance
+        control systemic disease
+            DM
+            HTN
+        treat concurrent ocular disease
+            uveitis
+                quiet 6 months before surgery
+                non-B27 anterior uveitis
+                    5 days topical pretreatment
+                B27 anterior uveitis OR
+                anterior uveitis with CME OR
+                posterior uveitis
+                    5 days 50 mg/day oral prednisolone
+                local treatment is becoming more popular
+                    2–4 mg triamcinolone
+                        intravitreal OR intracameral
+                taper oral and topical agents over 4 weeks if quiet
+            glaucoma
+                risk of steroid response
+                switch prostaglandins to another agent perioperatively
+            DR ± DME
+        pretreat with PF and NSAIDs
+        intraoperative triamcinolone
+            high risk cases
+            options
+                subconj
+                    replacement for subconj dex
+                OFT
+                    more often used preop than intraop
+                IVT
 
-  PBK
-    episodic pain
-    blurred vision
-    full-thickness diffuse corneal edema
-    bullae
-      intact
-      ruptured
-        watch for 2° infectious keratitis
-    treatment
-      hypertonic saline 5%
-      Chlorsig prophylaxis
-      bandage CTL
-      lid taping
-      ACIOL removal
-      anterior vitrectomy for vitreous prolapse
-      DMEK OR DSEK
-        if DSEK
-        consider hyperopic shift
-      Gunderson conjunctival flap
-        for comfort in poor VA potential
+    PBK
+        episodic pain
+        blurred vision
+        full-thickness diffuse corneal edema
+        bullae
+            intact
+            ruptured
+                watch for 2° infectious keratitis
+        treatment
+            hypertonic saline 5%
+            Chlorsig prophylaxis
+            bandage CTL
+            lid taping
+            ACIOL removal
+            anterior vitrectomy for vitreous prolapse
+            DMEK OR DSEK
+                if DSEK
+                consider hyperopic shift
+            Gunderson conjunctival flap
+                for comfort in poor VA potential
 
-  investigation of clustered complications
-    such as
-      TASS
-      corneal edema
-    check everything that contacts the eye
-      for all solutions consider
-        wrong agent
-          including wrong formulation of the correct drug
-            not for ophthalmic use
-            not PF
-        wrong concentration
-          especially if mixed by hand
-        expired lot
-        contaminated lot
-    approach chronologically
-      preop
-        gloves
-        topical anesthetics
-        steroids or NSAIDs
-        dilating drops
-        surgical prep gloves
-        surgical prep solutions
-          betadine
-          chlorhexidine
-          saline flush
-        instrument sterilization equipment & process
-      intraop
-        instruments
-          speculum
-          cannulas
-          phaco handpiece
-          IA handpiece
-          tubing
-          cartridges
-          software
-          settings
-          IOL manipulators
-        gloves
-        corneal wetting agent
-          BSS
-          OVD
-          viscous tears
-          Cornea Coat
-        intracameral lidocaine
-        intracameral dilating agents
-        OVDs
-        Vision Blue
-        irrigating solution
-          including injected add-ons
-            epi
-            antibiotics
-        IOL-related
-          IOLs
-          cartridges
-          injector system
-        intracameral antibiotics
-        Miochol
-        subconj injections
-          antibiotics
-          steroids
-        ointments
-        patch
-        tape
-    full disclosure to the patient
-    stop operating until cause is known
-    inform the medical defense union
-    inform your indemnity provider
-    inform colleagues operating at the same site
-    inform OT administraton and staff
-    meet and create a plan to determine the cause
-    address the cause once found
-    consider reducing caseload until your intervention proves effective
-  endophthalmitis
-    review the bugs for all the affected cases
-      shared bug?
-    review the operative reports
-      all the same type of surgery?
-      complicated cases?
-      unique common factor?
-        solution
-          common batches of commercial or compounded products?
-        instrumentation
-    notify the hospital's infection control team
-    deep cleaning and inspection of all areas of OT
-      including ventilation
-    protocol review
-      surgical prep and drape
-      instrument sterilization
-      preparation of compounded agents
-      correct use of commercially available agents
-    otherwise identical to TASS example above
+    investigation of clustered complications
+        such as
+            TASS
+            corneal edema
+        check everything that contacts the eye
+            for all solutions consider
+                wrong agent
+                    including wrong formulation of the correct drug
+                        not for ophthalmic use
+                        not PF
+                wrong concentration
+                    especially if mixed by hand
+                expired lot
+                contaminated lot
+        approach chronologically
+            preop
+                gloves
+                topical anesthetics
+                steroids or NSAIDs
+                dilating drops
+                surgical prep gloves
+                surgical prep solutions
+                    betadine
+                    chlorhexidine
+                    saline flush
+                instrument sterilization equipment & process
+            intraop
+                instruments
+                    speculum
+                    cannulas
+                    phaco handpiece
+                    IA handpiece
+                    tubing
+                    cartridges
+                    software
+                    settings
+                    IOL manipulators
+                gloves
+                corneal wetting agent
+                    BSS
+                    OVD
+                    viscous tears
+                    Cornea Coat
+                intracameral lidocaine
+                intracameral dilating agents
+                OVDs
+                Vision Blue
+                irrigating solution
+                    including injected add-ons
+                        epi
+                        antibiotics
+                IOL-related
+                    IOLs
+                    cartridges
+                    injector system
+                intracameral antibiotics
+                Miochol
+                subconj injections
+                    antibiotics
+                    steroids
+                ointments
+                patch
+                tape
+        full disclosure to the patient
+        stop operating until cause is known
+        inform the medical defense union
+        inform your indemnity provider
+        inform colleagues operating at the same site
+        inform OT administraton and staff
+        meet and create a plan to determine the cause
+        address the cause once found
+        consider reducing caseload until your intervention proves effective
+    endophthalmitis
+        review the bugs for all the affected cases
+            shared bug?
+        review the operative reports
+            all the same type of surgery?
+            complicated cases?
+            unique common factor?
+                solution
+                    common batches of commercial or compounded products?
+                instrumentation
+        notify the hospital's infection control team
+        deep cleaning and inspection of all areas of OT
+            including ventilation
+        protocol review
+            surgical prep and drape
+            instrument sterilization
+            preparation of compounded agents
+            correct use of commercially available agents
+        otherwise identical to TASS example above
 
-  refractive surprise after CEIOL
-    biometry wrong
-      COMMON:
-        prior KRS
-        SB
-          ACD is overestimated based on longer AL
-          myopic surprise
-      ALSO: Ks wrong due to DES or OSD
-      ALWAYS: repeat the biometry
-    calcs wrong
-      bad formula choice
-      mathematical error
-    surgeon mistakes
-      lens wrong
-      lens flipped
-        usually myopic
-      lens tilted
-        usually myopic
-      toric lens rotated
-        should you rotate the toric surgically?
-          Berdahl and Harden have looked at this
-          http://astigmatismfix.com/
-            compares current position to MRx
-            gives relative benefit of repositioning the toric
-          reported repositioning rates are 1–3%
-          best timing is 1–3 weeks // see Oshika, OPHTHA. 2018;125(1):31–35.
-      position wrong
-        sulcus using in-the-bag calcs
-    postop complications
-      CME
-        usually hyperopic
-      corneal change from incision
-      capsular distention
-        retained OVD
-        usually myopic
-    management
-      in general
-        measure postop Ks before acting
-        consider corneal causes of astigmatism
-        don't just leap to a toric exchange or piggyback
-      glasses
-        assumes patient tolerance
-        aniseikonia limits anisometropia to 3 D
-      contact lens
-        assumes patient tolerance
-        reduces aniseikonia
-      KRS AKA bioptic surgery
-        limited by stromal bed if patient has had prior KRS
-      piggyback IOL
-        available in toric and multifocal
-        sulcus placement over an in-the-bag lens
-        predictable because it leaves other factors constant
-        easily removed if patient unhappy
-        adverse events
-          interIOL opacification
-          optic capture
-          pupillary block glaucoma
-          pigment dispersion
-      IOL exchange
-        less predictable
-        more prone to complications
-          fibrosed bag increases risk
-        best done in first 8 weeks
-          no absolute cutoff
-        good for patients that lack posterior chamber depth for a piggyback
-      LRI
-        supplements above
-        less popular than before
-        alternative to KRS or toric
+    refractive surprise after CEIOL
+        biometry wrong
+            COMMON:
+                prior KRS
+                SB
+                    ACD is overestimated based on longer AL
+                    myopic surprise
+            ALSO: Ks wrong due to DES or OSD
+            ALWAYS: repeat the biometry
+        calcs wrong
+            bad formula choice
+            mathematical error
+        surgeon mistakes
+            lens wrong
+            lens flipped
+                usually myopic
+            lens tilted
+                usually myopic
+            toric lens rotated
+                should you rotate the toric surgically?
+                    Berdahl and Harden have looked at this
+                    http://astigmatismfix.com/
+                        compares current position to MRx
+                        gives relative benefit of repositioning the toric
+                    reported repositioning rates are 1–3%
+                    best timing is 1–3 weeks // see Oshika, OPHTHA. 2018;125(1):31–35.
+            position wrong
+                sulcus using in-the-bag calcs
+        postop complications
+            CME
+                usually hyperopic
+            corneal change from incision
+            capsular distention
+                retained OVD
+                usually myopic
+        management
+            in general
+                measure postop Ks before acting
+                consider corneal causes of astigmatism
+                don't just leap to a toric exchange or piggyback
+            glasses
+                assumes patient tolerance
+                aniseikonia limits anisometropia to 3 D
+            contact lens
+                assumes patient tolerance
+                reduces aniseikonia
+            KRS AKA bioptic surgery
+                limited by stromal bed if patient has had prior KRS
+            piggyback IOL
+                available in toric and multifocal
+                sulcus placement over an in-the-bag lens
+                predictable because it leaves other factors constant
+                easily removed if patient unhappy
+                adverse events
+                    interIOL opacification
+                    optic capture
+                    pupillary block glaucoma
+                    pigment dispersion
+            IOL exchange
+                less predictable
+                more prone to complications
+                    fibrosed bag increases risk
+                best done in first 8 weeks
+                    no absolute cutoff
+                good for patients that lack posterior chamber depth for a piggyback
+            LRI
+                supplements above
+                less popular than before
+                alternative to KRS or toric
 
 
 //
@@ -758,217 +758,217 @@ postop
 //... only snippets below this point - could be reorganized
 
 drugs that cause cataract "Seriously, People? Cataract Quizzing? Hello???"
-  steroids
-  pilocarpine
-  chlorpromazine
-  quetiapine
-  haloperidol
+    steroids
+    pilocarpine
+    chlorpromazine
+    quetiapine
+    haloperidol
 
 AR Wilson disease
-  Kayser-Fleischer ring
-  sunflower cataract
+    Kayser-Fleischer ring
+    sunflower cataract
 
 congenital rubella
-  1st trimester maternal infection
-  eye findings
-    nystagmus
-    strabismus
-    microphthalmia
-    keratoconus
-    pearly nuclear cataract
-    glaucoma
-    pigmentary retinopathy
-  systemic findings
-    deafness
-    cardiac defects
-    developmental delay
-  known as Gregg disease in AU
-    Gregg was an ophthalmologist in Sydney
-    first to connect congenital cataracts to maternal rubella infection
-    1941
+    1st trimester maternal infection
+    eye findings
+        nystagmus
+        strabismus
+        microphthalmia
+        keratoconus
+        pearly nuclear cataract
+        glaucoma
+        pigmentary retinopathy
+    systemic findings
+        deafness
+        cardiac defects
+        developmental delay
+    known as Gregg disease in AU
+        Gregg was an ophthalmologist in Sydney
+        first to connect congenital cataracts to maternal rubella infection
+        1941
 
 high IOP after CEIOL
-  steroid response
-  AC inflammation
-  retained lens
-  retained OVD
-  pupillary block or 2° angle closure
-    e.g. with piggyback lenses
+    steroid response
+    AC inflammation
+    retained lens
+    retained OVD
+    pupillary block or 2° angle closure
+        e.g. with piggyback lenses
 
 hypotony during cataract surgery
-  wound leak
-  cyclodialysis
-  suprachoroidal effusion
-  penetrating injury from retrobulbar block
-  vitreous loss
+    wound leak
+    cyclodialysis
+    suprachoroidal effusion
+    penetrating injury from retrobulbar block
+    vitreous loss
 
 XLR Fabry disease
-  alpha galactosidase deficiency
-  cornea verticillata
-  spokelike cataract
-  paresthesias
-  angiokeratomas
-  decreased sweating
-  renal failure
-  stroke
+    alpha galactosidase deficiency
+    cornea verticillata
+    spokelike cataract
+    paresthesias
+    angiokeratomas
+    decreased sweating
+    renal failure
+    stroke
 
 ESCRS endophthalmitis study 2006 "intracameral rocks prevent endophthalmitis?"
-  preop levofloxacin has no effect on endophthalmitis rates
-  intraop intracameral cefuroxime 1 mg reduces endophthalmitis
-    from 1/350 to 1/1700
-    5-fold decrease
-    // the only other measure with legit evidence is povidone iodine
-  endophthalmitis risk factors
-    male
-    clear corneal incision
-    silicone IOL
-    intraop complication
+    preop levofloxacin has no effect on endophthalmitis rates
+    intraop intracameral cefuroxime 1 mg reduces endophthalmitis
+        from 1/350 to 1/1700
+        5-fold decrease
+        // the only other measure with legit evidence is povidone iodine
+    endophthalmitis risk factors
+        male
+        clear corneal incision
+        silicone IOL
+        intraop complication
 
 intraoperative iris prolapse
-  causes
-    Flomax
-      IFIS
-        Chang instructions for IFIS
-          2x epinephrine in the bottle
-            1 mL intracardiac 1:1000 epinephrine (1 mg/mL) in 500 mL BSS
-              standard dose is 0.5 mL in 500 mL BSS
-          modify incision
-            long
-            tight
-          intracameral lidocaine
-            wait 1 minute
-          intracameral phenylephrine
-            options
-              Moorfields 0.6% intracameral phenylephrine OR
-              intracameral minims
-                mix
-                  dilute a 10% phenylephrine minim in 5 mL BSS
-                    5 mL BSS + 0.3 mL 10% phenylephrine (1 minim) = 0.57% phenylephrine
-                inject
-                  0.1–0.2 mL immediately after lidocaine
-                  same volume again under OVD
-        Joel Shugar's epiShugarcaine recipe
-          9 mL BSS+ (Alcon)
-            if you use plain BSS instead of BSS+
-              pH will be slightly lower
-              more sensation until the lidocaine kicks in
-          3 mL PF lidocaine (Hospira)
-          4 mL PF, bisulfite-free epinephrine (American Regent)
-          OR if you just need a small amount
-            draw 1 mL lidocaine into 3 mL BSS+
-            agitate
-            discard 1 mL of the mixture
-            draw 1 mL of epinephrine into the remaining mixture
-            yields 4 mL of epiShugarcaine
-              ~ 2- mL epiShugarcaine/case
-          usage
-            0.1–0.2 mL in place of intracameral lidocaine
-            same volume again under OVD
-            as needed during the case
-    DM
-    HSV
-    VZV
-    PXF
-  management
-    take a good history on your cataract patients
-      tamsulosin AKA Flomax
-      terazosin
-      doxazosin
-    anterior incisions
-    longer tunnels
-    viscodilation
-    Malyugin
-      use 7 mm size here
-    low flow parameters
-      drop bottle height
-      vacuum 200- mm Hg
-      aspiration 26- mL/minute
-    if the iris prolapses
-      first release the pressure gradient
-        rocking the nucleus
-          for prolapse after hydrodissection
-        releasing OVD
-      then reposit the iris
+    causes
+        Flomax
+            IFIS
+                Chang instructions for IFIS
+                    2x epinephrine in the bottle
+                        1 mL intracardiac 1:1000 epinephrine (1 mg/mL) in 500 mL BSS
+                            standard dose is 0.5 mL in 500 mL BSS
+                    modify incision
+                        long
+                        tight
+                    intracameral lidocaine
+                        wait 1 minute
+                    intracameral phenylephrine
+                        options
+                            Moorfields 0.6% intracameral phenylephrine OR
+                            intracameral minims
+                                mix
+                                    dilute a 10% phenylephrine minim in 5 mL BSS
+                                        5 mL BSS + 0.3 mL 10% phenylephrine (1 minim) = 0.57% phenylephrine
+                                inject
+                                    0.1–0.2 mL immediately after lidocaine
+                                    same volume again under OVD
+                Joel Shugar's epiShugarcaine recipe
+                    9 mL BSS+ (Alcon)
+                        if you use plain BSS instead of BSS+
+                            pH will be slightly lower
+                            more sensation until the lidocaine kicks in
+                    3 mL PF lidocaine (Hospira)
+                    4 mL PF, bisulfite-free epinephrine (American Regent)
+                    OR if you just need a small amount
+                        draw 1 mL lidocaine into 3 mL BSS+
+                        agitate
+                        discard 1 mL of the mixture
+                        draw 1 mL of epinephrine into the remaining mixture
+                        yields 4 mL of epiShugarcaine
+                            ~ 2- mL epiShugarcaine/case
+                    usage
+                        0.1–0.2 mL in place of intracameral lidocaine
+                        same volume again under OVD
+                        as needed during the case
+        DM
+        HSV
+        VZV
+        PXF
+    management
+        take a good history on your cataract patients
+            tamsulosin AKA Flomax
+            terazosin
+            doxazosin
+        anterior incisions
+        longer tunnels
+        viscodilation
+        Malyugin
+            use 7 mm size here
+        low flow parameters
+            drop bottle height
+            vacuum 200- mm Hg
+            aspiration 26- mL/minute
+        if the iris prolapses
+            first release the pressure gradient
+                rocking the nucleus
+                    for prolapse after hydrodissection
+                releasing OVD
+            then reposit the iris
 
 corneal edema after CEIOL
-  fragile endothelium
-    FED
-      general AU philosophy tends to favor CEIOL alone rather than triple
-      subsequent DSEK if the cornea still limits VA
-    low ECD
-  surgical trauma
-    phaco energy
-    physical contact with endothelium
-  chemical injury
-    TASS spectrum
-      preservatives in intraocular solutions and meds
-      detergent residue on instruments
-      dilution errors with meds
-  endothelial contact
-    IOL
-    flat chamber
-      wound leak
-      suprachoroidal effusion or hemorrhage
-      aqueous misdirection
-    iris bombe
-    vitreous
-  Descemet detachment
-  retained lens
-  elevated IOP
-  persistent inflammation
-  epithelial downgrowth
-  Brown-Mclean syndrome
-    peripheral MCE sparing the center
-    months to years after CEIOL
-    patients are usually asymptomatic
-    if they become symptomatic
-      hypertonic saline 5% drops
-      mild topical steroids
+    fragile endothelium
+        FED
+            general AU philosophy tends to favor CEIOL alone rather than triple
+            subsequent DSEK if the cornea still limits VA
+        low ECD
+    surgical trauma
+        phaco energy
+        physical contact with endothelium
+    chemical injury
+        TASS spectrum
+            preservatives in intraocular solutions and meds
+            detergent residue on instruments
+            dilution errors with meds
+    endothelial contact
+        IOL
+        flat chamber
+            wound leak
+            suprachoroidal effusion or hemorrhage
+            aqueous misdirection
+        iris bombe
+        vitreous
+    Descemet detachment
+    retained lens
+    elevated IOP
+    persistent inflammation
+    epithelial downgrowth
+    Brown-Mclean syndrome
+        peripheral MCE sparing the center
+        months to years after CEIOL
+        patients are usually asymptomatic
+        if they become symptomatic
+            hypertonic saline 5% drops
+            mild topical steroids
 
 ACCS
-  ACCS = fibrosis + phimosis
-  risk factors
-    small rhexis
-    weak zonules
-    PXF
-    uveitis
-    high myopes
-    older age
-    DM
-    Behcet
-    RP
-    myotonic dystrophy
-  sequelae
-    decentration
-      glare
-      halos
-      monocular diplopia
-    dislocation
-  treatment
-    phimosis 4- mm
-      YAG radial anterior capsulotomy
-        4+ 1 mm radial nicks
+    ACCS = fibrosis + phimosis
+    risk factors
+        small rhexis
+        weak zonules
+        PXF
+        uveitis
+        high myopes
+        older age
+        DM
+        Behcet
+        RP
+        myotonic dystrophy
+    sequelae
+        decentration
+            glare
+            halos
+            monocular diplopia
+        dislocation
+    treatment
+        phimosis 4- mm
+            YAG radial anterior capsulotomy
+                4+ 1 mm radial nicks
 
 PSC cataract
-  seen with
-    steroid use
-    DM
-    trauma
-    RP
-  test for
-    glare
-    contrast
-    reading problems
+    seen with
+        steroid use
+        DM
+        trauma
+        RP
+    test for
+        glare
+        contrast
+        reading problems
 
 HORV
-  hemorrhagic occlusive retinal vasculitis
-  1–14 days post-CEIOL
-  minimal intraocular inflammation
-  severe occlusive retinal vasculitis with hemorrhages
-  etiology unknown
-    possibly vancomycin
-      almost all cases have had vancomycin
-        intracameral
-        infusion fluid
-  some need PRP to prevent NVG
-  Andre Witkin published on this
+    hemorrhagic occlusive retinal vasculitis
+    1–14 days post-CEIOL
+    minimal intraocular inflammation
+    severe occlusive retinal vasculitis with hemorrhages
+    etiology unknown
+        possibly vancomycin
+            almost all cases have had vancomycin
+                intracameral
+                infusion fluid
+    some need PRP to prevent NVG
+    Andre Witkin published on this

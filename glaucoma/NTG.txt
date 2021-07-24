@@ -3,45 +3,45 @@
 NTG
 
 associations
-  all OAG (including NTG)
-    nocturnal hypotension
-    large diurnal IOP fluctuation
-  NTG specifically
-    ischemic vascular disease
-    vasospasm
-      migraine
-      Raynaud
-    OSA
-    Japanese
+    all OAG (including NTG)
+        nocturnal hypotension
+        large diurnal IOP fluctuation
+    NTG specifically
+        ischemic vascular disease
+        vasospasm
+            migraine
+            Raynaud
+        OSA
+        Japanese
 
 
 //
 
 
 NTG DDx
-  nonglaucomatous disease // see optic-neuropathy-DDx.txt
-    full scope of optic neuropathies could be listed here
-      infectious
-      inflammatory
-      ischemic
-      compressive
-      infiltrative
-      toxic
-      metabolic
-      traumatic
-    full scope of anomalous discs
-      large physiologic discs
-      tilted
-      myopic
-      morning glory
-      optic pit
-      coloboma
-      ...
-  IOP measurement error
-    not really 'normal' tension
-      thin CCT
-      human error
-      device error
-  prior glaucoma with normalized IOP
-    steroid response
-    intermittent PACG
+    nonglaucomatous disease // see optic-neuropathy-DDx.txt
+        full scope of optic neuropathies could be listed here
+            infectious
+            inflammatory
+            ischemic
+            compressive
+            infiltrative
+            toxic
+            metabolic
+            traumatic
+        full scope of anomalous discs
+            large physiologic discs
+            tilted
+            myopic
+            morning glory
+            optic pit
+            coloboma
+            ...
+    IOP measurement error
+        not really 'normal' tension
+            thin CCT
+            human error
+            device error
+    prior glaucoma with normalized IOP
+        steroid response
+        intermittent PACG

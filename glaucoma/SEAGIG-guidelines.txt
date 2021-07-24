@@ -2,200 +2,200 @@
 
 SEAGIG guidelines // full guidelines are very detailed and not covered here
 
-  history
-    FH
-    social support for treatment
-    age at diagnosis
-      younger is worse
-    previous treatment
-      meds
-        glaucoma drops
-          failed drops OR
-          intolerance
-        steroid response
-      lasers
-      surgeries
-    symptoms
-      elevated IOP
-        blurring
-        frontal HA
-      K edema
-        glare
-        halos
-      NFL loss
-        poor light adaptation
-        difficult tracking fast-moving objects
-          tennis balls
-    PMH
-      asthma OR COPD
-        avoid beta blockers
-      cardiac AV block
-        avoid
-          beta blockers
-          alpha agonists
-      HTN
-        overtreatment by GP
-          nocturnal hypotension
-            can worsen glaucoma
-          systemic beta blockers can mask OHTN
-      hypotension
-        nocturnal hypotension contributes to glaucoma
-      vasospasm
-        associated with NTG
-          migraine
-          Raynaud
-      urinary stones
-        get worse with CAIs
-      DM
-        POAG
-        NVG
-    medications
-      systemic steroids can elevate IOP
-      angle closure
-        anticholinergics
-        tricyclic antidepressants
-        topiramate
-      antihypertensives // covered above
-    allergies
-      avoid CAIs in sulfa allergy
-
-  exam
-    VA
-    CVF
-    IOP
-      for exam purposes
-        treat Goldmann as the standard
-      in reality
-        pneumotonometry is probably superior
-          but not widely available
-      3–6 mm Hg is the normal diurnal variation
-        peaks on the 10s
-          1000
-          2200
-        troughs on the 4s
-          0400
-          1600
-      variable IOP?
-        phase them from 0800–1600 every 2 hours
-    CCT
-    conj
-      follicles
-      trab OR tube
-    cornea
-      Krukenberg
-      KP
-    AC
-      depth
-        Van Herick
-          0 contact
-          1 1/4- corneal thickness
-          2 1/4+
-          3 1/2+
-      inflammation
-    iris
-      rubeosis
-      PS
-      PXF
-        in poor dilators who already have an IOL
-          suspect PXF
-      TID
-    lens
-      PXF
-      cataract
-        phacomorphic shallowing
-      phacodonesis
-      glaukomflecken
-    gonio
-      technique
-        high mag
-        short slit
-        dim slit if possible
-        45° slit angle for I + S angles
-        then on axis with horizontal slit for T + N angles
-      grade
-        modified Shaffer
-          0 closed
-            indent
-              document
-                PACS (requires normal IOP despite apposition)
-                PAC
-                PAC + PAS and number of quads of PAS
-          1 SL
-          2 ATM
-          3 SS
-          4 CB
-    disc
-      size
-        vertical
-          1 mm mean VCDR 0.25
-          2 mm mean VCDR 0.5
-      rim
-        notches
-        shelving AKA undercutting
-        violation of ISNT
-      CDR
-        vertical
-      disc hemorrhage
-      NFL defects // best seen with the green filter
-      PPA
-        beta zone
-          next to the disc
-          visible choroidal vessels
-          bare sclera
-          absolute scotoma
-          not always present
-          associated with glaucoma
-        alpha zone
-          further out
-          pigmented
-          usually present
-          relative scotoma
-      vascular pattern
-        baring of circumlinear vessels
-        bayoneting of vessels
-      overall
-        symmetry
-
-  ancillary tests
-    stereo disc photos
-      at diagnosis
-      when changes are suspected OR annually
-    NFL OCT
-    HRA OR GDx if available // see ON-imaging-and-VFs.txt
-    HVF // see ON-imaging-and-VFs.txt
-
-  treatment goals
-    30% IOP reduction
-      moderate+ VF loss
-      perfect treatment would match episcleral venous pressure
-        7–12 mm Hg
-    20% IOP reduction
-      early VF loss
-      OHTN 30+ mm Hg + suspicious disc
-    if no VF loss and IOP 30-
-      tally risk factors to decide on treatment versus observation
-        age
-        OHTN
-        appositionally closed (occludable) angles
-        PDS
-          TID
-            radial
-            spokelike
-        PXF
-          TID
-            pupillary margin
-        disc hemorrhage
-        suspicious disc
+    history
         FH
-        ethnicity
-        genetics
-        ALSO:
-          history of steroid response
-          myopia
-          PPA
-          HTN
-          DM
-          vasospasm
-            migraine
-            Raynaud
-          OSA
+        social support for treatment
+        age at diagnosis
+            younger is worse
+        previous treatment
+            meds
+                glaucoma drops
+                    failed drops OR
+                    intolerance
+                steroid response
+            lasers
+            surgeries
+        symptoms
+            elevated IOP
+                blurring
+                frontal HA
+            K edema
+                glare
+                halos
+            NFL loss
+                poor light adaptation
+                difficult tracking fast-moving objects
+                    tennis balls
+        PMH
+            asthma OR COPD
+                avoid beta blockers
+            cardiac AV block
+                avoid
+                    beta blockers
+                    alpha agonists
+            HTN
+                overtreatment by GP
+                    nocturnal hypotension
+                        can worsen glaucoma
+                    systemic beta blockers can mask OHTN
+            hypotension
+                nocturnal hypotension contributes to glaucoma
+            vasospasm
+                associated with NTG
+                    migraine
+                    Raynaud
+            urinary stones
+                get worse with CAIs
+            DM
+                POAG
+                NVG
+        medications
+            systemic steroids can elevate IOP
+            angle closure
+                anticholinergics
+                tricyclic antidepressants
+                topiramate
+            antihypertensives // covered above
+        allergies
+            avoid CAIs in sulfa allergy
+
+    exam
+        VA
+        CVF
+        IOP
+            for exam purposes
+                treat Goldmann as the standard
+            in reality
+                pneumotonometry is probably superior
+                    but not widely available
+            3–6 mm Hg is the normal diurnal variation
+                peaks on the 10s
+                    1000
+                    2200
+                troughs on the 4s
+                    0400
+                    1600
+            variable IOP?
+                phase them from 0800–1600 every 2 hours
+        CCT
+        conj
+            follicles
+            trab OR tube
+        cornea
+            Krukenberg
+            KP
+        AC
+            depth
+                Van Herick
+                    0 contact
+                    1 1/4- corneal thickness
+                    2 1/4+
+                    3 1/2+
+            inflammation
+        iris
+            rubeosis
+            PS
+            PXF
+                in poor dilators who already have an IOL
+                    suspect PXF
+            TID
+        lens
+            PXF
+            cataract
+                phacomorphic shallowing
+            phacodonesis
+            glaukomflecken
+        gonio
+            technique
+                high mag
+                short slit
+                dim slit if possible
+                45° slit angle for I + S angles
+                then on axis with horizontal slit for T + N angles
+            grade
+                modified Shaffer
+                    0 closed
+                        indent
+                            document
+                                PACS (requires normal IOP despite apposition)
+                                PAC
+                                PAC + PAS and number of quads of PAS
+                    1 SL
+                    2 ATM
+                    3 SS
+                    4 CB
+        disc
+            size
+                vertical
+                    1 mm mean VCDR 0.25
+                    2 mm mean VCDR 0.5
+            rim
+                notches
+                shelving AKA undercutting
+                violation of ISNT
+            CDR
+                vertical
+            disc hemorrhage
+            NFL defects // best seen with the green filter
+            PPA
+                beta zone
+                    next to the disc
+                    visible choroidal vessels
+                    bare sclera
+                    absolute scotoma
+                    not always present
+                    associated with glaucoma
+                alpha zone
+                    further out
+                    pigmented
+                    usually present
+                    relative scotoma
+            vascular pattern
+                baring of circumlinear vessels
+                bayoneting of vessels
+            overall
+                symmetry
+
+    ancillary tests
+        stereo disc photos
+            at diagnosis
+            when changes are suspected OR annually
+        NFL OCT
+        HRA OR GDx if available // see ON-imaging-and-VFs.txt
+        HVF // see ON-imaging-and-VFs.txt
+
+    treatment goals
+        30% IOP reduction
+            moderate+ VF loss
+            perfect treatment would match episcleral venous pressure
+                7–12 mm Hg
+        20% IOP reduction
+            early VF loss
+            OHTN 30+ mm Hg + suspicious disc
+        if no VF loss and IOP 30-
+            tally risk factors to decide on treatment versus observation
+                age
+                OHTN
+                appositionally closed (occludable) angles
+                PDS
+                    TID
+                        radial
+                        spokelike
+                PXF
+                    TID
+                        pupillary margin
+                disc hemorrhage
+                suspicious disc
+                FH
+                ethnicity
+                genetics
+                ALSO:
+                    history of steroid response
+                    myopia
+                    PPA
+                    HTN
+                    DM
+                    vasospasm
+                        migraine
+                        Raynaud
+                    OSA

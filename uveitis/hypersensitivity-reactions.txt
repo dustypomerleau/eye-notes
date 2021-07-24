@@ -1,46 +1,44 @@
 // https://github.com/dustypomerleau/eye-notes
 
 type 1
-  anaphylactic
-  IgE
-  exogenous antigen
-  15 minutes
-  weal and flare
-  examples
-    hay fever
-    allergic rhinitis
+    anaphylactic
+    IgE
+    exogenous antigen
+    15 minutes
+    weal and flare
+    examples
+        hay fever
+        allergic rhinitis
 
 type 2
-  cytotoxic
-  IgG
-  IgM
-  cell surface antigen
-  lysis and necrosis
-  minutes-hours
-  examples
-    erythroblastosis fetalis
-    Goodpasture nephritis
+    cytotoxic
+    IgG
+    IgM
+    cell surface antigen
+    lysis and necrosis
+    minutes-hours
+    examples
+        erythroblastosis fetalis
+        Goodpasture nephritis
 
 type 3
-  immune complex
-  IgG
-  IgM
-  soluble antigen
-  erythema and edema
-  3–8 hours
-  examples
-    lupus
-    farmer's lung disease
+    immune complex
+    IgG
+    IgM
+    soluble antigen
+    erythema and edema
+    3–8 hours
+    examples
+        lupus
+        farmer's lung disease
 
 type 4
-  delayed
-  no antibodies
-    T-cell mediated
-  tissues and organs act as antigen
-  2–3 days
-  erythema and induration
-  examples
-    PPD
-    poison ivy
-
-
+    delayed
+    no antibodies
+        T-cell mediated
+    tissues and organs act as antigen
+    2–3 days
+    erythema and induration
+    examples
+        PPD
+        poison ivy

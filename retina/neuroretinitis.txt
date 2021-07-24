@@ -1,132 +1,132 @@
 // https://github.com/dustypomerleau/eye-notes
 
 neuroretinitis
-  probably more accurate to say ODEMS // optic disc edema with a macular star
-    the macular star is really a 2° effect of disc swelling
-    but neuroretinitis is the most recognized term
-      some suggest using neuroretinitis only for infectious causes
-        but none of your colleagues will adhere to this
-  COMMON: unilateral
-    3/4 of cases
-    RAPD often present
-  1/2 report viral prodrome
-  macular star takes 1–2 weeks to develop
-    see your disc swelling patients back in a week
-  COMMON: vitreous cells
-    90%
+    probably more accurate to say ODEMS // optic disc edema with a macular star
+        the macular star is really a 2° effect of disc swelling
+        but neuroretinitis is the most recognized term
+            some suggest using neuroretinitis only for infectious causes
+                but none of your colleagues will adhere to this
+    COMMON: unilateral
+        3/4 of cases
+        RAPD often present
+    1/2 report viral prodrome
+    macular star takes 1–2 weeks to develop
+        see your disc swelling patients back in a week
+    COMMON: vitreous cells
+        90%
 
 NR shortlist
-  Bartonella
-  Bartonella
-  Bartonella
-    2/3 of NR cases are Bartonella
-    under 50
-    may have a mild RAPD
-    3/4 have systemic symptoms
-    treatment does not improve final VA
-      azithromycin
-        500 mg po daily x 1 day OR 10 mg/kg for 45- kg
-        250 mg po daily x 4 days OR 5 mg/kg for 45- kg
-      doxycycline + rifampicin have also been used
-    usually still treat if
-      immunosuppressed
-      systemic symptoms
-    prognosis
-      most of the vision loss is from the CME rather than the nerve
-      final VA is 6/12 or better in 90+%
-  TB
-  syphilis
-  Lyme
-  DUSN
-  IRVAN
-  idiopathic
-    sometimes still called LISN
-      even though some of Leber's 1916 cases would not be idiopathic today
-    URI prodrome is common
-      probably an undiscovered viral cause
+    Bartonella
+    Bartonella
+    Bartonella
+        2/3 of NR cases are Bartonella
+        under 50
+        may have a mild RAPD
+        3/4 have systemic symptoms
+        treatment does not improve final VA
+            azithromycin
+                500 mg po daily x 1 day OR 10 mg/kg for 45- kg
+                250 mg po daily x 4 days OR 5 mg/kg for 45- kg
+            doxycycline + rifampicin have also been used
+        usually still treat if
+            immunosuppressed
+            systemic symptoms
+        prognosis
+            most of the vision loss is from the CME rather than the nerve
+            final VA is 6/12 or better in 90+%
+    TB
+    syphilis
+    Lyme
+    DUSN
+    IRVAN
+    idiopathic
+        sometimes still called LISN
+            even though some of Leber's 1916 cases would not be idiopathic today
+        URI prodrome is common
+            probably an undiscovered viral cause
 
 NR DDx
-  infectious
-    viral
-      HSV
-      VZV
-      ALSO:
-        measles
-        mumps
-        rubella
-        EBV
-        CMV
-        chikungunya
-        Dengue
-        Cocksackie B
-    bacterial
-      Bartonella spp.
-      Lyme
-        NOTE: azithromycin also covers Lyme
-      TB
-      syphilis
-      ALSO:
-        RMSF
-          Rickettsia rickettsii
-          RARELY: CR
-        leptospirosis
-    fungal
-      RARELY:
-        Histoplasma
-        Coccidioides
-        Actinomyces
-    protozoa
-      Toxoplasma
-    nematodes
-      DUSN
-        COMMON:
-          young patients
-          poor vision 6/120-
-        subretinal tracks
-        early
-          vitritis
-          retinal vasculitis
-          multifocal retinitis
-        late
-          optic atrophy
-          attenuated vessels
-          focal RPE pigmentary changes
-        many worms have been reported
-          Baylisascaris
-            raccoons
-          Ancylostoma
-          Toxocara
-          ...
-        treatment
-          oral steroids
-          albendazole
-          laser the worm
-  inflammatory
+    infectious
+        viral
+            HSV
+            VZV
+            ALSO:
+                measles
+                mumps
+                rubella
+                EBV
+                CMV
+                chikungunya
+                Dengue
+                Cocksackie B
+        bacterial
+            Bartonella spp.
+            Lyme
+                NOTE: azithromycin also covers Lyme
+            TB
+            syphilis
+            ALSO:
+                RMSF
+                    Rickettsia rickettsii
+                    RARELY: CR
+                leptospirosis
+        fungal
+            RARELY:
+                Histoplasma
+                Coccidioides
+                Actinomyces
+        protozoa
+            Toxoplasma
+        nematodes
+            DUSN
+                COMMON:
+                    young patients
+                    poor vision 6/120-
+                subretinal tracks
+                early
+                    vitritis
+                    retinal vasculitis
+                    multifocal retinitis
+                late
+                    optic atrophy
+                    attenuated vessels
+                    focal RPE pigmentary changes
+                many worms have been reported
+                    Baylisascaris
+                        raccoons
+                    Ancylostoma
+                    Toxocara
+                    ...
+                treatment
+                    oral steroids
+                    albendazole
+                    laser the worm
     inflammatory
-      sarcoid
-    autoimmune
-      IBD
-      TINU
-      post-vaccination
-        rabies vaccine
-    vasculitis
-      IRVAN
-      PAN
-  idiopathic
-    idiopathic NR
-      sometimes AKA Leber idiopathic stellate neuroretinitis (LISN)
-      best to simply say idiopathic
-  vascular
-    vasoocclusive
-      AION
-      DM papillopathy
-  neoplastic
-    solid tumors
-      juxtapapillary tumors
-        hemangioma
-        melanoma
+        inflammatory
+            sarcoid
+        autoimmune
+            IBD
+            TINU
+            post-vaccination
+                rabies vaccine
+        vasculitis
+            IRVAN
+            PAN
+    idiopathic
+        idiopathic NR
+            sometimes AKA Leber idiopathic stellate neuroretinitis (LISN)
+            best to simply say idiopathic
+    vascular
+        vasoocclusive
+            AION
+            DM papillopathy
+    neoplastic
+        solid tumors
+            juxtapapillary tumors
+                hemangioma
+                melanoma
 
 if bilateral think about
-  malignant HTN
-  papilledema
-  systemic infections // above
+    malignant HTN
+    papilledema
+    systemic infections // above

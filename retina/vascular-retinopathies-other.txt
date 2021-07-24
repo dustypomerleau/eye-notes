@@ -5,309 +5,309 @@
 vascular retinopathies
 
 Purtscher and Purtscher-like retinopathy DDx
-  inflammatory
-    pancreatitis
-    lupus vasculitis
-  iatrogenic
-    orthopedic surgery
-    iatrogenic emboli
-      retrobulbar injection
-      periocular and intradermal steroid injections
-      BOTOX
-  neoplastic
-    pancreatic cancer
-    hematologic malignancies
-  genetic
-    AD CADASIL // see abbreviations.txt
-      most common inherited stroke disorder
-      40–50 year-olds with a family history
-      migraines -> TIAs -> CVAs
-      exam
-        arteriolar narrowing
-        AV nicking
-        PAMM lesions
-        silent peripheral BRVOs
-      COMMON: white matter infarcts on MRI
-      NOTCH3 mutation on chromosome 19
-    RARELY: TREX1 mutations
-      early-onset lacunar strokes
-  endocrine  
-    renal failure
-  trauma
-    crush injury
-    long bone fractures
+    inflammatory
+        pancreatitis
+        lupus vasculitis
+    iatrogenic
+        orthopedic surgery
+        iatrogenic emboli
+            retrobulbar injection
+            periocular and intradermal steroid injections
+            BOTOX
+    neoplastic
+        pancreatic cancer
+        hematologic malignancies
+    genetic
+        AD CADASIL // see abbreviations.txt
+            most common inherited stroke disorder
+            40–50 year-olds with a family history
+            migraines -> TIAs -> CVAs
+            exam
+                arteriolar narrowing
+                AV nicking
+                PAMM lesions
+                silent peripheral BRVOs
+            COMMON: white matter infarcts on MRI
+            NOTCH3 mutation on chromosome 19
+        RARELY: TREX1 mutations
+            early-onset lacunar strokes
+    endocrine
+        renal failure
+    trauma
+        crush injury
+        long bone fractures
 
 Terson syndrome
-  COMMON: after ruptured cerebral aneurysm
-  subarachnoid hemorrhage
-  intraretinal hemorrhage
-  sub-ILM hemorrhage
-  VH
+    COMMON: after ruptured cerebral aneurysm
+    subarachnoid hemorrhage
+    intraretinal hemorrhage
+    sub-ILM hemorrhage
+    VH
 
 CSC
-  idiopathic
-  high-stress
-  type-A
-  exogenous corticosteroids
-    COMMON: solid organ transplant recipients
-  Cushing syndrome
-    pregnancy
-    adrenal tumor
-      e.g. pheochromocytoma
-    ACTH-secreting pituitary adenoma
-  testosterone supplementation
-  OCT
-    SRF
-      may be turbid
-    SR fibrin
-    PED
-      may be vascularized
-      Jay Duker's OCTA data // ASRS 2017
-        flat irregular PEDs
-          40+% vascularized
-        domed serous PEDs
-          5-% vascularized
-      chronic CSC is associated with polyps
-    choroidal thickening
-  FFA
-    expansile dot AKA ink blot
-    smokestack
-    RPE ∆
-      guttering
-        not pathognomonic
-        many conditions can have dependent fluid
-          AMD
-          dome maculopathy
-          ...
-  treatment
-    spironolactone 25 mg daily
-    eplerenone 25 mg x 1 week then 50 mg x 4 weeks
-    rifampin 10 mg/kg up to 600 mg total daily dose (i.e. up to 300 bd)
-      upregulates CYP450
-        warfarin and other drugs metabolized more rapidly
-        INR will drop
-    finasteride
-    mifepristone
-    thermal laser
-    PDT
+    idiopathic
+    high-stress
+    type-A
+    exogenous corticosteroids
+        COMMON: solid organ transplant recipients
+    Cushing syndrome
+        pregnancy
+        adrenal tumor
+            e.g. pheochromocytoma
+        ACTH-secreting pituitary adenoma
+    testosterone supplementation
+    OCT
+        SRF
+            may be turbid
+        SR fibrin
+        PED
+            may be vascularized
+            Jay Duker's OCTA data // ASRS 2017
+                flat irregular PEDs
+                    40+% vascularized
+                domed serous PEDs
+                    5-% vascularized
+            chronic CSC is associated with polyps
+        choroidal thickening
+    FFA
+        expansile dot AKA ink blot
+        smokestack
+        RPE ∆
+            guttering
+                not pathognomonic
+                many conditions can have dependent fluid
+                    AMD
+                    dome maculopathy
+                    ...
+    treatment
+        spironolactone 25 mg daily
+        eplerenone 25 mg x 1 week then 50 mg x 4 weeks
+        rifampin 10 mg/kg up to 600 mg total daily dose (i.e. up to 300 bd)
+            upregulates CYP450
+                warfarin and other drugs metabolized more rapidly
+                INR will drop
+        finasteride
+        mifepristone
+        thermal laser
+        PDT
 
 PCV // see AMD.txt
 
 venous dilation as you move away from the disc margin
-  generic sign of widespread retinal ischemia
-    DM
-    RVO
-    ...
+    generic sign of widespread retinal ischemia
+        DM
+        RVO
+        ...
 
 OIS
-  some patients have pain
-    dull orbital ache
-  vision loss
-    usually gradual
-    can have amaurosis
-    poor light adaptation
-  IOP
-    usually low
-    high in some late NVG cases
-  pupil
-    mid-dilated
-    sluggish
-  anterior segment
-    injected
-    corneal edema
-    flare but few cells
-    iris atrophy
-    NVI
-  posterior segment
-    disc pallor
-    NVD
-    CWS
-    arterioles narrowed
-      low perfusion pressure if you press on the eye
-    veins dilated
-      but not tortuous
-    mid-peripheral IRH
-  FFA
-    delayed choroidal filling
-      normal ~ 10 seconds
-      choroidal filling is usually normal in RVO or DR
-    long AV transit time
-      laminar flow should start ~ 15 seconds
-      veins should fill completely ~ 30 seconds
-    NV if present
-  PRP if NV
-  ESR
-    rule out GCA
-  carotid ultrasound
-    OIS generally requires 90+% stenosis
-    NASCET
-      CEA for 70–99% stenosis
-  consult
-    GP
-    vascular surgeon
-  mortality is high
-    nearly half will die over 5 years
-      IHD
-      CVA
+    some patients have pain
+        dull orbital ache
+    vision loss
+        usually gradual
+        can have amaurosis
+        poor light adaptation
+    IOP
+        usually low
+        high in some late NVG cases
+    pupil
+        mid-dilated
+        sluggish
+    anterior segment
+        injected
+        corneal edema
+        flare but few cells
+        iris atrophy
+        NVI
+    posterior segment
+        disc pallor
+        NVD
+        CWS
+        arterioles narrowed
+            low perfusion pressure if you press on the eye
+        veins dilated
+            but not tortuous
+        mid-peripheral IRH
+    FFA
+        delayed choroidal filling
+            normal ~ 10 seconds
+            choroidal filling is usually normal in RVO or DR
+        long AV transit time
+            laminar flow should start ~ 15 seconds
+            veins should fill completely ~ 30 seconds
+        NV if present
+    PRP if NV
+    ESR
+        rule out GCA
+    carotid ultrasound
+        OIS generally requires 90+% stenosis
+        NASCET
+            CEA for 70–99% stenosis
+    consult
+        GP
+        vascular surgeon
+    mortality is high
+        nearly half will die over 5 years
+            IHD
+            CVA
 
 peripheral retinal NV DDx
-  infectious
-    viral
-      ARN
-  inflammatory
+    infectious
+        viral
+            ARN
     inflammatory
-      sarcoid
-      BROADLY: intermediate uveitis
-        // see anterior-and-intermediate-uveitis.txt
-    vasculitis
-      BROADLY // see vasculitis-retinal.txt
-      Eales
-  vascular
-    vasoocclusive
-      PDR
-      RVO
-      OIS
-      S(S|T|C)
-        sickle cell
-          comma-shaped conjunctival vessels
-          focal iris atrophy
-          NVI and all the sequelae
-            hyphema
-            NVG
-          peripheral venous tortuosity
-          salmon patch midperipheral preretinal hemorrhages
-          black sunburst CR infarcts
-          sea fan NVE
-          RARELY: angioid streaks
-        avoid CAI
-          promotes sickling
-      aplastic anemia
-        MAs
-        telangiectasias
-        exudative RD
-        peripheral NP
-          ± NV
-  neoplasia
-    BROADLY: leukemia
-      COMMON: CML
-  iatrogenic
-    surgical
-      encircling SB
-  congenital
-    developmental
-      ROP
-  genetic
-    inherited
-      XLD incontinentia pigmenti
-      AD VRC AKA ADVIRC
-      AD FEVR
-      dyskeratosis congenita
-        mutations in genes that regulate telomerase
-          breaks telomere maintenance processes
-          many different reported genes
-        multiple inheritance patterns
-          COMMON: XLR
-            DKC1 mutations
-          ALSO:
-            AD
-            AR
-        lacy skin pigmentation on the neck and chest
-        abnormally shaped fingernails and toenails
-        white patches in the mouth AKA oral leukoplakia
-        progressive bone marrow failure -> aplastic anemia
-        exudative vitreoretinopathy AKA Revesz syndrome
-          peripheral ischemia
-          NV ± VH
-          TRDs
-      AR hemophagocytic lymphohistiocytosis
-        excessive lymphocyte production of all types
-          destroys the patient's own bone marrow -> severe anemia
-        multiple genes
-          PRF1
-          UNC13D
-          ...
-        ROP-like retinopathy progressing to macular dragging and TRD
-        infants often survive only a few months
-          progressive paralysis
-          seizures
-          heart and kidney failure
-          coma
-      AD familial amyloidotic polyneuropathy
-        a group of related conditions
-          COMMON: transthyretin (TTR) V30M mutation
-            AKA transthyretin amyloidosis
-            TTR production
-              mostly liver
-              also
-                retina
-                choroid
-          amyloid fibrils accumulate
-            peripheral nerves
-            CNS including eyes
-            heart
-            kidneys
-            GI tract
-          any combination of
-            central neuropathy
-              stroke
-              cerebral hemorrhage
-              ataxia
-              spastic paralysis
-              dementia
-              eye disease
-                COMMON:
-                  dry eyes
-                    reduced TBUT
-                    reduced Schirmer values
-                  amyloid deposits
-                    iris
-                    lens
-                    vitreous
-                  scalloped iris
-                ALSO:
-                  glaucoma
-                  abnormal conjunctival vessels
-                  retinal angiopathy
-                    IRH
+        inflammatory
+            sarcoid
+            BROADLY: intermediate uveitis
+                // see anterior-and-intermediate-uveitis.txt
+        vasculitis
+            BROADLY // see vasculitis-retinal.txt
+            Eales
+    vascular
+        vasoocclusive
+            PDR
+            RVO
+            OIS
+            S(S|T|C)
+                sickle cell
+                    comma-shaped conjunctival vessels
+                    focal iris atrophy
+                    NVI and all the sequelae
+                        hyphema
+                        NVG
+                    peripheral venous tortuosity
+                    salmon patch midperipheral preretinal hemorrhages
+                    black sunburst CR infarcts
+                    sea fan NVE
+                    RARELY: angioid streaks
+                avoid CAI
+                    promotes sickling
+            aplastic anemia
+                MAs
+                telangiectasias
+                exudative RD
+                peripheral NP
+                    ± NV
+    neoplasia
+        BROADLY: leukemia
+            COMMON: CML
+    iatrogenic
+        surgical
+            encircling SB
+    congenital
+        developmental
+            ROP
+    genetic
+        inherited
+            XLD incontinentia pigmenti
+            AD VRC AKA ADVIRC
+            AD FEVR
+            dyskeratosis congenita
+                mutations in genes that regulate telomerase
+                    breaks telomere maintenance processes
+                    many different reported genes
+                multiple inheritance patterns
+                    COMMON: XLR
+                        DKC1 mutations
+                    ALSO:
+                        AD
+                        AR
+                lacy skin pigmentation on the neck and chest
+                abnormally shaped fingernails and toenails
+                white patches in the mouth AKA oral leukoplakia
+                progressive bone marrow failure -> aplastic anemia
+                exudative vitreoretinopathy AKA Revesz syndrome
                     peripheral ischemia
-                    VH
-            peripheral neuropathy
-              sensory loss
-              parasthesias
-              impotence
-            autonomic dysfunction
-              blood pressure
-                COMMON: orthostatic hypotension
-                ALSO: hypertension
-              heart
-                arrhythmias
-                cardiomegaly
-              digestion
-                diarrhea
-                constipation
-  endocrine
+                    NV ± VH
+                    TRDs
+            AR hemophagocytic lymphohistiocytosis
+                excessive lymphocyte production of all types
+                    destroys the patient's own bone marrow -> severe anemia
+                multiple genes
+                    PRF1
+                    UNC13D
+                    ...
+                ROP-like retinopathy progressing to macular dragging and TRD
+                infants often survive only a few months
+                    progressive paralysis
+                    seizures
+                    heart and kidney failure
+                    coma
+            AD familial amyloidotic polyneuropathy
+                a group of related conditions
+                    COMMON: transthyretin (TTR) V30M mutation
+                        AKA transthyretin amyloidosis
+                        TTR production
+                            mostly liver
+                            also
+                                retina
+                                choroid
+                    amyloid fibrils accumulate
+                        peripheral nerves
+                        CNS including eyes
+                        heart
+                        kidneys
+                        GI tract
+                    any combination of
+                        central neuropathy
+                            stroke
+                            cerebral hemorrhage
+                            ataxia
+                            spastic paralysis
+                            dementia
+                            eye disease
+                                COMMON:
+                                    dry eyes
+                                        reduced TBUT
+                                        reduced Schirmer values
+                                    amyloid deposits
+                                        iris
+                                        lens
+                                        vitreous
+                                    scalloped iris
+                                ALSO:
+                                    glaucoma
+                                    abnormal conjunctival vessels
+                                    retinal angiopathy
+                                        IRH
+                                        peripheral ischemia
+                                        VH
+                        peripheral neuropathy
+                            sensory loss
+                            parasthesias
+                            impotence
+                        autonomic dysfunction
+                            blood pressure
+                                COMMON: orthostatic hypotension
+                                ALSO: hypertension
+                            heart
+                                arrhythmias
+                                cardiomegaly
+                            digestion
+                                diarrhea
+                                constipation
     endocrine
-      DM // mentioned above as PDR
+        endocrine
+            DM // mentioned above as PDR
 
 retinal hemorrhages with low platelets
-  ITP
-  TTP
-    low platelets
-    hemolytic anemia
-    fever
-    renal dysfunction
-    altered mental status
-    CVA
-    HA
-  medications
-    amiodarone
-    sulfonamides
-    ibuprofen
-    tamoxifen
+    ITP
+    TTP
+        low platelets
+        hemolytic anemia
+        fever
+        renal dysfunction
+        altered mental status
+        CVA
+        HA
+    medications
+        amiodarone
+        sulfonamides
+        ibuprofen
+        tamoxifen
 
 pulmonary HTN
-  RARELY:
-    serous RD
-    PED
-    usually resolve with systemic treatment
-    can be difficult to separate from CSC if on steroids
+    RARELY:
+        serous RD
+        PED
+        usually resolve with systemic treatment
+        can be difficult to separate from CSC if on steroids

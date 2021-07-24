@@ -3,24 +3,23 @@
 methotrexate worksheet
 
 before starting treatment
-  infectious history
-    explicitly ask about
-      TB
-        active
-        latent
-        contact with someone who had TB
-        from a country where TB is endemic // or a prolonged stay
-          //...
-      HSV
-      VZV
-      hep B
-      hep C
-      HIV
-      fungal
-      parasitic
-        Strongyloides
-          travel to the tropics
-          endemic countries
-            //...
-  vaccination history
-
+    infectious history
+        explicitly ask about
+            TB
+                active
+                latent
+                contact with someone who had TB
+                from a country where TB is endemic // or a prolonged stay
+                    //...
+            HSV
+            VZV
+            hep B
+            hep C
+            HIV
+            fungal
+            parasitic
+                Strongyloides
+                    travel to the tropics
+                    endemic countries
+                        //...
+    vaccination history

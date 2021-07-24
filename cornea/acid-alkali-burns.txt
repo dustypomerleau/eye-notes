@@ -2,106 +2,106 @@
 
 acid and alkali burns
 
-  goals
-    treat pain
-    restore clear cornea
-    restore ocular surface
-      conjunctival goblet cells
-      limbal stem cells
-    prevent glaucoma
-    prevent bacterial superinfection
+    goals
+        treat pain
+        restore clear cornea
+        restore ocular surface
+            conjunctival goblet cells
+            limbal stem cells
+        prevent glaucoma
+        prevent bacterial superinfection
 
-  acid burns
-    usually a chemical with pH 4-
-    coagulation of denatured corneal proteins limits penetration
-    ground glass appearance
+    acid burns
+        usually a chemical with pH 4-
+        coagulation of denatured corneal proteins limits penetration
+        ground glass appearance
 
-  alkali burns
-    sodium hydroxide (lye)
-      drain cleaners
-    ammonia
-    calcium hydroxide (lime)
-      cement
-      plaster
-    rapid penetration of AC
-      lipophilic
-      denature collagen
-      direct damage to TM after penetration
-      strongly activate proteolytic enzymes
-        MMPs
-        NEVER: use NSAIDs in a melting cornea
+    alkali burns
+        sodium hydroxide (lye)
+            drain cleaners
+        ammonia
+        calcium hydroxide (lime)
+            cement
+            plaster
+        rapid penetration of AC
+            lipophilic
+            denature collagen
+            direct damage to TM after penetration
+            strongly activate proteolytic enzymes
+                MMPs
+                NEVER: use NSAIDs in a melting cornea
 
-  severity (grade)
-    Roper-Hall (1965) // for exam purposes, this is the most recognized
-      1
-        epi defect only
-      2
-        corneal haze
-        visible iris
-        ± 4- CH focal limbal ischemia
-      3
-        total epi defect
-        corneal haze obscuring iris
-        4–6 CH limbal ischemia
-      4
-        opaque cornea
-        6+ CH limbal ischemia
-      limbal ischemia is the easiest aspect of grading
-        none
-        4-
-        6-
-        6+
-      if you can't see the iris the grade is Roper-Hall 3+
-    Dua (2001) // my preferred system given better modern era prognostic value
-      document as
-        CH limbal involvement / % bulbar conj involvement (limbus to fornix)
-        limbal involvement
-          limbal ischemia OR complete loss of limbal epithelium including LSC
-      grade 4+ have worse outcomes
-        conveniently that's when 1/2 of the limbus and conj are involved
-      0 CH / 0% (1)
-      1+ CH / 1+% (2)
-      3+ CH / 30+% (3)
-      6+ CH / 50+% (4)
-      9+ CH / 75+% (5)
-      12 CH / 100% (6)
+    severity (grade)
+        Roper-Hall (1965) // for exam purposes, this is the most recognized
+            1
+                epi defect only
+            2
+                corneal haze
+                visible iris
+                ± 4- CH focal limbal ischemia
+            3
+                total epi defect
+                corneal haze obscuring iris
+                4–6 CH limbal ischemia
+            4
+                opaque cornea
+                6+ CH limbal ischemia
+            limbal ischemia is the easiest aspect of grading
+                none
+                4-
+                6-
+                6+
+            if you can't see the iris the grade is Roper-Hall 3+
+        Dua (2001) // my preferred system given better modern era prognostic value
+            document as
+                CH limbal involvement / % bulbar conj involvement (limbus to fornix)
+                limbal involvement
+                    limbal ischemia OR complete loss of limbal epithelium including LSC
+            grade 4+ have worse outcomes
+                conveniently that's when 1/2 of the limbus and conj are involved
+            0 CH / 0% (1)
+            1+ CH / 1+% (2)
+            3+ CH / 30+% (3)
+            6+ CH / 50+% (4)
+            9+ CH / 75+% (5)
+            12 CH / 100% (6)
 
-  treatment
-    irrigate with saline to pH 7.0–7.2
-    confirm pH 30 minutes later to ensure no hidden particles
-    sweep fornices and evert lids
-    check pH of the fellow eye to ensure no involvement
-    total epi defect may not stain dramatically with fluorescein
-    evaluate initial IOP
-    meds
-      PF lubricants
-      cycloplegia
-        homatropine 2% tds
-      PF Chlorsig minims qid
-      FML up to q 1 hour depending on severity
-        has collagenase activity
-        try to taper rapidly after a week to allow new collagen synthesis
-      ALWAYS: use collagenase inhibitors to inhibit MMPs
-        doxycycline 100 mg po bd
-        ascorbic acid 500 mg po qid
-        ascorbic acid 10% drops q 2 hours
-      sodium citrate 10% drops q 2 hours
-        chelates Ca
-        inhibits neutrophils
-      oral pain medication
-    Follow every 1–2 days.
-      monitor
-        IOP
-        epi defect
-        perforation
-        superinfection
-        symblepharon
-    If not completely epithelialized in 2 weeks
-      tarsorrhaphy OR
-      cover the cornea in amniotic membrane
-        limbal purse-string suture
-    late options
-      limbal stem cell autograft
-      limbal stem cell allograft for bilateral cases
-      corneal transplant (high failure rate)
-      keratoprosthesis // USA
+    treatment
+        irrigate with saline to pH 7.0–7.2
+        confirm pH 30 minutes later to ensure no hidden particles
+        sweep fornices and evert lids
+        check pH of the fellow eye to ensure no involvement
+        total epi defect may not stain dramatically with fluorescein
+        evaluate initial IOP
+        meds
+            PF lubricants
+            cycloplegia
+                homatropine 2% tds
+            PF Chlorsig minims qid
+            FML up to q 1 hour depending on severity
+                has collagenase activity
+                try to taper rapidly after a week to allow new collagen synthesis
+            ALWAYS: use collagenase inhibitors to inhibit MMPs
+                doxycycline 100 mg po bd
+                ascorbic acid 500 mg po qid
+                ascorbic acid 10% drops q 2 hours
+            sodium citrate 10% drops q 2 hours
+                chelates Ca
+                inhibits neutrophils
+            oral pain medication
+        Follow every 1–2 days.
+            monitor
+                IOP
+                epi defect
+                perforation
+                superinfection
+                symblepharon
+        If not completely epithelialized in 2 weeks
+            tarsorrhaphy OR
+            cover the cornea in amniotic membrane
+                limbal purse-string suture
+        late options
+            limbal stem cell autograft
+            limbal stem cell allograft for bilateral cases
+            corneal transplant (high failure rate)
+            keratoprosthesis // USA

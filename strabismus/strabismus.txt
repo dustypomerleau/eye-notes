@@ -7,359 +7,359 @@
 strabismus
 
 exam summary
-  history
-  observations
-    including glasses
-  VA
-  corneal light reflex
-  pupils
-  cover testing
-  ductions
-  versions
-  binocularity testing
-  cyclorefraction
-  slitlamp
-  DFE
+    history
+    observations
+        including glasses
+    VA
+    corneal light reflex
+    pupils
+    cover testing
+    ductions
+    versions
+    binocularity testing
+    cyclorefraction
+    slitlamp
+    DFE
 
 overall approach
-  what is the diagnosis?
-    do I need investigations to determine it?
-  is the vision normal?
-    options
-      spectacles
-      CTL
-      amblyopia therapy
-      surgery
-  is the patient binocular?
-    can they be binocular?
-    should I try and make them binocular?
-    options
-      orthoptics
-      spectacles
-      CTL
-      prisms
-      BOTOX
-      surgery
-      occlusion
-  is the appearance satisfactory?
-    options
-      BOTOX
-      surgery
+    what is the diagnosis?
+        do I need investigations to determine it?
+    is the vision normal?
+        options
+            spectacles
+            CTL
+            amblyopia therapy
+            surgery
+    is the patient binocular?
+        can they be binocular?
+        should I try and make them binocular?
+        options
+            orthoptics
+            spectacles
+            CTL
+            prisms
+            BOTOX
+            surgery
+            occlusion
+    is the appearance satisfactory?
+        options
+            BOTOX
+            surgery
 
 OSCE approximate time breakdown (minutes)
-  history (3)
-  glasses (1)
-  head posture (1)
-  vision (4)
-  pupils (1)
-  cover test (2)
-    write as you go
-      deviation for each gaze
-      DDx at the end
-  ductions then versions (1)
-  binocularity testing (1)
-    only if indicated
-      see below
-  cycloplegic refraction
-    STATE you would do it
-      they will give it to you
-  fundus examination (0.5)
+    history (3)
+    glasses (1)
+    head posture (1)
+    vision (4)
+    pupils (1)
+    cover test (2)
+        write as you go
+            deviation for each gaze
+            DDx at the end
+    ductions then versions (1)
+    binocularity testing (1)
+        only if indicated
+            see below
+    cycloplegic refraction
+        STATE you would do it
+            they will give it to you
+    fundus examination (0.5)
 
 abbreviated DDx
-  child
-    ET child
-      infantile ET
-      accomodative ET
-        fully accomodative OR
-        partially accomodative
-        ± high AC/A
-          10 ∆ worse at near
-          no need to quantify further
-      sensory ET
-      Duane1 syndrome
-    XT child
-      intermittent X(T)
-      consecutive XT
-      sensory XT
-        ET more common in kids
-      CN3P
-      RARELY: infantile XT
-        should concern you
-        usually with other neurologic problems
-    HT child
-      IOOA
-      DVD
-      CN4P
-      Brown syndrome
-      CCDD
-      CN3P
-  adult
-    ET adult
-      residual ET
-        expect suppression
-      age-related distance ET
-      TED
-      MG
-      CN6P
-      Duane1
-        childhood onset
-      GCA
-    XT adult
-      consecutive XT
-        expect suppression
-      decompensating XT
-      sensory XT
-      CN3P
-      MG
-      GCA
-    HT adult
-      CN4P
-      TED
-      orbital fracture
-      MG
-      CN3P
-      GCA
+    child
+        ET child
+            infantile ET
+            accomodative ET
+                fully accomodative OR
+                partially accomodative
+                ± high AC/A
+                    10 ∆ worse at near
+                    no need to quantify further
+            sensory ET
+            Duane1 syndrome
+        XT child
+            intermittent X(T)
+            consecutive XT
+            sensory XT
+                ET more common in kids
+            CN3P
+            RARELY: infantile XT
+                should concern you
+                usually with other neurologic problems
+        HT child
+            IOOA
+            DVD
+            CN4P
+            Brown syndrome
+            CCDD
+            CN3P
+    adult
+        ET adult
+            residual ET
+                expect suppression
+            age-related distance ET
+            TED
+            MG
+            CN6P
+            Duane1
+                childhood onset
+            GCA
+        XT adult
+            consecutive XT
+                expect suppression
+            decompensating XT
+            sensory XT
+            CN3P
+            MG
+            GCA
+        HT adult
+            CN4P
+            TED
+            orbital fracture
+            MG
+            CN3P
+            GCA
 
 history
-  birth history
-    prenatal complications
-      including premature birth
-    birth complications
-    postnatal complications
-      infection
-      illness
-  developmental history
-    developmental milestones
-    education level for age
-  systemic disease
-  strabismus history
-    age of onset
-    sudden OR gradual
-    constant OR intermittent
-  adults
-    history of childhood strabismus
-    presence or absence of diplopia
-      direction if present
-        H or V
-  family history
-    strabismus
-    high refractive error
-    genetic eye disease
-      developmental anomalies
-      dystrophies
-  ocular history
-  neurologic symptoms
-    important for CNP
-      HA
-      weakness
+    birth history
+        prenatal complications
+            including premature birth
+        birth complications
+        postnatal complications
+            infection
+            illness
+    developmental history
+        developmental milestones
+        education level for age
+    systemic disease
+    strabismus history
+        age of onset
+        sudden OR gradual
+        constant OR intermittent
+    adults
+        history of childhood strabismus
+        presence or absence of diplopia
+            direction if present
+                H or V
+    family history
+        strabismus
+        high refractive error
+        genetic eye disease
+            developmental anomalies
+            dystrophies
+    ocular history
+    neurologic symptoms
+        important for CNP
+            HA
+            weakness
 
 observation
-  glasses
-    + or -
-    direction of any prism
-      align paper edge for V
-      center and then align paper edge for H
-    bifocal
-      usually high AC/A
-    high +
-      usually accomodative ET
-    minus
-      usually intermittent XT
-  visual behavior
-    interest
-  head posture
-    stand them up straight
-    document
-      face turn
-      head tilt
-      chin up or down
-  facial anomalies
-    facial symmetry
-    thyroidectomy scar in adults
-  lids
-    ptosis
-    fissure symmetry
-  nystagmus
-    may take time to characterize
-    approach simply
-      uniocular or binocular
-      horizontal, vertical, or rotary
-      jerk or pendular
-      presence of a null point
-  manifest tropia
+    glasses
+        + or -
+        direction of any prism
+            align paper edge for V
+            center and then align paper edge for H
+        bifocal
+            usually high AC/A
+        high +
+            usually accomodative ET
+        minus
+            usually intermittent XT
+    visual behavior
+        interest
+    head posture
+        stand them up straight
+        document
+            face turn
+            head tilt
+            chin up or down
+    facial anomalies
+        facial symmetry
+        thyroidectomy scar in adults
+    lids
+        ptosis
+        fissure symmetry
+    nystagmus
+        may take time to characterize
+        approach simply
+            uniocular or binocular
+            horizontal, vertical, or rotary
+            jerk or pendular
+            presence of a null point
+    manifest tropia
 
 age-appropriate visual acuity testing
 
-  if there is no amblyopia we expect at LEAST
-    6/60 by 6 months
-    6/15 by 3 years // many children are 6/6 by PL @ 3 years
-    6/12 by 5 years
-    method of testing is important
-      pattern VEP shows better VA than PL in infants
-      generally, the further you go down the list
-        the lower the measured acuity will be
-        i.e. PL, Lea tend to overestimate VA compared to ETDRS
+    if there is no amblyopia we expect at LEAST
+        6/60 by 6 months
+        6/15 by 3 years // many children are 6/6 by PL @ 3 years
+        6/12 by 5 years
+        method of testing is important
+            pattern VEP shows better VA than PL in infants
+            generally, the further you go down the list
+                the lower the measured acuity will be
+                i.e. PL, Lea tend to overestimate VA compared to ETDRS
 
-  interest, bright objects
-    human caretakers face is the best target for uninterested babies
-  CSM, 20 ∆ BD, base-to-base ∆ test: do they alternate?
-  PL/grating 6+ months
-  Kay/Allen/Lea 2+ YO
-  HOTV/SG 3+ YO
-  Snellen/ETDRS 5+ YO
+    interest, bright objects
+        human caretakers face is the best target for uninterested babies
+    CSM, 20 ∆ BD, base-to-base ∆ test: do they alternate?
+    PL/grating 6+ months
+    Kay/Allen/Lea 2+ YO
+    HOTV/SG 3+ YO
+    Snellen/ETDRS 5+ YO
 
 /*
 
 amblyopia != suppression
-  you can have suppression of an eye with 6/6 vision
-  suppression is only present when using both eyes
-  amblyopia is present all the time
+    you can have suppression of an eye with 6/6 vision
+    suppression is only present when using both eyes
+    amblyopia is present all the time
 
 good outcome of amblyopia therapy
-  6/9 vision
-  straight eyes
-  by 10 YO
+    6/9 vision
+    straight eyes
+    by 10 YO
 
 PEDIG summary
-  moderate amblyopes 6/24+
-    atropine 1% bd 2 days/week OR
-    2 h patching
-  severe amblyopes 6/30-
-    patch up to 6 h
-    no benefit to more than that
-  actual studies
-    moderate amblyopes
-      7- YO
-        daily atropine = 6 (2002)
-        2 = 6 (2003)
-        2 days (weekend) atropine = daily atropine
-        3/4 7- YO moderates achieve 6/9 OR gain 3 lines
-          biggest improvement is in the first 6 weeks
-      7–12 YO
-        2 days atropine = 2 (2008)
-          1/5 achieves 6/7.5 in this age group
-          size of gain is much smaller
-            average gain is a little more than a line
-          younger patients get more benefit
-    severe amblyopes
-      7- YO
-        6 = full-time (2003)
-          4/5 gain 3 lines
-          1/4 achieve 6/9
-      3–12 YO
-        2 days atropine = 2 (2009)
-          average gain was 1–2 lines
-          nearly all patients were 6/15- despite this
-            so better to use 6 hours patching OR daily atropine in 6/30-
+    moderate amblyopes 6/24+
+        atropine 1% bd 2 days/week OR
+        2 h patching
+    severe amblyopes 6/30-
+        patch up to 6 h
+        no benefit to more than that
+    actual studies
+        moderate amblyopes
+            7- YO
+                daily atropine = 6 (2002)
+                2 = 6 (2003)
+                2 days (weekend) atropine = daily atropine
+                3/4 7- YO moderates achieve 6/9 OR gain 3 lines
+                    biggest improvement is in the first 6 weeks
+            7–12 YO
+                2 days atropine = 2 (2008)
+                    1/5 achieves 6/7.5 in this age group
+                    size of gain is much smaller
+                        average gain is a little more than a line
+                    younger patients get more benefit
+        severe amblyopes
+            7- YO
+                6 = full-time (2003)
+                    4/5 gain 3 lines
+                    1/4 achieve 6/9
+            3–12 YO
+                2 days atropine = 2 (2009)
+                    average gain was 1–2 lines
+                    nearly all patients were 6/15- despite this
+                        so better to use 6 hours patching OR daily atropine in 6/30-
 
 MOTAS amblyopia study (2004)
-  patching has a dose-response effect
-  only half of patients are compliant with patching
-  the greatest effect of patching is in the first few weeks
-  treatment age is a major factor in the success of patching
+    patching has a dose-response effect
+    only half of patients are compliant with patching
+    the greatest effect of patching is in the first few weeks
+    treatment age is a major factor in the success of patching
 
 VIP-HIP study (2016)
-  preschoolers with 3–6 D hyperopia versus emmetropic preschoolers
-    moderate hyperopes had
-      lower VA
-      worse stereo
-      // prior studies also documented higher amblyopia and strabismus
-  even when they can accomodate through the hyperopia
-    3+ D should be corrected
-      even if the 2 eyes are similar
-  general practice pattern
-    tolerate slightly more hyperopia in 1–2 YO
-      4–5 D
-    if there is strabismus at any value of hyperopia
-      correct the hyperopia
+    preschoolers with 3–6 D hyperopia versus emmetropic preschoolers
+        moderate hyperopes had
+            lower VA
+            worse stereo
+            // prior studies also documented higher amblyopia and strabismus
+    even when they can accomodate through the hyperopia
+        3+ D should be corrected
+            even if the 2 eyes are similar
+    general practice pattern
+        tolerate slightly more hyperopia in 1–2 YO
+            4–5 D
+        if there is strabismus at any value of hyperopia
+            correct the hyperopia
 
 review amblyopes
-  1–3 months depending on
-    amblyopia severity
-    age
-      see sooner if
-        younger
-        better visual potential
-        more dense amblyopia
-  stop therapy
-    3 visits with no improvement
-  expectations
-    3/4 of moderate amblyopes gain 3 lines in 6 months
-      many will be faster than this
-    1/4 will have recurrence over the first year
-      to prevent recurrence
-        wean slowly
-          alternate days first
-          then reduce hours
-    older kids
-      still worth patching
-        1/2 will improve age 7–12
-        1/4 will improve age 13–17
-  if amblyopia therapy doesn't work
-    talk compliance
-    repeat the refraction
-    repeat the fundus exam
+    1–3 months depending on
+        amblyopia severity
+        age
+            see sooner if
+                younger
+                better visual potential
+                more dense amblyopia
+    stop therapy
+        3 visits with no improvement
+    expectations
+        3/4 of moderate amblyopes gain 3 lines in 6 months
+            many will be faster than this
+        1/4 will have recurrence over the first year
+            to prevent recurrence
+                wean slowly
+                    alternate days first
+                    then reduce hours
+        older kids
+            still worth patching
+                1/2 will improve age 7–12
+                1/4 will improve age 13–17
+    if amblyopia therapy doesn't work
+        talk compliance
+        repeat the refraction
+        repeat the fundus exam
 
-  risk of poor outcome in amblyopes
-    strong FH of amblyopia
-    dense amblyopia at diagnosis
-    treatment started late
-    not compliant
-      including behavioral problems
-    poor family support
+    risk of poor outcome in amblyopes
+        strong FH of amblyopia
+        dense amblyopia at diagnosis
+        treatment started late
+        not compliant
+            including behavioral problems
+        poor family support
 
 */
 
 
 deviation estimate by light reflex
-  susceptible to angle kappa errors
-  symmetric or not?
-    Hirschberg light reflex
-      15, 30, 45 ∆ at pupil edge, mid-iris, limbus
-    Krimsky prism measurement
+    susceptible to angle kappa errors
+    symmetric or not?
+        Hirschberg light reflex
+            15, 30, 45 ∆ at pupil edge, mid-iris, limbus
+        Krimsky prism measurement
 
 check for RAPD
 
 cover testing
-  first without glasses
-  then with glasses
-  make the diagnosis with cover-uncover
-  then quantify with prism + alternate cover
+    first without glasses
+    then with glasses
+    make the diagnosis with cover-uncover
+    then quantify with prism + alternate cover
 
-  cover-uncover
-    perform in 5 positions at 6 m
-    then in 1°'
-    this is really 2 tests
-      cover
-        watch fellow eye
-          is there a tropia?
-            yes
-              is there a fixation preference?
-                both eyes are briefly exposed between cover tests
-                look for the eye that doesn't move when the fellow is covered
-      uncover
-        watch covered eye
-          is there a phoria?
-          is there a DVD?
-    record each measurement as you go along
-    for ET OR XT
-      STATE if the angle is worse at near OR distance
-      write this down
-    write down top 3+ diagnoses at this point
-      decide what other information you need to prove/disprove them
+    cover-uncover
+        perform in 5 positions at 6 m
+        then in 1°'
+        this is really 2 tests
+            cover
+                watch fellow eye
+                    is there a tropia?
+                        yes
+                            is there a fixation preference?
+                                both eyes are briefly exposed between cover tests
+                                look for the eye that doesn't move when the fellow is covered
+            uncover
+                watch covered eye
+                    is there a phoria?
+                    is there a DVD?
+        record each measurement as you go along
+        for ET OR XT
+            STATE if the angle is worse at near OR distance
+            write this down
+        write down top 3+ diagnoses at this point
+            decide what other information you need to prove/disprove them
 
-    if the deviation is incomitant and you suspect a palsy
-      check
-        1° deviation
-          good eye fixating
-        2° deviation
-          paretic eye fixating
+        if the deviation is incomitant and you suspect a palsy
+            check
+                1° deviation
+                    good eye fixating
+                2° deviation
+                    paretic eye fixating
 
-  special cover testing for X(T) // XT.txt
+    special cover testing for X(T) // XT.txt
 
 /*
 look for
-  DVD
+    DVD
   oblique dysfunction
   helps to confirm infantile ET
     especially in an adult

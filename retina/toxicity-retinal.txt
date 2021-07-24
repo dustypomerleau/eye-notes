@@ -5,11 +5,11 @@
 retinal toxicity
 
 quinine retinal toxicity
-  diffuse TID
-    unlike PDS OR PXF
-  constricted VF
-  loss of color vision
-  reduced ERG amplitude
+    diffuse TID
+        unlike PDS OR PXF
+    constricted VF
+    loss of color vision
+    reduced ERG amplitude
 
 basal laminar drusen systemic associations
-  MPGN2
+    MPGN2

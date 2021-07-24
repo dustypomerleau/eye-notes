@@ -3,15 +3,15 @@
 //... stub for future expansion
 
 MH
-  FTMH
-    poor prognosis
-      absence of cysts
-      chronic deposits
-      hole edges not elevated
-  lamellar hole
-    //...
-  pseudohole
-    //...
+    FTMH
+        poor prognosis
+            absence of cysts
+            chronic deposits
+            hole edges not elevated
+    lamellar hole
+        //...
+    pseudohole
+        //...
 
 
 //
@@ -25,30 +25,30 @@ will still be asked about it.
 
 Gass macular hole stages
 
-  * Stage 1a: Foveal detachment. Macular cyst. Tangential vitreous traction
-  results in the elevation of the fovea marked by increased clinical
-  prominence of xanthophyll pigment.  This stage is occasionally referred to
-  as the yellow dot stage and can also be seen in cases of central serous
-  chorioretinopathy, cystoid macular edema, and solar retinopathy.
+    * Stage 1a: Foveal detachment. Macular cyst. Tangential vitreous traction
+    results in the elevation of the fovea marked by increased clinical
+    prominence of xanthophyll pigment.  This stage is occasionally referred to
+    as the yellow dot stage and can also be seen in cases of central serous
+    chorioretinopathy, cystoid macular edema, and solar retinopathy.
 
-  * Stage 1b: As the foveal retina elevates to the level of the perifoveal,
-  the yellow dot of xanthophyll pigment changes to a donut shaped yellow ring.
-  Persistent traction on the fovea leads to dehiscence of deeper retinal
-  layers at the umbo.
+    * Stage 1b: As the foveal retina elevates to the level of the perifoveal,
+    the yellow dot of xanthophyll pigment changes to a donut shaped yellow ring.
+    Persistent traction on the fovea leads to dehiscence of deeper retinal
+    layers at the umbo.
 
-  * Stage 2: This is the first stage when a full-thickness break in the retina
-  exists.  It is defined as a full-thickness macular hole less than 400 µm in
-  size. The full-thickness defect may appear eccentric, and there may be a
-  pseudo-operculum at this stage if there has been spontaneous vitreofoveolar
-  separation. These opercula have been examined and found to be vitreous
-  condensation and glial proliferation without harboring any retinal tissue.
+    * Stage 2: This is the first stage when a full-thickness break in the retina
+    exists.  It is defined as a full-thickness macular hole less than 400 µm in
+    size. The full-thickness defect may appear eccentric, and there may be a
+    pseudo-operculum at this stage if there has been spontaneous vitreofoveolar
+    separation. These opercula have been examined and found to be vitreous
+    condensation and glial proliferation without harboring any retinal tissue.
 
-  * Stage 3: A full-thickness macular hole in the retina exists. It is greater
-  than 400 µm in size and is still with partial vitreomacular adhesion/
-  traction.
+    * Stage 3: A full-thickness macular hole in the retina exists. It is greater
+    than 400 µm in size and is still with partial vitreomacular adhesion/
+    traction.
 
-  * Stage 4: A full-thickness macular hole exists in the presence of a
-  complete separation of the vitreous from the macula and the optic disc.
-  There is recent evidence, however, that, even in the presence of an apparent
-  posterior vitreous detachment, a thin shell of residual cortical vitreous
-  may still remain and contribute to the macular hole.
+    * Stage 4: A full-thickness macular hole exists in the presence of a
+    complete separation of the vitreous from the macula and the optic disc.
+    There is recent evidence, however, that, even in the presence of an apparent
+    posterior vitreous detachment, a thin shell of residual cortical vitreous
+    may still remain and contribute to the macular hole.

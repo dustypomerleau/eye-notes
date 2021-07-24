@@ -2,70 +2,70 @@
 
 orbital implants:
 
-  cheap and low extrusion
-    glass
-    silicone
-    PMMA
+    cheap and low extrusion
+        glass
+        silicone
+        PMMA
 
-  good tissue integration and movement transfer
-    hydroxyapatite
-    porous polyethylene
-      to prevent extrusion
-        cover with sclera OR fascia
-        close Tenon fully
-        suture EOMs to sclera
+    good tissue integration and movement transfer
+        hydroxyapatite
+        porous polyethylene
+            to prevent extrusion
+                cover with sclera OR fascia
+                close Tenon fully
+                suture EOMs to sclera
 
-  infected implant
-    systemic + topical antibiotics
-    removal if worsening
+    infected implant
+        systemic + topical antibiotics
+        removal if worsening
 
-  exposed implant
-    patch
-      sclera
-      fascia
-    close Tenon
+    exposed implant
+        patch
+            sclera
+            fascia
+        close Tenon
 
 
 post-enucleation socket syndrome
 
-  3 primary components:
+    3 primary components:
 
-    1. loss of volume
-    2. lower lid laxity
-    3. shortening of the fornix
+        1. loss of volume
+        2. lower lid laxity
+        3. shortening of the fornix
 
-    ± ptosis
+        ± ptosis
 
 
-  treatment:
+    treatment:
 
-    Is the implant large enough?
-      no
-        replace it
-      yes
-        orbital floor implant
-          e.g. Medpor
-        if persistent volume deficit
-          dermis fat graft
+        Is the implant large enough?
+            no
+                replace it
+            yes
+                orbital floor implant
+                    e.g. Medpor
+                if persistent volume deficit
+                    dermis fat graft
 
-    LL laxity
-      LTS
+        LL laxity
+            LTS
 
-    shortened fornix
-      deepening sutures
-        attach a silicone rod to orbital rim periosteum
-        pass out through the skin
+        shortened fornix
+            deepening sutures
+                attach a silicone rod to orbital rim periosteum
+                pass out through the skin
 
-    ptosis
-      new prosthesis
-      still inadequate
-        surgical ptosis repair
+        ptosis
+            new prosthesis
+            still inadequate
+                surgical ptosis repair
 
 
 //
 
 
 conjunctival inclusion cysts
-  can occur in the anophthalmic socket
-  transilluminate the cyst
-    inclusion cysts will be clear
+    can occur in the anophthalmic socket
+    transilluminate the cyst
+        inclusion cysts will be clear

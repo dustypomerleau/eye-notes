@@ -1,137 +1,137 @@
 // https://github.com/dustypomerleau/eye-notes
 
 retinal vasculitis shortlist
-  viral retinitis
-  TB
-  syphilis
-  Toxoplasma
-  sarcoid
-  lupus
-  MS
-  Behcet
-  Eales
+    viral retinitis
+    TB
+    syphilis
+    Toxoplasma
+    sarcoid
+    lupus
+    MS
+    Behcet
+    Eales
 
 retinal vasculitis DDx
 
-  infectious
-    viral
-      COMMON:
-        HSV OR VZV
-          ± ARN
-        CMV
-          immunosuppressed
-      ALSO:
-        Hep. C
-        HTLV-1
-      RARELY:
-        EBV
-        WNV
-        RVF
-          paramacular exudate-like lesions
-          hemorrhages
-          vasculitis
-          retinitis
-    bacterial
-      COMMON:
-        TB
-          may cause Eales
-        syphilis
-        Lyme
-      ALSO:
-        Leptospira
-        Rickettsia
-        Whipple disease
-    fungal
-      Candida
-      Coccidiodes
-    protozoal
-      Toxoplasma
-    helminthic
-      Toxocara
+    infectious
+        viral
+            COMMON:
+                HSV OR VZV
+                    ± ARN
+                CMV
+                    immunosuppressed
+            ALSO:
+                Hep. C
+                HTLV-1
+            RARELY:
+                EBV
+                WNV
+                RVF
+                    paramacular exudate-like lesions
+                    hemorrhages
+                    vasculitis
+                    retinitis
+        bacterial
+            COMMON:
+                TB
+                    may cause Eales
+                syphilis
+                Lyme
+            ALSO:
+                Leptospira
+                Rickettsia
+                Whipple disease
+        fungal
+            Candida
+            Coccidiodes
+        protozoal
+            Toxoplasma
+        helminthic
+            Toxocara
 
-  inflammatory
     inflammatory
-      sarcoid
-      idiopathic intermediate uveitis
-    autoimmune
-      lupus
-        can be life threatening
-          malignant HTN
-          lupus nephritis
-          antiphospholipid Ab
-            lupus anticoagulant
-              misnomer
-              causes clotting
-            anticardiolipin Ab
-      MS
-      IBD
-      WDS
-        birdshot
-        MC
-        APMPPE
-        RARELY: serpiginous
-      dermatomyositis
-      anti-Ro/SSA Ab
-      Cogan syndrome // see keratitis-infectious.txt
-    vasculitis
-      Behcet
-        Middle East
-        Turkey
-        diagnostic criteria
-          3/3 major is definitive
-          2/3 major + 2 minor is pretty convincing
-          MAJOR:
-            oral and genital ulcers
-              nearly all Behcet patients have oral ulcers
-            uveitis OR retinal vasculitis
-              eye involvement in 3/4 of Behcet
-            skin lesions
-              erythema nodosum
-              positive pathergy test
-                hypersensitivity pustule 1–2 days after sterile needle prick
-          MINOR:
-            GI lesions
-              small bowel ulcers
-              IBD-like symptoms
-            thrombophlebitis
-              large venous thrombosis
-            CNS lesions
-              dural VST with elevated ICP
-              inflammatory lesions in the brainstem
-              if any neurologic signs
-                MRI
-                LP
-                  elevated neutrophils
-                  elevated IgG protein
-            FH
-          ALSO:
-            renal involvement
-              glomerulonephritis
-        when you see (retinitis + BRVO ± uveitis)
-          think Behcet
-        HLA-B51 present in more than half
-        treatment
-          topical steroids
-          cycloplegia
-          prednisolone 1 mg/kg/d to start
-          transition to SSIMT
-            cyclosporine
-            interferon alpha
-            TNF inhibitors
-      GPA
-        treatment
-          per Jabs
-            rituximab is highly effective in ANCA+ conditions
-              see NEJM 2010:363:221
-      PAN
-      Takayasu arteritis
-      Eales
+        inflammatory
+            sarcoid
+            idiopathic intermediate uveitis
+        autoimmune
+            lupus
+                can be life threatening
+                    malignant HTN
+                    lupus nephritis
+                    antiphospholipid Ab
+                        lupus anticoagulant
+                            misnomer
+                            causes clotting
+                        anticardiolipin Ab
+            MS
+            IBD
+            WDS
+                birdshot
+                MC
+                APMPPE
+                RARELY: serpiginous
+            dermatomyositis
+            anti-Ro/SSA Ab
+            Cogan syndrome // see keratitis-infectious.txt
+        vasculitis
+            Behcet
+                Middle East
+                Turkey
+                diagnostic criteria
+                    3/3 major is definitive
+                    2/3 major + 2 minor is pretty convincing
+                    MAJOR:
+                        oral and genital ulcers
+                            nearly all Behcet patients have oral ulcers
+                        uveitis OR retinal vasculitis
+                            eye involvement in 3/4 of Behcet
+                        skin lesions
+                            erythema nodosum
+                            positive pathergy test
+                                hypersensitivity pustule 1–2 days after sterile needle prick
+                    MINOR:
+                        GI lesions
+                            small bowel ulcers
+                            IBD-like symptoms
+                        thrombophlebitis
+                            large venous thrombosis
+                        CNS lesions
+                            dural VST with elevated ICP
+                            inflammatory lesions in the brainstem
+                            if any neurologic signs
+                                MRI
+                                LP
+                                    elevated neutrophils
+                                    elevated IgG protein
+                        FH
+                    ALSO:
+                        renal involvement
+                            glomerulonephritis
+                when you see (retinitis + BRVO ± uveitis)
+                    think Behcet
+                HLA-B51 present in more than half
+                treatment
+                    topical steroids
+                    cycloplegia
+                    prednisolone 1 mg/kg/d to start
+                    transition to SSIMT
+                        cyclosporine
+                        interferon alpha
+                        TNF inhibitors
+            GPA
+                treatment
+                    per Jabs
+                        rituximab is highly effective in ANCA+ conditions
+                            see NEJM 2010:363:221
+            PAN
+            Takayasu arteritis
+            Eales
 
-  idiopathic
+    idiopathic
 
-  neoplastic
-    lymphoproliferative
-      PIOL OR PCNSL
-    hematologic
-      type 2 mixed cryoglobulinemia
-        COMMON: 2° hep C
+    neoplastic
+        lymphoproliferative
+            PIOL OR PCNSL
+        hematologic
+            type 2 mixed cryoglobulinemia
+                COMMON: 2° hep C

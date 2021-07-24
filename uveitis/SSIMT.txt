@@ -3,389 +3,389 @@
 steroid-sparing immunomodulatory therapy
 
 before starting SSIMT
-        ALWAYS:
-          perform a pregnancy test
-          counsel the patient about
-            need for birth control
-            birth defects
-              methotrexate
-              mycophenolate
-            subsequent fertility issues
-              alkylating agents like cyclophosphamide probably reduce fertility
-                fortunately we don't use them much for uveitis
-      start SSIMT
-        if they have a known systemic disease causing their uveitis
-        good control but very high IOP
-        unable to taper systemic steroids
-        systemic steroid side effects
-      once you start SSIMT
-        expect to keep them on it for at least 24 months
-      methotrexate
-        mechanism
-          folate analog antimetabolite
-        dose
-          adults
-            15–25 mg po/week
-          kids
-            0.5–0.8 mg po/kg/week
-          + folic acid 1 mg po daily
-            usually given as 5 mg po q week in a single dose
-            give folic acid the day after methotrexate
-              same-day administration reduces the effect of methotrexate
-            some docs only give folic acid for patients with side effects
-              nausea
-              vomiting
-              abdominal pain
-              abnormal LFTs
-              mouth sores or ulcers
-          dose can also be calculated in terms of BSA
-            COMMON: when dosing children
-            BSA formula
-              easiest is Mosteller
-                BSA = sqrt(height (cm) x weight (kg)/3600)
-            for uveitis
-              10–20 mg/m2
-                20–40 mg/m2 is possible but atypical
-          oral absorption is not as good as parenteral
-            oral absorption is ~ 30%
-            parenteral absorption is nearly 100%
-              IM
-              SC
-              IV
-            the difference is most important at 15+ mg/week
-        side effects
-          liver
-          lungs
-            pneumonitis
-            pulmonary fibrosis
-          not safe in pregnancy or breastfeeding
-            spontaneous abortion
-            birth defects
-        follow
-          LFT
-          FBC
-          UEC
-          @ 0, 4, & q 8–12 weeks
-      mycophenolate
-        mechanism
-          blocks a key enzyme in DNA synthesis
-        adults
-          1–1.5 g po bd
-        kids
-          600 mg/m2 po suspension bd
-        side effects
-          liver
-          bone marrow
-          not safe in pregnancy or breastfeeding
-            spontaneous abortion
-            congenital malformations
-        follow
-          LFT
-          FBC
-          @ 0, 2, 4, & q 8 weeks
-      cyclosporine
-        mechanism
-          calcineurin inhibitor that blocks IL2 synthesis
-        2–4.5 mg/kg/day split bd
-        side effects
-          kidneys
-            including 2° HTN
-          pregnancy
-            does cross the placenta
-              not harmful to the baby that we're aware of
-            does cross into breastmilk
-              not harmful to the baby that we're aware of
-            limited data
-              need to discuss it with the patient
-        follow
-          BP
-          UEC
-          FBC
-          @ 0, 2, 4, & q 8 weeks
-      TNFI
-        good for JIA failing methotrexate
-        side effects
-          TB exacerbation
-          demyelinating disease
-          infusion reactions
-          2° malignancies
-          pregnancy
-            does cross the placenta
-            women treated during pregnancy have still had healthy babies
-            does not appear to affect breastmilk
-            limited data
-              need to discuss it with the patient
-        infliximab
-          the TNFI we have the most experience with
-          3–10 mg/kg SC q 2 weeks
-            can start as low as 20 mg SC q 2 weeks in kids
-          keep the patient on methotrexate
-            it potentiates the effect of infliximab
-        adalimumab
-          30- kg
-            20 mg IM q 2 weeks
-          heavier than that
-            40 mg IM q 2 weeks
-          studies
-            VISUAL1
-              217 patients
-              uncontrolled noninfectious uveitis
-                intermediate
-                posterior
-                panuveitis
-              diagnoses
-                idiopathic (37%)
-                birdshot
-                VKH
-                sarcoid
-                Behcet
-                MC ± P
-                other (10%)
-              active disease despite 2+ weeks prednisone
-              1 other form of SSIMT was allowed at trial entry
-                these were continued during the trial
-                  azathioprine 175- mg/d
-                  cyclosporine 4- mg/kg/d
-                  methotrexate 25- mg/week
-                  mycophenolate 2- g/d
-                30% of patients were on at least 1 of these
-              1:1 randomization
-                adalimumab 80 mg followed by 40 mg every 2 weeks (subcutaneous)
-                placebo injection (subcutaneous)
-              all patients
-                prednisone taper (each line represents 1 week)
-                  60 mg (study entry)
-                  60 mg
-                  50 mg
-                  40 mg
-                  30 mg
-                  20 mg
-                  15 mg
-                  12.5 mg
-                  10 mg
-                  7.5 mg
-                  5 mg
-                  4 mg
-                  3 mg
-                  2 mg
-                  1 mg
-                  stop (week 15)
-              85 weeks of follow-up
-              intention-to-treat analysis
-                1° outcome: treatment failure at 6+ weeks
-                  failure = any one of:
-                    new inflammatory lesions
-                    10+ AC WBC/HPF
-                      more than SUN 0.5+
-                    2-step increase in AC WBC (SUN)
-                    vitreous haze (blurring optic nerve or retinal vessels)+
-                      more than SUN 0.5+
-                    2-step increase in vitritis (SUN)
-                    15+ letter loss of ETDRS BCVA
-                2° outcomes:
-                  ∆ AC WBC grade
-                  ∆ vitreous haze grade
-                  ∆ BCVA
-              Humira patients did better
-                half as likely to fail treatment
-                on average failed later
-                  24 weeks versus 13 weeks in the placebo group
-                Humira slightly outperformed placebo in 2° outcomes
-              Humira patients had twice as many (serious) adverse events
-                mostly 2° infections
-                  including 1 case of TB
-                1 patient had demyelinating disease
-                1 patient had a 2° tumor (glioblastoma multiforme)
-            VISUAL2
-              229 patients
-              corticosteroid-dependent quiescent disease
-              disease controlled on 10-35 mg/d prednisone
-              Humira versus placebo while tapering prednisone
-              protocol was similar to VISUAL1 but results were less impressive
-                including
-                  steroid taper
-                  concomitant SSIMT allowed
-              20 months of follow-up
-              treatment failure
-                placebo 55%
-                Humira 39%
-              adverse events were much less common than VISUAL1
-                fewer opportunistic infections
-                1 Humira patient with cancer (SCC)
-            VISUAL3
-              extension trial of 424 patients from VISUAL1 + VISUAL2
-                including treatment failures
-              all patients were put on Humira
-              78 weeks of follow-up
-              ~ 1/3 of patients never achieved quiescence
-              ~ 1/5 were back on some dose of prednisone
-                recall this was not allowed in VISUAL1 + VISUAL2
-              safety
-                over all 3 trials
-                  ~ 4 serious infections per 100 person-years of Humira
-                    TB is excluded because these are likely pre-existing
-                  5 episodes of demyelination
-                    includes 2 cases of optic neuritis
-                  4 deaths
-                    investigators felt they were unrelated
-                      brain abscess (judged possibly related)
-                      pancreatic cancer
-                      B-cell lymphoma
-                      trauma
-        before starting TNFIs
-          Qgold
-            TB is not an absolute contraindication to TNFI
-            full TB treatment first
-            then very close monitoring
-          in intermediate uveitis
-            ALWAYS: MRI to assess for MS
-            TNFI will worsen demyelinating disease
+                ALWAYS:
+                    perform a pregnancy test
+                    counsel the patient about
+                        need for birth control
+                        birth defects
+                            methotrexate
+                            mycophenolate
+                        subsequent fertility issues
+                            alkylating agents like cyclophosphamide probably reduce fertility
+                                fortunately we don't use them much for uveitis
+            start SSIMT
+                if they have a known systemic disease causing their uveitis
+                good control but very high IOP
+                unable to taper systemic steroids
+                systemic steroid side effects
+            once you start SSIMT
+                expect to keep them on it for at least 24 months
+            methotrexate
+                mechanism
+                    folate analog antimetabolite
+                dose
+                    adults
+                        15–25 mg po/week
+                    kids
+                        0.5–0.8 mg po/kg/week
+                    + folic acid 1 mg po daily
+                        usually given as 5 mg po q week in a single dose
+                        give folic acid the day after methotrexate
+                            same-day administration reduces the effect of methotrexate
+                        some docs only give folic acid for patients with side effects
+                            nausea
+                            vomiting
+                            abdominal pain
+                            abnormal LFTs
+                            mouth sores or ulcers
+                    dose can also be calculated in terms of BSA
+                        COMMON: when dosing children
+                        BSA formula
+                            easiest is Mosteller
+                                BSA = sqrt(height (cm) x weight (kg)/3600)
+                        for uveitis
+                            10–20 mg/m2
+                                20–40 mg/m2 is possible but atypical
+                    oral absorption is not as good as parenteral
+                        oral absorption is ~ 30%
+                        parenteral absorption is nearly 100%
+                            IM
+                            SC
+                            IV
+                        the difference is most important at 15+ mg/week
+                side effects
+                    liver
+                    lungs
+                        pneumonitis
+                        pulmonary fibrosis
+                    not safe in pregnancy or breastfeeding
+                        spontaneous abortion
+                        birth defects
+                follow
+                    LFT
+                    FBC
+                    UEC
+                    @ 0, 4, & q 8–12 weeks
+            mycophenolate
+                mechanism
+                    blocks a key enzyme in DNA synthesis
+                adults
+                    1–1.5 g po bd
+                kids
+                    600 mg/m2 po suspension bd
+                side effects
+                    liver
+                    bone marrow
+                    not safe in pregnancy or breastfeeding
+                        spontaneous abortion
+                        congenital malformations
+                follow
+                    LFT
+                    FBC
+                    @ 0, 2, 4, & q 8 weeks
+            cyclosporine
+                mechanism
+                    calcineurin inhibitor that blocks IL2 synthesis
+                2–4.5 mg/kg/day split bd
+                side effects
+                    kidneys
+                        including 2° HTN
+                    pregnancy
+                        does cross the placenta
+                            not harmful to the baby that we're aware of
+                        does cross into breastmilk
+                            not harmful to the baby that we're aware of
+                        limited data
+                            need to discuss it with the patient
+                follow
+                    BP
+                    UEC
+                    FBC
+                    @ 0, 2, 4, & q 8 weeks
+            TNFI
+                good for JIA failing methotrexate
+                side effects
+                    TB exacerbation
+                    demyelinating disease
+                    infusion reactions
+                    2° malignancies
+                    pregnancy
+                        does cross the placenta
+                        women treated during pregnancy have still had healthy babies
+                        does not appear to affect breastmilk
+                        limited data
+                            need to discuss it with the patient
+                infliximab
+                    the TNFI we have the most experience with
+                    3–10 mg/kg SC q 2 weeks
+                        can start as low as 20 mg SC q 2 weeks in kids
+                    keep the patient on methotrexate
+                        it potentiates the effect of infliximab
+                adalimumab
+                    30- kg
+                        20 mg IM q 2 weeks
+                    heavier than that
+                        40 mg IM q 2 weeks
+                    studies
+                        VISUAL1
+                            217 patients
+                            uncontrolled noninfectious uveitis
+                                intermediate
+                                posterior
+                                panuveitis
+                            diagnoses
+                                idiopathic (37%)
+                                birdshot
+                                VKH
+                                sarcoid
+                                Behcet
+                                MC ± P
+                                other (10%)
+                            active disease despite 2+ weeks prednisone
+                            1 other form of SSIMT was allowed at trial entry
+                                these were continued during the trial
+                                    azathioprine 175- mg/d
+                                    cyclosporine 4- mg/kg/d
+                                    methotrexate 25- mg/week
+                                    mycophenolate 2- g/d
+                                30% of patients were on at least 1 of these
+                            1:1 randomization
+                                adalimumab 80 mg followed by 40 mg every 2 weeks (subcutaneous)
+                                placebo injection (subcutaneous)
+                            all patients
+                                prednisone taper (each line represents 1 week)
+                                    60 mg (study entry)
+                                    60 mg
+                                    50 mg
+                                    40 mg
+                                    30 mg
+                                    20 mg
+                                    15 mg
+                                    12.5 mg
+                                    10 mg
+                                    7.5 mg
+                                    5 mg
+                                    4 mg
+                                    3 mg
+                                    2 mg
+                                    1 mg
+                                    stop (week 15)
+                            85 weeks of follow-up
+                            intention-to-treat analysis
+                                1° outcome: treatment failure at 6+ weeks
+                                    failure = any one of:
+                                        new inflammatory lesions
+                                        10+ AC WBC/HPF
+                                            more than SUN 0.5+
+                                        2-step increase in AC WBC (SUN)
+                                        vitreous haze (blurring optic nerve or retinal vessels)+
+                                            more than SUN 0.5+
+                                        2-step increase in vitritis (SUN)
+                                        15+ letter loss of ETDRS BCVA
+                                2° outcomes:
+                                    ∆ AC WBC grade
+                                    ∆ vitreous haze grade
+                                    ∆ BCVA
+                            Humira patients did better
+                                half as likely to fail treatment
+                                on average failed later
+                                    24 weeks versus 13 weeks in the placebo group
+                                Humira slightly outperformed placebo in 2° outcomes
+                            Humira patients had twice as many (serious) adverse events
+                                mostly 2° infections
+                                    including 1 case of TB
+                                1 patient had demyelinating disease
+                                1 patient had a 2° tumor (glioblastoma multiforme)
+                        VISUAL2
+                            229 patients
+                            corticosteroid-dependent quiescent disease
+                            disease controlled on 10-35 mg/d prednisone
+                            Humira versus placebo while tapering prednisone
+                            protocol was similar to VISUAL1 but results were less impressive
+                                including
+                                    steroid taper
+                                    concomitant SSIMT allowed
+                            20 months of follow-up
+                            treatment failure
+                                placebo 55%
+                                Humira 39%
+                            adverse events were much less common than VISUAL1
+                                fewer opportunistic infections
+                                1 Humira patient with cancer (SCC)
+                        VISUAL3
+                            extension trial of 424 patients from VISUAL1 + VISUAL2
+                                including treatment failures
+                            all patients were put on Humira
+                            78 weeks of follow-up
+                            ~ 1/3 of patients never achieved quiescence
+                            ~ 1/5 were back on some dose of prednisone
+                                recall this was not allowed in VISUAL1 + VISUAL2
+                            safety
+                                over all 3 trials
+                                    ~ 4 serious infections per 100 person-years of Humira
+                                        TB is excluded because these are likely pre-existing
+                                    5 episodes of demyelination
+                                        includes 2 cases of optic neuritis
+                                    4 deaths
+                                        investigators felt they were unrelated
+                                            brain abscess (judged possibly related)
+                                            pancreatic cancer
+                                            B-cell lymphoma
+                                            trauma
+                before starting TNFIs
+                    Qgold
+                        TB is not an absolute contraindication to TNFI
+                        full TB treatment first
+                        then very close monitoring
+                    in intermediate uveitis
+                        ALWAYS: MRI to assess for MS
+                        TNFI will worsen demyelinating disease
 
 
 // Thanks to Doug Jabs, who provided much of the information below.
 
 
 anterior uveitis
-  risk of visual impairment doubles @ SUN 0.5+ WBC versus SUN 0
+    risk of visual impairment doubles @ SUN 0.5+ WBC versus SUN 0
 
 intermediate uveitis
-  1° cause of visual loss is CME
-  if no CME
-    may observe
-  treatment
-    regional
-      periocular
-      intravitreal
-        100% incidence of cataract after 5 IVT
-      100% recurrence of CME with regional alone
-        so nearly always use systemic
-    systemic
+    1° cause of visual loss is CME
+    if no CME
+        may observe
+    treatment
+        regional
+            periocular
+            intravitreal
+                100% incidence of cataract after 5 IVT
+            100% recurrence of CME with regional alone
+                so nearly always use systemic
+        systemic
 
 Jabs prednis(ol)one regimen
-  1 mg/kg/d 60- mg max
-    60+ mg greatly increases the risk of ischemic necrosis of bone
-  taper after 2–4 weeks
-    if you can't taper
-      SSIMT
-  goal
-    SUN 0
-    under 7.5 mg/kg/d
-  Jabs does not use prophylactic PPI
-    NSAIDs cause PUD
-      steroids potentiate NSAID-associated ulceration
-      steroids alone have low risk of PUD
-    PPI increases the risk of osteoporosis
-  calcium + vitamin D is an optional adjunct
-    per Jabs
-      calcium alone may increase the risk of MI
-    most sources I read say MI risk is slightly increased ± vitamin D
-  weigh your patients
-    Hawthorne effect
-      measured behavior is modified behavior
-  taper
-    60–40 -10 mg/(week OR 2 days if rapid)
-    40–20 -5 mg
-    20–10 -2.5 mg
-    10- -2.5–1 mg
+    1 mg/kg/d 60- mg max
+        60+ mg greatly increases the risk of ischemic necrosis of bone
+    taper after 2–4 weeks
+        if you can't taper
+            SSIMT
+    goal
+        SUN 0
+        under 7.5 mg/kg/d
+    Jabs does not use prophylactic PPI
+        NSAIDs cause PUD
+            steroids potentiate NSAID-associated ulceration
+            steroids alone have low risk of PUD
+        PPI increases the risk of osteoporosis
+    calcium + vitamin D is an optional adjunct
+        per Jabs
+            calcium alone may increase the risk of MI
+        most sources I read say MI risk is slightly increased ± vitamin D
+    weigh your patients
+        Hawthorne effect
+            measured behavior is modified behavior
+    taper
+        60–40 -10 mg/(week OR 2 days if rapid)
+        40–20 -5 mg
+        20–10 -2.5 mg
+        10- -2.5–1 mg
 
 monitoring SSIMT
-  bloods 4–6 weeks
+    bloods 4–6 weeks
 
 start SSIMT at diagnosis
-    COMMON:
-      JIA
-      MC ± P
-      BSCR
-      VKH
+        COMMON:
+            JIA
+            MC ± P
+            BSCR
+            VKH
 
 choice of agent
-  mycophenolate OR methotrexate
-  efficacy
-    mycophenolate > methotrexate
-    cyclosporine has poor efficacy
-  tolerance
-    mycophenolate > azathioprine
-    cyclosporine is poorly tolerated
+    mycophenolate OR methotrexate
+    efficacy
+        mycophenolate > methotrexate
+        cyclosporine has poor efficacy
+    tolerance
+        mycophenolate > azathioprine
+        cyclosporine is poorly tolerated
 
 mycophenolate
-  mycophenolate mofetil AKA Cellcept
-    2–3 g daily
-      divided bd
-    diarrhea
-      less if you ramp up slowly
-    in children // see Doycheva, BJO 2016
-      225 mg/m2 bd x 1 week
-      then 450 mg/m2 bd
-      ± prednisolone 1 mg/kg/d
-        taper
-          10 mg/week to 30 mg/d
-          5 mg/week to 20 mg/d
-          2.5 mg/week to 0 mg/d
-  enteric-coated mycophenolate sodium AKA Myfortic
-    reduces GI side effects
-    dose conversion
-      360 mg mycophenolate sodium = 500 mg mycophenolate mofetil
+    mycophenolate mofetil AKA Cellcept
+        2–3 g daily
+            divided bd
+        diarrhea
+            less if you ramp up slowly
+        in children // see Doycheva, BJO 2016
+            225 mg/m2 bd x 1 week
+            then 450 mg/m2 bd
+            ± prednisolone 1 mg/kg/d
+                taper
+                    10 mg/week to 30 mg/d
+                    5 mg/week to 20 mg/d
+                    2.5 mg/week to 0 mg/d
+    enteric-coated mycophenolate sodium AKA Myfortic
+        reduces GI side effects
+        dose conversion
+            360 mg mycophenolate sodium = 500 mg mycophenolate mofetil
 
 cyclosporine
-  avoid in psoriasis
-    these patients are often on PUVA OR topical cyclosporine
-    po cyclosporine potentiates PUVA and topical cyclosporine skin cancer risks
+    avoid in psoriasis
+        these patients are often on PUVA OR topical cyclosporine
+        po cyclosporine potentiates PUVA and topical cyclosporine skin cancer risks
 
 alkylating agents
-  cyclophosphamide
-  chlorambucil
-  avoid in the young
-    especially for duration 2+ years
-  high risk of cancer
-    COMMON: nonmelanotic skin cancer
-    all agents have some risk but this class is the worst
+    cyclophosphamide
+    chlorambucil
+    avoid in the young
+        especially for duration 2+ years
+    high risk of cancer
+        COMMON: nonmelanotic skin cancer
+        all agents have some risk but this class is the worst
 
 TNFI
-  use first line for Behcet
-  COMMON: in combination
-    methotrexate
-    mycophenolate
-  if using TNFI in intermediate uveitis
-    ALWAYS: MRI
-      TNFI make MS worse
-  hard to taper
-    Foster BSCR data indicates they may need treatment for life
-  increased nonmelanotic skin cancer
+    use first line for Behcet
+    COMMON: in combination
+        methotrexate
+        mycophenolate
+    if using TNFI in intermediate uveitis
+        ALWAYS: MRI
+            TNFI make MS worse
+    hard to taper
+        Foster BSCR data indicates they may need treatment for life
+    increased nonmelanotic skin cancer
 
 once SSIMT initiated
-  treat 3+ y regardless of activity
-  treat 2+ y inactive
-  data is from a study in JIA
+    treat 3+ y regardless of activity
+    treat 2+ y inactive
+    data is from a study in JIA
 
 if SSIMT is inadequate but not ineffective
-  add a 2nd agent
-  you may be able to lower the dose of 1 or both once controlled
+    add a 2nd agent
+    you may be able to lower the dose of 1 or both once controlled
 
 
 //
 
 
 biologic names
-  -omab
-    murine
-  -ximab
-    chimeric
-      infliximab
-  -zumab
-    humanized
-      daclizumab
-      (bevacizumab
-      ranibizumab)
-  -mumab
-    fully human
-      adalimumab
-  -cept
-    receptor
-      etanercept
-      (aflibercept)
-  -ra
-    receptor antagonist
-      anakinra
+    -omab
+        murine
+    -ximab
+        chimeric
+            infliximab
+    -zumab
+        humanized
+            daclizumab
+            (bevacizumab
+            ranibizumab)
+    -mumab
+        fully human
+            adalimumab
+    -cept
+        receptor
+            etanercept
+            (aflibercept)
+    -ra
+        receptor antagonist
+            anakinra
 
 
 //
@@ -393,8 +393,8 @@ biologic names
 
 review articles (see papers)
 
-  Guidelines for the Use of Immunosuppressive Drugs in Patients With Ocular
-  Inflammatory Disorders: Recommendations of an Expert Panel
+    Guidelines for the Use of Immunosuppressive Drugs in Patients With Ocular
+    Inflammatory Disorders: Recommendations of an Expert Panel
 
-  Expert Panel Recommendations for the Use of Anti-Tumor Necrosis Factor
-  Biologic Agents in Patients with Ocular Inflammatory Disorders
+    Expert Panel Recommendations for the Use of Anti-Tumor Necrosis Factor
+    Biologic Agents in Patients with Ocular Inflammatory Disorders

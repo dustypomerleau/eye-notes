@@ -4,110 +4,110 @@
 
 iris tumors
 
-  neoplasm
+    neoplasm
 
-    solid tumors
-      congenital lacrimal gland choristoma
-      IPE cyst
-        can be free floating
-          AC
-          angle
-          vitreous
-        pupillary
-        peripheral
-        multiple
-          AKA iris flocculi
-          associated with familial dissecting aortic aneurysm
-      iris stromal cyst
-        kids
-          COMMON: first year of life
-        UBM
-          rule out amelanotic melanoma
-        about half will need treatment
-          visual axis
-          amblyopia
-          glaucoma
-          cataract
-          hyphema
-          corneal decompensation
-        treatment
-          aspiration
-            ± cryo
-          absolute-alcohol-induced sclerosis
-          lamellar iridectomy
-          iridogoniectomy
-          iridogoniocyclectomy
-        recurrence is common
-      IPE adenoma AKA epithelioma
-      medulloepithelioma
-        embryonic tissue
-        usually starts in CB
-        complications
-          cataract
-          NVI
-            child with NVI
-              intraocular tumor until proven otherwise
-          glaucoma
-          RARELY: mets
-      surface epithelial cyst
-        congenital
-        acquired
-          trauma
-          surgery
-            epithelial downgrowth
-      Lisch nodules
-        NF1
-      JXG
-      pigmented
-        iris nevus
-          low malignant potential
-          risk factors for transformation to melanoma (Shields)
-            ABCDEF
-              age 40-
-              blood
-              CH inferior (a stretch, but it keeps the alphabet going)
-              diffuse
-              ectropion uveae
-              feathery margin
-        iris melanocytoma
-        iris melanoma
-          circumscribed
-            COMMON:
-              iridectomy
-              iridocyclectomy
-            ALSO:
-              PBT
-                alone OR as an adjunct after resection
-              proton beam radiation
-            RARELY:
-              FNA to establish the diagnosis
-                excisional biopsy is preferred if the lesion is circumscribed
-          diffuse
-            enucleation
-          RARELY: metastasizes
-            1/20 @ 5 years
-              liver
-              brain
-      soft tissue
-        COMMON: myogenic
-          leiomyoma
-          rhabdomyosarcoma
+        solid tumors
+            congenital lacrimal gland choristoma
+            IPE cyst
+                can be free floating
+                    AC
+                    angle
+                    vitreous
+                pupillary
+                peripheral
+                multiple
+                    AKA iris flocculi
+                    associated with familial dissecting aortic aneurysm
+            iris stromal cyst
+                kids
+                    COMMON: first year of life
+                UBM
+                    rule out amelanotic melanoma
+                about half will need treatment
+                    visual axis
+                    amblyopia
+                    glaucoma
+                    cataract
+                    hyphema
+                    corneal decompensation
+                treatment
+                    aspiration
+                        ± cryo
+                    absolute-alcohol-induced sclerosis
+                    lamellar iridectomy
+                    iridogoniectomy
+                    iridogoniocyclectomy
+                recurrence is common
+            IPE adenoma AKA epithelioma
+            medulloepithelioma
+                embryonic tissue
+                usually starts in CB
+                complications
+                    cataract
+                    NVI
+                        child with NVI
+                            intraocular tumor until proven otherwise
+                    glaucoma
+                    RARELY: mets
+            surface epithelial cyst
+                congenital
+                acquired
+                    trauma
+                    surgery
+                        epithelial downgrowth
+            Lisch nodules
+                NF1
+            JXG
+            pigmented
+                iris nevus
+                    low malignant potential
+                    risk factors for transformation to melanoma (Shields)
+                        ABCDEF
+                            age 40-
+                            blood
+                            CH inferior (a stretch, but it keeps the alphabet going)
+                            diffuse
+                            ectropion uveae
+                            feathery margin
+                iris melanocytoma
+                iris melanoma
+                    circumscribed
+                        COMMON:
+                            iridectomy
+                            iridocyclectomy
+                        ALSO:
+                            PBT
+                                alone OR as an adjunct after resection
+                            proton beam radiation
+                        RARELY:
+                            FNA to establish the diagnosis
+                                excisional biopsy is preferred if the lesion is circumscribed
+                    diffuse
+                        enucleation
+                    RARELY: metastasizes
+                        1/20 @ 5 years
+                            liver
+                            brain
+            soft tissue
+                COMMON: myogenic
+                    leiomyoma
+                    rhabdomyosarcoma
 
-    vascular
-      iris cavernous hemangioma
-      iris varix
-        can simulate melanoma
-      racemose hemangioma
-        iris Wyburn-Mason variant
+        vascular
+            iris cavernous hemangioma
+            iris varix
+                can simulate melanoma
+            racemose hemangioma
+                iris Wyburn-Mason variant
 
-    lymphoproliferative
-      lymphoma
+        lymphoproliferative
+            lymphoma
 
-    hematologic
-      RARELY: leukemia
+        hematologic
+            RARELY: leukemia
 
-    metastatic
-      can simulate granulomatous iritis
-        small cell lung CA
-        gastric carcinoma
-        ...
+        metastatic
+            can simulate granulomatous iritis
+                small cell lung CA
+                gastric carcinoma
+                ...

@@ -2,269 +2,269 @@
 
 MS
 
-  systemic abnormalities
-    cerebellar
-    motor
-    sensory
-    sphincter
-    mental
-  eye movement abnormalitites
-  CN abnormalities
-  cerebellar or dorsal midbrain abnormalities
-  intermediate uveitis
-  papillitis
-  retrobulbar optic neuritis
-  retinal periphlebitis
-
-  symptoms
-    diplopia
-    cerebellar symptoms
-      ataxia
-      dysmetria
-    motor symptoms
-      weakness
-      paresis
-    sensory symptoms
-      paresthesias
-      neuralgia
-    sphincter symptoms
-      bladder and bowel control
-      frequency
-      urgency
-    mental symptoms
-      depression
-      fatigue
-      irritability
-    symptoms may worsen with heat
-      particularly vision
-      AKA Uhthoff phenomenon
-
-  eye movement abnormalities
-    nystagmus
-      many forms
-      COMMON:
-        pendular nystagmus
-        PAN
-    ocular flutter
-    superior oblique myokymia
-    fixation problems
-      loss of smooth pursuit
-      saccadic dysmetria
-
-  CN abnormalities
-    CN palsies
-      COMMON: CN6
-      ALSO:
-        CN3
-        CN4
-        INO
-          check saccades
-            slow adducting saccades may be the only sign of a subtle INO
-        WEBINO
-    facial myokymia
-      eyelid myokymia DDx
-        COMMON: idiopathic
-        ALSO:
-          MS
-          Meige syndrome
-          precursor to hemifacial spasm or blepharospasm
-
-  other neuro abnormalities
-    cerebellar disease
-      impaired VOR suppression
-        can't fixate on outstretched hands in a swinging chair
-    dorsal midbrain syndrome (DMS) AKA pretectal syndrome AKA Parinaud syndrome
-      lid retraction
-        inhibitory fibers to the levator are damaged
-      limited upgaze
-      skew deviation
-      convergence-retraction nystagmus
-      convergence spasm
-        don't confuse this with an abduction deficit
-      square wave jerks
-        a form of fixation instability
-          movement off to one side
-          brief pause
-          back to fixation
-        distinct from pendular nystagmus
-          which oscillates across fixation without stopping
-      light-near dissociation
-      DMS DDx
-        COMMON:
-          tumors
-            AV malformation
-            pinealoma
-          hydrocephalus
-        ALSO:
-          MS
-          vasculitis
-          CVA
-          hemorrhage
-          trauma
-
-  ocular findings
+    systemic abnormalities
+        cerebellar
+        motor
+        sensory
+        sphincter
+        mental
+    eye movement abnormalitites
+    CN abnormalities
+    cerebellar or dorsal midbrain abnormalities
     intermediate uveitis
     papillitis
-      RARELY:
-        ± retinal exudates
-        ± peripapillary IRH
-      RARELY: CME
-        more common on fingolimod AKA Gilenya
-          fingolimod-associated CME
-            responds to topical steroids and NSAIDs but hard to wean
-            usually goes away if you stop the fingolimod
-              not always possible but speak to the neurologist
-    NFL defects
-    COMMON: optic neuritis
-      1/4 of MS patients present initially with optic neuritis
-      3/4 of MS patients get optic neuritis
-        3/4 optic neuritis patients are female
-      2/3 retrobulbar
-        disc looks normal
-      1/3 anterior
-        disc edema
-          mild edema can still be typical
-          if disc swelling is severe
-            treat as atypical optic neuritis
-          distinguishing optic neuritis from NAION when there is swelling
-            age 50-
-            pain
-            slower onset
-              hours to days
-            may not have fellow disc at risk
-            no hemorrhages or exudates
-              at least for typical optic neuritis
-            central VF loss
-              AION is typically altitudinal
-            visual recovery is typically faster
-              more improvement in the first 4 weeks than AION
-            final VA is typically better
-      course
-        worse the first week
-        then gradually improves
-        expect some vision gains by 4 weeks
-          if not
-            treat as atypical optic neuritis
-        best final vision can take a year
+    retrobulbar optic neuritis
     retinal periphlebitis
 
-  ancillary testing
-    visual field defects
-      chiasmal
-      retrochiasmal
-    ALWAYS: obtain VF testing in suspected optic neuritis
-      Goldman if HVF not reliable OR poor VA
-      you need to check for VF patterns that would change the diagnosis
-        e.g. junctional scotoma of pituitary apoplexy
-        compressive lesions can mimic optic neuritis
-    OCT
-      for fingolimod-associated CME
+    symptoms
+        diplopia
+        cerebellar symptoms
+            ataxia
+            dysmetria
+        motor symptoms
+            weakness
+            paresis
+        sensory symptoms
+            paresthesias
+            neuralgia
+        sphincter symptoms
+            bladder and bowel control
+            frequency
+            urgency
+        mental symptoms
+            depression
+            fatigue
+            irritability
+        symptoms may worsen with heat
+            particularly vision
+            AKA Uhthoff phenomenon
 
-  investigations
-    if there is retrobulbar optic neuritis
-      ALWAYS: MRI brain + orbits ± gad + orbital fat suppression
-        active WML
-          T1 post-contrast
-            for optic nerve enhancement
-            need orbital fat suppression to see the nerve light up
-          T2 flair
-            also T2 post-contrast
-            for periventricular WML
-            3+ mm ovoid lesions
-              radiating toward the ventricles
-    if there is intermediate uveitis
-      MRI may not be indicated
-      neurology referral if there are neurologic symptoms
-        they can decide on a scan
-        /*
-        see Petrushkin H et al. Intermediate uveitis and multiple sclerosis: to scan or not to scan. Br J Ophthalmol. 2015;99(12):1591–1593.
-        */
-    ALSO:
-      pattern VEP
-        shows slowing of the P100 in optic neuritis
-      LP
-        protein electrophoresis + immunoblotting
-          2+ oligoclonal IgG bands in CSF supports MS diagnosis
-          4+ oligoclonal IgG bands is strong evidence of MS
-          oligoclonal bands can be absent in MS
-        CSF IgG and albumin
-          for calculating the IgG index
-      serum IgG and albumin
-        for calculating the IgG index
-      atypical optic neuritis biomarkers
-        aquaporin-4 antibody (AQP4)
-        myelin oligodendrocyte glycoprotein antibody (MOG)
+    eye movement abnormalities
+        nystagmus
+            many forms
+            COMMON:
+                pendular nystagmus
+                PAN
+        ocular flutter
+        superior oblique myokymia
+        fixation problems
+            loss of smooth pursuit
+            saccadic dysmetria
+
+    CN abnormalities
+        CN palsies
+            COMMON: CN6
+            ALSO:
+                CN3
+                CN4
+                INO
+                    check saccades
+                        slow adducting saccades may be the only sign of a subtle INO
+                WEBINO
+        facial myokymia
+            eyelid myokymia DDx
+                COMMON: idiopathic
+                ALSO:
+                    MS
+                    Meige syndrome
+                    precursor to hemifacial spasm or blepharospasm
+
+    other neuro abnormalities
+        cerebellar disease
+            impaired VOR suppression
+                can't fixate on outstretched hands in a swinging chair
+        dorsal midbrain syndrome (DMS) AKA pretectal syndrome AKA Parinaud syndrome
+            lid retraction
+                inhibitory fibers to the levator are damaged
+            limited upgaze
+            skew deviation
+            convergence-retraction nystagmus
+            convergence spasm
+                don't confuse this with an abduction deficit
+            square wave jerks
+                a form of fixation instability
+                    movement off to one side
+                    brief pause
+                    back to fixation
+                distinct from pendular nystagmus
+                    which oscillates across fixation without stopping
+            light-near dissociation
+            DMS DDx
+                COMMON:
+                    tumors
+                        AV malformation
+                        pinealoma
+                    hydrocephalus
+                ALSO:
+                    MS
+                    vasculitis
+                    CVA
+                    hemorrhage
+                    trauma
+
+    ocular findings
+        intermediate uveitis
+        papillitis
+            RARELY:
+                ± retinal exudates
+                ± peripapillary IRH
+            RARELY: CME
+                more common on fingolimod AKA Gilenya
+                    fingolimod-associated CME
+                        responds to topical steroids and NSAIDs but hard to wean
+                        usually goes away if you stop the fingolimod
+                            not always possible but speak to the neurologist
+        NFL defects
+        COMMON: optic neuritis
+            1/4 of MS patients present initially with optic neuritis
+            3/4 of MS patients get optic neuritis
+                3/4 optic neuritis patients are female
+            2/3 retrobulbar
+                disc looks normal
+            1/3 anterior
+                disc edema
+                    mild edema can still be typical
+                    if disc swelling is severe
+                        treat as atypical optic neuritis
+                    distinguishing optic neuritis from NAION when there is swelling
+                        age 50-
+                        pain
+                        slower onset
+                            hours to days
+                        may not have fellow disc at risk
+                        no hemorrhages or exudates
+                            at least for typical optic neuritis
+                        central VF loss
+                            AION is typically altitudinal
+                        visual recovery is typically faster
+                            more improvement in the first 4 weeks than AION
+                        final VA is typically better
+            course
+                worse the first week
+                then gradually improves
+                expect some vision gains by 4 weeks
+                    if not
+                        treat as atypical optic neuritis
+                best final vision can take a year
+        retinal periphlebitis
+
+    ancillary testing
+        visual field defects
+            chiasmal
+            retrochiasmal
+        ALWAYS: obtain VF testing in suspected optic neuritis
+            Goldman if HVF not reliable OR poor VA
+            you need to check for VF patterns that would change the diagnosis
+                e.g. junctional scotoma of pituitary apoplexy
+                compressive lesions can mimic optic neuritis
+        OCT
+            for fingolimod-associated CME
+
+    investigations
+        if there is retrobulbar optic neuritis
+            ALWAYS: MRI brain + orbits ± gad + orbital fat suppression
+                active WML
+                    T1 post-contrast
+                        for optic nerve enhancement
+                        need orbital fat suppression to see the nerve light up
+                    T2 flair
+                        also T2 post-contrast
+                        for periventricular WML
+                        3+ mm ovoid lesions
+                            radiating toward the ventricles
+        if there is intermediate uveitis
+            MRI may not be indicated
+            neurology referral if there are neurologic symptoms
+                they can decide on a scan
+                /*
+                see Petrushkin H et al. Intermediate uveitis and multiple sclerosis: to scan or not to scan. Br J Ophthalmol. 2015;99(12):1591–1593.
+                */
+        ALSO:
+            pattern VEP
+                shows slowing of the P100 in optic neuritis
+            LP
+                protein electrophoresis + immunoblotting
+                    2+ oligoclonal IgG bands in CSF supports MS diagnosis
+                    4+ oligoclonal IgG bands is strong evidence of MS
+                    oligoclonal bands can be absent in MS
+                CSF IgG and albumin
+                    for calculating the IgG index
+            serum IgG and albumin
+                for calculating the IgG index
+            atypical optic neuritis biomarkers
+                aquaporin-4 antibody (AQP4)
+                myelin oligodendrocyte glycoprotein antibody (MOG)
 
 //
 
 
 treatment
 
-  ONTT
-    all-comers, half will get MS over 15 y
-    this increases to 3/4 if they have 1+ white-matter lesions on MRI
-    oral steroids double the risk of recurrence
-    IVMP 1 g daily x 3 d followed by oral prednisone 1 mg/kg x 11 d
-      sped recovery by 1–2 weeks but didn't change outcomes
-  if there are atypical optic neuritis biomarkers
-    retrospective studies suggest IVMP within 3 days of onset improves final VA
-    messy data: some patients also received plasmapheresis
-    timing problem
-      AQP4 and MOG take 1-2 weeks to appear
-      so in practice this would mean treating all optic neuritis with IVMP
-      waiting on prospective data
+    ONTT
+        all-comers, half will get MS over 15 y
+        this increases to 3/4 if they have 1+ white-matter lesions on MRI
+        oral steroids double the risk of recurrence
+        IVMP 1 g daily x 3 d followed by oral prednisone 1 mg/kg x 11 d
+            sped recovery by 1–2 weeks but didn't change outcomes
+    if there are atypical optic neuritis biomarkers
+        retrospective studies suggest IVMP within 3 days of onset improves final VA
+        messy data: some patients also received plasmapheresis
+        timing problem
+            AQP4 and MOG take 1-2 weeks to appear
+            so in practice this would mean treating all optic neuritis with IVMP
+            waiting on prospective data
 
-  systemic drugs for MS
-    interferon-beta
-      for patients with WML on MRI
-        reduces progression to clinically definite MS
-          CHAMPS
-          ETOMS
-    glatiramer
+    systemic drugs for MS
+        interferon-beta
+            for patients with WML on MRI
+                reduces progression to clinically definite MS
+                    CHAMPS
+                    ETOMS
+        glatiramer
 
-  atypical presentation
-    atypical findings
-      age 50+
-        think about GCA
-      no improvement at 4 weeks
-        should gain at least 1 line
-      no pain on eye movement
-      anterior uveitis
-      marked disc swelling
-        hemorrhage
-        exudate
-      chorioretinitis
-    expand the DDx
-      at a minimum:
-        infectious
-          TB
-            Qgold
-          syphilis
-            serum RPR/FTA
-          neurosyphilis
-            LP with RPR/FTA
-          bartonella
-            bartonella titers
-          Lyme // RARE in AU
-            Lyme titers
-        inflammatory
-          sarcoid
-            CXR
-            ACE
-            lysozyme
-          lupus
-            ANA
-          NMO
-            spinal MRI
-            NMO antibodies
-          GCA
-            if 50+ YO
-              ESR
-        neoplastic
-          BROADLY: any orbital compressive or infiltrative lesion
-            orbital MRI
-              MRI brain/orbits is standard for typical optic neuritis anyway
-            FBC
-        genetic
-          LHON
-            genetic testing of mitochondrial DNA
+    atypical presentation
+        atypical findings
+            age 50+
+                think about GCA
+            no improvement at 4 weeks
+                should gain at least 1 line
+            no pain on eye movement
+            anterior uveitis
+            marked disc swelling
+                hemorrhage
+                exudate
+            chorioretinitis
+        expand the DDx
+            at a minimum:
+                infectious
+                    TB
+                        Qgold
+                    syphilis
+                        serum RPR/FTA
+                    neurosyphilis
+                        LP with RPR/FTA
+                    bartonella
+                        bartonella titers
+                    Lyme // RARE in AU
+                        Lyme titers
+                inflammatory
+                    sarcoid
+                        CXR
+                        ACE
+                        lysozyme
+                    lupus
+                        ANA
+                    NMO
+                        spinal MRI
+                        NMO antibodies
+                    GCA
+                        if 50+ YO
+                            ESR
+                neoplastic
+                    BROADLY: any orbital compressive or infiltrative lesion
+                        orbital MRI
+                            MRI brain/orbits is standard for typical optic neuritis anyway
+                        FBC
+                genetic
+                    LHON
+                        genetic testing of mitochondrial DNA

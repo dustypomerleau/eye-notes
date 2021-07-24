@@ -1,29 +1,29 @@
 // https://github.com/dustypomerleau/eye-notes
 
 autoimmune neuromyotonia
-  Ab to potassium channels in the neuromuscular junction
-    muscle cramps
-    stiffness
-    myotonia
-      slow relaxation
-    fasciculations
-    excessive sweating
-  types
-    peripheral
-      MG
-    central
-      paraneoplastic cerebellar degeneration
-    hereditary
-      FH
-  investigations
-    EMG
-    nerve conduction studies
-    workup
-      MG
-      neoplasm
-  treatment
-    treat underlying disease
-    anticonvulsants
-    BOTOX
-    plasma exchange
-    IVIG
+    Ab to potassium channels in the neuromuscular junction
+        muscle cramps
+        stiffness
+        myotonia
+            slow relaxation
+        fasciculations
+        excessive sweating
+    types
+        peripheral
+            MG
+        central
+            paraneoplastic cerebellar degeneration
+        hereditary
+            FH
+    investigations
+        EMG
+        nerve conduction studies
+        workup
+            MG
+            neoplasm
+    treatment
+        treat underlying disease
+        anticonvulsants
+        BOTOX
+        plasma exchange
+        IVIG

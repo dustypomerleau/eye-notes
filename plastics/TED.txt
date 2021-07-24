@@ -2,103 +2,103 @@
 
 TED
 
-  COMMON: Graves disease
-    nearly 1/2 of Graves patients get TED
-  more common in women
-  but older men have the worst prognosis
+    COMMON: Graves disease
+        nearly 1/2 of Graves patients get TED
+    more common in women
+    but older men have the worst prognosis
 
-  clinical course
-    the Rundle curve
-      dynamic phase
-        gets worse over 1–2 years
-        peaks and plateaus
-        gradually improves over 1–2 years
-      static phase
-        stabilizes
-    effects of poorly managed TED can last a lifetime
-      TALK to the patient
-      tell them what to expect
+    clinical course
+        the Rundle curve
+            dynamic phase
+                gets worse over 1–2 years
+                peaks and plateaus
+                gradually improves over 1–2 years
+            static phase
+                stabilizes
+        effects of poorly managed TED can last a lifetime
+            TALK to the patient
+            tell them what to expect
 
-  thyroid symptoms
-    weight loss
-    fatigue
-    hair loss
+    thyroid symptoms
+        weight loss
+        fatigue
+        hair loss
 
-  TED symptoms
-    dull, deep, orbital pain
-    exposure keratopathy
-      blurry vision
-      tearing
-      FB sensation
-      photophobia
-    ON signs
-      CON
-      ON stretch 2° proptosis
+    TED symptoms
+        dull, deep, orbital pain
+        exposure keratopathy
+            blurry vision
+            tearing
+            FB sensation
+            photophobia
+        ON signs
+            CON
+            ON stretch 2° proptosis
 
-  smoking
-    must quit
+    smoking
+        must quit
 
 
 //
 
 
-  exam
-    thyroidectomy scar
-    lid retraction
-      superior OR inferior
-    lid lag
-    lid edema
-    chemosis
-    dilated conj vessels
-      sparing the limbus
-      AOT CC fistula which reaches the limbus
-        mnemonic: Charlie Chaplin goes all the way girl
-    SLK
-    proptosis
-      Hertel 22+ mm OR ∆ 2+ mm
-      resistance to retropulsion
-    motility
-      EOM restriction
-        strabismus
-          usually not XT
-            XT should make you think of MG OR
-            another missed diagnosis
-          eye tends to be pulled toward most inflamed muscles
-            if the orbital disease follows IMSLO
-              tends to pull the eye down and medial
-    compressive optic neuropathy
-      color vision
-      APD
-      VF constriction
-        CVF
-    IOP in 1° & upgaze
-    OSD
-      watch for 2° infections
-    ON appearance
-      swelling
-      pallor
-      evidence of glaucoma
-        address CON and GON separately
-        either can be present
+    exam
+        thyroidectomy scar
+        lid retraction
+            superior OR inferior
+        lid lag
+        lid edema
+        chemosis
+        dilated conj vessels
+            sparing the limbus
+            AOT CC fistula which reaches the limbus
+                mnemonic: Charlie Chaplin goes all the way girl
+        SLK
+        proptosis
+            Hertel 22+ mm OR ∆ 2+ mm
+            resistance to retropulsion
+        motility
+            EOM restriction
+                strabismus
+                    usually not XT
+                        XT should make you think of MG OR
+                        another missed diagnosis
+                    eye tends to be pulled toward most inflamed muscles
+                        if the orbital disease follows IMSLO
+                            tends to pull the eye down and medial
+        compressive optic neuropathy
+            color vision
+            APD
+            VF constriction
+                CVF
+        IOP in 1° & upgaze
+        OSD
+            watch for 2° infections
+        ON appearance
+            swelling
+            pallor
+            evidence of glaucoma
+                address CON and GON separately
+                either can be present
 
-  ancillary testing & investigations
-    HVF
-    non-contrast CT OR MRI
-      fusiform enlargement
-      tendon sparing
-      IMSLO
-    labs (90% hyperthyroid but anything is possible)
-      T3
-      free T4
-      TSH
-      TSH-R Ab
-        TBII
-          tests for all Ab to TSH-R
-          both inhibitory and stimulating
-        TSI
-          tests for stimulating Ab only
-          TSI is the better predictor for orbitopathy
-          TSI is better for tracking treatment
+    ancillary testing & investigations
+        HVF
+        non-contrast CT OR MRI
+            fusiform enlargement
+            tendon sparing
+            IMSLO
+        labs (90% hyperthyroid but anything is possible)
+            T3
+            free T4
+            TSH
+            TSH-R Ab
+                TBII
+                    tests for all Ab to TSH-R
+                    both inhibitory and stimulating
+                TSI
+                    tests for stimulating Ab only
+                    TSI is the better predictor for orbitopathy
+                    TSI is better for tracking treatment
 
 
 //
@@ -106,200 +106,200 @@ TED
 
 EUGOGO
 
-  CAS + severity category determines treatment plan
-    // see decision tree in EUGOGO (2008)
+    CAS + severity category determines treatment plan
+        // see decision tree in EUGOGO (2008)
 
-  clinical activity score // replaces Mourits, NO SPECS, VISA
-    retrobulbar pain (at rest)
-    pain on upgaze or downgaze
-    lid erythema
-    lid swelling
-    conj injection
-    conj edema
-    inflamed caruncle
+    clinical activity score // replaces Mourits, NO SPECS, VISA
+        retrobulbar pain (at rest)
+        pain on upgaze or downgaze
+        lid erythema
+        lid swelling
+        conj injection
+        conj edema
+        inflamed caruncle
 
-    active disease includes 3+ days
-  other severity indicators
-    proptosis
-    diplopia
-      intermittent
-      constant
-      1°
-    restriction
-    exposure keratopathy or ulceration
-    CON
+        active disease includes 3+ days
+    other severity indicators
+        proptosis
+        diplopia
+            intermittent
+            constant
+            1°
+        restriction
+        exposure keratopathy or ulceration
+        CON
 
-  severity categories
-    sight threatening
-      corneal breakdown
-      CON
-      intervene immediately
-        IVMP
-          if worsening over 1–2 weeks
-            decompression surgery
-              this is the one situation where you decompress active disease
-              usually want them quiet 6 months
-    moderate-severe
-      2+ mm lid retraction
-      3+ mm exophthalmos
-        above normal for
-          race
-          gender
-        Mourits Dutch normal values
-          16- women
-          20- men
-        Dunsky African American normal values
-          24- men
-          22- women
-        22+ should get your attention in any population
-      moderate-severe soft tissue involvement
-      intervene if quality of life is affected
-        active
-          COMMON: IVMP
-            3/4 respond
-            many different regimens
-              500 mg q 1 week x 6 weeks
-              250 mg q 1 week x 6 weeks
-              stop at 12 weeks and evaluate response
-            regardless of regimen
-              total dose should be 8- g
-            DM and HTN must be managed
-              but they should not prevent you from treating TED with steroids
-          ALSO: po prednisolone
-            1/2 respond
-            100 mg tapered 10 mg q 1 week x 12 weeks (10 mg plateau at the end)
-          RARELY: orbital radiation
-            combine with IVMP
-            best for diplopia + restriction
-            NEVER: perform orbital radiation in patients with DR OR severe HTN
-              try to avoid orbital radiation even in DM without DR
-        inactive
-          wait 6 months
-          surgery in the correct order (OSL) // 'OZil'
-            orbit
-            strabismus
-            lids
-    mild
-      smoking cessation
-      lubrication
-      obs
+    severity categories
+        sight threatening
+            corneal breakdown
+            CON
+            intervene immediately
+                IVMP
+                    if worsening over 1–2 weeks
+                        decompression surgery
+                            this is the one situation where you decompress active disease
+                            usually want them quiet 6 months
+        moderate-severe
+            2+ mm lid retraction
+            3+ mm exophthalmos
+                above normal for
+                    race
+                    gender
+                Mourits Dutch normal values
+                    16- women
+                    20- men
+                Dunsky African American normal values
+                    24- men
+                    22- women
+                22+ should get your attention in any population
+            moderate-severe soft tissue involvement
+            intervene if quality of life is affected
+                active
+                    COMMON: IVMP
+                        3/4 respond
+                        many different regimens
+                            500 mg q 1 week x 6 weeks
+                            250 mg q 1 week x 6 weeks
+                            stop at 12 weeks and evaluate response
+                        regardless of regimen
+                            total dose should be 8- g
+                        DM and HTN must be managed
+                            but they should not prevent you from treating TED with steroids
+                    ALSO: po prednisolone
+                        1/2 respond
+                        100 mg tapered 10 mg q 1 week x 12 weeks (10 mg plateau at the end)
+                    RARELY: orbital radiation
+                        combine with IVMP
+                        best for diplopia + restriction
+                        NEVER: perform orbital radiation in patients with DR OR severe HTN
+                            try to avoid orbital radiation even in DM without DR
+                inactive
+                    wait 6 months
+                    surgery in the correct order (OSL) // 'OZil'
+                        orbit
+                        strabismus
+                        lids
+        mild
+            smoking cessation
+            lubrication
+            obs
 
-    NOTE: there is no evidence that TED is helped by
-      thyroidectomy OR
-      antithyroid treatment
-        I125
-        methimazole
+        NOTE: there is no evidence that TED is helped by
+            thyroidectomy OR
+            antithyroid treatment
+                I125
+                methimazole
 
 
 //
 
 
-  treatment
+    treatment
 
-    be systematic
-      make the diagnosis of TED
-        prepare the patient for the typical course
-      address acute issues
-        optic nerve compromise
-        exposure
-      treat the patient's symptoms
-        quit smoking
-        lubrication
-        systemic steroids
-      treat systemic disease
-        endocrine
-        ± ENT
-        ± psychiatry OR counseling
-      once everything is quiet
-        orbital surgery // 'Orbit is One'
-        strabismus surgery
-        lid surgery // 'Lids are Last'
+        be systematic
+            make the diagnosis of TED
+                prepare the patient for the typical course
+            address acute issues
+                optic nerve compromise
+                exposure
+            treat the patient's symptoms
+                quit smoking
+                lubrication
+                systemic steroids
+            treat systemic disease
+                endocrine
+                ± ENT
+                ± psychiatry OR counseling
+            once everything is quiet
+                orbital surgery // 'Orbit is One'
+                strabismus surgery
+                lid surgery // 'Lids are Last'
 
-    in more detail
-      smoking cessation
-      smoking cessation
-      smoking cessation
-      achieve a euthyroid state
-        endocrine consult
-        ± ENT consult
-        ± psychiatry OR counseling
-        options
-          radioactive I
-          thyroidectomy
-          thyroid replacement
-        eye disease may not track with thyroid normalization
-          still important to treat systemic disease
-          counsel the patient
-      lubrication
-      topical cyclosporine
-      lid taping
-      moisture goggles
-      oral steroids
-        short-term
-        compressive optic neuropathy
-        when you consider systemic steroids
-          ALWAYS:
-            document side effects
-            counsel the patient about side effectss
-      IVMP
-        acute optic nerve compression
-      rituximab
-      RARELY: EBRT
-        results have not been impressive
-        some centers use EBRT as an adjunct in acute ON compromise
-      prism rarely helps
-        max tolerance 10 ∆ V and 20+ ∆ H
-      surgery
-        euthyroid x 6 months
-        order matters (OSL)
-          orbital decompression
-            diplopia in 1°
-            severe proptosis despite other treatments
-              cosmesis
-              exposure
-            stable angle for 6 months
-            decompression approaches
-              deep lateral
-                can eliminate up to 5 mm proptosis
-              balanced medial + lateral
-                bigger effect
-                greater risk of diplopia
-              medial + lateral + floor
-                can eliminate nearly 10 mm proptosis
-                risk of
-                  hypoglobus
-                  diplopia
-                  infraorbital nerve damage
-          strabismus
-            tables unreliable
-            undercorrect
-            only recessions
-              COMMON: IR + MR recessions
-              NEVER: do unilateral IR recession in TED
-                even with adjustables results are unpredictable
-                yoke muscle contracture
-                  progressive overcorrection
-                lower lid retraction
-            use adjustables
-            complications are common
-              IR slippage
-              LL retraction
-          lids last
-            tarsal switch procedure
-              for LL retraction
-              tarsoconjunctival graft from ipsilateral UL
-      address depression and psychology
+        in more detail
+            smoking cessation
+            smoking cessation
+            smoking cessation
+            achieve a euthyroid state
+                endocrine consult
+                ± ENT consult
+                ± psychiatry OR counseling
+                options
+                    radioactive I
+                    thyroidectomy
+                    thyroid replacement
+                eye disease may not track with thyroid normalization
+                    still important to treat systemic disease
+                    counsel the patient
+            lubrication
+            topical cyclosporine
+            lid taping
+            moisture goggles
+            oral steroids
+                short-term
+                compressive optic neuropathy
+                when you consider systemic steroids
+                    ALWAYS:
+                        document side effects
+                        counsel the patient about side effectss
+            IVMP
+                acute optic nerve compression
+            rituximab
+            RARELY: EBRT
+                results have not been impressive
+                some centers use EBRT as an adjunct in acute ON compromise
+            prism rarely helps
+                max tolerance 10 ∆ V and 20+ ∆ H
+            surgery
+                euthyroid x 6 months
+                order matters (OSL)
+                    orbital decompression
+                        diplopia in 1°
+                        severe proptosis despite other treatments
+                            cosmesis
+                            exposure
+                        stable angle for 6 months
+                        decompression approaches
+                            deep lateral
+                                can eliminate up to 5 mm proptosis
+                            balanced medial + lateral
+                                bigger effect
+                                greater risk of diplopia
+                            medial + lateral + floor
+                                can eliminate nearly 10 mm proptosis
+                                risk of
+                                    hypoglobus
+                                    diplopia
+                                    infraorbital nerve damage
+                    strabismus
+                        tables unreliable
+                        undercorrect
+                        only recessions
+                            COMMON: IR + MR recessions
+                            NEVER: do unilateral IR recession in TED
+                                even with adjustables results are unpredictable
+                                yoke muscle contracture
+                                    progressive overcorrection
+                                lower lid retraction
+                        use adjustables
+                        complications are common
+                            IR slippage
+                            LL retraction
+                    lids last
+                        tarsal switch procedure
+                            for LL retraction
+                            tarsoconjunctival graft from ipsilateral UL
+            address depression and psychology
 
 
 //
 
 
 ridiculous TED eponyms // for exam purposes only
-  Dalrymple sign
-    lid retraction
-  Kocher sign
-    lid retraction spasm with fixation
-  Von Graefe sign
-    lid lag in downgaze
-  Stellwag sign
-    incomplete OR infrequent blinking
+    Dalrymple sign
+        lid retraction
+    Kocher sign
+        lid retraction spasm with fixation
+    Von Graefe sign
+        lid lag in downgaze
+    Stellwag sign
+        incomplete OR infrequent blinking

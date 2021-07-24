@@ -1,99 +1,99 @@
 // https://github.com/dustypomerleau/eye-notes
 
 anisocoria
-  Does the pupil react to light?
-    if one pupil is poorly reactive
-      that is the problematic pupil
-    if both pupils are reactive
-      measure pupillary diameter in light and dark conditions
-        greater difference in the dark
-          smaller pupil is abnormal
-            can't dilate
-            subtle cases may show a dilation lag instead
-              when you dim the lights
-                anisocoria @ 5 seconds > anisocoria @ 15 seconds
-        greater difference in the light
-          larger pupil is abnormal
-            can't constrict
-            subtle cases may show a constriction lag instead
-              when you turn on the lights
-                anisocoria @ 5 seconds > anisocoria @ 15 seconds
-            8+ mm should make you think pharmacologic
-              CN3P dilation is not usually this large
-  Is there an RAPD?
-    severity
-      dilates as soon as you swing to that side
-      dilates after a pause
-      constricts but settles at a larger size than the fellow eye
-  Is the near reflex normal?
-    light near dissociation
-      dorsal midbrain syndrome
-      advanced syphilis
-      not pathognomonic
-        can be seen in
-          optic neuropathy
-          advanced retinopathy
-  be systematic
-    measurements in light
-    measurements in dark
-    direct
-    consensual
-    swinging
-      RAPD?
-    near reflex
-      make sure you start them on a distant target and then switch
-  Is there sectoral weakness?
-    typical of an Adie tonic pupil
-      results in vermiform movements on attempted constriction
-  Is there iris atrophy?
-    uveitis
-      HSV
-      VZV
-    ischemia
-  Does the patient have a headache?
-    young patient with a thunderclap HA and poorly reactive dilated pupil
-      aneurysm until proven otherwise
-  Are the lids and motility normal?
-    Savino rule
-      when confronted with an abnormality of 1 of these 3 things
-        lids
-        pupil
-        motility
-      ALWAYS: check the other 2
-      this way you won't miss CN3P, Horner, etc.
-  Is the rest of the eye exam normal?
-    there are many causes of an RAPD
-  Is the rest of the neurologic exam normal?
+    Does the pupil react to light?
+        if one pupil is poorly reactive
+            that is the problematic pupil
+        if both pupils are reactive
+            measure pupillary diameter in light and dark conditions
+                greater difference in the dark
+                    smaller pupil is abnormal
+                        can't dilate
+                        subtle cases may show a dilation lag instead
+                            when you dim the lights
+                                anisocoria @ 5 seconds > anisocoria @ 15 seconds
+                greater difference in the light
+                    larger pupil is abnormal
+                        can't constrict
+                        subtle cases may show a constriction lag instead
+                            when you turn on the lights
+                                anisocoria @ 5 seconds > anisocoria @ 15 seconds
+                        8+ mm should make you think pharmacologic
+                            CN3P dilation is not usually this large
+    Is there an RAPD?
+        severity
+            dilates as soon as you swing to that side
+            dilates after a pause
+            constricts but settles at a larger size than the fellow eye
+    Is the near reflex normal?
+        light near dissociation
+            dorsal midbrain syndrome
+            advanced syphilis
+            not pathognomonic
+                can be seen in
+                    optic neuropathy
+                    advanced retinopathy
+    be systematic
+        measurements in light
+        measurements in dark
+        direct
+        consensual
+        swinging
+            RAPD?
+        near reflex
+            make sure you start them on a distant target and then switch
+    Is there sectoral weakness?
+        typical of an Adie tonic pupil
+            results in vermiform movements on attempted constriction
+    Is there iris atrophy?
+        uveitis
+            HSV
+            VZV
+        ischemia
+    Does the patient have a headache?
+        young patient with a thunderclap HA and poorly reactive dilated pupil
+            aneurysm until proven otherwise
+    Are the lids and motility normal?
+        Savino rule
+            when confronted with an abnormality of 1 of these 3 things
+                lids
+                pupil
+                motility
+            ALWAYS: check the other 2
+            this way you won't miss CN3P, Horner, etc.
+    Is the rest of the eye exam normal?
+        there are many causes of an RAPD
+    Is the rest of the neurologic exam normal?
 
 DDx anisocoria
-  physiologic
-    1/5 of normal patients if you look for it
-  RAPD due to ocular disease
-  CN3P // see ptosis.txt & HT-vertical-strabismus.txt
-  Horner // see ptosis.txt
-  PS 2° inflammation
-  Adie tonic pupil
-    local ciliary ganglion or short ciliary nerve damage
-    vermiform sectoral weakness
-    denervation hypersensitivity to dilute 0.1% pilocarpine
-    despite sluggish pupil response in the light
-      near response is usually normal
-      blurry when they switch back to distance
-        but they slowly adjust
-  ischemia
-    anterior segment ischemia
-    ACG
-  pharmacologic
-    do all of your other testing before instilling agents to test this
-      e.g. you need to test dilute pilo for Adie before testing full strength
-  trauma
-    sphincter tears
+    physiologic
+        1/5 of normal patients if you look for it
+    RAPD due to ocular disease
+    CN3P // see ptosis.txt & HT-vertical-strabismus.txt
+    Horner // see ptosis.txt
+    PS 2° inflammation
+    Adie tonic pupil
+        local ciliary ganglion or short ciliary nerve damage
+        vermiform sectoral weakness
+        denervation hypersensitivity to dilute 0.1% pilocarpine
+        despite sluggish pupil response in the light
+            near response is usually normal
+            blurry when they switch back to distance
+                but they slowly adjust
+    ischemia
+        anterior segment ischemia
+        ACG
+    pharmacologic
+        do all of your other testing before instilling agents to test this
+            e.g. you need to test dilute pilo for Adie before testing full strength
+    trauma
+        sphincter tears
 
 
 //
 
 
 Argyll-Robertson pupils in advanced syphilis
-  often bilateral
-  poorly reactive
-  light-near dissociation
+    often bilateral
+    poorly reactive
+    light-near dissociation

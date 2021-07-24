@@ -3,88 +3,88 @@
 nystagmus
 
 nystagmus may take time to characterize
-  approach systematically
-    monocular or binocular
-    horizontal, vertical, or rotary
-    jerk or pendular
-    presence of a null point
+    approach systematically
+        monocular or binocular
+        horizontal, vertical, or rotary
+        jerk or pendular
+        presence of a null point
 
 checking VA with fixation-induced nystagmus
-  fog the fellow eye
-    +3 D is enough
-  full occlusion will make the nystagmus worse
+    fog the fellow eye
+        +3 D is enough
+    full occlusion will make the nystagmus worse
 
 regardless of pattern, examine the eyes for a sensory cause
 
 when don't you need an MRI?
-  infantile motor nystagmus with a clear FH
-  latent nystagmus with an infantile ET
-  sensory cause on exam
+    infantile motor nystagmus with a clear FH
+    latent nystagmus with an infantile ET
+    sensory cause on exam
 
 short DDx of a child with bilateral nystagmus
-  infantile nystagmus
-    sensory // mnemonic: AAA LCA
-      albinism
-      AR achromatopsia AKA rod monochromatism
-      aniridia
-      LCA
-      cataract
-      corneal opacity
-      ...
-    motor
-  latent nystagmus + infantile ET
-  spasmus nutans ± head nodding and torticollis
-    benign
-      but chiasmal tumors can masquerade as SN
-  opsoclonus ± cerebellar ataxia
-    metastatic neuroblastoma
-  convergence-retraction nystagmus
-    essentially pediatric dorsal midbrain syndrome
-      aqueductal stenosis
-      pinealoma
-  downbeat nystagmus
-    Chiari malformation
-    spinocerebellar degeneration
-  PAN
-    look for albinism
-    MRI for cerebellar lesion
-  seesaw nystagmus
-    craniopharyngioma
+    infantile nystagmus
+        sensory // mnemonic: AAA LCA
+            albinism
+            AR achromatopsia AKA rod monochromatism
+            aniridia
+            LCA
+            cataract
+            corneal opacity
+            ...
+        motor
+    latent nystagmus + infantile ET
+    spasmus nutans ± head nodding and torticollis
+        benign
+            but chiasmal tumors can masquerade as SN
+    opsoclonus ± cerebellar ataxia
+        metastatic neuroblastoma
+    convergence-retraction nystagmus
+        essentially pediatric dorsal midbrain syndrome
+            aqueductal stenosis
+            pinealoma
+    downbeat nystagmus
+        Chiari malformation
+        spinocerebellar degeneration
+    PAN
+        look for albinism
+        MRI for cerebellar lesion
+    seesaw nystagmus
+        craniopharyngioma
 
 short DDx of an adult with bilateral nystagmus
-  latent nystagmus with a history of infantile ET
-  opsoclonus
-    paraneoplastic opsoclonus
-      lung or breast CA
-    nonparaneoplastic opsoclonus
-      MS
-      lithium toxicity
-    MRI for pons or cerebellar lesion
-  convergence retraction nystagmus in DMS
-    MS
-    dorsal midbrain CVA OR tumor
-  PAN
-    look for albinism
-    MRI for cerebellar lesion
-  seesaw nystagmus with a parasellar mass
-  pendular nystagmus in MS
-    not very specific
-    MRI for other causes
-  vertical downbeat nystagmus
-    spinocerebellar degeneration
-      include the spine in your MRI
-    Wernicke syndrome from thiamine deficiency
-    lithium toxicity
-  asymmetric gaze-evoked nystagmus
-    MRI for ipsilateral brainstem lesion
-      CVA
-      MS
-      tumor
-    Wernicke syndrome from thiamine deficiency
-  vestibular nystagmus
-    vertigo
-    nausea
-    better with fixation
+    latent nystagmus with a history of infantile ET
+    opsoclonus
+        paraneoplastic opsoclonus
+            lung or breast CA
+        nonparaneoplastic opsoclonus
+            MS
+            lithium toxicity
+        MRI for pons or cerebellar lesion
+    convergence retraction nystagmus in DMS
+        MS
+        dorsal midbrain CVA OR tumor
+    PAN
+        look for albinism
+        MRI for cerebellar lesion
+    seesaw nystagmus with a parasellar mass
+    pendular nystagmus in MS
+        not very specific
+        MRI for other causes
+    vertical downbeat nystagmus
+        spinocerebellar degeneration
+            include the spine in your MRI
+        Wernicke syndrome from thiamine deficiency
+        lithium toxicity
+    asymmetric gaze-evoked nystagmus
+        MRI for ipsilateral brainstem lesion
+            CVA
+            MS
+            tumor
+        Wernicke syndrome from thiamine deficiency
+    vestibular nystagmus
+        vertigo
+        nausea
+        better with fixation
 
 
 //
@@ -92,149 +92,149 @@ short DDx of an adult with bilateral nystagmus
 
 nystagmus DDx
 
-  monocular
-    unilateral nystagmus DDx
-      sensory
-      amblyopia or high refractive error
-      optic or chiasmal glioma
-      MS
-    horizontal
-      usually longstanding sensory or amblyopia
-      AKA Heimann-Bielschowsky phenomenon
-    vertical
-      MRI for ON or chiasmal glioma
+    monocular
+        unilateral nystagmus DDx
+            sensory
+            amblyopia or high refractive error
+            optic or chiasmal glioma
+            MS
+        horizontal
+            usually longstanding sensory or amblyopia
+            AKA Heimann-Bielschowsky phenomenon
+        vertical
+            MRI for ON or chiasmal glioma
 
-  infantile
-    sensory
-    motor AKA congenital motor nystagmus
-      relatively good VA
-      uniplanar
-      jerk
-      better with convergence
-      null point
-        ± AHP
-      absent during sleep
-      OKN inversion
-      XLD > XLR
-  latent nystagmus
-    jerk away from the covered eye
-    look for infantile ET
-    can become manifest if the child develops amblyopia
-      begins to ignore one eye
-  spasmus nutans
-    shimmering small amplitude nystagmus
-    starts 3+ mo and resolves at 3+ y
-    head nodding
-    torticollis
-    MRI to rule out a chiasmal or suprachiasmal tumor masquerading as SN
-  opsoclonus
-    look for cerebellar ataxia
-      'dancing eyes and dancing feet'
-    COMMON:
-      in a child
-        neuroblastoma
-      in an adult
-        paraneoplastic
-          lung CA
-          breast CA
-    ALSO:
-      MS
-      drug toxicity
-        lithium
-    MRI for pons or cerebellar lesion
-  convergence-retraction
-    brought on by attempted upgaze in DMS
-    MRI for dorsal midbrain lesion // see MS.txt for features of DMS
-    dorsal midbrain syndrome in children
-      aqueductal stenosis
-      pinealoma
-  vertical
-    COMMON: downbeat
-    MRI for Chiari malformation or spinocerebellar degeneration
-      include the spine
-    lithium toxicity
-    Wernicke syndrome
-  PAN
-    2+ minutes to cycle
-      horizontal
-        jerk right
-          gradually increasing amplitude
-          wanes
-        pause
-        jerk left
-          gradually increasing amplitude
-          wanes
-        pause
-    MS
-    Chiari malformation
-    cerebellar tumor
-    CVA
-    albinism
-    PAN is often missed in the clinic
-      in patients with nystagmus + strabismus
-        order eye movement recordings before operating on the strabismus
-  see-saw
-    MRI for rostral midbrain or parasellar lesion
-    COMMON: craniopharyngioma
-  pendular
-    doesn't localize well
-    infantile is possible but RARE
-    look for MS in adults
-    MRI
+    infantile
+        sensory
+        motor AKA congenital motor nystagmus
+            relatively good VA
+            uniplanar
+            jerk
+            better with convergence
+            null point
+                ± AHP
+            absent during sleep
+            OKN inversion
+            XLD > XLR
+    latent nystagmus
+        jerk away from the covered eye
+        look for infantile ET
+        can become manifest if the child develops amblyopia
+            begins to ignore one eye
+    spasmus nutans
+        shimmering small amplitude nystagmus
+        starts 3+ mo and resolves at 3+ y
+        head nodding
+        torticollis
+        MRI to rule out a chiasmal or suprachiasmal tumor masquerading as SN
+    opsoclonus
+        look for cerebellar ataxia
+            'dancing eyes and dancing feet'
+        COMMON:
+            in a child
+                neuroblastoma
+            in an adult
+                paraneoplastic
+                    lung CA
+                    breast CA
+        ALSO:
+            MS
+            drug toxicity
+                lithium
+        MRI for pons or cerebellar lesion
+    convergence-retraction
+        brought on by attempted upgaze in DMS
+        MRI for dorsal midbrain lesion // see MS.txt for features of DMS
+        dorsal midbrain syndrome in children
+            aqueductal stenosis
+            pinealoma
+    vertical
+        COMMON: downbeat
+        MRI for Chiari malformation or spinocerebellar degeneration
+            include the spine
+        lithium toxicity
+        Wernicke syndrome
+    PAN
+        2+ minutes to cycle
+            horizontal
+                jerk right
+                    gradually increasing amplitude
+                    wanes
+                pause
+                jerk left
+                    gradually increasing amplitude
+                    wanes
+                pause
+        MS
+        Chiari malformation
+        cerebellar tumor
+        CVA
+        albinism
+        PAN is often missed in the clinic
+            in patients with nystagmus + strabismus
+                order eye movement recordings before operating on the strabismus
+    see-saw
+        MRI for rostral midbrain or parasellar lesion
+        COMMON: craniopharyngioma
+    pendular
+        doesn't localize well
+        infantile is possible but RARE
+        look for MS in adults
+        MRI
 
 
 //
 
 
-  gaze-evoked
-    normal to have a few beats at the extremes of horizontal gaze
-    asymmetric gaze-evoked nystagmus
-      CVA
-      demyelination
-      tumor
-      MRI for ipsilateral brainstem lesion
-    Wernicke syndrome AKA Wernicke encephalopathy
-      downbeat OR gaze-evoked horizontal jerk nystagmus
-        B1 thiamine deficiency
-          MS ∆
-          nystagmus
-          diplopia
-            various types of ophthalmoplegia
-              horizontal gaze palsies
-                including INO picture
-              upgaze limitation
-              skew deviation
-          ataxia
-          normal CT scan
-            ALWAYS: scan before diagnosing Wernicke syndrome
-            OK to treat empirically while waiting on imaging
-            MRI T2 FLAIR and DWI will show lesions
-              COMMON:
-                thalamus
-                hypothalamus
-                4th ventricle
-        COMMON: alcohol abuse
-        ALSO:
-          malnutrition
-          persistent vomiting
-          bariatric or bowel surgery
-          eating disorders
-        easy to treat even if you aren't sure
-          empiric thiamine + Mg has minimal downside
-            Mg is a thiamine cofactor in glucose metabolism
-            if Mg is low, thiamine alone will not correct the problem
-          risk of coma and death if you don't treat
-          serum thiamine + Mg levels will confirm the diagnosis
-  vestibular
-    vertigo
-    nausea
-    better with fixation
-    pattern varies with gaze direction
+    gaze-evoked
+        normal to have a few beats at the extremes of horizontal gaze
+        asymmetric gaze-evoked nystagmus
+            CVA
+            demyelination
+            tumor
+            MRI for ipsilateral brainstem lesion
+        Wernicke syndrome AKA Wernicke encephalopathy
+            downbeat OR gaze-evoked horizontal jerk nystagmus
+                B1 thiamine deficiency
+                    MS ∆
+                    nystagmus
+                    diplopia
+                        various types of ophthalmoplegia
+                            horizontal gaze palsies
+                                including INO picture
+                            upgaze limitation
+                            skew deviation
+                    ataxia
+                    normal CT scan
+                        ALWAYS: scan before diagnosing Wernicke syndrome
+                        OK to treat empirically while waiting on imaging
+                        MRI T2 FLAIR and DWI will show lesions
+                            COMMON:
+                                thalamus
+                                hypothalamus
+                                4th ventricle
+                COMMON: alcohol abuse
+                ALSO:
+                    malnutrition
+                    persistent vomiting
+                    bariatric or bowel surgery
+                    eating disorders
+                easy to treat even if you aren't sure
+                    empiric thiamine + Mg has minimal downside
+                        Mg is a thiamine cofactor in glucose metabolism
+                        if Mg is low, thiamine alone will not correct the problem
+                    risk of coma and death if you don't treat
+                    serum thiamine + Mg levels will confirm the diagnosis
+    vestibular
+        vertigo
+        nausea
+        better with fixation
+        pattern varies with gaze direction
 
 /*
 comatose patients look
-  toward cerebral lesions
-  away from brainstem lesions
+    toward cerebral lesions
+    away from brainstem lesions
 */
 
 
@@ -242,261 +242,261 @@ comatose patients look
 
 
 treatment
-  baclofen
-  gabapentin
-  RARELY: BOTOX
-  surgery
-    if there is a null point
-      Anderson-Kestenbaum
-        bilateral R & R
-        moves both eyes away from the null point
-        places the null point closer to fixation in a neutral head position
-        short version:
-          move the eyes in the direction of the head turn
-    if there is no null point
-      Dell'Osso
-        bilateral MR + LR tenotomies and resuture the muscles in place
+    baclofen
+    gabapentin
+    RARELY: BOTOX
+    surgery
+        if there is a null point
+            Anderson-Kestenbaum
+                bilateral R & R
+                moves both eyes away from the null point
+                places the null point closer to fixation in a neutral head position
+                short version:
+                    move the eyes in the direction of the head turn
+        if there is no null point
+            Dell'Osso
+                bilateral MR + LR tenotomies and resuture the muscles in place
 
 
 //
 
 
 eye movement abnormalities from drugs
-  topiramate
-  carbamazepine
-  SSRIs
-  BROADLY: antipsychotics
+    topiramate
+    carbamazepine
+    SSRIs
+    BROADLY: antipsychotics
 
 vertical gaze palsy DDx
-  restriction
-    orbital fracture
-    TED
-  CN4P
-  CN3P
-  Brown syndrome
-  DMS
-    bilateral injury to the riMLF in the midbrain
-    // consider supranuclear gaze palsies whenever you think about DMS
-    // see MS.txt for DDx of DMS
-  MG
-  MS
-  GCA
-  skew deviation
-  supranuclear gaze palsy // see below
+    restriction
+        orbital fracture
+        TED
+    CN4P
+    CN3P
+    Brown syndrome
+    DMS
+        bilateral injury to the riMLF in the midbrain
+        // consider supranuclear gaze palsies whenever you think about DMS
+        // see MS.txt for DDx of DMS
+    MG
+    MS
+    GCA
+    skew deviation
+    supranuclear gaze palsy // see below
 
 1.5 syndrome
-  INO + ipsilateral CN6P
-  lesion takes out MLF + (PPRF OR CN6 nucleus) on the same side
-  total horizontal gaze palsy on that side
-  only abduction of the opposite eye intact
-  important distinction in 1.5 versus typical INO
-    MLF crosses very low at the level of the CN6 nucleus
-      typical INO
-        MLF affected after crossing during vertical ascent to CN3 nucleus
-        the eye that can't adduct is on the same side as the lesion
-      1.5 syndrome
-        MLF affected on the same side as the affected CN6 nucleus
-        complete horizontal gaze paralysis is on the same side as the lesion
-    in both INO and 1.5
-      convergence should be intact
-        ask the patient to cross their eyes
+    INO + ipsilateral CN6P
+    lesion takes out MLF + (PPRF OR CN6 nucleus) on the same side
+    total horizontal gaze palsy on that side
+    only abduction of the opposite eye intact
+    important distinction in 1.5 versus typical INO
+        MLF crosses very low at the level of the CN6 nucleus
+            typical INO
+                MLF affected after crossing during vertical ascent to CN3 nucleus
+                the eye that can't adduct is on the same side as the lesion
+            1.5 syndrome
+                MLF affected on the same side as the affected CN6 nucleus
+                complete horizontal gaze paralysis is on the same side as the lesion
+        in both INO and 1.5
+            convergence should be intact
+                ask the patient to cross their eyes
 
 
 //
 
 
 habitual tic
-  school-age child
-  usually boys
-  excessive blinking
-  eyes rolling up
-  voluntary
-  intermittent
-    stress
-    fatigue
-    boredom
-  may have other tics
-    head
-    face
-    neck
-  normal exam
-    it is RARE for excessive blinking to indicate a neurologic problem
-  resolves spontaneously
-    weeks to years
+    school-age child
+    usually boys
+    excessive blinking
+    eyes rolling up
+    voluntary
+    intermittent
+        stress
+        fatigue
+        boredom
+    may have other tics
+        head
+        face
+        neck
+    normal exam
+        it is RARE for excessive blinking to indicate a neurologic problem
+    resolves spontaneously
+        weeks to years
 
 
 //
 
 
 supranuclear motility disorders
-  supranuclear players
-    frontal and parietal cortex
-    cerebellum
-    basal ganglia
-    superior colliculi
-    thalamus
-      dorsal LGN
-      pulvinar
-    brainstem centers
-      bridge supranuclear and (nuclear + infranuclear) function
-        vestibular nuclei
-        PPRF
-          controls horizontal aspects of
-            pursuit
-            saccades
-            OKN
-        rostral interstitial nucleus of the MLF
-          controls vertical aspects of
-            pursuit
-            saccades
-            OKN
-  supranuclear functions
-    saccades
-    microsaccades
-      prevent photoreceptor fatigue
-      prevent ocular drift when viewing a stationary object
-    smooth pursuit
-    vergence
-      anatomy and pathways for this are still poorly understood
-    VOR AKA doll's eye reflex
-      allows you to track an object while turning your head
-      attenuates rapidly after the head turn starts
-        needs the OKN to be useful for tracking an object
-      normal patients can suppress the VOR // see MS.txt
-    OKN
-      adds smooth pursuit to the VOR when you're fixed on an object
-      supplements the VOR with saccades
-        when speed of the object exceeds smooth pursuit
-        when you hit the limit of pursuit in the direction of movement
-      attenuates after 30 seconds even in normals
-  supranuclear disorders
-    congenital ocular motor apraxia
-      unable to initiate saccades
-        use head thrusts + VOR to foveate and then rotate back to center
-      congenital or early-onset OMA DDx
-        isolated COMA
-        lysosomal storage diseases
-          AR Niemann-Pick-C disease // Niemann-Pick-A has the cherry red spot
-            Nova Scotians of French descent
-            lysosomal storage from sphingomyelinase deficiency
-            vertical supranuclear gaze palsy
-              COMMON: upgaze paralysis OR poor vertical saccades
-            ataxia
-            poor muscle tone
-              speech
-              swallowing
-            liver and lung disease
-          AR Gaucher disease
-            Ashkenazi Jews (for type 1)
-            lysosomal storage from beta-glucocerebrosidase deficiency
-            severe forms die perinatally
-            those that survive
-              impaired saccades
-                COMMON: horizontal impairment
-              cherry red spot
-              seizures
-              calcified heart valves
-              HSM
-          AR Tay-Sachs disease
-            Ashkenazi Jews & French Canadians
-            lysosomal storage from beta-hexosaminidase A deficiency
-            impaired saccades
-              COMMON: vertical impairment
-            cherry red spot
-            seizures
-            ataxia
-            progressive muscle weakness and paralysis
-          AR sialidosis type 1 // type 2 generally die at birth
-            AKA
-              mucolipidosis type 1
-              cherry red spot myoclonus syndrome
-            MPS and mucolipid accumulation due to neuraminidase deficiency
-            ataxia
-            progressive myoclonus
-            cherry red spot
-            progressive vision loss
-              color blindness
-              night blindness
-            normal
-              intelligence
-              life expectancy
-          AR gangliosidosis 2 AKA Sandhoff disease
-            GM2 ganglioside accumulation
-              due to beta-hexosaminidase deficiency
-            progressive
-              seizures
-              vision loss
-              hearing loss
-              intellectual disability
-              paralysis
-            cherry red spot
-            RARELY: ataxia
-            often die young
-        AR Joubert syndrome
-          key findings
-            abnormal brain development
-              molar tooth sign on MRI of the brainstem
-            poor muscle tone
-            developmental delay
-          not really one syndrome
-            molar tooth sign is seen with many other disorders
-          various combinations of
-            Cogan syndrome with COMA manifesting as poor horizontal saccades
-            LCA-like pigmentary retinopathy with progressive loss of ERG
-            Bardet-Biedl syndrome
-              // see syndromes-congenital-and-genetic.txt
-            ataxia
-            nystagmus with poor smooth pursuit
-            polydactyly
-            liver and kidney disease
-            endocrine abnormalities
-        AR abetalipoproteinemia AKA Bassen-Kornzweig syndrome
-          beta-lipoprotein deficiency
-          inability to absorb dietary fats & fat-soluble vitamin [ADEK]
-          diarrhea
-          fatty stools
-          ataxia
-          nystagmus
-          poor abducting saccades
-            like a flipped INO
-          RP-like pigmentary retinopathy with progressive loss of ERG
-        AR ataxia telangiectasia AKA Louis-Barr syndrome
-          // see phakomatoses.txt
-        AR Wilson disease
-          sunflower cataract
-          Kayser-Fleischer corneal ring
-          globally slowed saccades
-    acquired ocular motor apraxia
-      // true supranuclear apraxias
-      // restrictive diseases with loss of motility are not included here
-      bilateral damage to supranuclear gaze pathways
-        usually frontal + parietal lobes
-      acquired OMA DDx
-        large, bilateral CVAs
-        anoxic encephalopathy
-          cardiac arrest
-          intraoperative hyptotension
-            CABG
-        progressive supranuclear palsy
-          PSP is on a spectrum with Parkinson disease
-            presents in the elderly
-          vertical gaze palsy
-            worst in downgaze
-            AOT classic Parkinson disease
-              tends to have upgaze limitation
-              similar to PSP in terms of convergence problems
-          progressing to total gaze palsy including horizontal movements
-          convergence paralysis
-          extrapyramidal signs
-          ataxia
-          dementia
-          altered tear film and blink
-            in both PSP and Parkinson disease
-              artificial tears can improve vision
-        convergence insufficiency
-          adults 50+ who have diplopia during near tasks
-            no further workup needed if no other neurologic abnormalities
-            can be seen with DMS
-            can be seen with extrapyramidal disorders
-              PSP
-              Parkinson disease
+    supranuclear players
+        frontal and parietal cortex
+        cerebellum
+        basal ganglia
+        superior colliculi
+        thalamus
+            dorsal LGN
+            pulvinar
+        brainstem centers
+            bridge supranuclear and (nuclear + infranuclear) function
+                vestibular nuclei
+                PPRF
+                    controls horizontal aspects of
+                        pursuit
+                        saccades
+                        OKN
+                rostral interstitial nucleus of the MLF
+                    controls vertical aspects of
+                        pursuit
+                        saccades
+                        OKN
+    supranuclear functions
+        saccades
+        microsaccades
+            prevent photoreceptor fatigue
+            prevent ocular drift when viewing a stationary object
+        smooth pursuit
+        vergence
+            anatomy and pathways for this are still poorly understood
+        VOR AKA doll's eye reflex
+            allows you to track an object while turning your head
+            attenuates rapidly after the head turn starts
+                needs the OKN to be useful for tracking an object
+            normal patients can suppress the VOR // see MS.txt
+        OKN
+            adds smooth pursuit to the VOR when you're fixed on an object
+            supplements the VOR with saccades
+                when speed of the object exceeds smooth pursuit
+                when you hit the limit of pursuit in the direction of movement
+            attenuates after 30 seconds even in normals
+    supranuclear disorders
+        congenital ocular motor apraxia
+            unable to initiate saccades
+                use head thrusts + VOR to foveate and then rotate back to center
+            congenital or early-onset OMA DDx
+                isolated COMA
+                lysosomal storage diseases
+                    AR Niemann-Pick-C disease // Niemann-Pick-A has the cherry red spot
+                        Nova Scotians of French descent
+                        lysosomal storage from sphingomyelinase deficiency
+                        vertical supranuclear gaze palsy
+                            COMMON: upgaze paralysis OR poor vertical saccades
+                        ataxia
+                        poor muscle tone
+                            speech
+                            swallowing
+                        liver and lung disease
+                    AR Gaucher disease
+                        Ashkenazi Jews (for type 1)
+                        lysosomal storage from beta-glucocerebrosidase deficiency
+                        severe forms die perinatally
+                        those that survive
+                            impaired saccades
+                                COMMON: horizontal impairment
+                            cherry red spot
+                            seizures
+                            calcified heart valves
+                            HSM
+                    AR Tay-Sachs disease
+                        Ashkenazi Jews & French Canadians
+                        lysosomal storage from beta-hexosaminidase A deficiency
+                        impaired saccades
+                            COMMON: vertical impairment
+                        cherry red spot
+                        seizures
+                        ataxia
+                        progressive muscle weakness and paralysis
+                    AR sialidosis type 1 // type 2 generally die at birth
+                        AKA
+                            mucolipidosis type 1
+                            cherry red spot myoclonus syndrome
+                        MPS and mucolipid accumulation due to neuraminidase deficiency
+                        ataxia
+                        progressive myoclonus
+                        cherry red spot
+                        progressive vision loss
+                            color blindness
+                            night blindness
+                        normal
+                            intelligence
+                            life expectancy
+                    AR gangliosidosis 2 AKA Sandhoff disease
+                        GM2 ganglioside accumulation
+                            due to beta-hexosaminidase deficiency
+                        progressive
+                            seizures
+                            vision loss
+                            hearing loss
+                            intellectual disability
+                            paralysis
+                        cherry red spot
+                        RARELY: ataxia
+                        often die young
+                AR Joubert syndrome
+                    key findings
+                        abnormal brain development
+                            molar tooth sign on MRI of the brainstem
+                        poor muscle tone
+                        developmental delay
+                    not really one syndrome
+                        molar tooth sign is seen with many other disorders
+                    various combinations of
+                        Cogan syndrome with COMA manifesting as poor horizontal saccades
+                        LCA-like pigmentary retinopathy with progressive loss of ERG
+                        Bardet-Biedl syndrome
+                            // see syndromes-congenital-and-genetic.txt
+                        ataxia
+                        nystagmus with poor smooth pursuit
+                        polydactyly
+                        liver and kidney disease
+                        endocrine abnormalities
+                AR abetalipoproteinemia AKA Bassen-Kornzweig syndrome
+                    beta-lipoprotein deficiency
+                    inability to absorb dietary fats & fat-soluble vitamin [ADEK]
+                    diarrhea
+                    fatty stools
+                    ataxia
+                    nystagmus
+                    poor abducting saccades
+                        like a flipped INO
+                    RP-like pigmentary retinopathy with progressive loss of ERG
+                AR ataxia telangiectasia AKA Louis-Barr syndrome
+                    // see phakomatoses.txt
+                AR Wilson disease
+                    sunflower cataract
+                    Kayser-Fleischer corneal ring
+                    globally slowed saccades
+        acquired ocular motor apraxia
+            // true supranuclear apraxias
+            // restrictive diseases with loss of motility are not included here
+            bilateral damage to supranuclear gaze pathways
+                usually frontal + parietal lobes
+            acquired OMA DDx
+                large, bilateral CVAs
+                anoxic encephalopathy
+                    cardiac arrest
+                    intraoperative hyptotension
+                        CABG
+                progressive supranuclear palsy
+                    PSP is on a spectrum with Parkinson disease
+                        presents in the elderly
+                    vertical gaze palsy
+                        worst in downgaze
+                        AOT classic Parkinson disease
+                            tends to have upgaze limitation
+                            similar to PSP in terms of convergence problems
+                    progressing to total gaze palsy including horizontal movements
+                    convergence paralysis
+                    extrapyramidal signs
+                    ataxia
+                    dementia
+                    altered tear film and blink
+                        in both PSP and Parkinson disease
+                            artificial tears can improve vision
+                convergence insufficiency
+                    adults 50+ who have diplopia during near tasks
+                        no further workup needed if no other neurologic abnormalities
+                        can be seen with DMS
+                        can be seen with extrapyramidal disorders
+                            PSP
+                            Parkinson disease

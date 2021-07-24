@@ -2,200 +2,200 @@
 
 pediatric glaucoma
 
-  primary congenital glaucoma
-    COMMON: sporadic
-    RARELY: AR
-    related to
-      LTBP2
-      CYP1B1
-      consanguinity
-    epiphora
-    photophobia
-    blepharospasm
-    ALWAYS: EUA
-      non-inhalational induction if possible
-        ketamine
-      elevated IOP
-        check quickly at induction
-        will decrease under GA
-      increased horizontal corneal diameter
-        11.5+ mm at birth
-        12.5+ mm at 1 y
-          in practice
-            11+ in the first year
-            13+ at any age
-          may be easiest to think of both ends in terms of ranges
-            normal
-              birth 9–11
-              1+ years old 10–13
-        ± corneal clouding
-      buphthalmos
-        a bluish hue can tip you off if the sclera is stretched thin
-        quantify
-          myopic cyclorefraction
-            ALWAYS: cyclorefract
-              during any pediatric EUA
-          ASUS for long AL
-      portable slitlamp exam // the operating microscope may be adequate
-        Haab striae
-          horizontal breaks in the Descemet membrane
-        Koeppe direct gonioscopy
-          anterior iris insertion OR
-          Barkan membrane
-            abnormal angle tissue
-            obscures the CB band
-            NOTE: TM is not usually visible
-              even in healthy infants
-        rule out anterior segment dysgenesis
-      BIO exam
-        cupping
-          sometimes reversible
-    poor response to medical therapy
-      OK to temporize medically
-      may help clear the cornea
-        typically
-          start with latanoprost 0.005% OR timolol 0.5% as monotherapy
-            timolol is the drug with the longest track record
-              kids 3- YO use timolol 0.25%
-            betaxolol is a theoretically better choice in kids with asthma
-              reduced beta2 blockade
-          add CAI if control is poor
-            brinzolamide
-            dorzolamide
-        beta blockers
-          watch for bradycardia or hypotension
-        prostaglandins
-          latanoprost is probably equal to timolol in efficacy for kids
-          very good safety profile in children
-          watch for inflammation
-        systemic CAI can be added to topical
-          Diamox 10–20 mg/kg/d
-          watch for hypokalemia and metabolic acidosis
-    surgery
-      can be done at the same time as EUA
-      goniotomy if the cornea is clear
-        50+% successful on the first try
-          some surgeons claim as much as 80%
-        4+ CH if you can
-      trabeculotomy if the cornea is cloudy
-        scleral flap access
-        trabeculotome
-        180° to start
-          some surgeons do full 360 with an illuminated microcatheter
-      traditional glaucoma surgery
-        only in kids who don't respond to a couple of angle surgeries
-    as always with kids
-      keep the refraction up to date throughout treatment
-        if increasing myopia
-          repeat EUA
-          check IOP
-      treat any amblyopia
-      counsel parents
-    if undertreated you will see progression of
-      corneal scarring
-      cupping
-      axial myopia
-      amblyopia
-    end stage
-      lens subluxation
-      blindness
-    counseling parents about genetics
-      when 1 child is affected
-        1/20 subsequent siblings will have PCG
-      when 2 children are affected
-        1/4 subsequent siblings will have PCG
+    primary congenital glaucoma
+        COMMON: sporadic
+        RARELY: AR
+        related to
+            LTBP2
+            CYP1B1
+            consanguinity
+        epiphora
+        photophobia
+        blepharospasm
+        ALWAYS: EUA
+            non-inhalational induction if possible
+                ketamine
+            elevated IOP
+                check quickly at induction
+                will decrease under GA
+            increased horizontal corneal diameter
+                11.5+ mm at birth
+                12.5+ mm at 1 y
+                    in practice
+                        11+ in the first year
+                        13+ at any age
+                    may be easiest to think of both ends in terms of ranges
+                        normal
+                            birth 9–11
+                            1+ years old 10–13
+                ± corneal clouding
+            buphthalmos
+                a bluish hue can tip you off if the sclera is stretched thin
+                quantify
+                    myopic cyclorefraction
+                        ALWAYS: cyclorefract
+                            during any pediatric EUA
+                    ASUS for long AL
+            portable slitlamp exam // the operating microscope may be adequate
+                Haab striae
+                    horizontal breaks in the Descemet membrane
+                Koeppe direct gonioscopy
+                    anterior iris insertion OR
+                    Barkan membrane
+                        abnormal angle tissue
+                        obscures the CB band
+                        NOTE: TM is not usually visible
+                            even in healthy infants
+                rule out anterior segment dysgenesis
+            BIO exam
+                cupping
+                    sometimes reversible
+        poor response to medical therapy
+            OK to temporize medically
+            may help clear the cornea
+                typically
+                    start with latanoprost 0.005% OR timolol 0.5% as monotherapy
+                        timolol is the drug with the longest track record
+                            kids 3- YO use timolol 0.25%
+                        betaxolol is a theoretically better choice in kids with asthma
+                            reduced beta2 blockade
+                    add CAI if control is poor
+                        brinzolamide
+                        dorzolamide
+                beta blockers
+                    watch for bradycardia or hypotension
+                prostaglandins
+                    latanoprost is probably equal to timolol in efficacy for kids
+                    very good safety profile in children
+                    watch for inflammation
+                systemic CAI can be added to topical
+                    Diamox 10–20 mg/kg/d
+                    watch for hypokalemia and metabolic acidosis
+        surgery
+            can be done at the same time as EUA
+            goniotomy if the cornea is clear
+                50+% successful on the first try
+                    some surgeons claim as much as 80%
+                4+ CH if you can
+            trabeculotomy if the cornea is cloudy
+                scleral flap access
+                trabeculotome
+                180° to start
+                    some surgeons do full 360 with an illuminated microcatheter
+            traditional glaucoma surgery
+                only in kids who don't respond to a couple of angle surgeries
+        as always with kids
+            keep the refraction up to date throughout treatment
+                if increasing myopia
+                    repeat EUA
+                    check IOP
+            treat any amblyopia
+            counsel parents
+        if undertreated you will see progression of
+            corneal scarring
+            cupping
+            axial myopia
+            amblyopia
+        end stage
+            lens subluxation
+            blindness
+        counseling parents about genetics
+            when 1 child is affected
+                1/20 subsequent siblings will have PCG
+            when 2 children are affected
+                1/4 subsequent siblings will have PCG
 
-  AD JOAG
-    related to MYOC just like adult POAG
-    presents older than 4 y
-    normal-sized eye and cornea
-    no Haab striae
-    JOAG is more like POAG than PCG
-      exception: JOAG often requires surgery
-      still try medical therapy first
+    AD JOAG
+        related to MYOC just like adult POAG
+        presents older than 4 y
+        normal-sized eye and cornea
+        no Haab striae
+        JOAG is more like POAG than PCG
+            exception: JOAG often requires surgery
+            still try medical therapy first
 
-  brimonidine (!)
-    can cause CNS + respiratory depression
-    NEVER: use brimonidine in kids under 2
-    use it with caution in older kids
+    brimonidine (!)
+        can cause CNS + respiratory depression
+        NEVER: use brimonidine in kids under 2
+        use it with caution in older kids
 
-  amblyopia
-    both PCG AND early-onset JOAG are at risk
-    monitor for
-      changing refractive error
-      strabismus
+    amblyopia
+        both PCG AND early-onset JOAG are at risk
+        monitor for
+            changing refractive error
+            strabismus
 
-  ocular and systemic diseases to consider in kids with glaucoma
-    corneal dysfunction
-      AD PPCD (formerly CHED1)
-      AR CHED (formerly CHED2)
-      // see corneal-opacity-infantile-and-anterior-segment-dysgenesis.txt
-    anterior segment dysgenesis
-      // for exam purposes, specifically state that you've ruled this out
-      aniridia ± WAGR
-      sporadic Peters anomaly
-      AD Axenfeld-Rieger syndrome
-      sclerocornea
-      // see corneal-opacity-infantile-and-anterior-segment-dysgenesis.txt
-    lens-associated glaucoma
-      AD OR sporadic Marfan syndrome
-      AR homocystinuria
-      AD OR AR Weill-Marchesani syndrome
-      microspherophakia
-    congenital posterior segment disease
-      PFV
-      AD FEVR
-      ROP
-      sporadic Coats disease
-    posterior segment neoplasm
-      Rb
-      JXG
-      leukemia
-    neurooculocutaneous syndromes (phakomatoses)
-      sporadic Sturge-Weber
-      AD OR sporadic NF1
-      AD VHL
-    oculodermal melanocytosis AKA nevus of Ota
-    XLR oculocerebrorenal syndrome AKA Lowe syndrome
-    chromosomal abnormalities
-      trisomy 13, 18, 21
-    craniofacial syndromes
-      Hallermann-Streif
-      Rubinstein-Taybi
-    secondary angle closure glaucomas
-      NVG
-        due to any of the above
-      microphthalmos
-        malformed eye
-      nanophthalmos
-        small but anatomically normal eye
-        usually diagnose microphthalmos or nanophthalmos because of microcornea
-          9- mm @ birth
-          10- mm @ 2 YO
-          may be easiest to think of both ends in terms of ranges
-            normal
-              birth 9–11
-              1+ years old 10–13
-        may need lens extraction for chronic PACG
-          very difficult in a shallow chamber
-          may need a posterior approach
+    ocular and systemic diseases to consider in kids with glaucoma
+        corneal dysfunction
+            AD PPCD (formerly CHED1)
+            AR CHED (formerly CHED2)
+            // see corneal-opacity-infantile-and-anterior-segment-dysgenesis.txt
+        anterior segment dysgenesis
+            // for exam purposes, specifically state that you've ruled this out
+            aniridia ± WAGR
+            sporadic Peters anomaly
+            AD Axenfeld-Rieger syndrome
+            sclerocornea
+            // see corneal-opacity-infantile-and-anterior-segment-dysgenesis.txt
+        lens-associated glaucoma
+            AD OR sporadic Marfan syndrome
+            AR homocystinuria
+            AD OR AR Weill-Marchesani syndrome
+            microspherophakia
+        congenital posterior segment disease
+            PFV
+            AD FEVR
+            ROP
+            sporadic Coats disease
+        posterior segment neoplasm
+            Rb
+            JXG
+            leukemia
+        neurooculocutaneous syndromes (phakomatoses)
+            sporadic Sturge-Weber
+            AD OR sporadic NF1
+            AD VHL
+        oculodermal melanocytosis AKA nevus of Ota
+        XLR oculocerebrorenal syndrome AKA Lowe syndrome
+        chromosomal abnormalities
+            trisomy 13, 18, 21
+        craniofacial syndromes
+            Hallermann-Streif
+            Rubinstein-Taybi
+        secondary angle closure glaucomas
+            NVG
+                due to any of the above
+            microphthalmos
+                malformed eye
+            nanophthalmos
+                small but anatomically normal eye
+                usually diagnose microphthalmos or nanophthalmos because of microcornea
+                    9- mm @ birth
+                    10- mm @ 2 YO
+                    may be easiest to think of both ends in terms of ranges
+                        normal
+                            birth 9–11
+                            1+ years old 10–13
+                may need lens extraction for chronic PACG
+                    very difficult in a shallow chamber
+                    may need a posterior approach
 
-  excessive blinking in a child
-    glaucoma
-    OSD
-      DES
-      FB
-      trichiasis
-    high refractive error
-    X(T)
-    functional
+    excessive blinking in a child
+        glaucoma
+        OSD
+            DES
+            FB
+            trichiasis
+        high refractive error
+        X(T)
+        functional
 
-  photophobia in a child (without epiphora)
-    BROADLY: elevated IOP
-      1° or 2°
-    BROADLY: uveitis
-    albinism
-    cone dysfunction
-      AR achromatopsia AKA rod monochromatism
-      cone or cone > rod dystrophy (with hemeralopia)
-    LCA
+    photophobia in a child (without epiphora)
+        BROADLY: elevated IOP
+            1° or 2°
+        BROADLY: uveitis
+        albinism
+        cone dysfunction
+            AR achromatopsia AKA rod monochromatism
+            cone or cone > rod dystrophy (with hemeralopia)
+        LCA
