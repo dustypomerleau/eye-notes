@@ -181,6 +181,12 @@ SEAGIG guidelines // full guidelines are very detailed and not covered here
                     TID
                         radial
                         spokelike
+                long anterior zonules
+                    distinct from PDS
+                    also cause pigment dispersion but not TID
+                    are associated with OHTN and possibly glaucoma
+                    implications for cataract surgery
+                        challenging rhexis
                 PXF
                     TID
                         pupillary margin
