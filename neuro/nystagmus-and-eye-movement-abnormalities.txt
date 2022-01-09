@@ -327,6 +327,18 @@ habitual tic
 
 //
 
+genetic ophthalmoplegia
+    hereditary spastic paraplegia
+        umbrella term for 80+ mutations
+            mostly AR
+        lower limb spasticity and weakness
+        nystagmus
+        ophthalmoplegia
+        cataracts
+        optic atrophy
+        pigmentary retinal degeneration
+    AR spastic ataxia of Charlevoix-Saguenay (ARSACS)
+    XLR adrenoleukodystrophy, spastic paraplegia, optic atrophy, and neuropathy (SPOAN)
 
 supranuclear motility disorders
     supranuclear players
