@@ -57,7 +57,7 @@ entropion
             BCTL
             Quickert sutures
             LTS
-                ± reinsertion of LLR
+                ± reinsertion of LLR
                 ± resection of preseptal OOM
                 best outcomes use a transdermal approach
                     Jones subciliary incision
@@ -350,7 +350,7 @@ ectropion:
             check other CN
                 CN[578]P
                     CPA tumors // see strabismus.txt for CPA tumor DDx
-                        COMMON: CN8 schwannoma ± NF2
+                        COMMON: CN8 schwannoma ± NF2
                 CN(6+7)P
                     Moebius syndrome
                 pontine CVA
@@ -377,7 +377,7 @@ ectropion:
             may recover spontaneously
             for ectropion component
                 LTS
-                    ± medial canthoplasty if significant MCT laxity
+                    ± medial canthoplasty if significant MCT laxity
                         not usually needed
 
 
@@ -462,7 +462,7 @@ lagophthalmos
 floppy eyelid syndrome
     spontaneous eversion with traction
         distraction test
-    ± eyelid imbrication
+    ± eyelid imbrication
     horizontal laxity
         punctum can be pulled past the limbus
     papillary reaction

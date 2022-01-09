@@ -14,7 +14,7 @@ exam
         acuity
         pupils
         IOP
-            1° versus upgaze
+            1° versus upgaze
         color
         anterior uveitis
         hyphema

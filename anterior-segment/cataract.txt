@@ -557,7 +557,7 @@ postop
             glaucoma
                 risk of steroid response
                 switch prostaglandins to another agent perioperatively
-            DR ± DME
+            DR ± DME
         pretreat with PF and NSAIDs
         intraoperative triamcinolone
             high risk cases

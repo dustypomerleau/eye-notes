@@ -52,7 +52,7 @@ visual fields
             6/9+ better eye
             fellow eye 6/18-
                 must not be monocular
-            VF 140° x 20°
+            VF 140° x 20°
                 no VF defect that is 'likely to impede driving performance'
             no diplopia in the central 20°
             subject to periodic review

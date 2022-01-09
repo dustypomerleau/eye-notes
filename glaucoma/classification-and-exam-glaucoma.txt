@@ -183,7 +183,7 @@ glaucoma classification
         in general
             treat 3+ quads of ATM or less (PACS, PAC ± G)
                 LPI
-                ± ALPI
+                ± ALPI
                 + meds if the IOP is still too high
             if the IOP is too high after that
                 CEIOL

@@ -21,9 +21,9 @@ retinoscopy technique
         or the one 90° away
         whichever neutralizes first
     draw your power cross
-        label the ° of both meridians
+        label the ° of both meridians
         label the power of the meridian you just neutralized
-    neutralize 90° away
+    neutralize 90° away
         label the power of that meridian
             in absolute terms
     write out the Rx
@@ -31,5 +31,5 @@ retinoscopy technique
         use the difference between the two absolute powers for the cylinder
         picture the streak orientation for the higher powered meridian
             that's your axis
-            90° away from the meridian
+            90° away from the meridian
     -1.5 D working distance from the sphere for final Rx

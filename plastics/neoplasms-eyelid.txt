@@ -107,7 +107,7 @@ DDx
         incisional biopsy
             usually a 3 mm punch // in AU
         for large or aggressive lesions
-            involve the GP ± oncologist
+            involve the GP ± oncologist
         excision with margins
             Mohs OR frozen sections
         BCC (3 mm)
@@ -177,7 +177,7 @@ DDx
             perineural invasion of SCC can affect the orbit and cavernous sinus
             if there is a CNP associated with SCC
                 scan
-                    thin cut MRI ± gad of orbit and cavernous sinus
+                    thin cut MRI ± gad of orbit and cavernous sinus
             if you can't see the whole lesion
                 scan
         sebaceous cell carcinoma (4+ mm)

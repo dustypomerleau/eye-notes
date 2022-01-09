@@ -53,7 +53,7 @@ AMD
                     BOULEVARD
                         DME
         antiPDGF
-            Fovista 
+            Fovista
         complications
             RPE tear
                 COMMON:

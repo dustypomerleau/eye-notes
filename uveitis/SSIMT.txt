@@ -172,7 +172,7 @@ before starting SSIMT
                                     stop (week 15)
                             85 weeks of follow-up
                             intention-to-treat analysis
-                                1° outcome: treatment failure at 6+ weeks
+                                1° outcome: treatment failure at 6+ weeks
                                     failure = any one of:
                                         new inflammatory lesions
                                         10+ AC WBC/HPF
@@ -190,7 +190,7 @@ before starting SSIMT
                                 half as likely to fail treatment
                                 on average failed later
                                     24 weeks versus 13 weeks in the placebo group
-                                Humira slightly outperformed placebo in 2° outcomes
+                                Humira slightly outperformed placebo in 2° outcomes
                             Humira patients had twice as many (serious) adverse events
                                 mostly 2° infections
                                     including 1 case of TB

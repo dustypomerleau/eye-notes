@@ -520,7 +520,7 @@ negative), so the test adds little to the diagnosis in this situation, either.
                             no vasculitis
                     BSUS helpful in visualising SR infiltrates in cases of dense vitritis
                     LP with CSF cytology for lymphoma cells
-                    MRI ± gad
+                    MRI ± gad
                         lesions
                             dark on T1
                             bright on T2
@@ -544,7 +544,7 @@ negative), so the test adds little to the diagnosis in this situation, either.
                             preservatives can be added to try and delay this
                 treatment
                     systemic methotrexate
-                        ± Ara-C OR radiotherapy
+                        ± Ara-C OR radiotherapy
                         COMMON: IV
                         ALSO: intrathecal
                     intravitreal methotrexate 0.4 mg/0.1 mL for local control

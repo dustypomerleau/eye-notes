@@ -126,7 +126,7 @@ IOFB
         ALWAYS: use antibiotics in PEI cases with organic matter
             vancomycin
             ceftazidime
-            ± amphotericin B
+            ± amphotericin B
 
     monitor the fellow eye for SO
     leave corneal sutures in ~ 3 months

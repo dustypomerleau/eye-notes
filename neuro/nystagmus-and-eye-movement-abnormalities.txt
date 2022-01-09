@@ -36,7 +36,7 @@ short DDx of a child with bilateral nystagmus
     spasmus nutans ± head nodding and torticollis
         benign
             but chiasmal tumors can masquerade as SN
-    opsoclonus ± cerebellar ataxia
+    opsoclonus ± cerebellar ataxia
         metastatic neuroblastoma
     convergence-retraction nystagmus
         essentially pediatric dorsal midbrain syndrome
@@ -176,7 +176,7 @@ nystagmus DDx
     see-saw
         MRI for rostral midbrain or parasellar lesion
         COMMON: craniopharyngioma
-    pendular
+    pendular
         doesn't localize well
         infantile is possible but RARE
         look for MS in adults
@@ -186,7 +186,7 @@ nystagmus DDx
 //
 
 
-    gaze-evoked
+    gaze-evoked
         normal to have a few beats at the extremes of horizontal gaze
         asymmetric gaze-evoked nystagmus
             CVA
@@ -225,7 +225,7 @@ nystagmus DDx
                         if Mg is low, thiamine alone will not correct the problem
                     risk of coma and death if you don't treat
                     serum thiamine + Mg levels will confirm the diagnosis
-    vestibular
+    vestibular
         vertigo
         nausea
         better with fixation

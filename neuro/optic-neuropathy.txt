@@ -449,7 +449,7 @@ optic neuropathy DDx // lengthy list of rare causes below
                             may debulk in some cases where the vision is lost already
                         histopathology is similar to other meningiomas
                             meningothelial whorls
-                            ± psammoma bodies
+                            ± psammoma bodies
         lymphoproliferative
             lymphoma infiltrative ON
             orbital lymphoma compressive ON

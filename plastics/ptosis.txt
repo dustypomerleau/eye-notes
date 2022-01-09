@@ -269,7 +269,7 @@ ptosis
                 AD myotonic dystrophy
                 CFEOM
                     AD OR AR
-                    restrictive strabismus ± ptosis
+                    restrictive strabismus ± ptosis
                     *very* hard to treat surgically
                     mutated genes
                         KIF21A

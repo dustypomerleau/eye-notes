@@ -134,7 +134,7 @@ CN3P
             ± ptosis
             ± mydriasis
     patients with CN3P need imaging
-        MRI + MRA ± gad OR
+        MRI + MRA ± gad OR
         noncon CT + contrast CTA
             many institutions do CTA first
                 it's fast and available
@@ -487,7 +487,7 @@ orbital fracture // see also fractures-orbital.txt
             acuity
             pupils
             IOP
-                1° versus upgaze
+                1° versus upgaze
             color
             anterior uveitis
             hyphema

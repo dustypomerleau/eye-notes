@@ -116,7 +116,7 @@ ERG interpretation
                 amacrine cells
                 not always recorded separately
                 can be derived from the 3 cd•s/m2 ERG using a 75 Hz high-pass filter
-                look for 3 main positive peaks ± a 4th small peak
+                look for 3 main positive peaks ± a 4th small peak
                     interpretation beyond noting presence or absence is much debated
                 reduced OPs
                     conditions where you would actually order an ERG
