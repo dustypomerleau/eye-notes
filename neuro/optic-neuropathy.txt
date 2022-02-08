@@ -130,7 +130,7 @@ history
                                 RARELY: endovascular recanalization
                     if the MRI + MRV are negative
                         LP with opening pressure and CSF analysis
-                            if CSF normal and high opening pressure
+                            if CSF normal and high opening pressure 25+
                                 treat as IIH
                                     Diamox 1 g daily in 2–4 divided doses
                                         titrate to a max of 4 g daily
