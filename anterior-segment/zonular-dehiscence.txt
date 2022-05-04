@@ -198,8 +198,16 @@ zonular dehiscence
                 iris fixated
                 scleral fixated
                     sutured
-                        Bausch and Lomb Akreos AO60
-                            allows smaller incision than the Alcon CZ70BD and 4-point fixation
+                        Bausch and Lomb
+                            Akreos AO60
+                                smaller incision than the Alcon CZ70BD
+                                4-point fixation
+                                hydrophilic
+                            LuxGood
+                                similar to Akreos
+                                4-point fixation
+                                hydrophobic
+                                A-constant 119.2 (optical, SRK/T)
                     scleral tunnel
                         Zeiss CT Lucia 602 has strong haptics for this
         stain for vitreous with triamcinolone
