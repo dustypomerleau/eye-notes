@@ -163,17 +163,13 @@ shortlist
                 TB
                     if you suspect pulmonary TB but serial sputum doesn't clarify
                         urine PCR + culture can be helpful
-                    treatment
-                        INH 15 mg/kg
-                            weekly
-                            max 900 mg
-                        rifapentine
-                            weekly
-                                300 mg up to 14 kg
-                                450 mg up to 25 kg
-                                600 mg up to 32 kg
-                                750 mg up to 50 kg
-                                900 mg for 50+ kg
+                    treatment for latent TB (90 days)
+                        adults
+                            isoniazid (INH) 5 mg/kg up to 300 mg/day
+                            rifampin 10 mg/kg up to 600 mg/day
+                        children
+                            isoniazid (INH) 10-20 mg/kg up to 300 mg/day
+                            rifampin 15-20 mg/kg up to 600 mg/day
             ALSO:
                 Bartonella
                     CR RARE
