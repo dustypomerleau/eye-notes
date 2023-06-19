@@ -9,7 +9,7 @@
 | DFTx15       | Acrysof IQ Vivity (Alcon)    | 119.1  | 119.10  | &check; |         | &check; |
 | DFWxxx       | Synergy Optiblue toric (J&J) | 119.3  | 119.3   | &check; | &check; |         |
 | DIB00        | Eyhance (J&J)                | 119.3  | 119.3   |         | &check; | &check; |
-| DIUxxx       | Eyhance (J&J)                | 119.3  | 119.3   | &check; | &check; | &check; |
+| DIUxxx       | Eyhance toric (J&J)                | 119.3  | 119.3   | &check; | &check; | &check; |
 | DXR00v       | Symfony Optiblue (J&J)       | 119.3  | 119.3   |         | &check; |         |
 | DXWxxx       | Symfony Optiblue toric (J&J) | 119.3  | 119.3   |         | &check; |         |
 | LUXGOOD      | LUXGOOD (B&L)                | 119.2  | 119.2   | &check; | &check; | &check; |
