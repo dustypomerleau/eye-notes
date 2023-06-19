@@ -102,6 +102,19 @@ infectious conjunctivitis
                 Francisella tularensis
                 Yersinia pseudotuberculosis
 
+    other pediatric conjunctivitis
+        MIRM
+            mild SJS-like conjunctivitis with scarring
+            in the setting of Mycoplasma URI
+            may be on a continuum with other causes of URI + conjunctivitis
+                 influenza A and B
+                 adenovirus
+                 Strep­tococcus
+                 human metapneumovirus
+                 parainfluenza type 2
+                 rhinovirus
+                 SARS-CoV-2
+
 PCR options
     HSV
     VZV

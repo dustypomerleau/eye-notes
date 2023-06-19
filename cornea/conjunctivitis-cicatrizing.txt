@@ -25,6 +25,7 @@ SJS is used here to represent the full continuum
                     enterococcus
             Corynebacteria
             Neisseria spp.
+            MIRM (see conjunctivitis-infectous.txt)
 
     inflammatory
         inflammatory

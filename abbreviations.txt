@@ -419,6 +419,7 @@ MHA-TP - microhemagglutination assay for Treponema pallidum
 MI - myocardial infarction
 MIDAS - microphthalmia, dermal aplasia, and sclerocornea
 MIDD - maternally inherited diabetes and deafness
+MIRM - Mycoplasma pneumoniae-induced rash and mucositis
 MLF - medial longitudinal fasciculus
 MLPA - multiplex ligation dependent probe amplification
 MMC - mitomycin C
