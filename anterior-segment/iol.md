@@ -9,7 +9,7 @@
 | DFTx15       | Acrysof IQ Vivity (Alcon)    | 119.1  | 119.10  | &check; |         | &check; |
 | DFWxxx       | Synergy Optiblue toric (J&J) | 119.3  | 119.3   | &check; | &check; |         |
 | DIB00        | Eyhance (J&J)                | 119.3  | 119.3   |         | &check; | &check; |
-| DIUxxx       | Eyhance toric (J&J)                | 119.3  | 119.3   | &check; | &check; | &check; |
+| DIUxxx       | Eyhance toric (J&J)          | 119.3  | 119.3   | &check; | &check; | &check; |
 | DXR00v       | Symfony Optiblue (J&J)       | 119.3  | 119.3   |         | &check; |         |
 | DXWxxx       | Symfony Optiblue toric (J&J) | 119.3  | 119.3   |         | &check; |         |
 | LUXGOOD      | LUXGOOD (B&L)                | 119.2  | 119.2   | &check; | &check; | &check; |
@@ -23,6 +23,7 @@
 | SN6ATx       | Acrysof IQ toric (Alcon)     | 119.28 | 119.26  | &check; |         | &check; |
 | TFNTx0       | Acrysof IQ PanOptix (Alcon)  | 119.10 | 119.10  | &check; |         | &check; |
 | TORICA-aA(Y) | TORICA (HumanOptics)         | 118.3  | 118.3?  | &check; |         | &check; |
+| XY1(A)-SP Tx | Vivinex (toric) (Hoya)       | 119.2? | 119.2?  | &check; | &check; | &check; |
 | ZFR00        | Synergy (J&J)                | 119.3  | 119.3   |         |         | &check; |
 | ZFWxxx       | Synergy toric (J&J)          | 119.3  | 119.3   | &check; |         | &check; |
 | ZXR00        | Symfony (J&J)                | 119.3  | 119.3   |         |         | &check; |
@@ -52,6 +53,7 @@
 | SN6ATx       | +6–30 @ 0.5, +31–34 @ 1                                 |
 | TFNTx0       | +6–30 @ 0.5, +31–34 @ 1                                 |
 | TORICA-aA(Y) | (-20)–(+60) @ 0.5                                       |
+| XY1(A)-SP Tx | +10–30 (0.5)                                            |
 | ZFR00        | +5–34 @ 0.5                                             |
 | ZFWxxx       | +5–34 @ 0.5                                             |
 | ZXR00        | +5–34 @ 0.5                                             |
@@ -71,5 +73,6 @@
 | SN6ATx       | +1 (T2), +1.5–6 @ 0.75 (T3–9)                |
 | TFNTx0       | +0–1 @ 1 (T00–20), +1.5–3.75 @ 0.75 (T30–60) |
 | TORICA-aA(Y) | +1–20 @ 0.5 (T1–20?)                         |
+| XY1A-SP Tx   | +1 (T2), +1.5–6 @ 0.75 (T3–9)                |
 | ZFWxxx       | +1 (100), +1.5–3.75 @ 0.75 (150–375)         |
 | ZXTxxx       | +1.5–3.75 @ 0.75 (150-375)                   |
