@@ -187,7 +187,7 @@ glaucoma laser
         lid speculum
         810 nm diode
         fiber-optic G-probe
-            long edge of the footplate wedge points away from the limbus
+            footplate orientation: heel at the limbus, toe away from the limbus
             1.5 mm from anterior footplate when positioned at the limbus
             700 µm effective spot size
             hold parallel to the visual axis
