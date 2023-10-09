@@ -35,6 +35,11 @@ pigmented fundus lesion DDx
         feeding artery
         draining vein
     RPE adenocarcinoma
+    dark without pressure
+        outer retinal hyporeflectivity
+        hypoBAF
+        hypoNIR
+        can change over time
 
 choroidal melanoma
 
