@@ -5,6 +5,15 @@ choroidal and retinal neoplasms
 pigmented fundus lesion DDx
     RPE hypertrophy
     CHRPE
+        RARELY: FAP-associated
+            bilateral
+            multiple quadrants
+            peapod shaped
+            irregular borders
+            FAP
+                nearly all develop colon cancer by age 35
+                3/4 have FH
+                1/4 de novo mutations
     hemorrhage
     nevus
     melanoma

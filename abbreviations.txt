@@ -241,6 +241,7 @@ EUGOGO - European Group on Graves Orbitopathy
 EW - Edinger Westphal
 EZ - ellipsoid zone
 FAF - fundus autofluorescence
+FAP - familial adenomatous polyposis
 FAZ - foveal avascular zone
 FB - foreign body
 FBC - full blood count
