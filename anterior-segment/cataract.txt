@@ -700,6 +700,9 @@ postop
             lens tilted
                 usually myopic
             toric lens rotated
+                NOTE: toric IOL markers are on the IOL's flat axis
+                    toric IOL applies plus 90° away from markers
+                    so IOL markers are aligned with patient's steep meridian
                 should you rotate the toric surgically?
                     Berdahl and Harden have looked at this
                     http://astigmatismfix.com/
