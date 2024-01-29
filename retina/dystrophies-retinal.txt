@@ -241,6 +241,14 @@ VEP interpretation
             P100
             N135
 
+RP presentations
+    typical bone spicules
+    sector
+    paravenous
+    pericentral
+        along arcades
+        EYS (eyes shut homolog) mutation
+
 RP syndromes
     AR Usher syndrome
         Usher1
