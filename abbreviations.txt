@@ -3,8 +3,8 @@
 (+) - preferred over (>), e.g. 'age 40+,' not 'age > 40'
 (-) - preferred over (<), e.g. 'vision 6/12-,' not 'vision < 6/12'
 (V|AV|L)M - venous, arteriovenous, or lymphatic malformation
-(°) - degrees, OR after a number: primary (1°), secondary (2°), and so on
 (∆) - prism, prism diopters, change
+(°) - degrees, OR after a number: primary (1°), secondary (2°), and so on
 5FU - 5 fluorouracil
 AACG - acute angle closure glaucoma
 AAION - arteritic anterior ischemic optic neuropathy
@@ -44,6 +44,7 @@ AOT - as opposed to
 APAC - acute primary angle closure
 APACRS - Asia Pacific Association of Cataract and Refractive Surgeons
 APD - afferent pupillary defect
+APMPPE - acute posterior multifocal placoid pigment epitheliopathy
 AR - autosomal recessive
 ARC - abnormal retinal correspondence
 ARDS - acute respiratory distress syndrome
@@ -98,8 +99,8 @@ BRAF - the protooncogene encoding B raf protein
 BRAFI - BRAF inhibitors (vemurafenib, dabrafenib)
 BRAO - branch retinal artery occlusion
 BRVO - branch retinal vein occlusion
-BSCR - birdshot chorioretinopathy
 BSA - body surface area
+BSCR - birdshot chorioretinopathy
 BSS - balanced saline solution
 BSUS - B scan ultrasound
 BU - base up
@@ -321,6 +322,7 @@ IgG4-ROD - immunoglobulin G4 related ophthalmic disease
 IIH - idiopathic intracranial hypertension
 IK - interstitial keratitis
 ILM - internal limiting membrane
+IM - intramuscular
 IMRT - intensity modulated radiation therapy
 IMSLO - inferior, medial, superior, lateral, oblique
 IMT - idiopathic macular telangiectasia, immunomodulatory therapy
@@ -333,7 +335,6 @@ IOFB - intraocular foreign body
 IOL - intraocular lens
 IOOA - inferior oblique overaction
 IOP - intraocular pressure
-IM - intramuscular
 IPD - interpupillary distance
 IPE - iris pigment epithelium
 IPL - intense pulsed light
@@ -716,10 +717,10 @@ VCDR - vertical cup to disc ratio
 VDRL - Venereal Disease Research Laboratory
 VEGF - vascular endothelial growth factor
 VEP - visual evoked potential
-VIP-HIP - Vision In Preschoolers Hyperopia in Preschoolers Study Group
 VF - visual field
 VH - vitreous hemorrhage
 VHL - Von Hippel Lindau
+VIP-HIP - Vision In Preschoolers Hyperopia in Preschoolers Study Group
 VKC - vernal keratoconjunctivitis
 VKH - Vogt Koyanagi Harada
 VM - vascular malformation
