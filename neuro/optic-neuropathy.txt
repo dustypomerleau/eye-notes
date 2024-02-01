@@ -167,6 +167,14 @@ history
                                             + ICP controlled
                                                 ONSD
                                                     does not help with ICP or HA
+                    Kini approach
+                        if high suspicion
+                            all testing at once
+                                MRI + MRV
+                                fluoroscopy-guided LP by interventional radiology
+                                    opening pressure
+                                    cytology
+                                    culture + sensitivity
             papilledema in the presence of fever
                 intracranial abscess
                     ring enhancing lesion on CT
