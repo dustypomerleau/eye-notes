@@ -654,7 +654,8 @@ genetic testing
             Vision Australia
                 http://www.visionaustralia.org/
             Australian Inherited Retinal Disease Register
-                http://www.scgh.health.wa.gov.au/Research/InheritedRetinal.html
+                https://retinaaustralia.com.au/research-project/australian-inherited-retinal-diseases-register-and-dna-bank/
+                https://retinaaustralia.com.au/inherited-retinal-disease/genetic-testing/
             Guide Dogs Australia
                 http://www.guidedogsaustralia.com/
     */

@@ -128,6 +128,8 @@ combined hamartoma of the retina and RPE
         you can't peel the 'ERM' because it isn't an ERM
             the glial tissue is integrated with the retina
 
+astrocytic hamartoma // see phakomatoses.txt
+
 subretinal infiltrates in a leopard skin pattern
     lymphoma // see chorioretinitis.txt
 

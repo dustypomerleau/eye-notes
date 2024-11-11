@@ -1,0 +1,9 @@
+session_name: en
+windows:
+  - window_name: nvim
+    panes:
+      - nvim uveitis/anterior-and-intermediate-uveitis.txt
+  - window_name: fish
+    focus: true
+    panes:
+      - jj status
