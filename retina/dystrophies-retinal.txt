@@ -1105,6 +1105,20 @@ macular dystrophy panel
                 VMT
                 CSC
                 solar retinopathy
+                    focal subfoveal photoreceptor disruption
+                    risk factors
+                        eclipse viewing
+                        sungazing
+                        photosensitizing drugs
+                            tetracyclines
+                            psoralens
+                        mental impairment
+                            psychiatric
+                            illicit drug-induced
+                        occupational
+                            welding
+                        iatrogenic
+                            surgical (endo)illumination
                     laser injury is a specific subset
                         hyperreflective columns at the site of injury
                             predict late PR loss
